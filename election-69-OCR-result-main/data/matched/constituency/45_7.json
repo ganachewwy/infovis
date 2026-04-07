@@ -1,0 +1,125 @@
+{
+  "province_name": "ร้อยเอ็ด",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 134383,
+    "1.2": 84922,
+    "2.1": 137610,
+    "2.2": 84922,
+    "2.3": 52688,
+    "3.1": 77028,
+    "3.2": 0,
+    "3.3": 7894,
+    "3.4": 84922,
+    "4.1": 81314,
+    "4.2": 2760,
+    "4.3": 848
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายชัชวาล แพทยาไทย",
+      "party": "ไทยสร้างไทย",
+      "votes": 44414
+    },
+    {
+      "number": 3,
+      "name": "นางนวรัตน์ พาโคกทม",
+      "party": "เพื่อไทย",
+      "votes": 29794
+    },
+    {
+      "number": 1,
+      "name": "นายฐาปนา กาสิงห์",
+      "party": "ประชาชน",
+      "votes": 6138
+    },
+    {
+      "number": 6,
+      "name": "นายสีดา บุตรนาแพง",
+      "party": "เศรษฐกิจ",
+      "votes": 408
+    },
+    {
+      "number": 2,
+      "name": "นายสุชาติ บุรีรัตน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 355
+    },
+    {
+      "number": 5,
+      "name": "นายจิระณัฏฐ์ ไชยวารี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 205
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/48. ร้อยเอ็ด เขต 7.json",
+  "_validation": {
+    "vote_sum": 81314,
+    "good_votes": 81314,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "45",
+  "province_name_normalized": "ร้อยเอ็ด",
+  "summary": {
+    "eligible_voters": 134383,
+    "voters_came": 84922,
+    "ballots_received": 137610,
+    "ballots_used": 84922,
+    "good_votes": 81314,
+    "invalid_votes": 2760,
+    "no_votes": 848
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายชัชวาล แพทยาไทย",
+      "party": "ไทยสร้างไทย",
+      "votes": 44414,
+      "candidate_uuid": "3f0dc90c-4657-4654-a3ba-1c16d865c4c2",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางนวรัตน์ พาโคกทม",
+      "party": "เพื่อไทย",
+      "votes": 29794,
+      "candidate_uuid": "42297186-85a8-4dad-bac3-b9b3df68f22f",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายฐาปนา กาสิงห์",
+      "party": "ประชาชน",
+      "votes": 6138,
+      "candidate_uuid": "5eb0ec17-8523-435d-908d-ed10f565e34c",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสีดา บุตรนาแพง",
+      "party": "เศรษฐกิจ",
+      "votes": 408,
+      "candidate_uuid": "3519c176-aebd-49cb-914a-e16e99fcd8d6",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสุชาติ บุรีรัตน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 355,
+      "candidate_uuid": "e4f4d793-95a4-43fc-9898-49839ac50aa5",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายจิระณัฏฐ์ ไชยวารี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 205,
+      "candidate_uuid": "378606fa-2d50-459c-84fa-6ee686bef631",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

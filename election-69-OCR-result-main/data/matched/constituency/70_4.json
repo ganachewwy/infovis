@@ -1,0 +1,139 @@
+{
+  "province_name": "ราชบุรี",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 140230,
+    "1.2": 112928,
+    "2.1": 144220,
+    "2.2": 112928,
+    "2.3": 31292,
+    "3.1": 109795,
+    "3.2": 0,
+    "3.3": 3133,
+    "3.4": 112928,
+    "4.1": 107579,
+    "4.2": 2805,
+    "4.3": 2544
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายอัครเดช วงษ์พิทักษ์โรจน์",
+      "party": "ภูมิใจไทย",
+      "votes": 55778
+    },
+    {
+      "number": 4,
+      "name": "นายชยานันท์ กอจิตตวนิจ",
+      "party": "ประชาชน",
+      "votes": 25938
+    },
+    {
+      "number": 3,
+      "name": "นางสาวชะวรลัทธิ์ ชินธรรมมิตร",
+      "party": "กล้าธรรม",
+      "votes": 20627
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุรีย์วรรณ สิงห์อยู่",
+      "party": "เพื่อไทย",
+      "votes": 3116
+    },
+    {
+      "number": 6,
+      "name": "นายสรวิชญ์ ขำเจริญ",
+      "party": "ประชาธิปัตย์",
+      "votes": 855
+    },
+    {
+      "number": 5,
+      "name": "นายเอกพัฒน์ ถ้ำสุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 639
+    },
+    {
+      "number": 7,
+      "name": "นายกฤชจ์พนธ์ อัฏฐาธนมงคล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 626
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/51. ราชบุรี เขต 4.json",
+  "_validation": {
+    "vote_sum": 107579,
+    "good_votes": 107579,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "70",
+  "province_name_normalized": "ราชบุรี",
+  "summary": {
+    "eligible_voters": 140230,
+    "voters_came": 112928,
+    "ballots_received": 144220,
+    "ballots_used": 112928,
+    "good_votes": 107579,
+    "invalid_votes": 2805,
+    "no_votes": 2544
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายอัครเดช วงษ์พิทักษ์โรจน์",
+      "party": "ภูมิใจไทย",
+      "votes": 55778,
+      "candidate_uuid": "643e9985-c566-4f16-8315-3e0f27bb1eb3",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายชยานันท์ กอจิตตวนิจ",
+      "party": "ประชาชน",
+      "votes": 25938,
+      "candidate_uuid": "c760f95a-61e1-4e2a-b71e-9edd0453f4a9",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวชะวรลัทธิ์ ชินธรรมมิตร",
+      "party": "กล้าธรรม",
+      "votes": 20627,
+      "candidate_uuid": "f3ffa0ef-546b-4650-bdf0-a610104cac1a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุรีย์วรรณ สิงห์อยู่",
+      "party": "เพื่อไทย",
+      "votes": 3116,
+      "candidate_uuid": "53b80ace-41cb-4e55-aa2b-3952938f7a89",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสรวิชญ์ ขำเจริญ",
+      "party": "ประชาธิปัตย์",
+      "votes": 855,
+      "candidate_uuid": "3408bbfa-4978-4457-a24b-e2866b46fc9d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเอกพัฒน์ ถ้ำสุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 639,
+      "candidate_uuid": "075f92f5-43d8-4579-b630-c6f225f80439",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายกฤชจ์พนธ์ อัฏฐาธนมงคล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 626,
+      "candidate_uuid": "dac99055-2f48-4cce-b75f-e769b8998c23",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

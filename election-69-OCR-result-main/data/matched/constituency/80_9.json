@@ -1,0 +1,139 @@
+{
+  "province_name": "นครศรีธรรมราช",
+  "constituency_number": 9,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139759,
+    "1.2": 102098,
+    "2.1": 141477,
+    "2.2": 102098,
+    "2.3": 39379,
+    "3.1": 96565,
+    "3.2": 22,
+    "3.3": 5511,
+    "3.4": 102098,
+    "4.1": 96071,
+    "4.2": 2693,
+    "4.3": 3334
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นางสาวพิมพ์ภัทรา วิชัยกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 46473
+    },
+    {
+      "number": 1,
+      "name": "นายชาญวัฒนา อิสระวัฒนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 36536
+    },
+    {
+      "number": 2,
+      "name": "นายนาถวัฒน์ ทองทรัพย์",
+      "party": "ประชาชน",
+      "votes": 9610
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปรมาภรณ์ บริบูรณ์",
+      "party": "เพื่อไทย",
+      "votes": 1530
+    },
+    {
+      "number": 3,
+      "name": "นางสาวนิรมล เพ็งจันทร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1060
+    },
+    {
+      "number": 6,
+      "name": "นายเทวกฤต อินทวงค์",
+      "party": "พลังประชารัฐ",
+      "votes": 578
+    },
+    {
+      "number": 5,
+      "name": "นายภูริณัฐ ใจสนุก",
+      "party": "ไทยก้าวใหม่",
+      "votes": 284
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/22. นครศรีธรรมราช เขต 9.json",
+  "_validation": {
+    "vote_sum": 91071,
+    "good_votes": 96071,
+    "sum_diff_pct": 5.2
+  },
+  "province_code": "80",
+  "province_name_normalized": "นครศรีธรรมราช",
+  "summary": {
+    "eligible_voters": 139759,
+    "voters_came": 102098,
+    "ballots_received": 141477,
+    "ballots_used": 102098,
+    "good_votes": 96071,
+    "invalid_votes": 2693,
+    "no_votes": 3334
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นางสาวพิมพ์ภัทรา วิชัยกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 46473,
+      "candidate_uuid": "c868b46f-ad67-4e06-ba28-30f461d633ba",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายชาญวัฒนา อิสระวัฒนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 36536,
+      "candidate_uuid": "f8e432d6-4aac-4269-97fa-4a0fb3ca711d",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนาถวัฒน์ ทองทรัพย์",
+      "party": "ประชาชน",
+      "votes": 9610,
+      "candidate_uuid": "aa3562fc-12ae-458e-b264-421cb87032d3",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปรมาภรณ์ บริบูรณ์",
+      "party": "เพื่อไทย",
+      "votes": 1530,
+      "candidate_uuid": "9786d5d2-41b3-45aa-b1b8-d1e9464c372e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวนิรมล เพ็งจันทร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1060,
+      "candidate_uuid": "119f3eb6-ee67-4113-9d3f-5b2eab8d962b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเทวกฤต อินทวงค์",
+      "party": "พลังประชารัฐ",
+      "votes": 578,
+      "candidate_uuid": "e4bae268-69c0-4750-9bbb-6d6063cb4299",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายภูริณัฐ ใจสนุก",
+      "party": "ไทยก้าวใหม่",
+      "votes": 284,
+      "candidate_uuid": "82353981-c4f6-4188-9de6-9d491ef661dc",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

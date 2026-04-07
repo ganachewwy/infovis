@@ -1,0 +1,139 @@
+{
+  "province_name": "ลำปาง",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 150942,
+    "1.2": 111667,
+    "2.1": 144380,
+    "2.2": 111667,
+    "2.3": 32713,
+    "3.1": 102573,
+    "3.2": 0,
+    "3.3": 9094,
+    "3.4": 111667,
+    "4.1": 98377,
+    "4.2": 7842,
+    "4.3": 5448
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายดาชัย เอกปฐพี",
+      "party": "กล้าธรรม",
+      "votes": 35828
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุวิภา กุศลจูง",
+      "party": "ประชาชน",
+      "votes": 33581
+    },
+    {
+      "number": 6,
+      "name": "นายธนาธร โล่ห์สุนทร",
+      "party": "เพื่อไทย",
+      "votes": 19485
+    },
+    {
+      "number": 1,
+      "name": "นางสาววิชุดา ว่องวัฒนวิโรจน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3291
+    },
+    {
+      "number": 3,
+      "name": "นายศรีพรหม หอมยก",
+      "party": "ภูมิใจไทย",
+      "votes": 2370
+    },
+    {
+      "number": 7,
+      "name": "นายสันทัด ภัทรกิตตินนท์",
+      "party": "พลังประชารัฐ",
+      "votes": 2217
+    },
+    {
+      "number": 4,
+      "name": "นายสมบูรณ์ รูปสะอาด",
+      "party": "โอกาสใหม่",
+      "votes": 1605
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/53. ลำปาง เขต 2.json",
+  "_validation": {
+    "vote_sum": 98377,
+    "good_votes": 98377,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "52",
+  "province_name_normalized": "ลำปาง",
+  "summary": {
+    "eligible_voters": 150942,
+    "voters_came": 111667,
+    "ballots_received": 144380,
+    "ballots_used": 111667,
+    "good_votes": 98377,
+    "invalid_votes": 7842,
+    "no_votes": 5448
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายดาชัย เอกปฐพี",
+      "party": "กล้าธรรม",
+      "votes": 35828,
+      "candidate_uuid": "c297fe19-5c9e-4fd3-a5c8-c5932a60c41d",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุวิภา กุศลจูง",
+      "party": "ประชาชน",
+      "votes": 33581,
+      "candidate_uuid": "45fb1699-442d-4bae-a2df-5042fac344b8",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธนาธร โล่ห์สุนทร",
+      "party": "เพื่อไทย",
+      "votes": 19485,
+      "candidate_uuid": "bfdf587d-1d1f-4143-9c11-66bd8d835a2c",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาววิชุดา ว่องวัฒนวิโรจน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3291,
+      "candidate_uuid": "b15f87df-432d-418a-a259-7f9b8b0172cb",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายศรีพรหม หอมยก",
+      "party": "ภูมิใจไทย",
+      "votes": 2370,
+      "candidate_uuid": "2ca572cb-8742-4d28-8da0-7499c3ece76c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสันทัด ภัทรกิตตินนท์",
+      "party": "พลังประชารัฐ",
+      "votes": 2217,
+      "candidate_uuid": "ade410d4-0951-4f0f-8885-6fbffa28dc65",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสมบูรณ์ รูปสะอาด",
+      "party": "โอกาสใหม่",
+      "votes": 1605,
+      "candidate_uuid": "6d528331-602a-43d2-bc2c-4158ebaf6491",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

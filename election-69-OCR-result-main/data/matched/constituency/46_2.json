@@ -1,0 +1,181 @@
+{
+  "province_name": "กาฬสินธุ์",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126190,
+    "1.2": 82224,
+    "2.1": 128597,
+    "2.2": 82224,
+    "2.3": 46373,
+    "3.1": 76667,
+    "3.2": 6,
+    "3.3": 5551,
+    "3.4": 82224,
+    "4.1": 76321,
+    "4.2": 2832,
+    "4.3": 3071
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายพลากร พิมพะนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 43696
+    },
+    {
+      "number": 3,
+      "name": "นายเกียรติศักดิ์ ตั้งรุ่งเรืองอยู่",
+      "party": "ประชาชน",
+      "votes": 17857
+    },
+    {
+      "number": 4,
+      "name": "นายอนิศ โอสถานุเคราะห์",
+      "party": "ภูมิใจไทย",
+      "votes": 7963
+    },
+    {
+      "number": 2,
+      "name": "นางสาวยศรินทร์ ทองเดือน",
+      "party": "เศรษฐกิจ",
+      "votes": 1815
+    },
+    {
+      "number": 8,
+      "name": "นายสุทิน คำนาดี",
+      "party": "ทางเลือกใหม่",
+      "votes": 1535
+    },
+    {
+      "number": 6,
+      "name": "พันตำรวจเอก เรืองยศ ภูพานเพชร",
+      "party": "กล้าธรรม",
+      "votes": 1194
+    },
+    {
+      "number": 9,
+      "name": "นายอรรถวัฒน์ มณีพันธุ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1154
+    },
+    {
+      "number": 10,
+      "name": "นายชัยทัศน์ อัดโดดดร",
+      "party": "พลังประชารัฐ",
+      "votes": 479
+    },
+    {
+      "number": 7,
+      "name": "นายจีรศักดิ์ ภูโคกหิน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 463
+    },
+    {
+      "number": 1,
+      "name": "นายจรวย ปู่หลุ่น",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 165
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/4. กาฬสินธุ์ เขต 2.json",
+  "_validation": {
+    "vote_sum": 76321,
+    "good_votes": 76321,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "46",
+  "province_name_normalized": "กาฬสินธุ์",
+  "summary": {
+    "eligible_voters": 126190,
+    "voters_came": 82224,
+    "ballots_received": 128597,
+    "ballots_used": 82224,
+    "good_votes": 76321,
+    "invalid_votes": 2832,
+    "no_votes": 3071
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายพลากร พิมพะนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 43696,
+      "candidate_uuid": "f4f56e23-a206-4945-a1b8-dc0b5579e8d6",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเกียรติศักดิ์ ตั้งรุ่งเรืองอยู่",
+      "party": "ประชาชน",
+      "votes": 17857,
+      "candidate_uuid": "1ef58fea-c205-4efb-8746-e44c42093d9a",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอนิศ โอสถานุเคราะห์",
+      "party": "ภูมิใจไทย",
+      "votes": 7963,
+      "candidate_uuid": "502355b2-5eb2-4380-9d0a-fce5cf1565d2",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวยศรินทร์ ทองเดือน",
+      "party": "เศรษฐกิจ",
+      "votes": 1815,
+      "candidate_uuid": "213eba71-d67a-44c6-b9a0-ac7f70260519",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุทิน คำนาดี",
+      "party": "ทางเลือกใหม่",
+      "votes": 1535,
+      "candidate_uuid": "5f4e0587-d45a-4c03-868d-f3ea7efe772c",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "พันตำรวจเอก เรืองยศ ภูพานเพชร",
+      "party": "กล้าธรรม",
+      "votes": 1194,
+      "candidate_uuid": "8b58067c-2250-4fc7-9698-90726c51b2f1",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายอรรถวัฒน์ มณีพันธุ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1154,
+      "candidate_uuid": "2079eed2-a2f3-4c1b-af34-7f87b768d64e",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายชัยทัศน์ อัดโดดดร",
+      "party": "พลังประชารัฐ",
+      "votes": 479,
+      "candidate_uuid": "d07c4bbc-9856-4e71-99c6-ae54877035ae",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายจีรศักดิ์ ภูโคกหิน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 463,
+      "candidate_uuid": "fc30ca50-baf6-4d14-9267-910fefd4f0aa",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายจรวย ปู่หลุ่น",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 165,
+      "candidate_uuid": "83234a34-829f-46c5-97df-b6d5c78b7175",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

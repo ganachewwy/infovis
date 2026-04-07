@@ -1,0 +1,167 @@
+{
+  "province_name": "สกลนคร",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129748,
+    "1.2": 83538,
+    "2.1": 128200,
+    "2.2": 83538,
+    "2.3": 44662,
+    "3.1": 78497,
+    "3.2": 14,
+    "3.3": 5027,
+    "3.4": 83538,
+    "4.1": 79654,
+    "4.2": 2233,
+    "4.3": 1651
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นางสาววงศ์อะเกื้อ บุญศล",
+      "party": "กล้าธรรม",
+      "votes": 27906
+    },
+    {
+      "number": 5,
+      "name": "นายชัยมงคล ไชยรบ",
+      "party": "ภูมิใจไทย",
+      "votes": 22054
+    },
+    {
+      "number": 4,
+      "name": "นางสาวอภิญญา พันทะสา",
+      "party": "เพื่อไทย",
+      "votes": 15164
+    },
+    {
+      "number": 3,
+      "name": "นายบัญชา จันทศรี",
+      "party": "ประชาชน",
+      "votes": 12318
+    },
+    {
+      "number": 9,
+      "name": "นางเกศา พลข้อ",
+      "party": "เศรษฐกิจ",
+      "votes": 1177
+    },
+    {
+      "number": 6,
+      "name": "นายประยงค์ ไชยพร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 387
+    },
+    {
+      "number": 1,
+      "name": "นายธีระชัย โสนาเรือ",
+      "party": "พลวัต",
+      "votes": 351
+    },
+    {
+      "number": 7,
+      "name": "นางสาวยุพวรรณ์ สิทธิคงศักดิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 221
+    },
+    {
+      "number": 8,
+      "name": "นางสมร เขียวเชย",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 76
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/57. สกลนคร เขต 5.json",
+  "_validation": {
+    "vote_sum": 79654,
+    "good_votes": 79654,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "47",
+  "province_name_normalized": "สกลนคร",
+  "summary": {
+    "eligible_voters": 129748,
+    "voters_came": 83538,
+    "ballots_received": 128200,
+    "ballots_used": 83538,
+    "good_votes": 79654,
+    "invalid_votes": 2233,
+    "no_votes": 1651
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นางสาววงศ์อะเกื้อ บุญศล",
+      "party": "กล้าธรรม",
+      "votes": 27906,
+      "candidate_uuid": "51c00f12-a6d0-4984-aca8-9b4ec448b01e",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชัยมงคล ไชยรบ",
+      "party": "ภูมิใจไทย",
+      "votes": 22054,
+      "candidate_uuid": "2a524836-3c69-42eb-9917-2cdee7aae391",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวอภิญญา พันทะสา",
+      "party": "เพื่อไทย",
+      "votes": 15164,
+      "candidate_uuid": "9928c5e3-370d-4fc0-8f5f-b427fa6aed51",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายบัญชา จันทศรี",
+      "party": "ประชาชน",
+      "votes": 12318,
+      "candidate_uuid": "0bd11ecc-6966-4d95-be8d-31fd6afbf8f4",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางเกศา พลข้อ",
+      "party": "เศรษฐกิจ",
+      "votes": 1177,
+      "candidate_uuid": "256b5469-5d51-44b3-8f67-d2849c786fc2",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายประยงค์ ไชยพร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 387,
+      "candidate_uuid": "13855c07-e9fd-4b5b-9e9f-c7658c1ef41a",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายธีระชัย โสนาเรือ",
+      "party": "พลวัต",
+      "votes": 351,
+      "candidate_uuid": "aeda0d75-40bd-4b3b-9bab-559474d20cff",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวยุพวรรณ์ สิทธิคงศักดิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 221,
+      "candidate_uuid": "c9ad5317-6df6-40f0-a580-3526bf1674de",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสมร เขียวเชย",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 76,
+      "candidate_uuid": "31da96cd-c8b4-4b7b-9b21-1273eaef8424",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

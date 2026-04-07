@@ -1,0 +1,167 @@
+{
+  "province_name": "มหาสารคาม",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128307,
+    "1.2": 91663,
+    "2.1": 128140,
+    "2.2": 91663,
+    "2.3": 36477,
+    "3.1": 86015,
+    "3.2": 2,
+    "3.3": 5646,
+    "3.4": 91663,
+    "4.1": 87058,
+    "4.2": 2465,
+    "4.3": 2140
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางคมคาย อุดรพิมพ์",
+      "party": "ภูมิใจไทย",
+      "votes": 38939
+    },
+    {
+      "number": 4,
+      "name": "นายรัฐ คลังแสง",
+      "party": "เพื่อไทย",
+      "votes": 30699
+    },
+    {
+      "number": 2,
+      "name": "นางเพียงพิศ เดชมาลา",
+      "party": "ประชาชน",
+      "votes": 14142
+    },
+    {
+      "number": 9,
+      "name": "นายภาสกร สิทธิหาโคตร",
+      "party": "เศรษฐกิจ",
+      "votes": 1626
+    },
+    {
+      "number": 6,
+      "name": "นางสาวธัญลักษณ์ อุทัยจอม",
+      "party": "ประชาธิปัตย์",
+      "votes": 611
+    },
+    {
+      "number": 3,
+      "name": "นายบุรินทร์ นามโร",
+      "party": "กล้าธรรม",
+      "votes": 419
+    },
+    {
+      "number": 7,
+      "name": "นายวรเวช ศิริประเสริฐศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 292
+    },
+    {
+      "number": 8,
+      "name": "นายจักริน แดนสมปัดสา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 227
+    },
+    {
+      "number": 5,
+      "name": "นายสรเชษฐ์ โพธิรุกข์",
+      "party": "ไทยก้าวหน้า",
+      "votes": 103
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/43. มหาสารคาม เขต 6.json",
+  "_validation": {
+    "vote_sum": 87058,
+    "good_votes": 87058,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "44",
+  "province_name_normalized": "มหาสารคาม",
+  "summary": {
+    "eligible_voters": 128307,
+    "voters_came": 91663,
+    "ballots_received": 128140,
+    "ballots_used": 91663,
+    "good_votes": 87058,
+    "invalid_votes": 2465,
+    "no_votes": 2140
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางคมคาย อุดรพิมพ์",
+      "party": "ภูมิใจไทย",
+      "votes": 38939,
+      "candidate_uuid": "a48ebb45-36bf-4612-a3ff-1f9ce6e8cf79",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายรัฐ คลังแสง",
+      "party": "เพื่อไทย",
+      "votes": 30699,
+      "candidate_uuid": "49074d5d-c9ab-46a6-9c60-0d8d418fecef",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางเพียงพิศ เดชมาลา",
+      "party": "ประชาชน",
+      "votes": 14142,
+      "candidate_uuid": "ac0d54c2-d2c1-4eb2-8d5f-7e803db4332b",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายภาสกร สิทธิหาโคตร",
+      "party": "เศรษฐกิจ",
+      "votes": 1626,
+      "candidate_uuid": "b69ffec4-3b75-4516-b8b0-5ecf28f20cbb",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวธัญลักษณ์ อุทัยจอม",
+      "party": "ประชาธิปัตย์",
+      "votes": 611,
+      "candidate_uuid": "992bb342-c061-4933-99eb-d8a84830001a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายบุรินทร์ นามโร",
+      "party": "กล้าธรรม",
+      "votes": 419,
+      "candidate_uuid": "60e44318-9e02-40ce-bcbe-91275bf13d92",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวรเวช ศิริประเสริฐศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 292,
+      "candidate_uuid": "b8afdfaf-00f1-4dba-8e84-409a177ae3c2",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายจักริน แดนสมปัดสา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 227,
+      "candidate_uuid": "7d3fead5-1414-4830-8d3f-a083718410ee",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสรเชษฐ์ โพธิรุกข์",
+      "party": "ไทยก้าวหน้า",
+      "votes": 103,
+      "candidate_uuid": "bfe754a2-f90f-4330-aa1f-7e84f1d1779a",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

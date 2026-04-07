@@ -1,0 +1,139 @@
+{
+  "province_name": "ประจวบคีรีขันธ์",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 138338,
+    "1.2": 103420,
+    "2.1": 141516,
+    "2.2": 103420,
+    "2.3": 38096,
+    "3.1": 98144,
+    "3.2": 0,
+    "3.3": 5276,
+    "3.4": 103420,
+    "4.1": 98409,
+    "4.2": 2641,
+    "4.3": 2370
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายพงษ์พันธ์ เผ่าประทาน",
+      "party": "ภูมิใจไทย",
+      "votes": 33978
+    },
+    {
+      "number": 2,
+      "name": "นายประมวล พงศ์ถาวราเดช",
+      "party": "กล้าธรรม",
+      "votes": 25444
+    },
+    {
+      "number": 5,
+      "name": "นายนิติ ปลั่งศรีสกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 13335
+    },
+    {
+      "number": 8,
+      "name": "นายปณิธาน ประจวบเหมาะ",
+      "party": "ไทยสร้างไทย",
+      "votes": 12135
+    },
+    {
+      "number": 6,
+      "name": "นางสาววรรณอนงค์ หาญพงษ์ธรรม",
+      "party": "ประชาชน",
+      "votes": 11596
+    },
+    {
+      "number": 4,
+      "name": "พ.ต.อ.เอกราช หุ่นงาม",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1125
+    },
+    {
+      "number": 3,
+      "name": "นายศุภวิท กำเนิดแสง",
+      "party": "เพื่อไทย",
+      "votes": 796
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/30. ประจวบคีรีขันธ์ เขต 3.json",
+  "_validation": {
+    "vote_sum": 98409,
+    "good_votes": 98409,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "77",
+  "province_name_normalized": "ประจวบคีรีขันธ์",
+  "summary": {
+    "eligible_voters": 138338,
+    "voters_came": 103420,
+    "ballots_received": 141516,
+    "ballots_used": 103420,
+    "good_votes": 98409,
+    "invalid_votes": 2641,
+    "no_votes": 2370
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นายพงษ์พันธ์ เผ่าประทาน",
+      "party": "ภูมิใจไทย",
+      "votes": 33978,
+      "candidate_uuid": "97349d5c-e95b-446a-a29d-8c0710c6583b",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายประมวล พงศ์ถาวราเดช",
+      "party": "กล้าธรรม",
+      "votes": 25444,
+      "candidate_uuid": "1a2062f5-0f3b-448a-8b26-afb05adb47ab",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนิติ ปลั่งศรีสกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 13335,
+      "candidate_uuid": "4305b911-9aa2-449b-9d10-1799d44a60c9",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายปณิธาน ประจวบเหมาะ",
+      "party": "ไทยสร้างไทย",
+      "votes": 12135,
+      "candidate_uuid": "d9783e69-f413-479f-b21d-9719dc3d0b17",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาววรรณอนงค์ หาญพงษ์ธรรม",
+      "party": "ประชาชน",
+      "votes": 11596,
+      "candidate_uuid": "4b7f2363-0909-4fc4-915b-d908184a5123",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "พ.ต.อ.เอกราช หุ่นงาม",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1125,
+      "candidate_uuid": "e20388ca-861f-4a59-8d17-f382efff1084",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายศุภวิท กำเนิดแสง",
+      "party": "เพื่อไทย",
+      "votes": 796,
+      "candidate_uuid": "fe4c0e1b-71e6-44b7-a915-765e8889ea70",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

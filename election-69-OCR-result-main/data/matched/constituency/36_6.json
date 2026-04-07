@@ -1,0 +1,139 @@
+{
+  "province_name": "ชัยภูมิ",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 134526,
+    "1.2": 89261,
+    "2.1": 135653,
+    "2.2": 89261,
+    "2.3": 46392,
+    "3.1": 83708,
+    "3.2": 0,
+    "3.3": 5553,
+    "3.4": 89261,
+    "4.1": 83346,
+    "4.2": 3852,
+    "4.3": 2063
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายเชวงศักดิ์ เร่งไพบูลย์วงษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 50655
+    },
+    {
+      "number": 6,
+      "name": "นางสาววิเมลือง แก้วศิริ",
+      "party": "เพื่อไทย",
+      "votes": 16918
+    },
+    {
+      "number": 2,
+      "name": "นายแทนยุทธพงษ์ วงษ์วัชรวานิช",
+      "party": "ประชาชน",
+      "votes": 13155
+    },
+    {
+      "number": 1,
+      "name": "นายเสถียรพงศ์ เที่ยงตรง",
+      "party": "ประชาธิปัตย์",
+      "votes": 937
+    },
+    {
+      "number": 4,
+      "name": "นายรุ่งโรจน์ ภูศักดิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 735
+    },
+    {
+      "number": 7,
+      "name": "นายสากล มาชัยภูมิ",
+      "party": "เศรษฐกิจ",
+      "votes": 586
+    },
+    {
+      "number": 3,
+      "name": "นางสาวบัวพันธ์ ผ่อนจรุง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 360
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/11. ชัยภูมิ เขต 6.json",
+  "_validation": {
+    "vote_sum": 83346,
+    "good_votes": 83346,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "36",
+  "province_name_normalized": "ชัยภูมิ",
+  "summary": {
+    "eligible_voters": 134526,
+    "voters_came": 89261,
+    "ballots_received": 135653,
+    "ballots_used": 89261,
+    "good_votes": 83346,
+    "invalid_votes": 3852,
+    "no_votes": 2063
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายเชวงศักดิ์ เร่งไพบูลย์วงษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 50655,
+      "candidate_uuid": "9a5fb790-49dc-4a0c-84b0-ffcc7756be67",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาววิเมลือง แก้วศิริ",
+      "party": "เพื่อไทย",
+      "votes": 16918,
+      "candidate_uuid": "998e663f-1948-45f4-9745-5a92f09a6e8f",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายแทนยุทธพงษ์ วงษ์วัชรวานิช",
+      "party": "ประชาชน",
+      "votes": 13155,
+      "candidate_uuid": "d26e143a-d176-48b0-84ca-8a0a7064a418",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเสถียรพงศ์ เที่ยงตรง",
+      "party": "ประชาธิปัตย์",
+      "votes": 937,
+      "candidate_uuid": "8cbac1ac-b63a-463b-84d9-a86f3eb165f8",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายรุ่งโรจน์ ภูศักดิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 735,
+      "candidate_uuid": "3f22d65e-de55-4b1e-9fb5-dc7a551386db",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสากล มาชัยภูมิ",
+      "party": "เศรษฐกิจ",
+      "votes": 586,
+      "candidate_uuid": "e6c5f1ea-6ea7-4e75-ab37-348f636e03e6",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวบัวพันธ์ ผ่อนจรุง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 360,
+      "candidate_uuid": "e2f35447-66ac-49e2-9b7d-16261442821b",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

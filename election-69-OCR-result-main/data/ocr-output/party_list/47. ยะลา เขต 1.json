@@ -1,0 +1,312 @@
+{
+  "province_name": "ยะลา",
+  "constituency_number": 1,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 130009,
+    "1.2": 98981,
+    "2.1": 130210,
+    "2.2": 98981,
+    "2.3": 31229,
+    "3.1": 92334,
+    "3.2": 54,
+    "3.3": 6593,
+    "3.4": 98981,
+    "4.1": 91456,
+    "4.2": 4121,
+    "4.3": 3404
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 776
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 704
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 1416
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 1239
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 271
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1348
+    },
+    {
+      "number": 7,
+      "party": "พลวัติ",
+      "votes": 327
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 630
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 1454
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 362
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 1001
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 213
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 404
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 47
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 41
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 47
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 79
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 15
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 38
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 26
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 42
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 38
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 122
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 164
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 29
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 101
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 16426
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 97
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 546
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 103
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 139
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 189
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 24130
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 147
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 87
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 161
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 8698
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 49
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 36
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 24
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 36
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 2001
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 231
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 72
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 502
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 26129
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 135
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 115
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 305
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 26
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 11
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 9
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 8
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 36
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 30
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/47. ยะลา เขต 1 (บช).pdf",
+  "_validation": {
+    "vote_sum": 91456,
+    "good_votes": 91456,
+    "sum_diff_pct": 0.0
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "province_name": "นครสวรรค์",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139526,
+    "1.2": 94811,
+    "2.1": 136980,
+    "2.2": 94811,
+    "2.3": 42169,
+    "3.1": 89698,
+    "3.2": 16,
+    "3.3": 5097,
+    "3.4": 94811,
+    "4.1": 87228,
+    "4.2": 4280,
+    "4.3": 3303
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายพีระเดช ศิริวันสาณฑ์",
+      "party": "ภูมิใจไทย",
+      "votes": 61430
+    },
+    {
+      "number": 1,
+      "name": "นายนพสิทธิ์ ฐิติพัฒนธราวุฒิ",
+      "party": "ประชาชน",
+      "votes": 15839
+    },
+    {
+      "number": 5,
+      "name": "พันตำรวจโทนุกูล แสงศิริ",
+      "party": "เพื่อไทย",
+      "votes": 6481
+    },
+    {
+      "number": 3,
+      "name": "นางคณิฏฐ์ษา ทองวงศ์พิทักษ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1677
+    },
+    {
+      "number": 6,
+      "name": "นายณัฐสิทธิ์ เหลือกาฬ",
+      "party": "เศรษฐกิจ",
+      "votes": 1041
+    },
+    {
+      "number": 2,
+      "name": "นายทรงธรรม ขจรชัยธนัง",
+      "party": "กล้าธรรม",
+      "votes": 510
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนัยนา วชิรวัฒน์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 250
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/23. นครสวรรค์ เขต 5.json",
+  "_validation": {
+    "vote_sum": 87228,
+    "good_votes": 87228,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "60",
+  "province_name_normalized": "นครสวรรค์",
+  "summary": {
+    "eligible_voters": 139526,
+    "voters_came": 94811,
+    "ballots_received": 136980,
+    "ballots_used": 94811,
+    "good_votes": 87228,
+    "invalid_votes": 4280,
+    "no_votes": 3303
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายพีระเดช ศิริวันสาณฑ์",
+      "party": "ภูมิใจไทย",
+      "votes": 61430,
+      "candidate_uuid": "5c6b00df-a127-4b4a-9f8e-ef451a391c13",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายนพสิทธิ์ ฐิติพัฒนธราวุฒิ",
+      "party": "ประชาชน",
+      "votes": 15839,
+      "candidate_uuid": "8f786782-494a-405e-8db0-14f5f74bc9b8",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "พันตำรวจโทนุกูล แสงศิริ",
+      "party": "เพื่อไทย",
+      "votes": 6481,
+      "candidate_uuid": "3f0002bb-32fb-4926-9039-8b5c43ebff63",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางคณิฏฐ์ษา ทองวงศ์พิทักษ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1677,
+      "candidate_uuid": "c06ab77e-ace9-4e90-abc3-8aacdf6dbdce",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายณัฐสิทธิ์ เหลือกาฬ",
+      "party": "เศรษฐกิจ",
+      "votes": 1041,
+      "candidate_uuid": "3c6111d6-d2bd-4958-bf81-96d1186129d5",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายทรงธรรม ขจรชัยธนัง",
+      "party": "กล้าธรรม",
+      "votes": 510,
+      "candidate_uuid": "a81bd9ad-c8a6-438b-9c4e-eb2b7da10f1f",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนัยนา วชิรวัฒน์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 250,
+      "candidate_uuid": "bed6d6c6-50c5-46a4-be8e-0cd670821384",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

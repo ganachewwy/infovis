@@ -1,0 +1,153 @@
+{
+  "province_name": "บึงกาฬ",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 118401,
+    "1.2": 76221,
+    "2.1": 119480,
+    "2.2": 76221,
+    "2.3": 43259,
+    "3.1": 71496,
+    "3.2": 0,
+    "3.3": 4725,
+    "3.4": 76221,
+    "4.1": 70033,
+    "4.2": 3741,
+    "4.3": 2447
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวิโรจน์ สาระวงศ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34041
+    },
+    {
+      "number": 6,
+      "name": "นายณัฐพงษ์ ป้องปิ่น",
+      "party": "ประชาชน",
+      "votes": 15049
+    },
+    {
+      "number": 5,
+      "name": "นายนิพนธ์ คนขยัน",
+      "party": "เพื่อไทย",
+      "votes": 14313
+    },
+    {
+      "number": 3,
+      "name": "นายนพดล สิทธิฤทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 4098
+    },
+    {
+      "number": 2,
+      "name": "นายพิทักษ์ สุระพร",
+      "party": "ปวงชนไทย",
+      "votes": 882
+    },
+    {
+      "number": 4,
+      "name": "นางสาวเพ็ญพิชชา ติยะบุตร",
+      "party": "ประชาธิปัตย์",
+      "votes": 697
+    },
+    {
+      "number": 7,
+      "name": "ร.ต.อ.สุดใจ ผดาเวช",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 666
+    },
+    {
+      "number": 8,
+      "name": "นายสมดี ผาอาจ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 287
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/27. บึงกาฬ เขต 3.json",
+  "_validation": {
+    "vote_sum": 70033,
+    "good_votes": 70033,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "38",
+  "province_name_normalized": "บึงกาฬ",
+  "summary": {
+    "eligible_voters": 118401,
+    "voters_came": 76221,
+    "ballots_received": 119480,
+    "ballots_used": 76221,
+    "good_votes": 70033,
+    "invalid_votes": 3741,
+    "no_votes": 2447
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายวิโรจน์ สาระวงศ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34041,
+      "candidate_uuid": "a65353f9-298e-4a24-ba73-c4cc030ee326",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายณัฐพงษ์ ป้องปิ่น",
+      "party": "ประชาชน",
+      "votes": 15049,
+      "candidate_uuid": "42419ceb-2d11-4b3e-a126-04143be809ff",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนิพนธ์ คนขยัน",
+      "party": "เพื่อไทย",
+      "votes": 14313,
+      "candidate_uuid": "431e1227-b860-4378-83ef-66c7c18c002b",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายนพดล สิทธิฤทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 4098,
+      "candidate_uuid": "e9641009-d5f5-4a74-b0d0-64cbe97e427c",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพิทักษ์ สุระพร",
+      "party": "ปวงชนไทย",
+      "votes": 882,
+      "candidate_uuid": "b3e3a1b6-ae9c-45fe-beca-29888dacdb18",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวเพ็ญพิชชา ติยะบุตร",
+      "party": "ประชาธิปัตย์",
+      "votes": 697,
+      "candidate_uuid": "155df8f4-7db3-44f1-86b6-775570d215a5",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "ร.ต.อ.สุดใจ ผดาเวช",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 666,
+      "candidate_uuid": "3e4c60ed-210d-4365-a11a-9ca56011aeda",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสมดี ผาอาจ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 287,
+      "candidate_uuid": "1d585315-0ed1-4954-b142-825cd82cc543",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

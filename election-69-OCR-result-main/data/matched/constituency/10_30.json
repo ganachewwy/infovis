@@ -1,0 +1,307 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 30,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 143753,
+    "1.2": 99352,
+    "2.1": 141200,
+    "2.2": 99352,
+    "2.3": 41848,
+    "3.1": 95291,
+    "3.2": 216,
+    "3.3": 3845,
+    "3.4": 99352,
+    "4.1": 92533,
+    "4.2": 1464,
+    "4.3": 5355
+  },
+  "results": [
+    {
+      "number": 15,
+      "name": "นายธัญธร ธนินวัฒนาธร",
+      "party": "ประชาชน",
+      "votes": 45992
+    },
+    {
+      "number": 10,
+      "name": "นางสาวอรชพร คงวุฒิปัญญา",
+      "party": "เพื่อไทย",
+      "votes": 14293
+    },
+    {
+      "number": 2,
+      "name": "นายอำพล ขำวิลัย",
+      "party": "ภูมิใจไทย",
+      "votes": 11593
+    },
+    {
+      "number": 12,
+      "name": "นายคณพล พงศ์พิทยา",
+      "party": "ประชาธิปัตย์",
+      "votes": 8033
+    },
+    {
+      "number": 4,
+      "name": "นายกวิน ชาตะวนิช",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2513
+    },
+    {
+      "number": 9,
+      "name": "นายปภพพล เติมธีรกิจ",
+      "party": "ไทยก้าวใหม",
+      "votes": 2341
+    },
+    {
+      "number": 11,
+      "name": "นายธนูชยานันท์ ปั้นบริสุทธิ์",
+      "party": "เสรีรวมไทย",
+      "votes": 1271
+    },
+    {
+      "number": 18,
+      "name": "นายวรพงษ์ วณิชอุชโชติ",
+      "party": "เศรษฐกิจ",
+      "votes": 1258
+    },
+    {
+      "number": 5,
+      "name": "นางสาวพิชชาภา ทองดียิ่ง",
+      "party": "ไทยสร้างไทย",
+      "votes": 1072
+    },
+    {
+      "number": 17,
+      "name": "นายอภิชาติ สุริโย",
+      "party": "ไทยภักดี",
+      "votes": 687
+    },
+    {
+      "number": 6,
+      "name": "นางสาวศรัณย์รัชต์ อัศววงศ์ธาดา",
+      "party": "เป็นธรรม",
+      "votes": 630
+    },
+    {
+      "number": 1,
+      "name": "นายเอกรัฐ อิทธิไกวัล",
+      "party": "กล้าธรรม",
+      "votes": 456
+    },
+    {
+      "number": 3,
+      "name": "นายกิตติพัทธ์ เตชะพกาพงษ์",
+      "party": "ปวงชนไทย",
+      "votes": 441
+    },
+    {
+      "number": 16,
+      "name": "ว่าที่ ร.ต. ทรงธรรม ทรงศิริเดชบดี",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 417
+    },
+    {
+      "number": 14,
+      "name": "นายรัชชานนท์ พูนรัตน์",
+      "party": "พลังประชารัฐ",
+      "votes": 389
+    },
+    {
+      "number": 7,
+      "name": "นางสาวภูชิตา แก้วมโนรมย์",
+      "party": "พลวัต",
+      "votes": 388
+    },
+    {
+      "number": 13,
+      "name": "นางสาวชมกมล วงศ์ชุติโรจน์",
+      "party": "รักชาติ",
+      "votes": 334
+    },
+    {
+      "number": 8,
+      "name": "นายไพบูลย์ เกิดโสภา",
+      "party": "โอกาสใหม่",
+      "votes": 285
+    },
+    {
+      "number": 19,
+      "name": "นายวงศ์ปกรณ์ เกษมพงศ์จรัส",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 140
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 30.json",
+  "_validation": {
+    "vote_sum": 92533,
+    "good_votes": 92533,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 143753,
+    "voters_came": 99352,
+    "ballots_received": 141200,
+    "ballots_used": 99352,
+    "good_votes": 92533,
+    "invalid_votes": 1464,
+    "no_votes": 5355
+  },
+  "matched_candidates": [
+    {
+      "number": 15,
+      "name": "นายธัญธร ธนินวัฒนาธร",
+      "party": "ประชาชน",
+      "votes": 45992,
+      "candidate_uuid": "33d72e88-fc4d-4ab6-81ed-2280454b701d",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวอรชพร คงวุฒิปัญญา",
+      "party": "เพื่อไทย",
+      "votes": 14293,
+      "candidate_uuid": "34344e41-e279-457b-ab83-cf068d347f34",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอำพล ขำวิลัย",
+      "party": "ภูมิใจไทย",
+      "votes": 11593,
+      "candidate_uuid": "d7260cef-3f85-4922-ab7c-63dec01ba810",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายคณพล พงศ์พิทยา",
+      "party": "ประชาธิปัตย์",
+      "votes": 8033,
+      "candidate_uuid": "a3fbfd2d-1a7a-45f2-a352-08daf83e752f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกวิน ชาตะวนิช",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2513,
+      "candidate_uuid": "62ed61fc-7eb1-468f-8572-ae6c40f12136",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายปภพพล เติมธีรกิจ",
+      "party": "ไทยก้าวใหม",
+      "votes": 2341,
+      "candidate_uuid": "9cd7f8a6-62bb-4299-8ca0-8dba5eab93f6",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายธนูชยานันท์ ปั้นบริสุทธิ์",
+      "party": "เสรีรวมไทย",
+      "votes": 1271,
+      "candidate_uuid": "b85466b3-0b69-47d9-805c-84fee7ccbf2e",
+      "is_active": true
+    },
+    {
+      "number": 18,
+      "name": "นายวรพงษ์ วณิชอุชโชติ",
+      "party": "เศรษฐกิจ",
+      "votes": 1258,
+      "candidate_uuid": "8dbb9d17-b3c0-45b6-b455-02ad2e2739f1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวพิชชาภา ทองดียิ่ง",
+      "party": "ไทยสร้างไทย",
+      "votes": 1072,
+      "candidate_uuid": "8eb26d68-572d-4248-a7b4-fe9eb6ef80d8",
+      "is_active": true
+    },
+    {
+      "number": 17,
+      "name": "นายอภิชาติ สุริโย",
+      "party": "ไทยภักดี",
+      "votes": 687,
+      "candidate_uuid": "24ba1f76-5f1c-4f07-9834-cd5c66c6a856",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวศรัณย์รัชต์ อัศววงศ์ธาดา",
+      "party": "เป็นธรรม",
+      "votes": 630,
+      "candidate_uuid": "9e77f6cc-aad1-49e4-b70b-a499e9185fc4",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเอกรัฐ อิทธิไกวัล",
+      "party": "กล้าธรรม",
+      "votes": 456,
+      "candidate_uuid": "56c71e0a-1575-4b8c-a10f-c18c1b90464e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกิตติพัทธ์ เตชะพกาพงษ์",
+      "party": "ปวงชนไทย",
+      "votes": 441,
+      "candidate_uuid": "9928fce2-032e-41bd-ad06-55aac24988ab",
+      "is_active": true
+    },
+    {
+      "number": 16,
+      "name": "ว่าที่ ร.ต. ทรงธรรม ทรงศิริเดชบดี",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 417,
+      "candidate_uuid": "91f48a95-f4ff-4566-b0f2-0a5c572541d2",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายรัชชานนท์ พูนรัตน์",
+      "party": "พลังประชารัฐ",
+      "votes": 389,
+      "candidate_uuid": "5c7bc287-24dc-486a-a5bd-57b7e951a8b4",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวภูชิตา แก้วมโนรมย์",
+      "party": "พลวัต",
+      "votes": 388,
+      "candidate_uuid": "da35337c-9e0a-4740-9c43-005964e39bac",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นางสาวชมกมล วงศ์ชุติโรจน์",
+      "party": "รักชาติ",
+      "votes": 334,
+      "candidate_uuid": "58e664be-4290-45f8-aff6-e0e0a2b83f9c",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายไพบูลย์ เกิดโสภา",
+      "party": "โอกาสใหม่",
+      "votes": 285,
+      "candidate_uuid": "cd9e8c9e-0165-46f9-ad07-3687d2bceb79",
+      "is_active": true
+    },
+    {
+      "number": 19,
+      "name": "นายวงศ์ปกรณ์ เกษมพงศ์จรัส",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 140,
+      "candidate_uuid": "cecc3254-f37d-4670-b135-91bd3c8aa525",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

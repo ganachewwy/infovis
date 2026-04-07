@@ -1,0 +1,139 @@
+{
+  "province_name": "สุรินทร์",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136450,
+    "1.2": 91439,
+    "2.1": 139380,
+    "2.2": 91439,
+    "2.3": 47941,
+    "3.1": 84881,
+    "3.2": 9,
+    "3.3": 6549,
+    "3.4": 91439,
+    "4.1": 84840,
+    "4.2": 4302,
+    "4.3": 2297
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายเรืองวิทย์ คูณวัฒนาพงษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 43239
+    },
+    {
+      "number": 3,
+      "name": "นายอธิศวิชญ์ เลิศชวัลรัชต์",
+      "party": "เพื่อไทย",
+      "votes": 24474
+    },
+    {
+      "number": 0,
+      "name": "นายเกรียงไกร คารศรี",
+      "party": "ประชาชน",
+      "votes": 13352
+    },
+    {
+      "number": 6,
+      "name": "นายพิภพ จันทเขต",
+      "party": "เศรษฐกิจ",
+      "votes": 1844
+    },
+    {
+      "number": 5,
+      "name": "นายอริยะมรรค จันทนุภา",
+      "party": "กล้าธรรม",
+      "votes": 768
+    },
+    {
+      "number": 2,
+      "name": "นายทวีศักดิ์ ยงยิ่งยืน",
+      "party": "ประชาธิปัตย์",
+      "votes": 735
+    },
+    {
+      "number": 7,
+      "name": "นายชาญ จารัตน์",
+      "party": "ปวงชนไทย",
+      "votes": 428
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/69. สุรินทร์ เขต 7.json",
+  "_validation": {
+    "vote_sum": 84840,
+    "good_votes": 84840,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "32",
+  "province_name_normalized": "สุรินทร์",
+  "summary": {
+    "eligible_voters": 136450,
+    "voters_came": 91439,
+    "ballots_received": 139380,
+    "ballots_used": 91439,
+    "good_votes": 84840,
+    "invalid_votes": 4302,
+    "no_votes": 2297
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายเรืองวิทย์ คูณวัฒนาพงษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 43239,
+      "candidate_uuid": "b0bdbcb7-aa11-4255-ab55-56582b0858a3",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอธิศวิชญ์ เลิศชวัลรัชต์",
+      "party": "เพื่อไทย",
+      "votes": 24474,
+      "candidate_uuid": "30fae1a0-c83b-4d31-a022-487d0e0f9180",
+      "is_active": true
+    },
+    {
+      "number": 0,
+      "name": "นายเกรียงไกร คารศรี",
+      "party": "ประชาชน",
+      "votes": 13352,
+      "candidate_uuid": "00b8f3e2-6aca-457b-bde9-123523d3b5e6",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพิภพ จันทเขต",
+      "party": "เศรษฐกิจ",
+      "votes": 1844,
+      "candidate_uuid": "fe515cfc-eff4-47a0-a50f-01fa836d113d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอริยะมรรค จันทนุภา",
+      "party": "กล้าธรรม",
+      "votes": 768,
+      "candidate_uuid": "d766e954-33ad-48bd-b001-0dc55654eba0",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายทวีศักดิ์ ยงยิ่งยืน",
+      "party": "ประชาธิปัตย์",
+      "votes": 735,
+      "candidate_uuid": "f442e53e-e4ec-4228-bcde-1f8d5ce492d7",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายชาญ จารัตน์",
+      "party": "ปวงชนไทย",
+      "votes": 428,
+      "candidate_uuid": "80f00b50-f622-4ff9-80aa-385a735b7339",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

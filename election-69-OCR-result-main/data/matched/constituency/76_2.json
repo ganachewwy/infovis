@@ -1,0 +1,111 @@
+{
+  "province_name": "เพชรบุรี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139314,
+    "1.2": 105819,
+    "2.1": 142573,
+    "2.2": 105819,
+    "2.3": 36754,
+    "3.1": 102220,
+    "3.2": 6,
+    "3.3": 3593,
+    "3.4": 105819,
+    "4.1": 95907,
+    "4.2": 4694,
+    "4.3": 5218
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "ผศ.เกริกฤทธิ์ อัมพะวัต",
+      "party": "เศรษฐกิจ",
+      "votes": 1881
+    },
+    {
+      "number": 2,
+      "name": "นายอนันตชัย ชาครานุวัฒนพงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3379
+    },
+    {
+      "number": 3,
+      "name": "นายสันทัด คุ้มสอาด",
+      "party": "ประชาชน",
+      "votes": 19089
+    },
+    {
+      "number": 4,
+      "name": "นายปฏิญญา ปักกิ่งเมือง",
+      "party": "เพื่อไทย",
+      "votes": 4307
+    },
+    {
+      "number": 5,
+      "name": "นายฤกษ์ อยู่ดี",
+      "party": "ภูมิใจไทย",
+      "votes": 67251
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/39. เพชรบุรี เขต 2.json",
+  "_validation": {
+    "vote_sum": 95907,
+    "good_votes": 95907,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "76",
+  "province_name_normalized": "เพชรบุรี",
+  "summary": {
+    "eligible_voters": 139314,
+    "voters_came": 105819,
+    "ballots_received": 142573,
+    "ballots_used": 105819,
+    "good_votes": 95907,
+    "invalid_votes": 4694,
+    "no_votes": 5218
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "ผศ.เกริกฤทธิ์ อัมพะวัต",
+      "party": "เศรษฐกิจ",
+      "votes": 1881,
+      "candidate_uuid": "9308780d-df9d-4eb8-808f-58b5085efbbe",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอนันตชัย ชาครานุวัฒนพงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3379,
+      "candidate_uuid": "513c4e37-04a3-4560-ab9b-85654803ac7c",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสันทัด คุ้มสอาด",
+      "party": "ประชาชน",
+      "votes": 19089,
+      "candidate_uuid": "57a18f9b-8ef7-497d-a62d-2786cb5eb7a0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายปฏิญญา ปักกิ่งเมือง",
+      "party": "เพื่อไทย",
+      "votes": 4307,
+      "candidate_uuid": "3659e31a-d706-40c7-8b62-a1ed3ff4f9d2",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายฤกษ์ อยู่ดี",
+      "party": "ภูมิใจไทย",
+      "votes": 67251,
+      "candidate_uuid": "85fef0bf-1ade-4553-b879-f5a7d9bb1ebe",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

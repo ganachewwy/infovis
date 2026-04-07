@@ -1,0 +1,181 @@
+{
+  "province_name": "เพชรบูรณ์",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131081,
+    "1.2": 100198,
+    "2.1": 126200,
+    "2.2": 100198,
+    "2.3": 26002,
+    "3.1": 93469,
+    "3.2": 11,
+    "3.3": 6718,
+    "3.4": 100198,
+    "4.1": 95529,
+    "4.2": 2599,
+    "4.3": 2070
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายยุพราช บัวอินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 41515
+    },
+    {
+      "number": 5,
+      "name": "นายจักรัตน์ พัวช่วย",
+      "party": "กล้าธรรม",
+      "votes": 40158
+    },
+    {
+      "number": 2,
+      "name": "นายรวงทิพร แสนคำภูเขตต์",
+      "party": "ประชาชน",
+      "votes": 10678
+    },
+    {
+      "number": 6,
+      "name": "นายธนะโรจน์ อัครกิจชัยนนท์",
+      "party": "เพื่อไทย",
+      "votes": 1001
+    },
+    {
+      "number": 1,
+      "name": "นายประเสริฐ ฤทธิ์คุ้ม",
+      "party": "ประชาธิปัตย์",
+      "votes": 687
+    },
+    {
+      "number": 10,
+      "name": "นายจำเนียร โฉมงาม",
+      "party": "เศรษฐกิจ",
+      "votes": 673
+    },
+    {
+      "number": 3,
+      "name": "นางสาวนธพร ตันติบูล",
+      "party": "ปวงชนไทย",
+      "votes": 374
+    },
+    {
+      "number": 8,
+      "name": "นายวงศ์วิศว์ ผลลอย",
+      "party": "พลังประชารัฐ",
+      "votes": 239
+    },
+    {
+      "number": 7,
+      "name": "นายบัณฑิต บุญอุดมกิจ",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 116
+    },
+    {
+      "number": 9,
+      "name": "นายมนตรี ผลจันทร์",
+      "party": "พร้อม",
+      "votes": 88
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/40. เพชรบูรณ์ เขต 2.json",
+  "_validation": {
+    "vote_sum": 95529,
+    "good_votes": 95529,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "67",
+  "province_name_normalized": "เพชรบูรณ์",
+  "summary": {
+    "eligible_voters": 131081,
+    "voters_came": 100198,
+    "ballots_received": 126200,
+    "ballots_used": 100198,
+    "good_votes": 95529,
+    "invalid_votes": 2599,
+    "no_votes": 2070
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายยุพราช บัวอินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 41515,
+      "candidate_uuid": "7c579b9c-946d-40d4-affe-b934a43ce552",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายจักรัตน์ พัวช่วย",
+      "party": "กล้าธรรม",
+      "votes": 40158,
+      "candidate_uuid": "2c898c21-527c-456f-b693-81ef756844bb",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายรวงทิพร แสนคำภูเขตต์",
+      "party": "ประชาชน",
+      "votes": 10678,
+      "candidate_uuid": "52c6ba9c-0339-4b8e-8683-32f3094e39de",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธนะโรจน์ อัครกิจชัยนนท์",
+      "party": "เพื่อไทย",
+      "votes": 1001,
+      "candidate_uuid": "152697ca-c77a-452c-b56f-dfa03d52aa49",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายประเสริฐ ฤทธิ์คุ้ม",
+      "party": "ประชาธิปัตย์",
+      "votes": 687,
+      "candidate_uuid": "c025a530-cb86-43e6-b910-f64856429b88",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายจำเนียร โฉมงาม",
+      "party": "เศรษฐกิจ",
+      "votes": 673,
+      "candidate_uuid": "13dcf789-5e68-4957-99cb-415bf73e0df4",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวนธพร ตันติบูล",
+      "party": "ปวงชนไทย",
+      "votes": 374,
+      "candidate_uuid": "5ff36b87-71a5-4dec-bab3-135aa78ce1f0",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวงศ์วิศว์ ผลลอย",
+      "party": "พลังประชารัฐ",
+      "votes": 239,
+      "candidate_uuid": "19d690e0-0bda-474f-84ab-95a08fe17345",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายบัณฑิต บุญอุดมกิจ",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 116,
+      "candidate_uuid": "df86aafc-064c-41ef-95b2-2c28b013da7c",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายมนตรี ผลจันทร์",
+      "party": "พร้อม",
+      "votes": 88,
+      "candidate_uuid": "28482bb2-061e-43be-ac40-a4810460660b",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

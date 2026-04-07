@@ -1,0 +1,153 @@
+{
+  "province_name": "สมุทรปราการ",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130785,
+    "1.2": 97099,
+    "2.1": 131745,
+    "2.2": 97099,
+    "2.3": 34646,
+    "3.1": 94365,
+    "3.2": 6,
+    "3.3": 2728,
+    "3.4": 97099,
+    "4.1": 87879,
+    "4.2": 4260,
+    "4.3": 4960
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นางสาวพนิดา มงคลสวัสดิ์",
+      "party": "ประชาชน",
+      "votes": 43463
+    },
+    {
+      "number": 3,
+      "name": "นายอัครวัฒน์ อัศวเหม",
+      "party": "เพื่อไทย",
+      "votes": 24150
+    },
+    {
+      "number": 4,
+      "name": "นางสาวแพรวพรรณ พุกพิบูลย์",
+      "party": "ภูมิใจไทย",
+      "votes": 12409
+    },
+    {
+      "number": 5,
+      "name": "นายราเชน ศิริวงค์นาค",
+      "party": "ประชาธิปัตย์",
+      "votes": 3159
+    },
+    {
+      "number": 0,
+      "name": "นางธนาวรรณ รุ่งเรือง",
+      "party": "เศรษฐกิจ",
+      "votes": 2066
+    },
+    {
+      "number": 2,
+      "name": "นายสมลัษณ์ ควรสงวน",
+      "party": "พลังประชารัฐ",
+      "votes": 1065
+    },
+    {
+      "number": 6,
+      "name": "นายจาตุรันต์ บุญเบ็ญจรัตน์",
+      "party": "กล้าธรรม",
+      "votes": 805
+    },
+    {
+      "number": 8,
+      "name": "นางสาววชิราภรณ์ สุระหิรัญพล",
+      "party": "ปวงชนไทย",
+      "votes": 762
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/60. สมุทรปราการ เขต 1.json",
+  "_validation": {
+    "vote_sum": 87879,
+    "good_votes": 87879,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "11",
+  "province_name_normalized": "สมุทรปราการ",
+  "summary": {
+    "eligible_voters": 130785,
+    "voters_came": 97099,
+    "ballots_received": 131745,
+    "ballots_used": 97099,
+    "good_votes": 87879,
+    "invalid_votes": 4260,
+    "no_votes": 4960
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นางสาวพนิดา มงคลสวัสดิ์",
+      "party": "ประชาชน",
+      "votes": 43463,
+      "candidate_uuid": "55f5586b-2e3b-4933-ba3c-1215e2afd6f4",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอัครวัฒน์ อัศวเหม",
+      "party": "เพื่อไทย",
+      "votes": 24150,
+      "candidate_uuid": "adbe724a-d26b-421f-8caf-3a6d249a89f2",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวแพรวพรรณ พุกพิบูลย์",
+      "party": "ภูมิใจไทย",
+      "votes": 12409,
+      "candidate_uuid": "7593780b-7c23-4a64-b714-669d55cd4438",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายราเชน ศิริวงค์นาค",
+      "party": "ประชาธิปัตย์",
+      "votes": 3159,
+      "candidate_uuid": "c5cf0015-9ff9-4fd5-9fe4-310a061b5bd4",
+      "is_active": true
+    },
+    {
+      "number": 0,
+      "name": "นางธนาวรรณ รุ่งเรือง",
+      "party": "เศรษฐกิจ",
+      "votes": 2066,
+      "candidate_uuid": "4d1d5961-c72f-4075-bc3e-2a80b479e306",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสมลัษณ์ ควรสงวน",
+      "party": "พลังประชารัฐ",
+      "votes": 1065,
+      "candidate_uuid": "c8b0bb0f-77cd-487c-bd00-f48bb8bf6de9",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายจาตุรันต์ บุญเบ็ญจรัตน์",
+      "party": "กล้าธรรม",
+      "votes": 805,
+      "candidate_uuid": "ba5db0fd-306d-4723-a24d-d927cc538b6e",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาววชิราภรณ์ สุระหิรัญพล",
+      "party": "ปวงชนไทย",
+      "votes": 762,
+      "candidate_uuid": "af25f50c-1a6f-45e4-b8c1-d4e81463227c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

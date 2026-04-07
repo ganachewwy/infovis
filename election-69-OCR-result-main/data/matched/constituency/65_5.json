@@ -1,0 +1,125 @@
+{
+  "province_name": "พิษณุโลก",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132621,
+    "1.2": 94537,
+    "2.1": 134321,
+    "2.2": 94537,
+    "2.3": 39784,
+    "3.1": 88656,
+    "3.2": 0,
+    "3.3": 5881,
+    "3.4": 94537,
+    "4.1": 87172,
+    "4.2": 4367,
+    "4.3": 2998
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายจุติ ไกรฤกษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34149
+    },
+    {
+      "number": 3,
+      "name": "นายเอกพงษ์ กุลเจริญ",
+      "party": "เพื่อไทย",
+      "votes": 30110
+    },
+    {
+      "number": 1,
+      "name": "นายศุภปกรณ์ กิตยาธิคุณ",
+      "party": "ประชาชน",
+      "votes": 19978
+    },
+    {
+      "number": 2,
+      "name": "นายสมศักดิ์ ชุ่มกลัด",
+      "party": "ประชาธิปัตย์",
+      "votes": 1745
+    },
+    {
+      "number": 6,
+      "name": "นางสาวฉันทนา พุ่มพฤกษ์",
+      "party": "อนาคตไทย",
+      "votes": 649
+    },
+    {
+      "number": 4,
+      "name": "นายธนวิน โรจน์สุนทรกิตติ",
+      "party": "กล้าธรรม",
+      "votes": 541
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/38. พิษณุโลก เขต 5.json",
+  "_validation": {
+    "vote_sum": 87172,
+    "good_votes": 87172,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "65",
+  "province_name_normalized": "พิษณุโลก",
+  "summary": {
+    "eligible_voters": 132621,
+    "voters_came": 94537,
+    "ballots_received": 134321,
+    "ballots_used": 94537,
+    "good_votes": 87172,
+    "invalid_votes": 4367,
+    "no_votes": 2998
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายจุติ ไกรฤกษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34149,
+      "candidate_uuid": "a52626f7-6190-4e8e-982c-41c5eaaa0248",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเอกพงษ์ กุลเจริญ",
+      "party": "เพื่อไทย",
+      "votes": 30110,
+      "candidate_uuid": "ab962fc1-46b0-40f5-9e19-b6abb12e397c",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายศุภปกรณ์ กิตยาธิคุณ",
+      "party": "ประชาชน",
+      "votes": 19978,
+      "candidate_uuid": "2d33b6f9-5305-4e6d-a273-9f8c237ddc97",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสมศักดิ์ ชุ่มกลัด",
+      "party": "ประชาธิปัตย์",
+      "votes": 1745,
+      "candidate_uuid": "27e0f80a-43b3-4ad4-8f6b-68075b4294e8",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวฉันทนา พุ่มพฤกษ์",
+      "party": "อนาคตไทย",
+      "votes": 649,
+      "candidate_uuid": "01882384-cfce-4116-b30b-237cb0a1a8b0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธนวิน โรจน์สุนทรกิตติ",
+      "party": "กล้าธรรม",
+      "votes": 541,
+      "candidate_uuid": "e511b155-8209-4338-b05b-5c71cb5766ab",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

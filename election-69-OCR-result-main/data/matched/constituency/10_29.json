@@ -1,0 +1,265 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 29,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144424,
+    "1.2": 103966,
+    "2.1": 145840,
+    "2.2": 103966,
+    "2.3": 41874,
+    "3.1": 99936,
+    "3.2": 91,
+    "3.3": 3939,
+    "3.4": 103966,
+    "4.1": 96248,
+    "4.2": 1896,
+    "4.3": 5822
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นางสาวทิสรัตน์ เลาหพล",
+      "party": "ประชาชน",
+      "votes": 46402
+    },
+    {
+      "number": 4,
+      "name": "นายกฤชนนท์ อัยยปัญญา",
+      "party": "เพื่อไทย",
+      "votes": 16836
+    },
+    {
+      "number": 5,
+      "name": "นางสาวธัณยาการย์ เตชะพัฒน์สิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 13062
+    },
+    {
+      "number": 8,
+      "name": "นางสาวศิริขวัญ นิลกรรณ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 8987
+    },
+    {
+      "number": 9,
+      "name": "นายณรงค์ชัย ธารณา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3379
+    },
+    {
+      "number": 6,
+      "name": "นายธรรมราช อาษาสุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 2211
+    },
+    {
+      "number": 7,
+      "name": "นายพีร์ โรจนดารา",
+      "party": "ไทยสร้างไทย",
+      "votes": 1757
+    },
+    {
+      "number": 11,
+      "name": "นายธนาวุฒิ รัศมีฉาย",
+      "party": "พลวัต",
+      "votes": 865
+    },
+    {
+      "number": 1,
+      "name": "นางสาวอรพรรณ วัจนะเสถียรกุล",
+      "party": "กล้าธรรม",
+      "votes": 548
+    },
+    {
+      "number": 14,
+      "name": "นายฐานวัฒน์ สถิตโอฬารโรจน์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 532
+    },
+    {
+      "number": 2,
+      "name": "นายยุทธนา โตอาจ",
+      "party": "โอกาสใหม่",
+      "votes": 373
+    },
+    {
+      "number": 10,
+      "name": "นายธนิสสร กาสาวพานิชย์",
+      "party": "รักชาติ",
+      "votes": 370
+    },
+    {
+      "number": 15,
+      "name": "นายธนพล ศรีสุด",
+      "party": "ปวงชนไทย",
+      "votes": 338
+    },
+    {
+      "number": 12,
+      "name": "นางสาวอรญา อุษณะอำไพพงษ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 287
+    },
+    {
+      "number": 13,
+      "name": "นายกิตติศักดิ์โยธิน ธรรมวัตร",
+      "party": "วิชชั่นใหม่",
+      "votes": 162
+    },
+    {
+      "number": 16,
+      "name": "นายพัฒนภาส ลิ่วมโนคุณ",
+      "party": "พลังประชารัฐ",
+      "votes": 139
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 29.json",
+  "_validation": {
+    "vote_sum": 96248,
+    "good_votes": 96248,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 144424,
+    "voters_came": 103966,
+    "ballots_received": 145840,
+    "ballots_used": 103966,
+    "good_votes": 96248,
+    "invalid_votes": 1896,
+    "no_votes": 5822
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นางสาวทิสรัตน์ เลาหพล",
+      "party": "ประชาชน",
+      "votes": 46402,
+      "candidate_uuid": "0641c708-7d03-498e-b520-985e0ba1c1e5",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกฤชนนท์ อัยยปัญญา",
+      "party": "เพื่อไทย",
+      "votes": 16836,
+      "candidate_uuid": "d46b3e27-f48e-45d3-a6bd-63faf6bfea14",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวธัณยาการย์ เตชะพัฒน์สิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 13062,
+      "candidate_uuid": "2a2de83f-fd58-4c7a-8373-e3597b9abfee",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวศิริขวัญ นิลกรรณ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 8987,
+      "candidate_uuid": "e2b8d315-d5f3-4319-8a67-03a03a13d894",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายณรงค์ชัย ธารณา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3379,
+      "candidate_uuid": "3d90ea1e-076c-4b6b-ae72-c3619745acff",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธรรมราช อาษาสุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 2211,
+      "candidate_uuid": "5c5113e2-af35-43c8-b886-9744b3b32666",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพีร์ โรจนดารา",
+      "party": "ไทยสร้างไทย",
+      "votes": 1757,
+      "candidate_uuid": "5660198b-7e22-432e-b7b6-3661dc98cd29",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายธนาวุฒิ รัศมีฉาย",
+      "party": "พลวัต",
+      "votes": 865,
+      "candidate_uuid": "c814e30b-9f4d-4ae0-a75d-0184c1085d6b",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวอรพรรณ วัจนะเสถียรกุล",
+      "party": "กล้าธรรม",
+      "votes": 548,
+      "candidate_uuid": "23662b3e-4b4e-4be3-8580-67ac273531ee",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายฐานวัฒน์ สถิตโอฬารโรจน์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 532,
+      "candidate_uuid": "406dadf9-367d-48a0-8ef0-bd9dfab7264b",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายยุทธนา โตอาจ",
+      "party": "โอกาสใหม่",
+      "votes": 373,
+      "candidate_uuid": "f1107c96-1867-4a7c-9a3e-28a8326885cd",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายธนิสสร กาสาวพานิชย์",
+      "party": "รักชาติ",
+      "votes": 370,
+      "candidate_uuid": "fd25de0d-5228-404c-b879-146648ea8cf9",
+      "is_active": true
+    },
+    {
+      "number": 15,
+      "name": "นายธนพล ศรีสุด",
+      "party": "ปวงชนไทย",
+      "votes": 338,
+      "candidate_uuid": "8d858742-16ad-497c-91c5-b5d1911a5144",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นางสาวอรญา อุษณะอำไพพงษ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 287,
+      "candidate_uuid": "8307b6cf-f556-4b6a-8286-83f88d8fb632",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายกิตติศักดิ์โยธิน ธรรมวัตร",
+      "party": "วิชชั่นใหม่",
+      "votes": 162,
+      "candidate_uuid": "5b7cc1b0-a1d7-4340-9bc1-6433f0627737",
+      "is_active": true
+    },
+    {
+      "number": 16,
+      "name": "นายพัฒนภาส ลิ่วมโนคุณ",
+      "party": "พลังประชารัฐ",
+      "votes": 139,
+      "candidate_uuid": "63b9a4c6-c4ad-4b66-acc9-fe22078fe254",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

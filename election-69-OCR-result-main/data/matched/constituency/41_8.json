@@ -1,0 +1,181 @@
+{
+  "province_name": "อุดรธานี",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 122656,
+    "1.2": 76246,
+    "2.1": 126620,
+    "2.2": 76246,
+    "2.3": 50374,
+    "3.1": 72226,
+    "3.2": 0,
+    "3.3": 4020,
+    "3.4": 76246,
+    "4.1": 71066,
+    "4.2": 2884,
+    "4.3": 2296
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายสุภีรภัทร ภูมิภักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 38137
+    },
+    {
+      "number": 3,
+      "name": "นายอนุเทน สีดาอุบล",
+      "party": "ประชาชน",
+      "votes": 13901
+    },
+    {
+      "number": 1,
+      "name": "นายเกรียงศักดิ์ ฝ้ายสีงาม",
+      "party": "เพื่อไทย",
+      "votes": 12512
+    },
+    {
+      "number": 5,
+      "name": "นายนวคม เสมา",
+      "party": "เศรษฐกิจ",
+      "votes": 1856
+    },
+    {
+      "number": 8,
+      "name": "นายภูชิต อุ่นเที่ยว",
+      "party": "กล้าธรรม",
+      "votes": 1842
+    },
+    {
+      "number": 7,
+      "name": "นายอร่าม ศรีด้วง",
+      "party": "ประชาธิปัตย์",
+      "votes": 836
+    },
+    {
+      "number": 4,
+      "name": "นางชีวรัตน์ อุปนันท์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 711
+    },
+    {
+      "number": 9,
+      "name": "นางศิริพร แสงจันทร์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 634
+    },
+    {
+      "number": 2,
+      "name": "นายภพ สมศรีโหน่ง",
+      "party": "พลังประชารัฐ",
+      "votes": 399
+    },
+    {
+      "number": 10,
+      "name": "นายนพดล สุวรรณชมภู",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 238
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/74. อุดรธานี เขต 8.json",
+  "_validation": {
+    "vote_sum": 71066,
+    "good_votes": 71066,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "41",
+  "province_name_normalized": "อุดรธานี",
+  "summary": {
+    "eligible_voters": 122656,
+    "voters_came": 76246,
+    "ballots_received": 126620,
+    "ballots_used": 76246,
+    "good_votes": 71066,
+    "invalid_votes": 2884,
+    "no_votes": 2296
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายสุภีรภัทร ภูมิภักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 38137,
+      "candidate_uuid": "d68876c7-7056-445e-9264-2b0c25b85dde",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอนุเทน สีดาอุบล",
+      "party": "ประชาชน",
+      "votes": 13901,
+      "candidate_uuid": "53a77fa5-c330-4f26-b075-e57869024878",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเกรียงศักดิ์ ฝ้ายสีงาม",
+      "party": "เพื่อไทย",
+      "votes": 12512,
+      "candidate_uuid": "835162ca-a5a5-4951-bb2c-ec8cc94b1d31",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนวคม เสมา",
+      "party": "เศรษฐกิจ",
+      "votes": 1856,
+      "candidate_uuid": "84d9cbc7-debf-4e0a-ae71-a7fd1ef945c2",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายภูชิต อุ่นเที่ยว",
+      "party": "กล้าธรรม",
+      "votes": 1842,
+      "candidate_uuid": "82099759-8fcf-45ea-8550-789cb06cfd58",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอร่าม ศรีด้วง",
+      "party": "ประชาธิปัตย์",
+      "votes": 836,
+      "candidate_uuid": "bc15ddf3-777a-4d50-bad2-4652b1863a64",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางชีวรัตน์ อุปนันท์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 711,
+      "candidate_uuid": "772d636d-7a29-455c-81cf-dfb20f4acae8",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางศิริพร แสงจันทร์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 634,
+      "candidate_uuid": "5df91ba5-6e8e-43e9-ad02-db062129bdf3",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายภพ สมศรีโหน่ง",
+      "party": "พลังประชารัฐ",
+      "votes": 399,
+      "candidate_uuid": "a31cb8fe-a960-4a90-9af7-e1184ec0135e",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายนพดล สุวรรณชมภู",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 238,
+      "candidate_uuid": "ea9ab896-2958-4eca-ab4d-e34573456dc1",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

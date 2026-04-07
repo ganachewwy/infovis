@@ -1,0 +1,153 @@
+{
+  "province_name": "ขอนแก่น",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129906,
+    "1.2": 86154,
+    "2.1": 130460,
+    "2.2": 86154,
+    "2.3": 44306,
+    "3.1": 81066,
+    "3.2": 21,
+    "3.3": 5067,
+    "3.4": 86154,
+    "4.1": 79916,
+    "4.2": 3802,
+    "4.3": 2436
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายวิศรุต ปู่เพิ่ง",
+      "party": "ภูมิใจไทย",
+      "votes": 43246
+    },
+    {
+      "number": 5,
+      "name": "นางสาวพลอยไพลิน เกียรติสุรนนท์",
+      "party": "เพื่อไทย",
+      "votes": 19300
+    },
+    {
+      "number": 3,
+      "name": "นายอภิชัย ชาตะมีนา",
+      "party": "ประชาชน",
+      "votes": 14374
+    },
+    {
+      "number": 6,
+      "name": "นายสำราญ ศรีภา",
+      "party": "พลังประชารัฐ",
+      "votes": 1452
+    },
+    {
+      "number": 1,
+      "name": "นายนิติศาสตร์ กุลน้อย",
+      "party": "ประชาธิปัตย์",
+      "votes": 717
+    },
+    {
+      "number": 2,
+      "name": "นายพงษ์นิรันดร์ อุทัยกาญจนกุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 517
+    },
+    {
+      "number": 8,
+      "name": "นายสุธรรม โพแหบ",
+      "party": "ทางเลือกใหม่",
+      "votes": 167
+    },
+    {
+      "number": 7,
+      "name": "นายลานบุญ สีลา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 143
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/6. ขอนแก่น เขต 6.json",
+  "_validation": {
+    "vote_sum": 79916,
+    "good_votes": 79916,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "40",
+  "province_name_normalized": "ขอนแก่น",
+  "summary": {
+    "eligible_voters": 129906,
+    "voters_came": 86154,
+    "ballots_received": 130460,
+    "ballots_used": 86154,
+    "good_votes": 79916,
+    "invalid_votes": 3802,
+    "no_votes": 2436
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายวิศรุต ปู่เพิ่ง",
+      "party": "ภูมิใจไทย",
+      "votes": 43246,
+      "candidate_uuid": "5e4851b9-cdfd-4112-b716-0b5cf1b4e915",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวพลอยไพลิน เกียรติสุรนนท์",
+      "party": "เพื่อไทย",
+      "votes": 19300,
+      "candidate_uuid": "24060d75-c293-47c4-a6dc-6ccfbad59161",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอภิชัย ชาตะมีนา",
+      "party": "ประชาชน",
+      "votes": 14374,
+      "candidate_uuid": "3d6b1228-0c53-4457-b66a-aa6b28d1bcef",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสำราญ ศรีภา",
+      "party": "พลังประชารัฐ",
+      "votes": 1452,
+      "candidate_uuid": "4746eee1-035f-4565-8af9-5fbd2d64d198",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายนิติศาสตร์ กุลน้อย",
+      "party": "ประชาธิปัตย์",
+      "votes": 717,
+      "candidate_uuid": "f490c1a4-73f8-44f6-a375-33d5c0ab83ab",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพงษ์นิรันดร์ อุทัยกาญจนกุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 517,
+      "candidate_uuid": "b44826d1-328a-43b3-bf1f-c2d4952519c0",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุธรรม โพแหบ",
+      "party": "ทางเลือกใหม่",
+      "votes": 167,
+      "candidate_uuid": "9a85336a-1f8f-4a8d-a315-14a3185edace",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายลานบุญ สีลา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 143,
+      "candidate_uuid": "56e4f14e-5de5-4ee7-9b7b-e7a9a345caef",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

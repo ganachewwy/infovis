@@ -1,0 +1,181 @@
+{
+  "province_name": "นครราชสีมา",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 141226,
+    "1.2": 105850,
+    "2.1": 140352,
+    "2.2": 105850,
+    "2.3": 34502,
+    "3.1": 99199,
+    "3.2": 0,
+    "3.3": 6651,
+    "3.4": 105850,
+    "4.1": 96710,
+    "4.2": 3197,
+    "4.3": 5943
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวัชรพล โตมรศักดิ์",
+      "party": "เพื่อไทย",
+      "votes": 39980
+    },
+    {
+      "number": 7,
+      "name": "นายปิยชาติ รุจิพรวศิน",
+      "party": "ประชาชน",
+      "votes": 39142
+    },
+    {
+      "number": 2,
+      "name": "น.ส.ธัญญารัตน์ กาญจนวัฒนา รัตนชินกร",
+      "party": "ภูมิใจไทย",
+      "votes": 9871
+    },
+    {
+      "number": 3,
+      "name": "นายอุดม พรมยกบัตร์",
+      "party": "เศรษฐกิจ",
+      "votes": 3023
+    },
+    {
+      "number": 8,
+      "name": "นายกฤษ อัครวงษ์สกุล",
+      "party": "ชาติ",
+      "votes": 1432
+    },
+    {
+      "number": 5,
+      "name": "นายรุ่งโรจน์ วรชมพู",
+      "party": "ประชาธิปัตย์",
+      "votes": 1195
+    },
+    {
+      "number": 6,
+      "name": "นายปัญญา สงทะเล",
+      "party": "พลังประชารัฐ",
+      "votes": 668
+    },
+    {
+      "number": 9,
+      "name": "นายทักษิณ เขื่อนโคกสูง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 652
+    },
+    {
+      "number": 4,
+      "name": "นายวุฒิศักดิ์ พิมพ์พิสาร",
+      "party": "กล้าธรรม",
+      "votes": 412
+    },
+    {
+      "number": 10,
+      "name": "นายปริวรรต ศรีอัศวิน",
+      "party": "รักชาติ",
+      "votes": 335
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/21. นครราชสีมา เขต 2.json",
+  "_validation": {
+    "vote_sum": 96710,
+    "good_votes": 96710,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "30",
+  "province_name_normalized": "นครราชสีมา",
+  "summary": {
+    "eligible_voters": 141226,
+    "voters_came": 105850,
+    "ballots_received": 140352,
+    "ballots_used": 105850,
+    "good_votes": 96710,
+    "invalid_votes": 3197,
+    "no_votes": 5943
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายวัชรพล โตมรศักดิ์",
+      "party": "เพื่อไทย",
+      "votes": 39980,
+      "candidate_uuid": "381e3fd1-5b37-4269-9013-dced2e7ec246",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายปิยชาติ รุจิพรวศิน",
+      "party": "ประชาชน",
+      "votes": 39142,
+      "candidate_uuid": "bad6bdc3-8b18-479b-81eb-2f30351c0b83",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "น.ส.ธัญญารัตน์ กาญจนวัฒนา รัตนชินกร",
+      "party": "ภูมิใจไทย",
+      "votes": 9871,
+      "candidate_uuid": "a6b86068-9577-4f12-be82-7b6d77d128c4",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอุดม พรมยกบัตร์",
+      "party": "เศรษฐกิจ",
+      "votes": 3023,
+      "candidate_uuid": "c0b3c289-9d04-407c-a4bc-3ada28272d69",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายกฤษ อัครวงษ์สกุล",
+      "party": "ชาติ",
+      "votes": 1432,
+      "candidate_uuid": "ef75e8fd-3930-488f-9120-73df66017a8c",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายรุ่งโรจน์ วรชมพู",
+      "party": "ประชาธิปัตย์",
+      "votes": 1195,
+      "candidate_uuid": "bc117236-1012-4708-848b-8992aef7feff",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปัญญา สงทะเล",
+      "party": "พลังประชารัฐ",
+      "votes": 668,
+      "candidate_uuid": "1efd30c9-0741-4411-b12a-fdb26398e0d9",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายทักษิณ เขื่อนโคกสูง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 652,
+      "candidate_uuid": "45861675-f337-41ba-86a6-1e8e729c3b60",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวุฒิศักดิ์ พิมพ์พิสาร",
+      "party": "กล้าธรรม",
+      "votes": 412,
+      "candidate_uuid": "40d9c5d3-f71a-469a-be5d-cad09996b59d",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายปริวรรต ศรีอัศวิน",
+      "party": "รักชาติ",
+      "votes": 335,
+      "candidate_uuid": "bf6d3d34-f647-41bb-ad1a-34ca9b0bf2a8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,181 @@
+{
+  "province_name": "นครราชสีมา",
+  "constituency_number": 16,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136002,
+    "1.2": 89343,
+    "2.1": 139348,
+    "2.2": 89343,
+    "2.3": 50005,
+    "3.1": 83955,
+    "3.2": 0,
+    "3.3": 5388,
+    "3.4": 89343,
+    "4.1": 83999,
+    "4.2": 2993,
+    "4.3": 2351
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายตติรัฐ รัตนเศรษฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 32139
+    },
+    {
+      "number": 2,
+      "name": "นายพรเทพ ศิริโรจนกุล",
+      "party": "เพื่อไทย",
+      "votes": 31496
+    },
+    {
+      "number": 5,
+      "name": "นายมาร์ค อุสมาน ปาทาน",
+      "party": "ประชาชน",
+      "votes": 14870
+    },
+    {
+      "number": 9,
+      "name": "นายวีรวิทย์ เชื้อจันอัด",
+      "party": "กล้าธรรม",
+      "votes": 1215
+    },
+    {
+      "number": 8,
+      "name": "นายสมชัย ฉัตรพัฒนศิริ",
+      "party": "พลังประชารัฐ",
+      "votes": 1095
+    },
+    {
+      "number": 10,
+      "name": "เรือโทขุนณรงค์ นวลแก้ว",
+      "party": "เศรษฐกิจ",
+      "votes": 982
+    },
+    {
+      "number": 3,
+      "name": "นายบุญเลิศ ประสิทธิ์นอก",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 916
+    },
+    {
+      "number": 4,
+      "name": "นายภานุมาศ แก้วนอก",
+      "party": "ประชาธิปัตย์",
+      "votes": 586
+    },
+    {
+      "number": 6,
+      "name": "นายเอนก ปักนอก",
+      "party": "ไทยธรรม",
+      "votes": 435
+    },
+    {
+      "number": 7,
+      "name": "นางสาวณันชนันท์ หลอกลาง",
+      "party": "ไทยภักดี",
+      "votes": 265
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/21. นครราชสีมา เขต 16.json",
+  "_validation": {
+    "vote_sum": 83999,
+    "good_votes": 83999,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "30",
+  "province_name_normalized": "นครราชสีมา",
+  "summary": {
+    "eligible_voters": 136002,
+    "voters_came": 89343,
+    "ballots_received": 139348,
+    "ballots_used": 89343,
+    "good_votes": 83999,
+    "invalid_votes": 2993,
+    "no_votes": 2351
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายตติรัฐ รัตนเศรษฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 32139,
+      "candidate_uuid": "582ec4dc-78e2-4a52-ac88-a54a76863083",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพรเทพ ศิริโรจนกุล",
+      "party": "เพื่อไทย",
+      "votes": 31496,
+      "candidate_uuid": "223d723d-fe17-498a-8960-2c8e1d8216d1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายมาร์ค อุสมาน ปาทาน",
+      "party": "ประชาชน",
+      "votes": 14870,
+      "candidate_uuid": "a9c50e03-aa87-458f-83cc-1c2ecf6d154f",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายวีรวิทย์ เชื้อจันอัด",
+      "party": "กล้าธรรม",
+      "votes": 1215,
+      "candidate_uuid": "30e4b5a0-c31a-4ac7-885c-faab8208e01a",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสมชัย ฉัตรพัฒนศิริ",
+      "party": "พลังประชารัฐ",
+      "votes": 1095,
+      "candidate_uuid": "b9ec87e1-a90f-445e-88d8-76a41d908d34",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "เรือโทขุนณรงค์ นวลแก้ว",
+      "party": "เศรษฐกิจ",
+      "votes": 982,
+      "candidate_uuid": "0f32df19-71ac-47c4-8e88-91247711681f",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายบุญเลิศ ประสิทธิ์นอก",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 916,
+      "candidate_uuid": "c926673b-0be4-4366-a78b-f4defd1ce3a4",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายภานุมาศ แก้วนอก",
+      "party": "ประชาธิปัตย์",
+      "votes": 586,
+      "candidate_uuid": "80975c6f-67f1-4929-a5c0-e486afb4efc5",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเอนก ปักนอก",
+      "party": "ไทยธรรม",
+      "votes": 435,
+      "candidate_uuid": "d7a88fa2-d28a-4283-b36b-ec5644e6ed7e",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวณันชนันท์ หลอกลาง",
+      "party": "ไทยภักดี",
+      "votes": 265,
+      "candidate_uuid": "a8ca2d5b-39a4-4961-8b28-29a41a6d13db",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

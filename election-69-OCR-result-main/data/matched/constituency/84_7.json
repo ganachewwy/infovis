@@ -1,0 +1,139 @@
+{
+  "province_name": "สุราษฎร์ธานี",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 120275,
+    "1.2": 96637,
+    "2.1": 124931,
+    "2.2": 96637,
+    "2.3": 28294,
+    "3.1": 92626,
+    "3.2": 5,
+    "3.3": 4006,
+    "3.4": 96637,
+    "4.1": 92005,
+    "4.2": 1980,
+    "4.3": 2652
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายพงษ์ศักดิ์ จ่าแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 40358
+    },
+    {
+      "number": 2,
+      "name": "นายธานินท์ นวลวัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 30081
+    },
+    {
+      "number": 4,
+      "name": "นางสาวฐิติมา รักษ์จินดา",
+      "party": "ประชาธิปัตย์",
+      "votes": 10297
+    },
+    {
+      "number": 1,
+      "name": "ว่าที่ ร.ต.วัชระพงศ์ ฉิมแก้ว",
+      "party": "ประชาชน",
+      "votes": 9372
+    },
+    {
+      "number": 3,
+      "name": "นายสันติ พุทธศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 727
+    },
+    {
+      "number": 7,
+      "name": "นายมาโนช เพ็ชรชู",
+      "party": "ไทยก้าวใหม่",
+      "votes": 689
+    },
+    {
+      "number": 5,
+      "name": "นายวศุธน เรื่องขนาบ",
+      "party": "เพื่อไทย",
+      "votes": 481
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/68. สุราษฎร์ธานี เขต 7.json",
+  "_validation": {
+    "vote_sum": 92005,
+    "good_votes": 92005,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "84",
+  "province_name_normalized": "สุราษฎร์ธานี",
+  "summary": {
+    "eligible_voters": 120275,
+    "voters_came": 96637,
+    "ballots_received": 124931,
+    "ballots_used": 96637,
+    "good_votes": 92005,
+    "invalid_votes": 1980,
+    "no_votes": 2652
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายพงษ์ศักดิ์ จ่าแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 40358,
+      "candidate_uuid": "b25d5100-08c6-492b-b39f-18270ddc2a99",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธานินท์ นวลวัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 30081,
+      "candidate_uuid": "23283551-3f54-49d3-85ff-43fe6b30ecdb",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวฐิติมา รักษ์จินดา",
+      "party": "ประชาธิปัตย์",
+      "votes": 10297,
+      "candidate_uuid": "90a08f78-020d-4328-8e39-87480860e21b",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "ว่าที่ ร.ต.วัชระพงศ์ ฉิมแก้ว",
+      "party": "ประชาชน",
+      "votes": 9372,
+      "candidate_uuid": "43c4d139-9be9-46a3-9b23-6a106ffb5191",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสันติ พุทธศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 727,
+      "candidate_uuid": "da31cf78-dd71-48d9-8a7d-d6de9889fb8a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายมาโนช เพ็ชรชู",
+      "party": "ไทยก้าวใหม่",
+      "votes": 689,
+      "candidate_uuid": "b80d02d2-c60d-4825-8166-f5b2e884fcf4",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวศุธน เรื่องขนาบ",
+      "party": "เพื่อไทย",
+      "votes": 481,
+      "candidate_uuid": "96a41b02-c6ab-4370-bb5d-3428aa8acae3",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

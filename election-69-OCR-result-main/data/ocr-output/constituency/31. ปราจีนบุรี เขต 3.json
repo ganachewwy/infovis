@@ -1,0 +1,57 @@
+{
+  "province_name": "ปราจีนบุรี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132022,
+    "1.2": 93849,
+    "2.1": 136596,
+    "2.2": 93849,
+    "2.3": 42747,
+    "3.1": 90501,
+    "3.2": 3,
+    "3.3": 3344,
+    "3.4": 93848,
+    "4.1": 84347,
+    "4.2": 4694,
+    "4.3": 4807
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายสฤษดิ์ บุตรเนียร",
+      "party": "ภูมิใจไทย",
+      "votes": 45193
+    },
+    {
+      "number": 3,
+      "name": "นายสุนทร คมคาย",
+      "party": "ประชาชน",
+      "votes": 24795
+    },
+    {
+      "number": 1,
+      "name": "นายคงกฤช หงษ์วิไล",
+      "party": "เพื่อไทย",
+      "votes": 10575
+    },
+    {
+      "number": 4,
+      "name": "พันจ่าอากาศ เอนก พรมที",
+      "party": "ประชาธิปัตย์",
+      "votes": 2724
+    },
+    {
+      "number": 5,
+      "name": "นางสาวธนัญภัทร์ ชัญเจริญทรัพย์",
+      "party": "ไทยภักดี",
+      "votes": 1060
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/31. ปราจีนบุรี เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 84347,
+    "good_votes": 84347,
+    "sum_diff_pct": 0.0
+  }
+}

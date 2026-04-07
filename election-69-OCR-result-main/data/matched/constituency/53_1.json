@@ -1,0 +1,125 @@
+{
+  "province_name": "อุตรดิตถ์",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 118176,
+    "1.2": 87587,
+    "2.1": 119652,
+    "2.2": 87587,
+    "2.3": 32065,
+    "3.1": 80494,
+    "3.2": 41,
+    "3.3": 7052,
+    "3.4": 87587,
+    "4.1": 80546,
+    "4.2": 3470,
+    "4.3": 3571
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายพิชญุตม์ พอจิต",
+      "party": "ภูมิใจไทย",
+      "votes": 37418
+    },
+    {
+      "number": 3,
+      "name": "นางสาวอัญชิสา ศุภรักษ์จินดา",
+      "party": "เพื่อไทย",
+      "votes": 20826
+    },
+    {
+      "number": 1,
+      "name": "นางธนัชชา แสนสุขุม",
+      "party": "ประชาชน",
+      "votes": 20371
+    },
+    {
+      "number": 5,
+      "name": "นายอาณัติ วงค์สถาน",
+      "party": "ประชาธิปัตย์",
+      "votes": 893
+    },
+    {
+      "number": 4,
+      "name": "นางสาวดวงใจ มงคลแสงสุรีย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 749
+    },
+    {
+      "number": 6,
+      "name": "นางสาวปภสร เตชารัตนหิรัญ",
+      "party": "กล้าธรรม",
+      "votes": 289
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/75. อุตรดิตถ์ เขต 1.json",
+  "_validation": {
+    "vote_sum": 80546,
+    "good_votes": 80546,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "53",
+  "province_name_normalized": "อุตรดิตถ์",
+  "summary": {
+    "eligible_voters": 118176,
+    "voters_came": 87587,
+    "ballots_received": 119652,
+    "ballots_used": 87587,
+    "good_votes": 80546,
+    "invalid_votes": 3470,
+    "no_votes": 3571
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายพิชญุตม์ พอจิต",
+      "party": "ภูมิใจไทย",
+      "votes": 37418,
+      "candidate_uuid": "73d060f6-b4db-40e8-a8e8-d8b0071516cf",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวอัญชิสา ศุภรักษ์จินดา",
+      "party": "เพื่อไทย",
+      "votes": 20826,
+      "candidate_uuid": "2cbd70fe-eda8-4f15-8a9d-cc26823c35f5",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางธนัชชา แสนสุขุม",
+      "party": "ประชาชน",
+      "votes": 20371,
+      "candidate_uuid": "60148a75-8174-405f-82dd-987354366964",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอาณัติ วงค์สถาน",
+      "party": "ประชาธิปัตย์",
+      "votes": 893,
+      "candidate_uuid": "d9305b89-8ee4-4749-a5c0-c4defbfe2aa0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวดวงใจ มงคลแสงสุรีย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 749,
+      "candidate_uuid": "a46bb5dc-5712-475b-b8b9-d9182c46a54a",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวปภสร เตชารัตนหิรัญ",
+      "party": "กล้าธรรม",
+      "votes": 289,
+      "candidate_uuid": "61ce052a-6b78-44de-b156-ee93c283f1ac",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

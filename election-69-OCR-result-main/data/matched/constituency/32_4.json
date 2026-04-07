@@ -1,0 +1,195 @@
+{
+  "province_name": "สุรินทร์",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139651,
+    "1.2": 85085,
+    "2.1": 145755,
+    "2.2": 85085,
+    "2.3": 60670,
+    "3.1": 76825,
+    "3.2": 0,
+    "3.3": 8260,
+    "3.4": 85085,
+    "4.1": 80530,
+    "4.2": 2402,
+    "4.3": 2153
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นางสาวสุรีย์ ธัมมาตร",
+      "party": "ภูมิใจไทย",
+      "votes": 44913
+    },
+    {
+      "number": 1,
+      "name": "นายพรเทพ พูนศรีธนากูล",
+      "party": "เพื่อไทย",
+      "votes": 14672
+    },
+    {
+      "number": 9,
+      "name": "นายโพธิธวัช พัฒนาพงษ์ไชย",
+      "party": "ประชาชน",
+      "votes": 14535
+    },
+    {
+      "number": 3,
+      "name": "นางชนมณี บุตรวงษ์",
+      "party": "กล้าธรรม",
+      "votes": 1877
+    },
+    {
+      "number": 4,
+      "name": "นายปุณยวัฒน์ สนใจ",
+      "party": "พลังประชารัฐ",
+      "votes": 1118
+    },
+    {
+      "number": 8,
+      "name": "นายสนธิ แสงชมภู",
+      "party": "เศรษฐกิจ",
+      "votes": 913
+    },
+    {
+      "number": 6,
+      "name": "นายยรรยง ผิวอ่อน",
+      "party": "ประชาธิปัตย์",
+      "votes": 740
+    },
+    {
+      "number": 2,
+      "name": "นายทองไท สิทธินาม",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 588
+    },
+    {
+      "number": 11,
+      "name": "นางสุวารี ยืนยง",
+      "party": "ปวงชนไทย",
+      "votes": 407
+    },
+    {
+      "number": 10,
+      "name": "นางสุมาลี เครือผือ",
+      "party": "สร้างชาติ",
+      "votes": 399
+    },
+    {
+      "number": 5,
+      "name": "นางสาวรำไพ เพิ่มทอง",
+      "party": "ใหม่",
+      "votes": 368
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/69. สุรินทร์ เขต 4.json",
+  "_validation": {
+    "vote_sum": 80530,
+    "good_votes": 80530,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "32",
+  "province_name_normalized": "สุรินทร์",
+  "summary": {
+    "eligible_voters": 139651,
+    "voters_came": 85085,
+    "ballots_received": 145755,
+    "ballots_used": 85085,
+    "good_votes": 80530,
+    "invalid_votes": 2402,
+    "no_votes": 2153
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นางสาวสุรีย์ ธัมมาตร",
+      "party": "ภูมิใจไทย",
+      "votes": 44913,
+      "candidate_uuid": "c7278e5c-aac4-4708-a5de-1442ed38e2de",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพรเทพ พูนศรีธนากูล",
+      "party": "เพื่อไทย",
+      "votes": 14672,
+      "candidate_uuid": "c024d471-d10b-4f1a-b677-526fed0b49bd",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายโพธิธวัช พัฒนาพงษ์ไชย",
+      "party": "ประชาชน",
+      "votes": 14535,
+      "candidate_uuid": "711f8eaa-d98c-40bb-9182-82f585e4704a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางชนมณี บุตรวงษ์",
+      "party": "กล้าธรรม",
+      "votes": 1877,
+      "candidate_uuid": "d14cda5b-4f18-49e3-b038-8ddd715f01a5",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายปุณยวัฒน์ สนใจ",
+      "party": "พลังประชารัฐ",
+      "votes": 1118,
+      "candidate_uuid": "9328684a-e150-4491-88d7-e500b9497ddc",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสนธิ แสงชมภู",
+      "party": "เศรษฐกิจ",
+      "votes": 913,
+      "candidate_uuid": "bef2a243-5899-4b39-bb11-53f7d96ac1f3",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายยรรยง ผิวอ่อน",
+      "party": "ประชาธิปัตย์",
+      "votes": 740,
+      "candidate_uuid": "a7827d7e-dbe3-4c25-98db-66762039e65b",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายทองไท สิทธินาม",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 588,
+      "candidate_uuid": "d5103781-935d-4a47-be9c-a161d7db426a",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางสุวารี ยืนยง",
+      "party": "ปวงชนไทย",
+      "votes": 407,
+      "candidate_uuid": "522e09ff-647a-49f3-b54b-33af51052f97",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสุมาลี เครือผือ",
+      "party": "สร้างชาติ",
+      "votes": 399,
+      "candidate_uuid": "11cb3495-7319-406a-b34a-8e2da5f0d4e3",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวรำไพ เพิ่มทอง",
+      "party": "ใหม่",
+      "votes": 368,
+      "candidate_uuid": "38b9ab64-bfc4-49e2-ac86-5e295a4c02b1",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

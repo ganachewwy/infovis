@@ -1,0 +1,181 @@
+{
+  "province_name": "นครศรีธรรมราช",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 141832,
+    "1.2": 100576,
+    "2.1": 143521,
+    "2.2": 100576,
+    "2.3": 42945,
+    "3.1": 93995,
+    "3.2": 2,
+    "3.3": 6579,
+    "3.4": 100576,
+    "4.1": 91714,
+    "4.2": 2927,
+    "4.3": 5935
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นางสาวนันทวัน วิเชียร",
+      "party": "ภูมิใจไทย",
+      "votes": 45334
+    },
+    {
+      "number": 1,
+      "name": "นายเชาวน์วัศ เสนพงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 21111
+    },
+    {
+      "number": 5,
+      "name": "นายจรยุทธ มาศบำรุง",
+      "party": "ประชาชน",
+      "votes": 11586
+    },
+    {
+      "number": 4,
+      "name": "นายเจริญ ชินวงศ์",
+      "party": "กล้าธรรม",
+      "votes": 6989
+    },
+    {
+      "number": 2,
+      "name": "นายนนทิวรรธน์ นนทภักดิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 4157
+    },
+    {
+      "number": 7,
+      "name": "นายทศพร แซ่ชิ้น",
+      "party": "เศรษฐกิจ",
+      "votes": 1077
+    },
+    {
+      "number": 6,
+      "name": "นางวิไลลักษณ์ คชพันธ์",
+      "party": "เพื่อไทย",
+      "votes": 842
+    },
+    {
+      "number": 8,
+      "name": "นายปัญโน หวานนุรักษ์",
+      "party": "พลวัต",
+      "votes": 307
+    },
+    {
+      "number": 9,
+      "name": "นายสิทธิพงศ์ ชูวงค์",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 200
+    },
+    {
+      "number": 10,
+      "name": "นายนพดล กาญจนรักษ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 111
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/22. นครศรีธรรมราช เขต 2.json",
+  "_validation": {
+    "vote_sum": 91714,
+    "good_votes": 91714,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "80",
+  "province_name_normalized": "นครศรีธรรมราช",
+  "summary": {
+    "eligible_voters": 141832,
+    "voters_came": 100576,
+    "ballots_received": 143521,
+    "ballots_used": 100576,
+    "good_votes": 91714,
+    "invalid_votes": 2927,
+    "no_votes": 5935
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นางสาวนันทวัน วิเชียร",
+      "party": "ภูมิใจไทย",
+      "votes": 45334,
+      "candidate_uuid": "7cba6b73-d849-4e6c-8c82-f4d0f1ac45e8",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเชาวน์วัศ เสนพงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 21111,
+      "candidate_uuid": "7a846868-2c76-472c-96bf-40cc2e566c20",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายจรยุทธ มาศบำรุง",
+      "party": "ประชาชน",
+      "votes": 11586,
+      "candidate_uuid": "277f8bf7-6d36-4768-8565-fce9090aa8ec",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายเจริญ ชินวงศ์",
+      "party": "กล้าธรรม",
+      "votes": 6989,
+      "candidate_uuid": "ef3a80b2-5165-412f-b2e3-69f6f1f313f7",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนนทิวรรธน์ นนทภักดิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 4157,
+      "candidate_uuid": "e8b35e29-c71c-4878-b13d-e7b8496e66e3",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายทศพร แซ่ชิ้น",
+      "party": "เศรษฐกิจ",
+      "votes": 1077,
+      "candidate_uuid": "eef7f4c6-ec7c-4822-834c-62889d32a62e",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางวิไลลักษณ์ คชพันธ์",
+      "party": "เพื่อไทย",
+      "votes": 842,
+      "candidate_uuid": "35abccb3-d3c8-4321-9293-c5a8e81be974",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายปัญโน หวานนุรักษ์",
+      "party": "พลวัต",
+      "votes": 307,
+      "candidate_uuid": "d4186775-0866-4d6a-b866-b506f5964aad",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสิทธิพงศ์ ชูวงค์",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 200,
+      "candidate_uuid": "4d94a2de-3535-472a-a677-e41e435cd849",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายนพดล กาญจนรักษ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 111,
+      "candidate_uuid": "3ab3e176-1443-419a-b9e0-66b30688fe6f",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "ยะลา",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 134281,
+    "1.2": 96577,
+    "2.1": 134400,
+    "2.2": 96577,
+    "2.3": 37823,
+    "3.1": 92950,
+    "3.2": 1,
+    "3.3": 3626,
+    "3.4": 96577,
+    "4.1": 87642,
+    "4.2": 5217,
+    "4.3": 3718
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายซูการ์โน มะทา",
+      "party": "ประชาชาติ",
+      "votes": 46972
+    },
+    {
+      "number": 6,
+      "name": "นายสุกรี มะเต๊ะ",
+      "party": "ภูมิใจไทย",
+      "votes": 24226
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนูรฮายาตี สาเมาะ",
+      "party": "ประชาชน",
+      "votes": 9570
+    },
+    {
+      "number": 7,
+      "name": "นายธรนินทร์ ยะมาแล",
+      "party": "ประชาธิปัตย์",
+      "votes": 3060
+    },
+    {
+      "number": 5,
+      "name": "ว่าที่ร้อยตรี อับดุลฮาฟิซ หิเล",
+      "party": "กล้าธรรม",
+      "votes": 1406
+    },
+    {
+      "number": 2,
+      "name": "นายสาการียา เลาะยะผา",
+      "party": "เพื่อไทย",
+      "votes": 1105
+    },
+    {
+      "number": 4,
+      "name": "นายไซด์นอน แวหามะ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 821
+    },
+    {
+      "number": 8,
+      "name": "นายสะมาแอ มะดีเยาะ",
+      "party": "ไทยพร้อม",
+      "votes": 482
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/47. ยะลา เขต 2.json",
+  "_validation": {
+    "vote_sum": 87642,
+    "good_votes": 87642,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "95",
+  "province_name_normalized": "ยะลา",
+  "summary": {
+    "eligible_voters": 134281,
+    "voters_came": 96577,
+    "ballots_received": 134400,
+    "ballots_used": 96577,
+    "good_votes": 87642,
+    "invalid_votes": 5217,
+    "no_votes": 3718
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายซูการ์โน มะทา",
+      "party": "ประชาชาติ",
+      "votes": 46972,
+      "candidate_uuid": "fb07f3d0-e968-487c-8a5e-8dd07f700137",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสุกรี มะเต๊ะ",
+      "party": "ภูมิใจไทย",
+      "votes": 24226,
+      "candidate_uuid": "81e0e192-d6bc-4d7a-b9a3-cafff54a4fe3",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนูรฮายาตี สาเมาะ",
+      "party": "ประชาชน",
+      "votes": 9570,
+      "candidate_uuid": "ce8502de-f6e4-4c5f-9473-346ed10102b5",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายธรนินทร์ ยะมาแล",
+      "party": "ประชาธิปัตย์",
+      "votes": 3060,
+      "candidate_uuid": "e2f5510c-c233-4d9e-ad49-032f034dbdfe",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "ว่าที่ร้อยตรี อับดุลฮาฟิซ หิเล",
+      "party": "กล้าธรรม",
+      "votes": 1406,
+      "candidate_uuid": "69f44f25-2f23-46a6-a22b-1a218a542b8e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสาการียา เลาะยะผา",
+      "party": "เพื่อไทย",
+      "votes": 1105,
+      "candidate_uuid": "5f6c3a3c-a8f9-4e2f-b860-3b28587fcb25",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายไซด์นอน แวหามะ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 821,
+      "candidate_uuid": "368d304b-ec40-441b-8b5a-783230e70991",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสะมาแอ มะดีเยาะ",
+      "party": "ไทยพร้อม",
+      "votes": 482,
+      "candidate_uuid": "9d547487-e9fc-428f-a88b-f63d27f8349b",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

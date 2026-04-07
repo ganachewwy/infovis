@@ -1,0 +1,181 @@
+{
+  "province_name": "กาฬสินธุ์",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 135642,
+    "1.2": 95812,
+    "2.1": 137065,
+    "2.2": 95812,
+    "2.3": 41253,
+    "3.1": 87936,
+    "3.2": 25,
+    "3.3": 7851,
+    "3.4": 95812,
+    "4.1": 91466,
+    "4.2": 2483,
+    "4.3": 1863
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายชนะวุธ อุทโท",
+      "party": "เพื่อไทย",
+      "votes": 59665
+    },
+    {
+      "number": 6,
+      "name": "นายประเสริฐ บุญเรื่อง",
+      "party": "ภูมิใจไทย",
+      "votes": 15141
+    },
+    {
+      "number": 4,
+      "name": "นายสุขพัฒน์ คุณธวงศ์",
+      "party": "ประชาชน",
+      "votes": 13120
+    },
+    {
+      "number": 9,
+      "name": "นายจุฬา ศรีบุตตะ",
+      "party": "พลังประชารัฐ",
+      "votes": 1269
+    },
+    {
+      "number": 2,
+      "name": "นายภูมิพิพัฒน์ ไชยทองศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 787
+    },
+    {
+      "number": 8,
+      "name": "นายณัฏฐพงศ์ โพธะศรี",
+      "party": "เศรษฐกิจ",
+      "votes": 452
+    },
+    {
+      "number": 1,
+      "name": "นายปรีชา นันอำไพ",
+      "party": "ประชาธิปัตย์",
+      "votes": 425
+    },
+    {
+      "number": 7,
+      "name": "นายสุรพงษ์ พลชื่อ",
+      "party": "กล้าธรรม",
+      "votes": 337
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐวัฒน์ กาฬหว้า",
+      "party": "พลวัต",
+      "votes": 176
+    },
+    {
+      "number": 10,
+      "name": "นางสาววรัญญา เพียรสดับ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 94
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/4. กาฬสินธุ์ เขต 6.json",
+  "_validation": {
+    "vote_sum": 91466,
+    "good_votes": 91466,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "46",
+  "province_name_normalized": "กาฬสินธุ์",
+  "summary": {
+    "eligible_voters": 135642,
+    "voters_came": 95812,
+    "ballots_received": 137065,
+    "ballots_used": 95812,
+    "good_votes": 91466,
+    "invalid_votes": 2483,
+    "no_votes": 1863
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายชนะวุธ อุทโท",
+      "party": "เพื่อไทย",
+      "votes": 59665,
+      "candidate_uuid": "323c9d91-e0af-4d98-bba9-e5984ec2704e",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายประเสริฐ บุญเรื่อง",
+      "party": "ภูมิใจไทย",
+      "votes": 15141,
+      "candidate_uuid": "b9ac9eb7-2909-412e-9b62-2f0f7f7045a9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสุขพัฒน์ คุณธวงศ์",
+      "party": "ประชาชน",
+      "votes": 13120,
+      "candidate_uuid": "34ed6f5c-6b08-4fb6-aa9c-1405499a9af5",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายจุฬา ศรีบุตตะ",
+      "party": "พลังประชารัฐ",
+      "votes": 1269,
+      "candidate_uuid": "aa745196-14a8-42ab-bc8c-73b9e5b98a5b",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายภูมิพิพัฒน์ ไชยทองศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 787,
+      "candidate_uuid": "93f3096d-4fd3-440c-aa98-afef134f9b10",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายณัฏฐพงศ์ โพธะศรี",
+      "party": "เศรษฐกิจ",
+      "votes": 452,
+      "candidate_uuid": "8f2fb7d9-d7fe-4adc-86b9-1debce6d0fd1",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายปรีชา นันอำไพ",
+      "party": "ประชาธิปัตย์",
+      "votes": 425,
+      "candidate_uuid": "578ed709-4adf-4d69-b601-489799934570",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุรพงษ์ พลชื่อ",
+      "party": "กล้าธรรม",
+      "votes": 337,
+      "candidate_uuid": "c32bdddb-7fda-4ea6-9482-574fff57daee",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐวัฒน์ กาฬหว้า",
+      "party": "พลวัต",
+      "votes": 176,
+      "candidate_uuid": "fc6b583b-cd96-46db-b8aa-fd5f6f3a10f9",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาววรัญญา เพียรสดับ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 94,
+      "candidate_uuid": "8c6e7db5-6b93-4a7d-ab7f-06d5b9bb3695",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

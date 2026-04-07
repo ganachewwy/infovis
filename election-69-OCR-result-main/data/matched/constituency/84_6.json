@@ -1,0 +1,139 @@
+{
+  "province_name": "สุราษฎร์ธานี",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 125056,
+    "1.2": 102222,
+    "2.1": 127056,
+    "2.2": 102222,
+    "2.3": 24834,
+    "3.1": 98116,
+    "3.2": 4,
+    "3.3": 4102,
+    "3.4": 102222,
+    "4.1": 98147,
+    "4.2": 2256,
+    "4.3": 1819
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายพิชัย ชมภูพล",
+      "party": "ภูมิใจไทย",
+      "votes": 31707
+    },
+    {
+      "number": 5,
+      "name": "นางสาวอนงค์นาถ จ่าแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 30432
+    },
+    {
+      "number": 4,
+      "name": "นางสาวศิริพรรณ ประจง",
+      "party": "ประชาธิปัตย์",
+      "votes": 15700
+    },
+    {
+      "number": 3,
+      "name": "นายนิรัตน์ ลิ้นเกลื่อน",
+      "party": "ไทรวมพลัง",
+      "votes": 13810
+    },
+    {
+      "number": 2,
+      "name": "นายบุญยงค์ จรัสจรูญฤทธิ์",
+      "party": "ประชาชน",
+      "votes": 5787
+    },
+    {
+      "number": 1,
+      "name": "นางสาวกัญญารัตน์ เพ็งสวัสดิ์",
+      "party": "เพื่อไทย",
+      "votes": 595
+    },
+    {
+      "number": 7,
+      "name": "นายถนอม ศักดิ์เพชร",
+      "party": "ทางเลือกใหม่",
+      "votes": 116
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/68. สุราษฎร์ธานี เขต 6.json",
+  "_validation": {
+    "vote_sum": 98147,
+    "good_votes": 98147,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "84",
+  "province_name_normalized": "สุราษฎร์ธานี",
+  "summary": {
+    "eligible_voters": 125056,
+    "voters_came": 102222,
+    "ballots_received": 127056,
+    "ballots_used": 102222,
+    "good_votes": 98147,
+    "invalid_votes": 2256,
+    "no_votes": 1819
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายพิชัย ชมภูพล",
+      "party": "ภูมิใจไทย",
+      "votes": 31707,
+      "candidate_uuid": "59968577-531d-4c24-9833-d435522fbf3a",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวอนงค์นาถ จ่าแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 30432,
+      "candidate_uuid": "599aa40a-42ea-4e6d-8654-a437c93e9994",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวศิริพรรณ ประจง",
+      "party": "ประชาธิปัตย์",
+      "votes": 15700,
+      "candidate_uuid": "bb2245df-8428-47e5-b4e1-c7bd3cad4966",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายนิรัตน์ ลิ้นเกลื่อน",
+      "party": "ไทรวมพลัง",
+      "votes": 13810,
+      "candidate_uuid": "3d3883bb-3bf4-4df7-8a44-9c0b6359e237",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายบุญยงค์ จรัสจรูญฤทธิ์",
+      "party": "ประชาชน",
+      "votes": 5787,
+      "candidate_uuid": "284136b0-e3af-432b-a143-ab968020f7ec",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวกัญญารัตน์ เพ็งสวัสดิ์",
+      "party": "เพื่อไทย",
+      "votes": 595,
+      "candidate_uuid": "27725535-ab5a-4cf2-ba96-6b6cf3c8be70",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายถนอม ศักดิ์เพชร",
+      "party": "ทางเลือกใหม่",
+      "votes": 116,
+      "candidate_uuid": "644ba6b2-c639-43fe-af21-93281c5a8ce0",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

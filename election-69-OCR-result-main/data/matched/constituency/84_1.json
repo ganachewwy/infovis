@@ -1,0 +1,167 @@
+{
+  "province_name": "สุราษฎร์ธานี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 117091,
+    "1.2": 83141,
+    "2.1": 112780,
+    "2.2": 83141,
+    "2.3": 29639,
+    "3.1": 75253,
+    "3.2": 49,
+    "3.3": 7839,
+    "3.4": 83141,
+    "4.1": 76258,
+    "4.2": 1679,
+    "4.3": 5204
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายรัฐภัทร์ พัฒนาศิริรักษ์",
+      "party": "ประชาชน",
+      "votes": 23183
+    },
+    {
+      "number": 2,
+      "name": "นายกฤตภาส พรหมมากรณ์",
+      "party": "เพื่อไทย",
+      "votes": 926
+    },
+    {
+      "number": 3,
+      "name": "นางสาวกานสินี โอภาสรังสรรค์",
+      "party": "ภูมิใจไทย",
+      "votes": 27647
+    },
+    {
+      "number": 4,
+      "name": "นายวัชระ เพชรทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 18486
+    },
+    {
+      "number": 5,
+      "name": "นายเธียรทัศน์ เอี่ยมตระกูล",
+      "party": "พลังประชารัฐ",
+      "votes": 3539
+    },
+    {
+      "number": 6,
+      "name": "นายศิธา วงศ์วรพรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 884
+    },
+    {
+      "number": 7,
+      "name": "นายชาติพงศ์ กุลรัตน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 817
+    },
+    {
+      "number": 8,
+      "name": "นายนุกูล พูลสวัสดิ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 564
+    },
+    {
+      "number": 9,
+      "name": "นายวัชระ ไชยชำนิ",
+      "party": "ทางเลือกใหม่",
+      "votes": 212
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/68. สุราษฎร์ธานี เขต 1.json",
+  "_validation": {
+    "vote_sum": 76258,
+    "good_votes": 76258,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "84",
+  "province_name_normalized": "สุราษฎร์ธานี",
+  "summary": {
+    "eligible_voters": 117091,
+    "voters_came": 83141,
+    "ballots_received": 112780,
+    "ballots_used": 83141,
+    "good_votes": 76258,
+    "invalid_votes": 1679,
+    "no_votes": 5204
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายรัฐภัทร์ พัฒนาศิริรักษ์",
+      "party": "ประชาชน",
+      "votes": 23183,
+      "candidate_uuid": "ce7bfc02-c621-466f-bedf-ab212612c2a1",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายกฤตภาส พรหมมากรณ์",
+      "party": "เพื่อไทย",
+      "votes": 926,
+      "candidate_uuid": "c57b56f0-5237-4def-8a96-91252aa23de7",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวกานสินี โอภาสรังสรรค์",
+      "party": "ภูมิใจไทย",
+      "votes": 27647,
+      "candidate_uuid": "dfc47e54-7a93-4103-b12c-de976d491c8d",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวัชระ เพชรทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 18486,
+      "candidate_uuid": "c67e8b48-5b54-48c2-8ce5-bf0767e62eb1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเธียรทัศน์ เอี่ยมตระกูล",
+      "party": "พลังประชารัฐ",
+      "votes": 3539,
+      "candidate_uuid": "2aa8406e-a5db-4cbf-9f0d-a2458e4b92b3",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายศิธา วงศ์วรพรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 884,
+      "candidate_uuid": "c6f5cbe2-aa69-418a-8514-dd8091580a01",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายชาติพงศ์ กุลรัตน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 817,
+      "candidate_uuid": "cd2b19e0-7a6a-4c2e-8ca9-e42812296388",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายนุกูล พูลสวัสดิ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 564,
+      "candidate_uuid": "9edf386b-23d2-4b51-aebe-f78cf51c567c",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายวัชระ ไชยชำนิ",
+      "party": "ทางเลือกใหม่",
+      "votes": 212,
+      "candidate_uuid": "d4284f06-0fc5-4999-aa20-c57b96ae7df4",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

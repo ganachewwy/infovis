@@ -1,0 +1,167 @@
+{
+  "province_name": "ปทุมธานี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128907,
+    "1.2": 102812,
+    "2.1": 143800,
+    "2.2": 102812,
+    "2.3": 40988,
+    "3.1": 99978,
+    "3.2": 17,
+    "3.3": 2817,
+    "3.4": 102812,
+    "4.1": 97032,
+    "4.2": 2027,
+    "4.3": 3753
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายศุภชัย นพขำ",
+      "party": "เพื่อไทย",
+      "votes": 36340
+    },
+    {
+      "number": 2,
+      "name": "นายวรชิต จันทร์แบบ",
+      "party": "ประชาชน",
+      "votes": 31579
+    },
+    {
+      "number": 7,
+      "name": "นางสาวชิดชนก พวงเพ็ชร์",
+      "party": "ภูมิใจไทย",
+      "votes": 23496
+    },
+    {
+      "number": 5,
+      "name": "นายปราโมทย์ อัศวมานะศักดิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1651
+    },
+    {
+      "number": 3,
+      "name": "นายนิวัฒน์ บุปผามาโล",
+      "party": "เศรษฐกิจ",
+      "votes": 1037
+    },
+    {
+      "number": 4,
+      "name": "นายวิชัย แก้วทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 991
+    },
+    {
+      "number": 6,
+      "name": "นางสาวปิยาภรณ์ ไตลังคะ",
+      "party": "รักชาติ",
+      "votes": 773
+    },
+    {
+      "number": 8,
+      "name": "นายชัยอนันต์ สิริเบญสานนท์",
+      "party": "กล้าธรรม",
+      "votes": 727
+    },
+    {
+      "number": 9,
+      "name": "นายสมัย รามัญอุดม",
+      "party": "พลังประชารัฐ",
+      "votes": 438
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/29. ปทุมธานี เขต 2.json",
+  "_validation": {
+    "vote_sum": 97032,
+    "good_votes": 97032,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "13",
+  "province_name_normalized": "ปทุมธานี",
+  "summary": {
+    "eligible_voters": 128907,
+    "voters_came": 102812,
+    "ballots_received": 143800,
+    "ballots_used": 102812,
+    "good_votes": 97032,
+    "invalid_votes": 2027,
+    "no_votes": 3753
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายศุภชัย นพขำ",
+      "party": "เพื่อไทย",
+      "votes": 36340,
+      "candidate_uuid": "2722168f-acae-4a3c-8f27-b03fd7d65cab",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวรชิต จันทร์แบบ",
+      "party": "ประชาชน",
+      "votes": 31579,
+      "candidate_uuid": "536a3ed2-b903-4817-9f53-aabc2960715d",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวชิดชนก พวงเพ็ชร์",
+      "party": "ภูมิใจไทย",
+      "votes": 23496,
+      "candidate_uuid": "489e2f51-067c-491c-a8b1-baf040f1768a",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายปราโมทย์ อัศวมานะศักดิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1651,
+      "candidate_uuid": "6c77bf13-652f-49c3-bd8e-b611e51d1cf3",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายนิวัฒน์ บุปผามาโล",
+      "party": "เศรษฐกิจ",
+      "votes": 1037,
+      "candidate_uuid": "b2e21e4f-baf1-4b77-8c42-89447c4dafb1",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิชัย แก้วทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 991,
+      "candidate_uuid": "e8e3d436-be9a-44cf-8eee-4a14fa984072",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวปิยาภรณ์ ไตลังคะ",
+      "party": "รักชาติ",
+      "votes": 773,
+      "candidate_uuid": "b364a65a-f8ec-463a-8986-251edb5a2df5",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชัยอนันต์ สิริเบญสานนท์",
+      "party": "กล้าธรรม",
+      "votes": 727,
+      "candidate_uuid": "cf499cb7-f9b7-46b4-80aa-f30f16eb91db",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสมัย รามัญอุดม",
+      "party": "พลังประชารัฐ",
+      "votes": 438,
+      "candidate_uuid": "0e193b12-7cdf-4e44-ae9c-eaf0e3a44e81",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,307 @@
+{
+  "province_name": "นครราชสีมา",
+  "constituency_number": 10,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 138131,
+    "1.2": 112031,
+    "2.1": 141885,
+    "2.2": 112031,
+    "2.3": 29854,
+    "3.1": 108167,
+    "3.2": 4,
+    "3.3": 3860,
+    "3.4": 112031,
+    "4.1": 101587,
+    "4.2": 6762,
+    "4.3": 3682
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 360
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 4669
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 589
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 405
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 1174
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1803
+    },
+    {
+      "number": 7,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1963
+    },
+    {
+      "number": 8,
+      "party": "เพื่อไทย",
+      "votes": 17715
+    },
+    {
+      "number": 9,
+      "party": "ทางเลือกใหม่",
+      "votes": 541
+    },
+    {
+      "number": 10,
+      "party": "เศรษฐกิจ",
+      "votes": 6436
+    },
+    {
+      "number": 11,
+      "party": "เสรีรวมไทย",
+      "votes": 572
+    },
+    {
+      "number": 12,
+      "party": "รวมพลังประชาชน",
+      "votes": 623
+    },
+    {
+      "number": 13,
+      "party": "ท้องที่ไทย",
+      "votes": 53
+    },
+    {
+      "number": 14,
+      "party": "อนาคตไทย",
+      "votes": 139
+    },
+    {
+      "number": 15,
+      "party": "พลังเพื่อไทย",
+      "votes": 305
+    },
+    {
+      "number": 16,
+      "party": "ไทยชนะ",
+      "votes": 179
+    },
+    {
+      "number": 17,
+      "party": "หลังสังคมใหม่",
+      "votes": 43
+    },
+    {
+      "number": 18,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 46
+    },
+    {
+      "number": 19,
+      "party": "ฟิวชัน",
+      "votes": 26
+    },
+    {
+      "number": 20,
+      "party": "ไทรวมพลัง",
+      "votes": 104
+    },
+    {
+      "number": 21,
+      "party": "ก้าวอิสระ",
+      "votes": 36
+    },
+    {
+      "number": 22,
+      "party": "ปวงชนไทย",
+      "votes": 60
+    },
+    {
+      "number": 23,
+      "party": "วิชชันใหม่",
+      "votes": 65
+    },
+    {
+      "number": 24,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 27
+    },
+    {
+      "number": 25,
+      "party": "คลองไทย",
+      "votes": 67
+    },
+    {
+      "number": 26,
+      "party": "ประชาธิปัตย์",
+      "votes": 2849
+    },
+    {
+      "number": 27,
+      "party": "ไทยก้าวหน้า",
+      "votes": 135
+    },
+    {
+      "number": 28,
+      "party": "ไทยภักดี",
+      "votes": 492
+    },
+    {
+      "number": 29,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 148
+    },
+    {
+      "number": 30,
+      "party": "ประชากรไทย",
+      "votes": 298
+    },
+    {
+      "number": 31,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 244
+    },
+    {
+      "number": 32,
+      "party": "ประชาชาติ",
+      "votes": 145
+    },
+    {
+      "number": 33,
+      "party": "สร้างอนาคตไทย",
+      "votes": 202
+    },
+    {
+      "number": 34,
+      "party": "รักชาติ",
+      "votes": 192
+    },
+    {
+      "number": 35,
+      "party": "ไทยพร้อม",
+      "votes": 316
+    },
+    {
+      "number": 36,
+      "party": "ภูมิใจไทย",
+      "votes": 28421
+    },
+    {
+      "number": 37,
+      "party": "พลังธรรมใหม่",
+      "votes": 278
+    },
+    {
+      "number": 38,
+      "party": "กรีน",
+      "votes": 63
+    },
+    {
+      "number": 39,
+      "party": "ไทยธรรม",
+      "votes": 90
+    },
+    {
+      "number": 40,
+      "party": "แผ่นดินธรรม",
+      "votes": 31
+    },
+    {
+      "number": 41,
+      "party": "กล้าธรรม",
+      "votes": 170
+    },
+    {
+      "number": 42,
+      "party": "พลังประชารัฐ",
+      "votes": 197
+    },
+    {
+      "number": 43,
+      "party": "โอกาสใหม่",
+      "votes": 1239
+    },
+    {
+      "number": 44,
+      "party": "เป็นธรรม",
+      "votes": 73
+    },
+    {
+      "number": 45,
+      "party": "ประชาชน",
+      "votes": 26222
+    },
+    {
+      "number": 46,
+      "party": "ประชาไทย",
+      "votes": 239
+    },
+    {
+      "number": 47,
+      "party": "ไทยสร้างไทย",
+      "votes": 305
+    },
+    {
+      "number": 48,
+      "party": "ไทยก้าวใหม่",
+      "votes": 193
+    },
+    {
+      "number": 49,
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "number": 50,
+      "party": "พร้อม",
+      "votes": 71
+    },
+    {
+      "number": 51,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 26
+    },
+    {
+      "number": 52,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "number": 53,
+      "party": "ความหวังใหม่",
+      "votes": 41
+    },
+    {
+      "number": 54,
+      "party": "ไทยรวมไทย",
+      "votes": 26
+    },
+    {
+      "number": 55,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 36
+    },
+    {
+      "number": 56,
+      "party": "พลังไทยรักชาติ",
+      "votes": 120
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/21. นครราชสีมา เขต 10 (บช).pdf",
+  "_validation": {
+    "vote_sum": 100890,
+    "good_votes": 101587,
+    "sum_diff_pct": 0.69
+  }
+}

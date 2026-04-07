@@ -1,0 +1,97 @@
+{
+  "province_name": "อุทัยธานี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127311,
+    "1.2": 84560,
+    "2.1": 127820,
+    "2.2": 84560,
+    "2.3": 43260,
+    "3.1": 79079,
+    "3.2": 24,
+    "3.3": 5457,
+    "3.4": 84560,
+    "4.1": 76524,
+    "4.2": 3381,
+    "4.3": 4655
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายเจเศรษฐ์ ไทยเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 56483
+    },
+    {
+      "number": 3,
+      "name": "นายเดชา คงคา",
+      "party": "ประชาชน",
+      "votes": 13059
+    },
+    {
+      "number": 1,
+      "name": "นายธนาคร อุนจะนำ",
+      "party": "เพื่อไทย",
+      "votes": 4515
+    },
+    {
+      "number": 4,
+      "name": "นายวิทยา จันทร์สม",
+      "party": "ประชาธิปัตย์",
+      "votes": 2467
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/76. อุทัยธานี เขต 1.json",
+  "_validation": {
+    "vote_sum": 76524,
+    "good_votes": 76524,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "61",
+  "province_name_normalized": "อุทัยธานี",
+  "summary": {
+    "eligible_voters": 127311,
+    "voters_came": 84560,
+    "ballots_received": 127820,
+    "ballots_used": 84560,
+    "good_votes": 76524,
+    "invalid_votes": 3381,
+    "no_votes": 4655
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายเจเศรษฐ์ ไทยเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 56483,
+      "candidate_uuid": "651295c5-576e-4d8c-9933-ae1f2f735964",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเดชา คงคา",
+      "party": "ประชาชน",
+      "votes": 13059,
+      "candidate_uuid": "781bc017-9d3a-42d5-91d7-1d9b14a89362",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายธนาคร อุนจะนำ",
+      "party": "เพื่อไทย",
+      "votes": 4515,
+      "candidate_uuid": "cbee9161-0a39-428d-a853-df748bac6aff",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิทยา จันทร์สม",
+      "party": "ประชาธิปัตย์",
+      "votes": 2467,
+      "candidate_uuid": "053652c2-3208-4b95-b0ff-94b317be9647",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

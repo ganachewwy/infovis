@@ -1,0 +1,125 @@
+{
+  "province_name": "นครนายก",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 108945,
+    "1.2": 87699,
+    "2.1": 113648,
+    "2.2": 87699,
+    "2.3": 25949,
+    "3.1": 84705,
+    "3.2": 6,
+    "3.3": 2988,
+    "3.4": 87699,
+    "4.1": 80797,
+    "4.2": 3277,
+    "4.3": 3625
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายเกรียงไกร กิตติธเนศวร",
+      "party": "ภูมิใจไทย",
+      "votes": 34897
+    },
+    {
+      "number": 4,
+      "name": "นายวุฒิชัย กิตติธเนศวร",
+      "party": "กล้าธรรม",
+      "votes": 29375
+    },
+    {
+      "number": 2,
+      "name": "นายสำราญ ตลับเพ็ชร์",
+      "party": "ประชาชน",
+      "votes": 13388
+    },
+    {
+      "number": 3,
+      "name": "นายธนานุพงษ์ มีมา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1404
+    },
+    {
+      "number": 5,
+      "name": "นายสมชาย หวังสวัสดิ์",
+      "party": "พลังประชารัฐ",
+      "votes": 964
+    },
+    {
+      "number": 1,
+      "name": "ร้อยตำรวจเอก ธวัชชัย ถนนทอง",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 769
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/18. นครนายก เขต 2.json",
+  "_validation": {
+    "vote_sum": 80797,
+    "good_votes": 80797,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "26",
+  "province_name_normalized": "นครนายก",
+  "summary": {
+    "eligible_voters": 108945,
+    "voters_came": 87699,
+    "ballots_received": 113648,
+    "ballots_used": 87699,
+    "good_votes": 80797,
+    "invalid_votes": 3277,
+    "no_votes": 3625
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายเกรียงไกร กิตติธเนศวร",
+      "party": "ภูมิใจไทย",
+      "votes": 34897,
+      "candidate_uuid": "1addca56-caec-4d78-bd6c-042928f48ba7",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวุฒิชัย กิตติธเนศวร",
+      "party": "กล้าธรรม",
+      "votes": 29375,
+      "candidate_uuid": "b8f65d0a-7f86-4554-abb1-ae9bfbea15e9",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสำราญ ตลับเพ็ชร์",
+      "party": "ประชาชน",
+      "votes": 13388,
+      "candidate_uuid": "a9e18273-324e-4a2b-b0e2-612d45820c0b",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธนานุพงษ์ มีมา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1404,
+      "candidate_uuid": "e6848e17-2c47-4c25-8b15-f42c960794e0",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสมชาย หวังสวัสดิ์",
+      "party": "พลังประชารัฐ",
+      "votes": 964,
+      "candidate_uuid": "a70ad15b-ac3c-4205-b353-587408961641",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "ร้อยตำรวจเอก ธวัชชัย ถนนทอง",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 769,
+      "candidate_uuid": "0228b28a-d78c-4878-838b-0cf1a059f439",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

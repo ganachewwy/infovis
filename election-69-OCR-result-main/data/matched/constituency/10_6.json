@@ -1,0 +1,265 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 143091,
+    "1.2": 100871,
+    "2.1": 141800,
+    "2.2": 100871,
+    "2.3": 40929,
+    "3.1": 95035,
+    "3.2": 161,
+    "3.3": 5675,
+    "3.4": 100871,
+    "4.1": 94391,
+    "4.2": 1412,
+    "4.3": 5068
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายกัณตภณ ดวงอัมพร",
+      "party": "ประชาชน",
+      "votes": 43239
+    },
+    {
+      "number": 5,
+      "name": "นางสาวศิริภา อินทวิเชียร",
+      "party": "ประชาธิปัตย์",
+      "votes": 12848
+    },
+    {
+      "number": 13,
+      "name": "นายนรเสฏฐ์ เธียรประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 12088
+    },
+    {
+      "number": 11,
+      "name": "นางสาวอรพินทร์ เพชรทัต",
+      "party": "โอกาสใหม่",
+      "votes": 10856
+    },
+    {
+      "number": 4,
+      "name": "นายสหัสวรรษ วีระมงคลกุล",
+      "party": "เพื่อไทย",
+      "votes": 6380
+    },
+    {
+      "number": 3,
+      "name": "นายชณทัต ปัทะมะภูวดล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2468
+    },
+    {
+      "number": 14,
+      "name": "นายอัศวิน อัศวินวิจตร",
+      "party": "เศรษฐกิจ",
+      "votes": 1679
+    },
+    {
+      "number": 6,
+      "name": "นายอิง อิงคตานุวัฒน์",
+      "party": "ไทยภักดี",
+      "votes": 1388
+    },
+    {
+      "number": 9,
+      "name": "พลตรีดนัย ดิษาภิรมย์",
+      "party": "ไทยสร้างไทย",
+      "votes": 1306
+    },
+    {
+      "number": 1,
+      "name": "นายโชติพงศ์ สรรเสริญ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 764
+    },
+    {
+      "number": 10,
+      "name": "นายกชพล จิตต์มั่นการ",
+      "party": "พลวัต",
+      "votes": 317
+    },
+    {
+      "number": 8,
+      "name": "นายวรวิช กมลโชติรส",
+      "party": "รักชาติ",
+      "votes": 300
+    },
+    {
+      "number": 2,
+      "name": "นายณรงค์ชัย เมืองครอง",
+      "party": "กล้าธรรม",
+      "votes": 247
+    },
+    {
+      "number": 12,
+      "name": "นายเจนวิทย์ สิริญาณสรณ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 198
+    },
+    {
+      "number": 16,
+      "name": "นางสาวจงชนก พัชรประภากร",
+      "party": "ปวงชนไทย",
+      "votes": 186
+    },
+    {
+      "number": 15,
+      "name": "นายสมชาย คงศิริวงค์",
+      "party": "ฟิวชน",
+      "votes": 127
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 6.json",
+  "_validation": {
+    "vote_sum": 94391,
+    "good_votes": 94391,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 143091,
+    "voters_came": 100871,
+    "ballots_received": 141800,
+    "ballots_used": 100871,
+    "good_votes": 94391,
+    "invalid_votes": 1412,
+    "no_votes": 5068
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นายกัณตภณ ดวงอัมพร",
+      "party": "ประชาชน",
+      "votes": 43239,
+      "candidate_uuid": "ecbfe23c-90ca-49f2-923e-8db63d802c16",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวศิริภา อินทวิเชียร",
+      "party": "ประชาธิปัตย์",
+      "votes": 12848,
+      "candidate_uuid": "6640f2c5-9c3a-41c1-bc7c-238cd11ef56f",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายนรเสฏฐ์ เธียรประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 12088,
+      "candidate_uuid": "d8f5e66e-94df-4cf6-8b8d-0230c9a8cdb2",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางสาวอรพินทร์ เพชรทัต",
+      "party": "โอกาสใหม่",
+      "votes": 10856,
+      "candidate_uuid": "52b1316c-3394-4b6c-8517-932737139538",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสหัสวรรษ วีระมงคลกุล",
+      "party": "เพื่อไทย",
+      "votes": 6380,
+      "candidate_uuid": "f64c9dc1-9a52-4a02-93ac-10598cd36044",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชณทัต ปัทะมะภูวดล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2468,
+      "candidate_uuid": "ca6e579e-7e2c-406d-b502-b89f6ce8e7d8",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายอัศวิน อัศวินวิจตร",
+      "party": "เศรษฐกิจ",
+      "votes": 1679,
+      "candidate_uuid": "a2428a65-2fe3-4f69-af39-9aaa100538fe",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอิง อิงคตานุวัฒน์",
+      "party": "ไทยภักดี",
+      "votes": 1388,
+      "candidate_uuid": "16560e8b-68bb-4386-8441-14575d988c95",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "พลตรีดนัย ดิษาภิรมย์",
+      "party": "ไทยสร้างไทย",
+      "votes": 1306,
+      "candidate_uuid": "2f3144d9-f9e6-4335-886f-b6dba3ddf083",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายโชติพงศ์ สรรเสริญ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 764,
+      "candidate_uuid": "ad74b43b-0147-40b9-91dc-adfb056b2241",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายกชพล จิตต์มั่นการ",
+      "party": "พลวัต",
+      "votes": 317,
+      "candidate_uuid": "93b26c20-7471-402e-8e9a-dee624137edc",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวรวิช กมลโชติรส",
+      "party": "รักชาติ",
+      "votes": 300,
+      "candidate_uuid": "f7837cb9-b2a2-44f8-ade3-cf74781a8cd9",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายณรงค์ชัย เมืองครอง",
+      "party": "กล้าธรรม",
+      "votes": 247,
+      "candidate_uuid": "196e8385-c9e9-44db-9e21-a57cdc367010",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายเจนวิทย์ สิริญาณสรณ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 198,
+      "candidate_uuid": "d5e048bd-c27e-4d57-a7c0-7bb05c5fbc81",
+      "is_active": true
+    },
+    {
+      "number": 16,
+      "name": "นางสาวจงชนก พัชรประภากร",
+      "party": "ปวงชนไทย",
+      "votes": 186,
+      "candidate_uuid": "acecde2b-e7a5-4ff1-94ba-0f4801efbdaa",
+      "is_active": true
+    },
+    {
+      "number": 15,
+      "name": "นายสมชาย คงศิริวงค์",
+      "party": "ฟิวชน",
+      "votes": 127,
+      "candidate_uuid": "405c5496-fb6f-4068-bfd9-cf75d5071df3",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

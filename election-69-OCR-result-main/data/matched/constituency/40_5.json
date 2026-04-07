@@ -1,0 +1,181 @@
+{
+  "province_name": "ขอนแก่น",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131801,
+    "1.2": 85145,
+    "2.1": 130260,
+    "2.2": 85145,
+    "2.3": 45115,
+    "3.1": 79496,
+    "3.2": 6,
+    "3.3": 5643,
+    "3.4": 85145,
+    "4.1": 81109,
+    "4.2": 2579,
+    "4.3": 1457
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายปราชญา หงอกชัย",
+      "party": "กล้าธรรม",
+      "votes": 36120
+    },
+    {
+      "number": 4,
+      "name": "นายภาควัต ศรีสุรพล",
+      "party": "เพื่อไทย",
+      "votes": 32006
+    },
+    {
+      "number": 1,
+      "name": "นางคะนางค์ รักโนนสูง",
+      "party": "ประชาชน",
+      "votes": 8867
+    },
+    {
+      "number": 2,
+      "name": "นายอภิวัตน์ จ่าตา",
+      "party": "ภูมิใจไทย",
+      "votes": 1685
+    },
+    {
+      "number": 5,
+      "name": "นายจิรจิตติ์ นามจันดี",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1043
+    },
+    {
+      "number": 6,
+      "name": "ด.ต.บุญเหลือ แก่งสันเทียะ",
+      "party": "เศรษฐกิจ",
+      "votes": 619
+    },
+    {
+      "number": 7,
+      "name": "นายวิรัตน์ ปัตโต",
+      "party": "ประชาธิปัตย์",
+      "votes": 409
+    },
+    {
+      "number": 8,
+      "name": "นางสบาย ธรรมเขต",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 193
+    },
+    {
+      "number": 9,
+      "name": "นายศักดิ์ชัย คำขวา",
+      "party": "ทางเลือกใหม่",
+      "votes": 87
+    },
+    {
+      "number": 10,
+      "name": "นายภิเภก คำชมพู",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 80
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/6. ขอนแก่น เขต 5.json",
+  "_validation": {
+    "vote_sum": 81109,
+    "good_votes": 81109,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "40",
+  "province_name_normalized": "ขอนแก่น",
+  "summary": {
+    "eligible_voters": 131801,
+    "voters_came": 85145,
+    "ballots_received": 130260,
+    "ballots_used": 85145,
+    "good_votes": 81109,
+    "invalid_votes": 2579,
+    "no_votes": 1457
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายปราชญา หงอกชัย",
+      "party": "กล้าธรรม",
+      "votes": 36120,
+      "candidate_uuid": "e0cb9985-d66a-47f8-9378-bcc2e39ab101",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายภาควัต ศรีสุรพล",
+      "party": "เพื่อไทย",
+      "votes": 32006,
+      "candidate_uuid": "bed90043-9c9d-4592-859a-f8b3f33be663",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางคะนางค์ รักโนนสูง",
+      "party": "ประชาชน",
+      "votes": 8867,
+      "candidate_uuid": "b4af8ba7-675e-4610-9c20-a0dc969eeadb",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอภิวัตน์ จ่าตา",
+      "party": "ภูมิใจไทย",
+      "votes": 1685,
+      "candidate_uuid": "2f8f5047-07fa-4b15-a87a-e738fd104bf6",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายจิรจิตติ์ นามจันดี",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1043,
+      "candidate_uuid": "2017876a-7405-4ee5-9de3-16921c20c75f",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "ด.ต.บุญเหลือ แก่งสันเทียะ",
+      "party": "เศรษฐกิจ",
+      "votes": 619,
+      "candidate_uuid": "f3e758ed-2a47-4d62-8152-e1a1255bd210",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวิรัตน์ ปัตโต",
+      "party": "ประชาธิปัตย์",
+      "votes": 409,
+      "candidate_uuid": "798e7b50-1dc6-41e9-9925-e28ac2bc6f13",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสบาย ธรรมเขต",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 193,
+      "candidate_uuid": "41f4a6e6-cb7e-427b-ab32-14f4ed00ac2c",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายศักดิ์ชัย คำขวา",
+      "party": "ทางเลือกใหม่",
+      "votes": 87,
+      "candidate_uuid": "a954a634-4e5a-407f-adba-5a6d6dabc325",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายภิเภก คำชมพู",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 80,
+      "candidate_uuid": "77bb08c2-8f63-4037-adee-2ca601f5aa8e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

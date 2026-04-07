@@ -1,0 +1,69 @@
+{
+  "province_name": "ตรัง",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 125344,
+    "1.2": 95235,
+    "2.1": 128792,
+    "2.2": 95235,
+    "2.3": 33557,
+    "3.1": 89303,
+    "3.2": 0,
+    "3.3": 5932,
+    "3.4": 95235,
+    "4.1": 88101,
+    "4.2": 2502,
+    "4.3": 4632
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายกฤตย์อิชย์ ภาคย์อิชณน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 46916
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุณัฐชา โล่สถาพรพิพิธ",
+      "party": "ภูมิใจไทย",
+      "votes": 28897
+    },
+    {
+      "number": 3,
+      "name": "นายวีรพล เต็งรัง",
+      "party": "ประชาชน",
+      "votes": 9248
+    },
+    {
+      "number": 1,
+      "name": "นายศักดิ์ดาธร พุฒนวล",
+      "party": "กล้าธรรม",
+      "votes": 1249
+    },
+    {
+      "number": 4,
+      "name": "นายทวี จันทร์ฝาก",
+      "party": "เพื่อไทย",
+      "votes": 889
+    },
+    {
+      "number": 6,
+      "name": "นายอำนวย นวลทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 569
+    },
+    {
+      "number": 7,
+      "name": "นายชัยยุทธ รองเดช",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 333
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/15. ตรัง เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 88101,
+    "good_votes": 88101,
+    "sum_diff_pct": 0.0
+  }
+}

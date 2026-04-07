@@ -1,0 +1,125 @@
+{
+  "province_name": "กระบี่",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128645,
+    "1.2": 97431,
+    "2.1": 127320,
+    "2.2": 97431,
+    "2.3": 29889,
+    "3.1": 92519,
+    "3.2": 35,
+    "3.3": 4877,
+    "3.4": 97431,
+    "4.1": 90061,
+    "4.2": 2723,
+    "4.3": 4647
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายกิตติ กิตติธรกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 50493
+    },
+    {
+      "number": 3,
+      "name": "นายธนวัช ภูเก้าล้วน",
+      "party": "ประชาชน",
+      "votes": 20554
+    },
+    {
+      "number": 4,
+      "name": "นายวศิน สิริเกียรติกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 15466
+    },
+    {
+      "number": 1,
+      "name": "นายสุวรรณ อินพรหม",
+      "party": "เพื่อไทย",
+      "votes": 2308
+    },
+    {
+      "number": 5,
+      "name": "นายพิทักษ์ ภารา",
+      "party": "เศรษฐกิจ",
+      "votes": 840
+    },
+    {
+      "number": 6,
+      "name": "นายพงไพร บุตรเลี่ยม",
+      "party": "พลังประชารัฐ",
+      "votes": 400
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/2. กระบี่ เขต 1.json",
+  "_validation": {
+    "vote_sum": 90061,
+    "good_votes": 90061,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "81",
+  "province_name_normalized": "กระบี่",
+  "summary": {
+    "eligible_voters": 128645,
+    "voters_came": 97431,
+    "ballots_received": 127320,
+    "ballots_used": 97431,
+    "good_votes": 90061,
+    "invalid_votes": 2723,
+    "no_votes": 4647
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายกิตติ กิตติธรกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 50493,
+      "candidate_uuid": "b9a28b6e-aa8e-4cee-aeea-42f8432ab22e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธนวัช ภูเก้าล้วน",
+      "party": "ประชาชน",
+      "votes": 20554,
+      "candidate_uuid": "e506c568-13b5-4227-b219-fadc7637ad97",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวศิน สิริเกียรติกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 15466,
+      "candidate_uuid": "884158cc-bbe5-4ada-a459-6881a8d2204f",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุวรรณ อินพรหม",
+      "party": "เพื่อไทย",
+      "votes": 2308,
+      "candidate_uuid": "175608bd-8f83-4711-9350-eac8f613b51d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายพิทักษ์ ภารา",
+      "party": "เศรษฐกิจ",
+      "votes": 840,
+      "candidate_uuid": "fe22d97e-a20f-497f-b604-26f27c7a7fce",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพงไพร บุตรเลี่ยม",
+      "party": "พลังประชารัฐ",
+      "votes": 400,
+      "candidate_uuid": "6a5cbd0e-c75c-4957-b9c7-dbd8134b6154",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

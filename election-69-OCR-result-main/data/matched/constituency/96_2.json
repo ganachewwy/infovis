@@ -1,0 +1,153 @@
+{
+  "province_name": "นราธิวาส",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 113207,
+    "1.2": 77970,
+    "2.1": 117760,
+    "2.2": 77970,
+    "2.3": 39790,
+    "3.1": 73986,
+    "3.2": 4,
+    "3.3": 3980,
+    "3.4": 77970,
+    "4.1": 70635,
+    "4.2": 3460,
+    "4.3": 3875
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายอามินทร์ มะยูโต๊ะ",
+      "party": "กล้าธรรม",
+      "votes": 43544
+    },
+    {
+      "number": 6,
+      "name": "นายมูฮัมหมัดรุสดี เชคฮารูณ",
+      "party": "ประชาชาติ",
+      "votes": 11389
+    },
+    {
+      "number": 3,
+      "name": "นายฮัมรัน เทพลักษณ์",
+      "party": "ประชาชน",
+      "votes": 8377
+    },
+    {
+      "number": 4,
+      "name": "นายชัยวัฒน์ จันทรการ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2954
+    },
+    {
+      "number": 1,
+      "name": "นางสาวสุคนธ์ทิพย์ ศรีสุวรรณ์",
+      "party": "เพื่อไทย",
+      "votes": 1559
+    },
+    {
+      "number": 7,
+      "name": "นายมูยำหมัด มามะ",
+      "party": "ภูมิใจไทย",
+      "votes": 1348
+    },
+    {
+      "number": 5,
+      "name": "นายเจ๊ะซู ตาเหยีบ",
+      "party": "พลังประชารัฐ",
+      "votes": 1054
+    },
+    {
+      "number": 8,
+      "name": "นายอุสมาน ดาโอะ",
+      "party": "พลวัต",
+      "votes": 360
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/25. นราธิวาส เขต 2.json",
+  "_validation": {
+    "vote_sum": 70585,
+    "good_votes": 70635,
+    "sum_diff_pct": 0.07
+  },
+  "province_code": "96",
+  "province_name_normalized": "นราธิวาส",
+  "summary": {
+    "eligible_voters": 113207,
+    "voters_came": 77970,
+    "ballots_received": 117760,
+    "ballots_used": 77970,
+    "good_votes": 70635,
+    "invalid_votes": 3460,
+    "no_votes": 3875
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายอามินทร์ มะยูโต๊ะ",
+      "party": "กล้าธรรม",
+      "votes": 43544,
+      "candidate_uuid": "d98390f3-e8f4-42e6-9e7f-035e053e19ee",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายมูฮัมหมัดรุสดี เชคฮารูณ",
+      "party": "ประชาชาติ",
+      "votes": 11389,
+      "candidate_uuid": "925181bb-c515-411e-8d5b-83ab94119e9e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายฮัมรัน เทพลักษณ์",
+      "party": "ประชาชน",
+      "votes": 8377,
+      "candidate_uuid": "54492645-d194-4b65-92ae-d20a7f1d256c",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายชัยวัฒน์ จันทรการ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2954,
+      "candidate_uuid": "4f60bc9d-e5d5-4b24-b2cb-d9e92b08be69",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวสุคนธ์ทิพย์ ศรีสุวรรณ์",
+      "party": "เพื่อไทย",
+      "votes": 1559,
+      "candidate_uuid": "ae0d112b-2a33-4b10-a0e5-aaacedb1a2dd",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายมูยำหมัด มามะ",
+      "party": "ภูมิใจไทย",
+      "votes": 1348,
+      "candidate_uuid": "25653b23-f191-45bc-b521-77395c41d37c",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเจ๊ะซู ตาเหยีบ",
+      "party": "พลังประชารัฐ",
+      "votes": 1054,
+      "candidate_uuid": "74beb7a3-4b24-4d33-a746-bf5d24a11a7f",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอุสมาน ดาโอะ",
+      "party": "พลวัต",
+      "votes": 360,
+      "candidate_uuid": "45fca67e-bd7d-4657-b1e1-fd566b59afdb",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

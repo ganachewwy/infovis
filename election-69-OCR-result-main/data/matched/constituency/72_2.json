@@ -1,0 +1,139 @@
+{
+  "province_name": "สุพรรณบุรี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129576,
+    "1.2": 91578,
+    "2.1": 131500,
+    "2.2": 88204,
+    "2.3": 43296,
+    "3.1": 88204,
+    "3.2": 4,
+    "3.3": 3370,
+    "3.4": 91578,
+    "4.1": 84520,
+    "4.2": 3540,
+    "4.3": 3518
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายณัฐวุฒิ ประเสริฐสุวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 45546
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนุศรา ศรีสังข์งาม",
+      "party": "ประชาชน",
+      "votes": 23117
+    },
+    {
+      "number": 7,
+      "name": "นายพงศ์พิชาญ ดามาพงศ์",
+      "party": "กล้าธรรม",
+      "votes": 9018
+    },
+    {
+      "number": 3,
+      "name": "นายชัยพร สีถัน",
+      "party": "เพื่อไทย",
+      "votes": 4049
+    },
+    {
+      "number": 6,
+      "name": "นายสัมพันธ์ ศรีสังข์งาม",
+      "party": "เศรษฐกิจ",
+      "votes": 1143
+    },
+    {
+      "number": 4,
+      "name": "นายกฤศ ทรัพย์ประเสริฐ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1008
+    },
+    {
+      "number": 2,
+      "name": "นางสาวนภัสศรัณย์ ชัชวาลานนท์",
+      "party": "พลวัต",
+      "votes": 639
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/67. สุพรรณบุรี เขต 2.json",
+  "_validation": {
+    "vote_sum": 84520,
+    "good_votes": 84520,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "72",
+  "province_name_normalized": "สุพรรณบุรี",
+  "summary": {
+    "eligible_voters": 129576,
+    "voters_came": 91578,
+    "ballots_received": 131500,
+    "ballots_used": 88204,
+    "good_votes": 84520,
+    "invalid_votes": 3540,
+    "no_votes": 3518
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายณัฐวุฒิ ประเสริฐสุวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 45546,
+      "candidate_uuid": "5f6b480b-74f4-4446-9406-a706844e4858",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนุศรา ศรีสังข์งาม",
+      "party": "ประชาชน",
+      "votes": 23117,
+      "candidate_uuid": "0c60b35f-7882-45c9-82ab-ee8808fc3ab9",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพงศ์พิชาญ ดามาพงศ์",
+      "party": "กล้าธรรม",
+      "votes": 9018,
+      "candidate_uuid": "986eef5e-419f-4846-b9e2-597a869e84b5",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชัยพร สีถัน",
+      "party": "เพื่อไทย",
+      "votes": 4049,
+      "candidate_uuid": "96b6cdad-7b01-4efc-a0f3-c40cc874a612",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสัมพันธ์ ศรีสังข์งาม",
+      "party": "เศรษฐกิจ",
+      "votes": 1143,
+      "candidate_uuid": "f321021c-9cd5-4b4a-b891-fd8155e37fd6",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกฤศ ทรัพย์ประเสริฐ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1008,
+      "candidate_uuid": "676b20cb-6271-4a70-8f2f-efb0fe656957",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวนภัสศรัณย์ ชัชวาลานนท์",
+      "party": "พลวัต",
+      "votes": 639,
+      "candidate_uuid": "c6145e40-18d6-44e8-896f-1786a6098c65",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

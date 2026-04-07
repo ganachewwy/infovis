@@ -1,0 +1,209 @@
+{
+  "province_name": "หนองบัวลำภู",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139258,
+    "1.2": 91459,
+    "2.1": 141049,
+    "2.2": 91459,
+    "2.3": 49590,
+    "3.1": 86110,
+    "3.2": 0,
+    "3.3": 5349,
+    "3.4": 91459,
+    "4.1": 86812,
+    "4.2": 2315,
+    "4.3": 2332
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายชยานันท์ เกตุเมฆ",
+      "party": "กล้าธรรม",
+      "votes": 31594
+    },
+    {
+      "number": 1,
+      "name": "นายสุวัฒน์ มนตรี",
+      "party": "ภูมิใจไทย",
+      "votes": 21721
+    },
+    {
+      "number": 4,
+      "name": "นายกฤษณโชติ เทศแก้ว",
+      "party": "ประชาชน",
+      "votes": 16253
+    },
+    {
+      "number": 8,
+      "name": "นายพิษณุ หัตถสงเคราะห์",
+      "party": "เพื่อไทย",
+      "votes": 12987
+    },
+    {
+      "number": 6,
+      "name": "นายวุฒิพงษ์ ศิริสถิตย์",
+      "party": "พลังประชารัฐ",
+      "votes": 1303
+    },
+    {
+      "number": 9,
+      "name": "นายวิเชียร แสงบุดดา",
+      "party": "เศรษฐกิจ",
+      "votes": 1154
+    },
+    {
+      "number": 11,
+      "name": "นายทองคำ บุญประทุม",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 451
+    },
+    {
+      "number": 2,
+      "name": "นายปัญญา ธาตุวิสัย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 494
+    },
+    {
+      "number": 7,
+      "name": "นายประไว คงอาษา",
+      "party": "ประชาธิปัตย์",
+      "votes": 351
+    },
+    {
+      "number": 5,
+      "name": "นายกมล มุขธระโกษา",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 221
+    },
+    {
+      "number": 10,
+      "name": "นายบุญเรือง เขื่อนตีนกง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 189
+    },
+    {
+      "number": 12,
+      "name": "นางสาวพรประภาวรรณ มูลฉวี",
+      "party": "ไทยรวมไทย",
+      "votes": 94
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/71. หนองบัวลำภู เขต 1.json",
+  "_validation": {
+    "vote_sum": 86812,
+    "good_votes": 86812,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "39",
+  "province_name_normalized": "หนองบัวลำภู",
+  "summary": {
+    "eligible_voters": 139258,
+    "voters_came": 91459,
+    "ballots_received": 141049,
+    "ballots_used": 91459,
+    "good_votes": 86812,
+    "invalid_votes": 2315,
+    "no_votes": 2332
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายชยานันท์ เกตุเมฆ",
+      "party": "กล้าธรรม",
+      "votes": 31594,
+      "candidate_uuid": "ed715caf-87d6-41bd-90c6-6e19dc2fe7c2",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุวัฒน์ มนตรี",
+      "party": "ภูมิใจไทย",
+      "votes": 21721,
+      "candidate_uuid": "24d84460-d891-48ab-9932-42ac99590835",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกฤษณโชติ เทศแก้ว",
+      "party": "ประชาชน",
+      "votes": 16253,
+      "candidate_uuid": "b9c6f842-5a4d-4957-a36d-d164a7436c32",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายพิษณุ หัตถสงเคราะห์",
+      "party": "เพื่อไทย",
+      "votes": 12987,
+      "candidate_uuid": "584931f9-bd25-46c2-8ee9-5a8c51fa6068",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายวุฒิพงษ์ ศิริสถิตย์",
+      "party": "พลังประชารัฐ",
+      "votes": 1303,
+      "candidate_uuid": "d03cf698-3b69-46e1-931b-d790d94e48f3",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายวิเชียร แสงบุดดา",
+      "party": "เศรษฐกิจ",
+      "votes": 1154,
+      "candidate_uuid": "03e495c1-f76b-43e1-9c6e-884ba992bccc",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายทองคำ บุญประทุม",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 451,
+      "candidate_uuid": "553823f0-8093-4f87-a816-edc41d3447c6",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายปัญญา ธาตุวิสัย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 494,
+      "candidate_uuid": "f6914244-a23f-4376-9e08-c67ff7137f77",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายประไว คงอาษา",
+      "party": "ประชาธิปัตย์",
+      "votes": 351,
+      "candidate_uuid": "acc1da45-8fa8-42a4-85af-3b9686bca55d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายกมล มุขธระโกษา",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 221,
+      "candidate_uuid": "3741af07-bd55-4b6f-b7f9-35e9abc82ff4",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายบุญเรือง เขื่อนตีนกง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 189,
+      "candidate_uuid": "895dafb5-ff38-4749-ab22-8e133276da7b",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นางสาวพรประภาวรรณ มูลฉวี",
+      "party": "ไทยรวมไทย",
+      "votes": 94,
+      "candidate_uuid": "a6688735-69c1-432a-a470-05304f15fd61",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

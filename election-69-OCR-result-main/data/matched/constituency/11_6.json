@@ -1,0 +1,181 @@
+{
+  "province_name": "สมุทรปราการ",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129990,
+    "1.2": 91647,
+    "2.1": 132220,
+    "2.2": 91647,
+    "2.3": 40573,
+    "3.1": 89057,
+    "3.2": 148,
+    "3.3": 2442,
+    "3.4": 91647,
+    "4.1": 84514,
+    "4.2": 2714,
+    "4.3": 4419
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายฐาปกรณ์ กุลเจริญ",
+      "party": "ภูมิใจไทย",
+      "votes": 35571
+    },
+    {
+      "number": 7,
+      "name": "นายวีรภัทร คันธะ",
+      "party": "ประชาชน",
+      "votes": 33018
+    },
+    {
+      "number": 8,
+      "name": "นางนฤมล ธารดำรงค์",
+      "party": "เพื่อไทย",
+      "votes": 8020
+    },
+    {
+      "number": 6,
+      "name": "นายอุทัย เสน่หา",
+      "party": "ประชาธิปัตย์",
+      "votes": 2246
+    },
+    {
+      "number": 10,
+      "name": "นายชนาวีร์ ชีววัฒนรัตน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1932
+    },
+    {
+      "number": 3,
+      "name": "นายกิตติศักดิ์ ศีลภูษิต",
+      "party": "ปวงชนไทย",
+      "votes": 1289
+    },
+    {
+      "number": 9,
+      "name": "นายธนัชชวิน โกพัฒน์ตา",
+      "party": "พลังประชารัฐ",
+      "votes": 889
+    },
+    {
+      "number": 1,
+      "name": "นายบุญธรรม มุกดาสนิท",
+      "party": "เสรีรวมไทย",
+      "votes": 707
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐกานต์ อภิสิทธิ์วัฒนกุล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 556
+    },
+    {
+      "number": 2,
+      "name": "นายศิววุฒิ ศรีอินทร์จันทร์",
+      "party": "กล้าธรรม",
+      "votes": 286
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/60. สมุทรปราการ เขต 6.json",
+  "_validation": {
+    "vote_sum": 84514,
+    "good_votes": 84514,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "11",
+  "province_name_normalized": "สมุทรปราการ",
+  "summary": {
+    "eligible_voters": 129990,
+    "voters_came": 91647,
+    "ballots_received": 132220,
+    "ballots_used": 91647,
+    "good_votes": 84514,
+    "invalid_votes": 2714,
+    "no_votes": 4419
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายฐาปกรณ์ กุลเจริญ",
+      "party": "ภูมิใจไทย",
+      "votes": 35571,
+      "candidate_uuid": "e8eda4a4-a2ad-4a36-902b-15a68f4b99fd",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวีรภัทร คันธะ",
+      "party": "ประชาชน",
+      "votes": 33018,
+      "candidate_uuid": "fdc54202-f4ce-4176-9a9c-962e82f713f1",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางนฤมล ธารดำรงค์",
+      "party": "เพื่อไทย",
+      "votes": 8020,
+      "candidate_uuid": "b302577b-0fd8-46ba-be11-8c034e4e01d6",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอุทัย เสน่หา",
+      "party": "ประชาธิปัตย์",
+      "votes": 2246,
+      "candidate_uuid": "7e2afef5-dd54-4b5f-b6ee-ff67a672621c",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายชนาวีร์ ชีววัฒนรัตน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1932,
+      "candidate_uuid": "c79af5fe-7560-4f90-beec-76a982fc8b8d",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกิตติศักดิ์ ศีลภูษิต",
+      "party": "ปวงชนไทย",
+      "votes": 1289,
+      "candidate_uuid": "331f5074-7eda-42da-82e0-afbf56b31432",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธนัชชวิน โกพัฒน์ตา",
+      "party": "พลังประชารัฐ",
+      "votes": 889,
+      "candidate_uuid": "6b625219-a735-48c4-ace5-cd6f96eef064",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายบุญธรรม มุกดาสนิท",
+      "party": "เสรีรวมไทย",
+      "votes": 707,
+      "candidate_uuid": "bf422b8a-9b73-4ad9-be91-bb93ba99bf03",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐกานต์ อภิสิทธิ์วัฒนกุล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 556,
+      "candidate_uuid": "d5f5b298-3a60-4c6b-a73a-4eee264dc0d4",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายศิววุฒิ ศรีอินทร์จันทร์",
+      "party": "กล้าธรรม",
+      "votes": 286,
+      "candidate_uuid": "b710705b-61de-426a-973d-a1b74f14d849",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

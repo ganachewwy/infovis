@@ -1,0 +1,312 @@
+{
+  "province_name": "สตูล",
+  "constituency_number": 1,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 116489,
+    "1.2": 88455,
+    "2.1": 119998,
+    "2.2": 88455,
+    "2.3": 31543,
+    "3.1": 83157,
+    "3.2": 33,
+    "3.3": 5265,
+    "3.4": 88455,
+    "4.1": 81811,
+    "4.2": 3570,
+    "4.3": 3074
+  },
+  "results": [
+    {
+      "number": 2,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 348
+    },
+    {
+      "number": 3,
+      "party": "เพื่อชาติไทย",
+      "votes": 554
+    },
+    {
+      "number": 4,
+      "party": "ใหม่",
+      "votes": 1491
+    },
+    {
+      "number": 5,
+      "party": "มิติใหม่",
+      "votes": 232
+    },
+    {
+      "number": 6,
+      "party": "รวมใจไทย",
+      "votes": 316
+    },
+    {
+      "number": 7,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1055
+    },
+    {
+      "number": 8,
+      "party": "พลวัต",
+      "votes": 861
+    },
+    {
+      "number": 9,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 878
+    },
+    {
+      "number": 10,
+      "party": "เพื่อไทย",
+      "votes": 2629
+    },
+    {
+      "number": 11,
+      "party": "ทางเลือกใหม่",
+      "votes": 277
+    },
+    {
+      "number": 12,
+      "party": "เศรษฐกิจ",
+      "votes": 1061
+    },
+    {
+      "number": 13,
+      "party": "เสรีรวมไทย",
+      "votes": 414
+    },
+    {
+      "number": 14,
+      "party": "รวมพลังประชาชน",
+      "votes": 333
+    },
+    {
+      "number": 15,
+      "party": "ท้องที่ไทย",
+      "votes": 78
+    },
+    {
+      "number": 16,
+      "party": "อนาคตไทย",
+      "votes": 51
+    },
+    {
+      "number": 17,
+      "party": "พลังเพื่อไทย",
+      "votes": 66
+    },
+    {
+      "number": 18,
+      "party": "ไทยชนะ",
+      "votes": 181
+    },
+    {
+      "number": 19,
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "number": 20,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 53
+    },
+    {
+      "number": 21,
+      "party": "ฟิวชัน",
+      "votes": 15
+    },
+    {
+      "number": 22,
+      "party": "ไทรวมพลัง",
+      "votes": 32
+    },
+    {
+      "number": 23,
+      "party": "ก้าวอิสระ",
+      "votes": 24
+    },
+    {
+      "number": 24,
+      "party": "ปวงชนไทย",
+      "votes": 85
+    },
+    {
+      "number": 25,
+      "party": "วิชชั่นใหม่",
+      "votes": 103
+    },
+    {
+      "number": 26,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 34
+    },
+    {
+      "number": 27,
+      "party": "คลองไทย",
+      "votes": 128
+    },
+    {
+      "number": 28,
+      "party": "ประชาธิปัตย์",
+      "votes": 25287
+    },
+    {
+      "number": 29,
+      "party": "ไทยก้าวหน้า",
+      "votes": 95
+    },
+    {
+      "number": 30,
+      "party": "ไทยภักดี",
+      "votes": 380
+    },
+    {
+      "number": 31,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 62
+    },
+    {
+      "number": 32,
+      "party": "ประชากรไทย",
+      "votes": 98
+    },
+    {
+      "number": 33,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 150
+    },
+    {
+      "number": 34,
+      "party": "ประชาชาติ",
+      "votes": 2330
+    },
+    {
+      "number": 35,
+      "party": "สร้างอนาคตไทย",
+      "votes": 83
+    },
+    {
+      "number": 36,
+      "party": "รักชาติ",
+      "votes": 79
+    },
+    {
+      "number": 37,
+      "party": "ไทยพร้อม",
+      "votes": 151
+    },
+    {
+      "number": 38,
+      "party": "ภูมิใจไทย",
+      "votes": 18894
+    },
+    {
+      "number": 39,
+      "party": "พลังธรรมใหม่",
+      "votes": 77
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 37
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 18
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 26
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 1765
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 157
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 21
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 56
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 19984
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 210
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 87
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 231
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 7
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 22
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 7
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 24
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 10
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 95
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 38
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/59. สตูล เขต 1 (บช).pdf",
+  "_validation": {
+    "vote_sum": 81812,
+    "good_votes": 81811,
+    "sum_diff_pct": 0.0
+  }
+}

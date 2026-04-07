@@ -1,0 +1,153 @@
+{
+  "province_name": "ขอนแก่น",
+  "constituency_number": 9,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127326,
+    "1.2": 85016,
+    "2.1": 127820,
+    "2.2": 85016,
+    "2.3": 42804,
+    "3.1": 79005,
+    "3.2": 2,
+    "3.3": 6009,
+    "3.4": 85016,
+    "4.1": 81101,
+    "4.2": 2531,
+    "4.3": 1384
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายณัฐพล กลุ่มเหรียญทอง",
+      "party": "เพื่อไทย",
+      "votes": 42803
+    },
+    {
+      "number": 4,
+      "name": "นางสาวสรัสนันท์ อรรณนพพร",
+      "party": "ภูมิใจไทย",
+      "votes": 20997
+    },
+    {
+      "number": 3,
+      "name": "นางสาวกมลชนก สุพรรณฝ่าย",
+      "party": "ประชาชน",
+      "votes": 14272
+    },
+    {
+      "number": 8,
+      "name": "นายศักดิ์สิทธิ์ สิงห์สุนีย์",
+      "party": "ประชากรไทย",
+      "votes": 1612
+    },
+    {
+      "number": 1,
+      "name": "นายวีระ วิชาธรรม",
+      "party": "ไทยภักดี",
+      "votes": 654
+    },
+    {
+      "number": 5,
+      "name": "นายเกียรติศิริกุล ทีนรส",
+      "party": "ไทยสร้างไทย",
+      "votes": 397
+    },
+    {
+      "number": 6,
+      "name": "ว่าที่ร้อยโทเอ็มโอด บุญทน",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 244
+    },
+    {
+      "number": 7,
+      "name": "นายขจรศักดิ์ชนัน จิตภิลัย",
+      "party": "พลังประชารัฐ",
+      "votes": 122
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/6. ขอนแก่น เขต 9.json",
+  "_validation": {
+    "vote_sum": 81101,
+    "good_votes": 81101,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "40",
+  "province_name_normalized": "ขอนแก่น",
+  "summary": {
+    "eligible_voters": 127326,
+    "voters_came": 85016,
+    "ballots_received": 127820,
+    "ballots_used": 85016,
+    "good_votes": 81101,
+    "invalid_votes": 2531,
+    "no_votes": 1384
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายณัฐพล กลุ่มเหรียญทอง",
+      "party": "เพื่อไทย",
+      "votes": 42803,
+      "candidate_uuid": "3dc1127a-cfe3-4661-b734-39592988b309",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวสรัสนันท์ อรรณนพพร",
+      "party": "ภูมิใจไทย",
+      "votes": 20997,
+      "candidate_uuid": "ae228e30-f0ec-41db-b755-18aac913a720",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวกมลชนก สุพรรณฝ่าย",
+      "party": "ประชาชน",
+      "votes": 14272,
+      "candidate_uuid": "0937b8be-e50b-4f21-b493-762f2809ac90",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายศักดิ์สิทธิ์ สิงห์สุนีย์",
+      "party": "ประชากรไทย",
+      "votes": 1612,
+      "candidate_uuid": "f784f564-8bae-4d75-a2f6-567c153deb42",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวีระ วิชาธรรม",
+      "party": "ไทยภักดี",
+      "votes": 654,
+      "candidate_uuid": "16e13b20-a7f2-453b-86dc-0899cf5a89ec",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเกียรติศิริกุล ทีนรส",
+      "party": "ไทยสร้างไทย",
+      "votes": 397,
+      "candidate_uuid": "225a2c9e-614f-41fd-b01a-f0382ce5e84f",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "ว่าที่ร้อยโทเอ็มโอด บุญทน",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 244,
+      "candidate_uuid": "9c780999-4f7a-4bd6-b10e-2fff9209239e",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายขจรศักดิ์ชนัน จิตภิลัย",
+      "party": "พลังประชารัฐ",
+      "votes": 122,
+      "candidate_uuid": "2c2b7fd8-754e-4c84-8154-73fbbdaaf395",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,125 @@
+{
+  "province_name": "ราชบุรี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139159,
+    "1.2": 101443,
+    "2.1": 139540,
+    "2.2": 101443,
+    "2.3": 38097,
+    "3.1": 98375,
+    "3.2": 0,
+    "3.3": 3068,
+    "3.4": 101443,
+    "4.1": 89818,
+    "4.2": 5088,
+    "4.3": 6537
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นางบุญยิ่ง นิติกาญจนา",
+      "party": "กล้าธรรม",
+      "votes": 43510
+    },
+    {
+      "number": 1,
+      "name": "นางสาวสิรีธร ธนะชัยศรี",
+      "party": "ประชาชน",
+      "votes": 26956
+    },
+    {
+      "number": 3,
+      "name": "นางสาวรดาภัค แก้วพรายตา",
+      "party": "ภูมิใจไทย",
+      "votes": 6251
+    },
+    {
+      "number": 2,
+      "name": "นายไก่ ห้องริ้ว",
+      "party": "เพื่อไทย",
+      "votes": 5852
+    },
+    {
+      "number": 5,
+      "name": "นางสาวถปนัท ชาติไทย",
+      "party": "ประชาธิปัตย์",
+      "votes": 4524
+    },
+    {
+      "number": 6,
+      "name": "นายศุภชัย พงษ์ทวี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2725
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/51. ราชบุรี เขต 2.json",
+  "_validation": {
+    "vote_sum": 89818,
+    "good_votes": 89818,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "70",
+  "province_name_normalized": "ราชบุรี",
+  "summary": {
+    "eligible_voters": 139159,
+    "voters_came": 101443,
+    "ballots_received": 139540,
+    "ballots_used": 101443,
+    "good_votes": 89818,
+    "invalid_votes": 5088,
+    "no_votes": 6537
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นางบุญยิ่ง นิติกาญจนา",
+      "party": "กล้าธรรม",
+      "votes": 43510,
+      "candidate_uuid": "46500bf7-1f74-4294-8cc4-3afc8b277068",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวสิรีธร ธนะชัยศรี",
+      "party": "ประชาชน",
+      "votes": 26956,
+      "candidate_uuid": "e6430f65-58d5-4f92-b752-38d6c9175228",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวรดาภัค แก้วพรายตา",
+      "party": "ภูมิใจไทย",
+      "votes": 6251,
+      "candidate_uuid": "c12aa1af-a29b-4cb6-86b8-f68778b51063",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายไก่ ห้องริ้ว",
+      "party": "เพื่อไทย",
+      "votes": 5852,
+      "candidate_uuid": "f91b4849-258b-41f0-bd58-b3cfc6271976",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวถปนัท ชาติไทย",
+      "party": "ประชาธิปัตย์",
+      "votes": 4524,
+      "candidate_uuid": "ab4fbbb9-71e3-4296-890f-e76d9600a235",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายศุภชัย พงษ์ทวี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2725,
+      "candidate_uuid": "77f38db5-9b78-488e-9e7a-ae7d20f654e0",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

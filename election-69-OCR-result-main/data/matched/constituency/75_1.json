@@ -1,0 +1,125 @@
+{
+  "province_name": "สมุทรสงคราม",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 156144,
+    "1.2": 113409,
+    "2.1": 158020,
+    "2.2": 113409,
+    "2.3": 44611,
+    "3.1": 109546,
+    "3.2": 57,
+    "3.3": 3906,
+    "3.4": 113409,
+    "4.1": 101938,
+    "4.2": 4534,
+    "4.3": 6937
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายอานุภาพ ลิขิตอำนวยชัย",
+      "party": "ประชาชน",
+      "votes": 39592
+    },
+    {
+      "number": 1,
+      "name": "นายจิระ แก้วมณี",
+      "party": "กล้าธรรม",
+      "votes": 28382
+    },
+    {
+      "number": 3,
+      "name": "นายเศรษฐ์สิริ ลักขณาอุดมเลิศ",
+      "party": "ประชาธิปัตย์",
+      "votes": 13741
+    },
+    {
+      "number": 6,
+      "name": "นายธนธัส ขุนนุช",
+      "party": "เพื่อไทย",
+      "votes": 12747
+    },
+    {
+      "number": 4,
+      "name": "นายวิชา ประจักษ์จิตร์",
+      "party": "ภูมิใจไทย",
+      "votes": 6657
+    },
+    {
+      "number": 2,
+      "name": "นางสาวอรพิน หอมการะเกษ",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 919
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/61. สมุทรสงคราม เขต 1.json",
+  "_validation": {
+    "vote_sum": 102038,
+    "good_votes": 101938,
+    "sum_diff_pct": 0.1
+  },
+  "province_code": "75",
+  "province_name_normalized": "สมุทรสงคราม",
+  "summary": {
+    "eligible_voters": 156144,
+    "voters_came": 113409,
+    "ballots_received": 158020,
+    "ballots_used": 113409,
+    "good_votes": 101938,
+    "invalid_votes": 4534,
+    "no_votes": 6937
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายอานุภาพ ลิขิตอำนวยชัย",
+      "party": "ประชาชน",
+      "votes": 39592,
+      "candidate_uuid": "229b490d-5841-4a74-b014-25c73d4a06ad",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายจิระ แก้วมณี",
+      "party": "กล้าธรรม",
+      "votes": 28382,
+      "candidate_uuid": "cd0cbe55-0abd-420c-bbb7-8426c0266c69",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเศรษฐ์สิริ ลักขณาอุดมเลิศ",
+      "party": "ประชาธิปัตย์",
+      "votes": 13741,
+      "candidate_uuid": "bcd23581-321a-4b44-a451-7af84b156d9e",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธนธัส ขุนนุช",
+      "party": "เพื่อไทย",
+      "votes": 12747,
+      "candidate_uuid": "b55cd7e2-a5d9-4287-8537-e113ff9d3b7d",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิชา ประจักษ์จิตร์",
+      "party": "ภูมิใจไทย",
+      "votes": 6657,
+      "candidate_uuid": "74feacc9-52f1-40d0-8ab0-575501c08131",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวอรพิน หอมการะเกษ",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 919,
+      "candidate_uuid": "f265a312-8497-44a9-98db-bbf2b9103601",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

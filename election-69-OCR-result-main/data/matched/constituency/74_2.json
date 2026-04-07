@@ -1,0 +1,153 @@
+{
+  "province_name": "สมุทรสาคร",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 119053,
+    "1.2": 85606,
+    "2.1": 117960,
+    "2.2": 85606,
+    "2.3": 32354,
+    "3.1": 83422,
+    "3.2": 0,
+    "3.3": 2184,
+    "3.4": 85606,
+    "4.1": 78050,
+    "4.2": 3179,
+    "4.3": 4377
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายอนุสรณ์ ไกรวัตนุสสรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34749
+    },
+    {
+      "number": 4,
+      "name": "นายศิรสิทธิ์ สงนุ้ย",
+      "party": "ประชาชน",
+      "votes": 29373
+    },
+    {
+      "number": 2,
+      "name": "นางสาวริญญภัสร์ สิริตุลยพงศ์",
+      "party": "เพื่อไทย",
+      "votes": 5084
+    },
+    {
+      "number": 7,
+      "name": "นางสาวกัญญาพัชร ณัฐสุรางค์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2395
+    },
+    {
+      "number": 5,
+      "name": "นายกันต์กวี ทับสุวรรณ",
+      "party": "กล้าธรรม",
+      "votes": 2364
+    },
+    {
+      "number": 3,
+      "name": "ว่าที่ร้อยตรี ณรงค์ฤทธิ์ ปักเข็ม",
+      "party": "เศรษฐกิจ",
+      "votes": 1978
+    },
+    {
+      "number": 6,
+      "name": "นายทองคำ หลงเปลี่ยว",
+      "party": "ไทยสร้างไทย",
+      "votes": 1821
+    },
+    {
+      "number": 8,
+      "name": "นายสนธิญา สวัสดี",
+      "party": "พลังประชารัฐ",
+      "votes": 286
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/62. สมุทรสาคร เขต 2.json",
+  "_validation": {
+    "vote_sum": 78050,
+    "good_votes": 78050,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "74",
+  "province_name_normalized": "สมุทรสาคร",
+  "summary": {
+    "eligible_voters": 119053,
+    "voters_came": 85606,
+    "ballots_received": 117960,
+    "ballots_used": 85606,
+    "good_votes": 78050,
+    "invalid_votes": 3179,
+    "no_votes": 4377
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายอนุสรณ์ ไกรวัตนุสสรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34749,
+      "candidate_uuid": "1abb32c4-a4df-4208-9a04-1106d193d620",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายศิรสิทธิ์ สงนุ้ย",
+      "party": "ประชาชน",
+      "votes": 29373,
+      "candidate_uuid": "c0cfebd9-a5e7-42ca-8624-dcd9e586ea4c",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวริญญภัสร์ สิริตุลยพงศ์",
+      "party": "เพื่อไทย",
+      "votes": 5084,
+      "candidate_uuid": "740cb17c-9e11-4a50-8b6c-1533a59a6836",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวกัญญาพัชร ณัฐสุรางค์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2395,
+      "candidate_uuid": "71063db6-eeb0-4ab3-a4dc-ac4561c69fef",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายกันต์กวี ทับสุวรรณ",
+      "party": "กล้าธรรม",
+      "votes": 2364,
+      "candidate_uuid": "9f33d664-e0c9-43a4-aa1e-1e2f4e0fe3f1",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ว่าที่ร้อยตรี ณรงค์ฤทธิ์ ปักเข็ม",
+      "party": "เศรษฐกิจ",
+      "votes": 1978,
+      "candidate_uuid": "76bd0b03-3143-40a8-8747-adfbd96e2779",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายทองคำ หลงเปลี่ยว",
+      "party": "ไทยสร้างไทย",
+      "votes": 1821,
+      "candidate_uuid": "bcf1001f-c224-44c9-8dd2-286ade423849",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสนธิญา สวัสดี",
+      "party": "พลังประชารัฐ",
+      "votes": 286,
+      "candidate_uuid": "076b6066-bfc5-4a7f-ad85-eabf24136698",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

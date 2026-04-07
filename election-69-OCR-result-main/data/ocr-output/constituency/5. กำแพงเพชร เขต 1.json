@@ -1,0 +1,63 @@
+{
+  "province_name": "กำแพงเพชร",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144685,
+    "1.2": 101442,
+    "2.1": 146632,
+    "2.2": 101439,
+    "2.3": 45191,
+    "3.1": 95025,
+    "3.2": 2,
+    "3.3": 6412,
+    "3.4": 101439,
+    "4.1": 90911,
+    "4.2": 5247,
+    "4.3": 5281
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายไผ่ ลิกค์",
+      "party": "กล้าธรรม",
+      "votes": 45347
+    },
+    {
+      "number": 4,
+      "name": "นายปริญวัฒน์ ทวีกิจศิรพงษ์",
+      "party": "ประชาชน",
+      "votes": 33203
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนันทิตา โต๊ะดอนทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 4465
+    },
+    {
+      "number": 7,
+      "name": "นายศรสิน อินทะชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 3498
+    },
+    {
+      "number": 5,
+      "name": "นายชัยพันธ์ ศรีคชไกร",
+      "party": "เพื่อไทย",
+      "votes": 2650
+    },
+    {
+      "number": 3,
+      "name": "นายพิบูลย์ รื่นสันต์ ทรายทองวัฒนา",
+      "party": "เศรษฐกิจ",
+      "votes": 1748
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/5. กำแพงเพชร เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 90911,
+    "good_votes": 90911,
+    "sum_diff_pct": 0.0
+  }
+}

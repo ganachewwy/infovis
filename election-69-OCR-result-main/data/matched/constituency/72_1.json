@@ -1,0 +1,167 @@
+{
+  "province_name": "สุพรรณบุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 135381,
+    "1.2": 102476,
+    "2.1": 144560,
+    "2.2": 98442,
+    "2.3": 46118,
+    "3.1": 98442,
+    "3.2": 29,
+    "3.3": 4005,
+    "3.4": 102476,
+    "4.1": 94634,
+    "4.2": 3079,
+    "4.3": 4763
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายสรชัด สุจิตต์",
+      "party": "ภูมิใจไทย",
+      "votes": 63205
+    },
+    {
+      "number": 7,
+      "name": "นายสมเกียรติ เสรีวิพุธ",
+      "party": "ประชาชน",
+      "votes": 23503
+    },
+    {
+      "number": 5,
+      "name": "นายประยูร อินสกุล",
+      "party": "เพื่อไทย",
+      "votes": 4083
+    },
+    {
+      "number": 2,
+      "name": "นางสาวพิรุณวัลย์ บ้านพลูหลวง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1175
+    },
+    {
+      "number": 9,
+      "name": "นายบุญชู จันทร์สุวรรณ",
+      "party": "กล้าธรรม",
+      "votes": 800
+    },
+    {
+      "number": 6,
+      "name": "นางสาวสุรภี สถิตสวรรยา",
+      "party": "พลวัต",
+      "votes": 511
+    },
+    {
+      "number": 8,
+      "name": "นายอัฒพล สถิตสวรรยา",
+      "party": "ไทยภักดี",
+      "votes": 485
+    },
+    {
+      "number": 4,
+      "name": "ดาบตำรวจชูชาติ สุขสวัสดิ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 484
+    },
+    {
+      "number": 3,
+      "name": "นายศุภกิจ กลิ่นหอม",
+      "party": "พลังประชารัฐ",
+      "votes": 388
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/67. สุพรรณบุรี เขต 1.json",
+  "_validation": {
+    "vote_sum": 94634,
+    "good_votes": 94634,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "72",
+  "province_name_normalized": "สุพรรณบุรี",
+  "summary": {
+    "eligible_voters": 135381,
+    "voters_came": 102476,
+    "ballots_received": 144560,
+    "ballots_used": 98442,
+    "good_votes": 94634,
+    "invalid_votes": 3079,
+    "no_votes": 4763
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายสรชัด สุจิตต์",
+      "party": "ภูมิใจไทย",
+      "votes": 63205,
+      "candidate_uuid": "03895548-8d72-43d9-96d5-bb2de7855477",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสมเกียรติ เสรีวิพุธ",
+      "party": "ประชาชน",
+      "votes": 23503,
+      "candidate_uuid": "9338d1e1-4510-4c8c-a5d8-e31a7d816958",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายประยูร อินสกุล",
+      "party": "เพื่อไทย",
+      "votes": 4083,
+      "candidate_uuid": "ecd4e6c0-b410-4d67-9457-61694dd7e701",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวพิรุณวัลย์ บ้านพลูหลวง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1175,
+      "candidate_uuid": "b5640358-7d7e-4c22-b7ac-9361a72f130e",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายบุญชู จันทร์สุวรรณ",
+      "party": "กล้าธรรม",
+      "votes": 800,
+      "candidate_uuid": "1e0f0461-ef04-476a-a6cd-bf3eaf17c2ec",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวสุรภี สถิตสวรรยา",
+      "party": "พลวัต",
+      "votes": 511,
+      "candidate_uuid": "2c53fdb3-afc9-497e-9450-2df2422da2be",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอัฒพล สถิตสวรรยา",
+      "party": "ไทยภักดี",
+      "votes": 485,
+      "candidate_uuid": "f15bafc2-0092-476b-90c9-26eadee4d6aa",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "ดาบตำรวจชูชาติ สุขสวัสดิ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 484,
+      "candidate_uuid": "b7f16ecf-f138-4a1f-a0d5-08005d2a3202",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายศุภกิจ กลิ่นหอม",
+      "party": "พลังประชารัฐ",
+      "votes": 388,
+      "candidate_uuid": "1365a14d-a4dd-45ab-9388-5d675868e196",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

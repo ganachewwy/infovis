@@ -1,0 +1,139 @@
+{
+  "province_name": "อุตรดิตถ์",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 123483,
+    "1.2": 84565,
+    "2.1": 126766,
+    "2.2": 84565,
+    "2.3": 42201,
+    "3.1": 78459,
+    "3.2": 0,
+    "3.3": 6106,
+    "3.4": 84565,
+    "4.1": 74882,
+    "4.2": 4781,
+    "4.3": 4902
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายรวี เล็กอุทัย",
+      "party": "เพื่อไทย",
+      "votes": 40926
+    },
+    {
+      "number": 2,
+      "name": "นางสาวจิรายุ ดวงแก้ว",
+      "party": "ประชาชน",
+      "votes": 21012
+    },
+    {
+      "number": 5,
+      "name": "นางสาวรสสุคนธ์ อินชัยเขา",
+      "party": "ภูมิใจไทย",
+      "votes": 7144
+    },
+    {
+      "number": 3,
+      "name": "นางสาวอรกัญญา ดีมาก",
+      "party": "ประชาธิปัตย์",
+      "votes": 3057
+    },
+    {
+      "number": 6,
+      "name": "นายเขษมศักดิ์ แก้วมา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1211
+    },
+    {
+      "number": 4,
+      "name": "นายคณิน ถนอมทองพันธ์",
+      "party": "กล้าธรรม",
+      "votes": 1064
+    },
+    {
+      "number": 7,
+      "name": "นายพงศ์วินิจ ไพจิตรกุญชร",
+      "party": "ทางเลือกใหม่",
+      "votes": 468
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/75. อุตรดิตถ์ เขต 3.json",
+  "_validation": {
+    "vote_sum": 74882,
+    "good_votes": 74882,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "53",
+  "province_name_normalized": "อุตรดิตถ์",
+  "summary": {
+    "eligible_voters": 123483,
+    "voters_came": 84565,
+    "ballots_received": 126766,
+    "ballots_used": 84565,
+    "good_votes": 74882,
+    "invalid_votes": 4781,
+    "no_votes": 4902
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายรวี เล็กอุทัย",
+      "party": "เพื่อไทย",
+      "votes": 40926,
+      "candidate_uuid": "8c8f9cbc-3305-4a0e-aa59-a5b489f9ddaf",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวจิรายุ ดวงแก้ว",
+      "party": "ประชาชน",
+      "votes": 21012,
+      "candidate_uuid": "d58bfbb6-23ff-40ac-b1c5-e27137acc7a4",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวรสสุคนธ์ อินชัยเขา",
+      "party": "ภูมิใจไทย",
+      "votes": 7144,
+      "candidate_uuid": "73d928b4-91cd-4657-8a81-7117f7889949",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวอรกัญญา ดีมาก",
+      "party": "ประชาธิปัตย์",
+      "votes": 3057,
+      "candidate_uuid": "eefca9a1-736e-41c5-bb18-f10f1f375feb",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเขษมศักดิ์ แก้วมา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1211,
+      "candidate_uuid": "fe149fb3-8244-4cd8-bbf9-8bfb42ba0f74",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายคณิน ถนอมทองพันธ์",
+      "party": "กล้าธรรม",
+      "votes": 1064,
+      "candidate_uuid": "10bb80a0-1e3d-4078-a820-34896e5110fd",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพงศ์วินิจ ไพจิตรกุญชร",
+      "party": "ทางเลือกใหม่",
+      "votes": 468,
+      "candidate_uuid": "465a0151-6fa4-4fcb-8819-b046fc73c122",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

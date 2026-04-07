@@ -1,0 +1,265 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 31,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 143750,
+    "1.2": 107547,
+    "2.1": 136940,
+    "2.2": 103227,
+    "2.3": 33713,
+    "3.1": 103227,
+    "3.2": 119,
+    "3.3": 4101,
+    "3.4": 107547,
+    "4.1": 98491,
+    "4.2": 1993,
+    "4.3": 6963
+  },
+  "results": [
+    {
+      "number": 16,
+      "name": "นายเจษฎา แย้มสวย",
+      "party": "วิชชั่นใหม่",
+      "votes": 435
+    },
+    {
+      "number": 2,
+      "name": "นายธนพล ชื่นพาณิชยกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 15126
+    },
+    {
+      "number": 3,
+      "name": "นางสาวฐาปนี โปร่งรัศมี",
+      "party": "ไทยก้าวใหม่",
+      "votes": 727
+    },
+    {
+      "number": 1,
+      "name": "นายอำนาจ ภิญโญรัตนโยธี",
+      "party": "ทางเลือกใหม่",
+      "votes": 605
+    },
+    {
+      "number": 4,
+      "name": "พลตำรวจโทอัตชัย ดวงอัมพร",
+      "party": "ไทยชนะ",
+      "votes": 387
+    },
+    {
+      "number": 5,
+      "name": "นายวันปิติ สิงหโกวินท์",
+      "party": "พลวัต",
+      "votes": 702
+    },
+    {
+      "number": 6,
+      "name": "นายประเวช แสวงสุข",
+      "party": "เพื่อไทย",
+      "votes": 14455
+    },
+    {
+      "number": 7,
+      "name": "นายสุพิศาล ภักดีนฤนาถ",
+      "party": "ไทยธรรม",
+      "votes": 966
+    },
+    {
+      "number": 8,
+      "name": "นายสรวิศ วัฒนะโชติ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1888
+    },
+    {
+      "number": 9,
+      "name": "พันโทสาธิต หงษ์ทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 2889
+    },
+    {
+      "number": 10,
+      "name": "พันตำรวจโทหญิงรักตาภา วงษ์ยอด",
+      "party": "กล้าธรรม",
+      "votes": 485
+    },
+    {
+      "number": 11,
+      "name": "พลตรีเกียรติคุณ ขำศิริ",
+      "party": "ไทยสร้างไทย",
+      "votes": 1147
+    },
+    {
+      "number": 12,
+      "name": "นายอนุสรณ์ ธรรมใจ",
+      "party": "ประชาชน",
+      "votes": 44722
+    },
+    {
+      "number": 13,
+      "name": "พันตำรวจเอกทศพล โชติคุตร์",
+      "party": "ประชาธิปัตย์",
+      "votes": 13012
+    },
+    {
+      "number": 14,
+      "name": "นายชูชาติ ยิ้มงาม",
+      "party": "โอกาสใหม่",
+      "votes": 561
+    },
+    {
+      "number": 15,
+      "name": "นายศิรเมศร์ สุขกุลวรเศรษฐ์",
+      "party": "รักชาติ",
+      "votes": 384
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 31.json",
+  "_validation": {
+    "vote_sum": 98491,
+    "good_votes": 98491,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 143750,
+    "voters_came": 107547,
+    "ballots_received": 136940,
+    "ballots_used": 103227,
+    "good_votes": 98491,
+    "invalid_votes": 1993,
+    "no_votes": 6963
+  },
+  "matched_candidates": [
+    {
+      "number": 16,
+      "name": "นายเจษฎา แย้มสวย",
+      "party": "วิชชั่นใหม่",
+      "votes": 435,
+      "candidate_uuid": "fd6c1c21-05ca-40ea-a9e5-23b169db94c4",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธนพล ชื่นพาณิชยกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 15126,
+      "candidate_uuid": "b4e95a05-2dd2-4bc9-9b2e-904250d99081",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวฐาปนี โปร่งรัศมี",
+      "party": "ไทยก้าวใหม่",
+      "votes": 727,
+      "candidate_uuid": "d4ce039e-e98c-4b4b-ac93-0f3304a04fdd",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอำนาจ ภิญโญรัตนโยธี",
+      "party": "ทางเลือกใหม่",
+      "votes": 605,
+      "candidate_uuid": "9772fc52-18da-4cdf-bc86-e4a4f71d1217",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "พลตำรวจโทอัตชัย ดวงอัมพร",
+      "party": "ไทยชนะ",
+      "votes": 387,
+      "candidate_uuid": "72a39fb3-f2fc-4a71-aa40-94c8b73b8c4e",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวันปิติ สิงหโกวินท์",
+      "party": "พลวัต",
+      "votes": 702,
+      "candidate_uuid": "8c920d8b-405c-47b9-b884-3cd09eb95d9c",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายประเวช แสวงสุข",
+      "party": "เพื่อไทย",
+      "votes": 14455,
+      "candidate_uuid": "8c4b1c40-cc6a-42c3-8809-5dd0914d482a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุพิศาล ภักดีนฤนาถ",
+      "party": "ไทยธรรม",
+      "votes": 966,
+      "candidate_uuid": "3c450537-a3a6-4fbe-ba0d-44ed30c8dfe4",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสรวิศ วัฒนะโชติ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1888,
+      "candidate_uuid": "7a4800e7-74e4-4a64-82c3-6919d7227c93",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "พันโทสาธิต หงษ์ทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 2889,
+      "candidate_uuid": "255a0baa-fec7-45cd-8479-4420169dff72",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "พันตำรวจโทหญิงรักตาภา วงษ์ยอด",
+      "party": "กล้าธรรม",
+      "votes": 485,
+      "candidate_uuid": "fbcae264-a6af-4d99-ab24-22fe90f16f34",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "พลตรีเกียรติคุณ ขำศิริ",
+      "party": "ไทยสร้างไทย",
+      "votes": 1147,
+      "candidate_uuid": "6b1921dc-bd18-4daa-92b1-960b858b29bf",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายอนุสรณ์ ธรรมใจ",
+      "party": "ประชาชน",
+      "votes": 44722,
+      "candidate_uuid": "770be2e6-56fa-4fa1-8627-49c84d6dfe3e",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "พันตำรวจเอกทศพล โชติคุตร์",
+      "party": "ประชาธิปัตย์",
+      "votes": 13012,
+      "candidate_uuid": "5bb458b2-96ef-4715-af36-a686c5479308",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายชูชาติ ยิ้มงาม",
+      "party": "โอกาสใหม่",
+      "votes": 561,
+      "candidate_uuid": "d34af815-210f-4a13-9441-f2a32812d0db",
+      "is_active": true
+    },
+    {
+      "number": 15,
+      "name": "นายศิรเมศร์ สุขกุลวรเศรษฐ์",
+      "party": "รักชาติ",
+      "votes": 384,
+      "candidate_uuid": "a2f35708-c7c4-47a3-a0e7-29a300802697",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

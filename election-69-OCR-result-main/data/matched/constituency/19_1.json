@@ -1,0 +1,167 @@
+{
+  "province_name": "สระบุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128124,
+    "1.2": 98444,
+    "2.1": 136120,
+    "2.2": 98444,
+    "2.3": 37676,
+    "3.1": 93819,
+    "3.2": 40,
+    "3.3": 4585,
+    "3.4": 98443,
+    "4.1": 88053,
+    "4.2": 3702,
+    "4.3": 6689
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายขุนทอง แสนวิเศษ",
+      "party": "ภูมิใจไทย",
+      "votes": 31958
+    },
+    {
+      "number": 7,
+      "name": "นายสรพัช ศรีปราชญ์",
+      "party": "ประชาชน",
+      "votes": 31087
+    },
+    {
+      "number": 8,
+      "name": "นายทวีจิตร พัฒน์ชนะ",
+      "party": "เพื่อไทย",
+      "votes": 14572
+    },
+    {
+      "number": 4,
+      "name": "นายศรีวรพงษ์ ฤๅชา",
+      "party": "เศรษฐกิจ",
+      "votes": 2942
+    },
+    {
+      "number": 3,
+      "name": "นายกฤช ธนธรรมเจริญ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2737
+    },
+    {
+      "number": 1,
+      "name": "นายวิทูลย์ แก้วสุวรรณ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1423
+    },
+    {
+      "number": 9,
+      "name": "นายวิเนตร จานพิมพ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1156
+    },
+    {
+      "number": 2,
+      "name": "นายสมพล ปิดกวงษ์",
+      "party": "กล้าธรรม",
+      "votes": 1106
+    },
+    {
+      "number": 6,
+      "name": "นายบุญมี สรรพคุณ",
+      "party": "พลังประชารัฐ",
+      "votes": 1072
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/64. สระบุรี เขต 1.json",
+  "_validation": {
+    "vote_sum": 88053,
+    "good_votes": 88053,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "19",
+  "province_name_normalized": "สระบุรี",
+  "summary": {
+    "eligible_voters": 128124,
+    "voters_came": 98444,
+    "ballots_received": 136120,
+    "ballots_used": 98444,
+    "good_votes": 88053,
+    "invalid_votes": 3702,
+    "no_votes": 6689
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายขุนทอง แสนวิเศษ",
+      "party": "ภูมิใจไทย",
+      "votes": 31958,
+      "candidate_uuid": "71ed0a35-8e12-40fb-a5eb-bec404dd02b4",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสรพัช ศรีปราชญ์",
+      "party": "ประชาชน",
+      "votes": 31087,
+      "candidate_uuid": "bc2e40b1-816f-4988-abf2-b3ee061ed2e3",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายทวีจิตร พัฒน์ชนะ",
+      "party": "เพื่อไทย",
+      "votes": 14572,
+      "candidate_uuid": "d3e772bf-b62b-49a6-af98-8f6ca14f131f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายศรีวรพงษ์ ฤๅชา",
+      "party": "เศรษฐกิจ",
+      "votes": 2942,
+      "candidate_uuid": "9b3bc751-8c27-41b0-af6d-a8b31695d760",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกฤช ธนธรรมเจริญ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2737,
+      "candidate_uuid": "b0415f57-2d3b-4ad7-a754-865fae31dcaf",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวิทูลย์ แก้วสุวรรณ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1423,
+      "candidate_uuid": "0b6c80a6-5e2e-410f-8804-b40c06345a8f",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายวิเนตร จานพิมพ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1156,
+      "candidate_uuid": "68f63480-ed88-4838-81cf-7ebf78061532",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสมพล ปิดกวงษ์",
+      "party": "กล้าธรรม",
+      "votes": 1106,
+      "candidate_uuid": "8b181ae0-2f69-466b-a027-e1fe1d4b7a04",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายบุญมี สรรพคุณ",
+      "party": "พลังประชารัฐ",
+      "votes": 1072,
+      "candidate_uuid": "209a7a2c-6c6f-4159-9a4e-e7200d49c78c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,223 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 24,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 142148,
+    "1.2": 96919,
+    "2.1": 145857,
+    "2.2": 96919,
+    "2.3": 48938,
+    "3.1": 92597,
+    "3.2": 25,
+    "3.3": 4297,
+    "3.4": 96919,
+    "4.1": 89356,
+    "4.2": 1902,
+    "4.3": 5661
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายณพัฏน์ จิตตภินันท์กัณตา",
+      "party": "ประชาชน",
+      "votes": 46415
+    },
+    {
+      "number": 5,
+      "name": "นางสาวเจณิสตา เตชะโสภณมณี",
+      "party": "ภูมิใจไทย",
+      "votes": 15300
+    },
+    {
+      "number": 7,
+      "name": "นางสาวมารีญา ฤกษ์ดี",
+      "party": "ประชาธิปัตย์",
+      "votes": 13371
+    },
+    {
+      "number": 4,
+      "name": "นายวิชญ์วิสิษ โชติกิจพิศาล",
+      "party": "เพื่อไทย",
+      "votes": 6401
+    },
+    {
+      "number": 9,
+      "name": "นายกฤษติศักดิ์ พูลสวัสดิ์",
+      "party": "เศรษฐกิจ",
+      "votes": 2509
+    },
+    {
+      "number": 8,
+      "name": "นายรัชชานนท์ สมบัติลาภตระกูล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1758
+    },
+    {
+      "number": 11,
+      "name": "นายทรงวุฒิ จันทร์อำนวยโชค",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1001
+    },
+    {
+      "number": 10,
+      "name": "นางสาวสุภาภรณ์ ไชยโคตร",
+      "party": "ไทยสร้างไทย",
+      "votes": 819
+    },
+    {
+      "number": 2,
+      "name": "นายพงศพัศ กตคุณวิสิทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 514
+    },
+    {
+      "number": 1,
+      "name": "นางสาวปภาดา ถาวรเศรษฐ",
+      "party": "โอกาสใหม่",
+      "votes": 492
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตำรวจเอก จักรกฤช ปิ่นกร",
+      "party": "ปวงชนไทย",
+      "votes": 285
+    },
+    {
+      "number": 12,
+      "name": "นายวิษณุ ทิพย์วงศ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 280
+    },
+    {
+      "number": 13,
+      "name": "นายชาญวิทย์ อุทัยแสน",
+      "party": "ทางเลือกใหม่",
+      "votes": 211
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 24.json",
+  "_validation": {
+    "vote_sum": 89356,
+    "good_votes": 89356,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 142148,
+    "voters_came": 96919,
+    "ballots_received": 145857,
+    "ballots_used": 96919,
+    "good_votes": 89356,
+    "invalid_votes": 1902,
+    "no_votes": 5661
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายณพัฏน์ จิตตภินันท์กัณตา",
+      "party": "ประชาชน",
+      "votes": 46415,
+      "candidate_uuid": "3a8c151e-4ed6-484e-bf7e-14a62e205d23",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวเจณิสตา เตชะโสภณมณี",
+      "party": "ภูมิใจไทย",
+      "votes": 15300,
+      "candidate_uuid": "680ffd58-8d49-4204-b5e9-54a4485423e5",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวมารีญา ฤกษ์ดี",
+      "party": "ประชาธิปัตย์",
+      "votes": 13371,
+      "candidate_uuid": "be5ba4b2-a0f2-4043-9c7a-0251ad635d66",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิชญ์วิสิษ โชติกิจพิศาล",
+      "party": "เพื่อไทย",
+      "votes": 6401,
+      "candidate_uuid": "cb4e66cd-3c06-4de6-bae7-6fbba96212ad",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายกฤษติศักดิ์ พูลสวัสดิ์",
+      "party": "เศรษฐกิจ",
+      "votes": 2509,
+      "candidate_uuid": "b4603b46-0b36-4599-affb-5a6dd5fe1c9d",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายรัชชานนท์ สมบัติลาภตระกูล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1758,
+      "candidate_uuid": "99eba5db-1d80-491e-93c3-9827c0328c58",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายทรงวุฒิ จันทร์อำนวยโชค",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1001,
+      "candidate_uuid": "22fdc2c2-e157-4085-8160-e24f62e093b1",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวสุภาภรณ์ ไชยโคตร",
+      "party": "ไทยสร้างไทย",
+      "votes": 819,
+      "candidate_uuid": "8c838a1b-ca36-43ea-8c05-10f8984770c9",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพงศพัศ กตคุณวิสิทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 514,
+      "candidate_uuid": "1f37da7e-bf95-4113-b28b-358fd0f52865",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวปภาดา ถาวรเศรษฐ",
+      "party": "โอกาสใหม่",
+      "votes": 492,
+      "candidate_uuid": "35f91e3e-2dae-4d3f-a027-a2d12736ba37",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตำรวจเอก จักรกฤช ปิ่นกร",
+      "party": "ปวงชนไทย",
+      "votes": 285,
+      "candidate_uuid": "3b02d2cd-45c0-43fa-8065-ae296652ef74",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายวิษณุ ทิพย์วงศ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 280,
+      "candidate_uuid": "199984ce-f419-44cd-bd6e-a335bea76c64",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายชาญวิทย์ อุทัยแสน",
+      "party": "ทางเลือกใหม่",
+      "votes": 211,
+      "candidate_uuid": "d15ac9bc-2da8-47c3-b48f-4cd72f3bb340",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

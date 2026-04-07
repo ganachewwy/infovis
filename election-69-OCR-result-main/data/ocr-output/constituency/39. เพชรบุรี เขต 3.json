@@ -1,0 +1,63 @@
+{
+  "province_name": "เพชรบุรี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131561,
+    "1.2": 103294,
+    "2.1": 133920,
+    "2.2": 103294,
+    "2.3": 30626,
+    "3.1": 100154,
+    "3.2": 3,
+    "3.3": 3137,
+    "3.4": 103294,
+    "4.1": 95005,
+    "4.2": 3789,
+    "4.3": 4500
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "จ่าอากาศเอก อภิชาติ แก้วโกศล",
+      "party": "ภูมิใจไทย",
+      "votes": 71153
+    },
+    {
+      "number": 3,
+      "name": "นายหัสพันธ์ เสมเถื่อน",
+      "party": "ประชาชน",
+      "votes": 14187
+    },
+    {
+      "number": 1,
+      "name": "นายกฤษณ์ แก้วอยู่",
+      "party": "กล้าธรรม",
+      "votes": 3900
+    },
+    {
+      "number": 2,
+      "name": "นายวิรัฐ จันทวิโรจน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2660
+    },
+    {
+      "number": 6,
+      "name": "ว่าที่ ร.ต.เสรี รูปิยะเวช",
+      "party": "เศรษฐกิจ",
+      "votes": 1626
+    },
+    {
+      "number": 4,
+      "name": "นายอำนาจ โกงกาง",
+      "party": "เพื่อไทย",
+      "votes": 1479
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/39. เพชรบุรี เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 95005,
+    "good_votes": 95005,
+    "sum_diff_pct": 0.0
+  }
+}

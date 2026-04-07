@@ -1,0 +1,153 @@
+{
+  "province_name": "ปทุมธานี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130705,
+    "1.2": 102636,
+    "2.1": 131500,
+    "2.2": 102636,
+    "2.3": 28864,
+    "3.1": 99845,
+    "3.2": 7,
+    "3.3": 2784,
+    "3.4": 102636,
+    "4.1": 95201,
+    "4.2": 2882,
+    "4.3": 4553
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายเจษฎา ดนตรีเสนาะ",
+      "party": "ประชาชน",
+      "votes": 32835
+    },
+    {
+      "number": 3,
+      "name": "นายสุรพงษ์ อึ้งอัมพรวิไล",
+      "party": "เพื่อไทย",
+      "votes": 24558
+    },
+    {
+      "number": 2,
+      "name": "นายนพพร ขาวขำ",
+      "party": "กล้าธรรม",
+      "votes": 24365
+    },
+    {
+      "number": 7,
+      "name": "นายสุรศักดิ์ สุทัตโชต",
+      "party": "ภูมิใจไทย",
+      "votes": 6562
+    },
+    {
+      "number": 1,
+      "name": "นายคิว อรุโณรส",
+      "party": "ประชาธิปัตย์",
+      "votes": 3508
+    },
+    {
+      "number": 6,
+      "name": "นางสาวสาวิตรี กองรัตน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1586
+    },
+    {
+      "number": 5,
+      "name": "นายวิชยุทธ์ พึ่งสายธนโชติ",
+      "party": "เศรษฐกิจ",
+      "votes": 1487
+    },
+    {
+      "number": 8,
+      "name": "นายเทพพิทักษ์ กุลมงคลชัยศรี",
+      "party": "พลังประชารัฐ",
+      "votes": 300
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/29. ปทุมธานี เขต 1.json",
+  "_validation": {
+    "vote_sum": 95201,
+    "good_votes": 95201,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "13",
+  "province_name_normalized": "ปทุมธานี",
+  "summary": {
+    "eligible_voters": 130705,
+    "voters_came": 102636,
+    "ballots_received": 131500,
+    "ballots_used": 102636,
+    "good_votes": 95201,
+    "invalid_votes": 2882,
+    "no_votes": 4553
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายเจษฎา ดนตรีเสนาะ",
+      "party": "ประชาชน",
+      "votes": 32835,
+      "candidate_uuid": "158eaa09-0cc5-4b52-a15d-6401559bb182",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสุรพงษ์ อึ้งอัมพรวิไล",
+      "party": "เพื่อไทย",
+      "votes": 24558,
+      "candidate_uuid": "9a4925d3-bf0f-48f8-8aab-c56707380074",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนพพร ขาวขำ",
+      "party": "กล้าธรรม",
+      "votes": 24365,
+      "candidate_uuid": "5d37a8a5-c057-4e32-af5e-3d9b7f30b66e",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุรศักดิ์ สุทัตโชต",
+      "party": "ภูมิใจไทย",
+      "votes": 6562,
+      "candidate_uuid": "95e2f80d-0abb-411e-994f-d2eadd25cbb7",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายคิว อรุโณรส",
+      "party": "ประชาธิปัตย์",
+      "votes": 3508,
+      "candidate_uuid": "c9d428bd-1b5f-40bc-9f52-cb50682acf75",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวสาวิตรี กองรัตน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1586,
+      "candidate_uuid": "4187c643-31cf-45d1-ab3c-72a54f91a884",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวิชยุทธ์ พึ่งสายธนโชติ",
+      "party": "เศรษฐกิจ",
+      "votes": 1487,
+      "candidate_uuid": "84118381-0e2b-4e04-b319-33bfd80253ed",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายเทพพิทักษ์ กุลมงคลชัยศรี",
+      "party": "พลังประชารัฐ",
+      "votes": 300,
+      "candidate_uuid": "87b158dc-bf93-42db-a225-8e014283f346",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

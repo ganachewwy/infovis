@@ -1,0 +1,63 @@
+{
+  "province_name": "พิษณุโลก",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132621,
+    "1.2": 94537,
+    "2.1": 134321,
+    "2.2": 94537,
+    "2.3": 39784,
+    "3.1": 88656,
+    "3.2": 0,
+    "3.3": 5881,
+    "3.4": 94537,
+    "4.1": 87172,
+    "4.2": 4367,
+    "4.3": 2998
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายจุติ ไกรฤกษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34149
+    },
+    {
+      "number": 3,
+      "name": "นายเอกพงษ์ กุลเจริญ",
+      "party": "เพื่อไทย",
+      "votes": 30110
+    },
+    {
+      "number": 1,
+      "name": "นายศุภปกรณ์ กิตยาธิคุณ",
+      "party": "ประชาชน",
+      "votes": 19978
+    },
+    {
+      "number": 2,
+      "name": "นายสมศักดิ์ ชุ่มกลัด",
+      "party": "ประชาธิปัตย์",
+      "votes": 1745
+    },
+    {
+      "number": 6,
+      "name": "นางสาวฉันทนา พุ่มพฤกษ์",
+      "party": "อนาคตไทย",
+      "votes": 649
+    },
+    {
+      "number": 4,
+      "name": "นายธนวิน โรจน์สุนทรกิตติ",
+      "party": "กล้าธรรม",
+      "votes": 541
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/38. พิษณุโลก เขต 5.pdf",
+  "_validation": {
+    "vote_sum": 87172,
+    "good_votes": 87172,
+    "sum_diff_pct": 0.0
+  }
+}

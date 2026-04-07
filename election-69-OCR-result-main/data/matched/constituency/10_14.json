@@ -1,0 +1,265 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 14,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 140238,
+    "1.2": 99223,
+    "2.1": 141547,
+    "2.2": 99223,
+    "2.3": 42324,
+    "3.1": 93956,
+    "3.2": 43,
+    "3.3": 5224,
+    "3.4": 99223,
+    "4.1": 93467,
+    "4.2": 1431,
+    "4.3": 4325
+  },
+  "results": [
+    {
+      "number": 14,
+      "name": "นายก่อเกียรติ ก่อสูงศักดิ์",
+      "party": "ประชาชน",
+      "votes": 41528
+    },
+    {
+      "number": 13,
+      "name": "นางสาวฐิติภัสร์ โชติเดชาชัยนันต์",
+      "party": "ภูมิใจไทย",
+      "votes": 25491
+    },
+    {
+      "number": 2,
+      "name": "นายพงศกร รัตนเรืองวัฒนา",
+      "party": "เพื่อไทย",
+      "votes": 10848
+    },
+    {
+      "number": 1,
+      "name": "ร.อ.พิชาญศักดิ์ บุญมาศ",
+      "party": "ประชาธิปัตย์",
+      "votes": 8186
+    },
+    {
+      "number": 10,
+      "name": "นายปรีชาชัย พิพรรธน์ธนาดุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1333
+    },
+    {
+      "number": 9,
+      "name": "นายธีรทรัพย์ อภิญญาภรณ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 1299
+    },
+    {
+      "number": 8,
+      "name": "นายธีระยุทธ อรุณพูลทรัพย์",
+      "party": "เศรษฐกิจ",
+      "votes": 1199
+    },
+    {
+      "number": 11,
+      "name": "นางสาวอาภา กลิ่นหอม",
+      "party": "ไทยภักดี",
+      "votes": 694
+    },
+    {
+      "number": 6,
+      "name": "นายศรราม สีบุญเรื่อง",
+      "party": "กล้าธรรม",
+      "votes": 571
+    },
+    {
+      "number": 3,
+      "name": "นายศุภพิพัฒน์ บัลนาลังก์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 485
+    },
+    {
+      "number": 16,
+      "name": "นายอริย์ธัช สายสุวรรณ์",
+      "party": "รักชาติ",
+      "votes": 477
+    },
+    {
+      "number": 12,
+      "name": "นางชนิดาภา สนิมทอง",
+      "party": "ปวงชนไทย",
+      "votes": 354
+    },
+    {
+      "number": 7,
+      "name": "นายรัชฎะ สมรทินกร",
+      "party": "พลังประชารัฐ",
+      "votes": 352
+    },
+    {
+      "number": 4,
+      "name": "นายไชยอนันต์ ตรีไพบูลย์",
+      "party": "โอกาสใหม่",
+      "votes": 291
+    },
+    {
+      "number": 5,
+      "name": "นายกิตติศักดิ์ บุญพิทักษ์วุฒิ",
+      "party": "พลวัต",
+      "votes": 213
+    },
+    {
+      "number": 15,
+      "name": "นายจิรยุทธ บุญแต่ง",
+      "party": "ไทยก้าวหน้า",
+      "votes": 146
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 14.json",
+  "_validation": {
+    "vote_sum": 93467,
+    "good_votes": 93467,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 140238,
+    "voters_came": 99223,
+    "ballots_received": 141547,
+    "ballots_used": 99223,
+    "good_votes": 93467,
+    "invalid_votes": 1431,
+    "no_votes": 4325
+  },
+  "matched_candidates": [
+    {
+      "number": 14,
+      "name": "นายก่อเกียรติ ก่อสูงศักดิ์",
+      "party": "ประชาชน",
+      "votes": 41528,
+      "candidate_uuid": "971505fe-894a-432f-8b09-ea9fc3579ab4",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นางสาวฐิติภัสร์ โชติเดชาชัยนันต์",
+      "party": "ภูมิใจไทย",
+      "votes": 25491,
+      "candidate_uuid": "362720e1-2b5b-41bd-9320-859765cf26a4",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพงศกร รัตนเรืองวัฒนา",
+      "party": "เพื่อไทย",
+      "votes": 10848,
+      "candidate_uuid": "e5ccafa5-4671-458c-b87b-185295705be3",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "ร.อ.พิชาญศักดิ์ บุญมาศ",
+      "party": "ประชาธิปัตย์",
+      "votes": 8186,
+      "candidate_uuid": "f9d15948-6505-4ded-85a6-18b6a2670110",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายปรีชาชัย พิพรรธน์ธนาดุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1333,
+      "candidate_uuid": "4fe89f00-dcc4-49fe-a664-fb1b3d2f7f05",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธีรทรัพย์ อภิญญาภรณ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 1299,
+      "candidate_uuid": "3580376f-fe0d-4522-bc5f-86b9d2e8a35b",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธีระยุทธ อรุณพูลทรัพย์",
+      "party": "เศรษฐกิจ",
+      "votes": 1199,
+      "candidate_uuid": "279991a8-28f1-473d-bfad-a0fedb608081",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางสาวอาภา กลิ่นหอม",
+      "party": "ไทยภักดี",
+      "votes": 694,
+      "candidate_uuid": "da807257-74c6-4d35-885f-6b77946f4c23",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายศรราม สีบุญเรื่อง",
+      "party": "กล้าธรรม",
+      "votes": 571,
+      "candidate_uuid": "334f1d4e-4e5c-46a0-a0b0-0593accec1b3",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายศุภพิพัฒน์ บัลนาลังก์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 485,
+      "candidate_uuid": "97e7af47-c1c7-4e9f-b266-631b1647c55d",
+      "is_active": true
+    },
+    {
+      "number": 16,
+      "name": "นายอริย์ธัช สายสุวรรณ์",
+      "party": "รักชาติ",
+      "votes": 477,
+      "candidate_uuid": "8e547d7e-4e2c-41f2-bd32-ee39a74a96f6",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นางชนิดาภา สนิมทอง",
+      "party": "ปวงชนไทย",
+      "votes": 354,
+      "candidate_uuid": "81c5740e-cbe0-4ee9-8bb7-7f4445a3df08",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายรัชฎะ สมรทินกร",
+      "party": "พลังประชารัฐ",
+      "votes": 352,
+      "candidate_uuid": "01972153-76d1-49d7-a8d7-6a6244e46edb",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายไชยอนันต์ ตรีไพบูลย์",
+      "party": "โอกาสใหม่",
+      "votes": 291,
+      "candidate_uuid": "60b43ce3-c642-4875-b92c-7d8eca47e629",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายกิตติศักดิ์ บุญพิทักษ์วุฒิ",
+      "party": "พลวัต",
+      "votes": 213,
+      "candidate_uuid": "e2f63c1f-c212-4f28-bbda-1836b1cd7617",
+      "is_active": true
+    },
+    {
+      "number": 15,
+      "name": "นายจิรยุทธ บุญแต่ง",
+      "party": "ไทยก้าวหน้า",
+      "votes": 146,
+      "candidate_uuid": "29a7d6f3-8608-42cb-9dde-b20bc73f8106",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

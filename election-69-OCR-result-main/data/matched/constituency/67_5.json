@@ -1,0 +1,139 @@
+{
+  "province_name": "เพชรบูรณ์",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132078,
+    "1.2": 81841,
+    "2.1": 131980,
+    "2.2": 81841,
+    "2.3": 50139,
+    "3.1": 76089,
+    "3.2": 9,
+    "3.3": 5743,
+    "3.4": 81841,
+    "4.1": 73475,
+    "4.2": 5215,
+    "4.3": 3151
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นางวันเพ็ญ พร้อมพัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 45747
+    },
+    {
+      "number": 1,
+      "name": "นางสาวธารดา จันทร์สอน",
+      "party": "ประชาชน",
+      "votes": 16678
+    },
+    {
+      "number": 5,
+      "name": "นายสุประวีณ์ อนรรฆพันธ์",
+      "party": "เพื่อไทย",
+      "votes": 6216
+    },
+    {
+      "number": 4,
+      "name": "นายบุญร่วม แสงมี",
+      "party": "เศรษฐกิจ",
+      "votes": 2243
+    },
+    {
+      "number": 6,
+      "name": "ร.อ.ทรงพล ทวีค้ำคูณ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1201
+    },
+    {
+      "number": 7,
+      "name": "นายธีรศาสนติ์ ทัศน์สุวรรณ",
+      "party": "ประชาธิปัตย์",
+      "votes": 912
+    },
+    {
+      "number": 8,
+      "name": "นายทองสุข บำรุงนอก",
+      "party": "พลังประชาชารัฐ",
+      "votes": 478
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/40. เพชรบูรณ์ เขต 5.json",
+  "_validation": {
+    "vote_sum": 73475,
+    "good_votes": 73475,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "67",
+  "province_name_normalized": "เพชรบูรณ์",
+  "summary": {
+    "eligible_voters": 132078,
+    "voters_came": 81841,
+    "ballots_received": 131980,
+    "ballots_used": 81841,
+    "good_votes": 73475,
+    "invalid_votes": 5215,
+    "no_votes": 3151
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นางวันเพ็ญ พร้อมพัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 45747,
+      "candidate_uuid": "df0a4691-3cf5-4a8f-a242-89331941fff1",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวธารดา จันทร์สอน",
+      "party": "ประชาชน",
+      "votes": 16678,
+      "candidate_uuid": "11c265f2-d147-482f-bd06-0642c26bdef0",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสุประวีณ์ อนรรฆพันธ์",
+      "party": "เพื่อไทย",
+      "votes": 6216,
+      "candidate_uuid": "04536f8b-6487-4eb7-842e-51710ae309f2",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายบุญร่วม แสงมี",
+      "party": "เศรษฐกิจ",
+      "votes": 2243,
+      "candidate_uuid": "db01bc65-54fa-40e4-aca4-3d1678dd2212",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "ร.อ.ทรงพล ทวีค้ำคูณ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1201,
+      "candidate_uuid": "7f02007d-f0a6-4458-859d-c08a5b8f4239",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายธีรศาสนติ์ ทัศน์สุวรรณ",
+      "party": "ประชาธิปัตย์",
+      "votes": 912,
+      "candidate_uuid": "7b69d9fa-8e9a-468c-af6c-bc215800f3d5",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายทองสุข บำรุงนอก",
+      "party": "พลังประชาชารัฐ",
+      "votes": 478,
+      "candidate_uuid": "cd5fc5dc-3a2d-471e-a074-5405e5fddc01",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

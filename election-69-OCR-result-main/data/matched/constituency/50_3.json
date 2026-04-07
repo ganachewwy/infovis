@@ -1,0 +1,237 @@
+{
+  "province_name": "เชียงใหม่",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139221,
+    "1.2": 111503,
+    "2.1": 145236,
+    "2.2": 111503,
+    "2.3": 33733,
+    "3.1": 105670,
+    "3.2": 21,
+    "3.3": 5812,
+    "3.4": 111503,
+    "4.1": 99756,
+    "4.2": 3901,
+    "4.3": 7846
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายณัฐพล โตวิจักษณ์ชัยกุล",
+      "party": "ประชาชน",
+      "votes": 49235
+    },
+    {
+      "number": 8,
+      "name": "นายจักรพล ตั้งสุทธิธรรม",
+      "party": "เพื่อไทย",
+      "votes": 28351
+    },
+    {
+      "number": 1,
+      "name": "นายเกษม ปารมีศิลป์ขจร",
+      "party": "ภูมิใจไทย",
+      "votes": 7296
+    },
+    {
+      "number": 9,
+      "name": "นายศักดิ์สุบรรณ คันธา",
+      "party": "ประชาธิปัตย์",
+      "votes": 5464
+    },
+    {
+      "number": 4,
+      "name": "นายธนากร สุภาษา",
+      "party": "กล้าธรรม",
+      "votes": 2335
+    },
+    {
+      "number": 6,
+      "name": "นางสรวีย์ เขื่อนวงค์วิน",
+      "party": "เศรษฐกิจ",
+      "votes": 1954
+    },
+    {
+      "number": 7,
+      "name": "นายไพศาล ใจแก้ว",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1426
+    },
+    {
+      "number": 3,
+      "name": "พลตรีพนม ศรีเผือด",
+      "party": "โอกาสใหม่",
+      "votes": 1265
+    },
+    {
+      "number": 11,
+      "name": "นางจิตรา สุจารี",
+      "party": "ประชากรไทย",
+      "votes": 583
+    },
+    {
+      "number": 2,
+      "name": "นายเตชสิทธิ์ สีแดง",
+      "party": "วิชชั่นใหม่",
+      "votes": 549
+    },
+    {
+      "number": 12,
+      "name": "นายพรชัย อรรถปรียางกูร",
+      "party": "ก้าวอิสระ",
+      "votes": 486
+    },
+    {
+      "number": 13,
+      "name": "นายสมหวัง อุทัศ",
+      "party": "เสรีรวมไทย",
+      "votes": 376
+    },
+    {
+      "number": 14,
+      "name": "นางดรุณี นันทวิชัย",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 228
+    },
+    {
+      "number": 10,
+      "name": "นายอรุณ โปธิตา",
+      "party": "พลวัต",
+      "votes": 208
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/14. เชียงใหม่ เขต 3.json",
+  "_validation": {
+    "vote_sum": 99756,
+    "good_votes": 99756,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "50",
+  "province_name_normalized": "เชียงใหม่",
+  "summary": {
+    "eligible_voters": 139221,
+    "voters_came": 111503,
+    "ballots_received": 145236,
+    "ballots_used": 111503,
+    "good_votes": 99756,
+    "invalid_votes": 3901,
+    "no_votes": 7846
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายณัฐพล โตวิจักษณ์ชัยกุล",
+      "party": "ประชาชน",
+      "votes": 49235,
+      "candidate_uuid": "87c29a8b-8836-447f-97f1-49f67dc76625",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายจักรพล ตั้งสุทธิธรรม",
+      "party": "เพื่อไทย",
+      "votes": 28351,
+      "candidate_uuid": "9cd8fe04-67de-467c-b548-a3e43be2d759",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเกษม ปารมีศิลป์ขจร",
+      "party": "ภูมิใจไทย",
+      "votes": 7296,
+      "candidate_uuid": "d5355435-b727-4d15-92a8-b12b887ae9b3",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายศักดิ์สุบรรณ คันธา",
+      "party": "ประชาธิปัตย์",
+      "votes": 5464,
+      "candidate_uuid": "f5e803a4-8fa9-4c46-b378-5874aa4d4d50",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธนากร สุภาษา",
+      "party": "กล้าธรรม",
+      "votes": 2335,
+      "candidate_uuid": "c949b741-43b5-4049-a7df-d82ca42a0d3d",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสรวีย์ เขื่อนวงค์วิน",
+      "party": "เศรษฐกิจ",
+      "votes": 1954,
+      "candidate_uuid": "461f429f-2c90-49f0-b487-52dc59c7d4be",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายไพศาล ใจแก้ว",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1426,
+      "candidate_uuid": "19437077-63a8-4fd8-ad93-a767406b990a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "พลตรีพนม ศรีเผือด",
+      "party": "โอกาสใหม่",
+      "votes": 1265,
+      "candidate_uuid": "c8d6c463-06d0-4952-86dc-c29a60b91910",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางจิตรา สุจารี",
+      "party": "ประชากรไทย",
+      "votes": 583,
+      "candidate_uuid": "d7b04f3d-73b8-4a02-8330-0f92c04e3311",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายเตชสิทธิ์ สีแดง",
+      "party": "วิชชั่นใหม่",
+      "votes": 549,
+      "candidate_uuid": "2a2bd7a2-69b0-48ac-9bc7-f34e123f67d9",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายพรชัย อรรถปรียางกูร",
+      "party": "ก้าวอิสระ",
+      "votes": 486,
+      "candidate_uuid": "b8a094da-5053-41ab-8c0e-b7af598ca804",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายสมหวัง อุทัศ",
+      "party": "เสรีรวมไทย",
+      "votes": 376,
+      "candidate_uuid": "5c52ba31-ea06-438b-94c5-2ac2325c49b0",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นางดรุณี นันทวิชัย",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 228,
+      "candidate_uuid": "719dd25f-2436-4864-a07f-6aaf54c3443f",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายอรุณ โปธิตา",
+      "party": "พลวัต",
+      "votes": 208,
+      "candidate_uuid": "604f9a7a-1690-4711-9ade-b1bed752137a",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

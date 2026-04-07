@@ -1,0 +1,111 @@
+{
+  "province_name": "อุทัยธานี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 134528,
+    "1.2": 83898,
+    "2.1": 134619,
+    "2.2": 83898,
+    "2.3": 50721,
+    "3.1": 78734,
+    "3.2": 7,
+    "3.3": 5157,
+    "3.4": 83898,
+    "4.1": 77470,
+    "4.2": 3461,
+    "4.3": 2967
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายชาดา ไทยเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 54284
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสุชาดา บัวพันธ์",
+      "party": "ประชาชน",
+      "votes": 9062
+    },
+    {
+      "number": null,
+      "name": "นายอรรถพล โต๋วสัจจา",
+      "party": "เพื่อไทย",
+      "votes": 8033
+    },
+    {
+      "number": 4,
+      "name": "ร.ต.ศึกษา ฟุ้งเฟื่อง ร.น.",
+      "party": "ประชาธิปัตย์",
+      "votes": 5878
+    },
+    {
+      "number": 5,
+      "name": "นางสุพรรณษา นันทา",
+      "party": "กล้าธรรม",
+      "votes": 213
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/76. อุทัยธานี เขต 2.json",
+  "_validation": {
+    "vote_sum": 77470,
+    "good_votes": 77470,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "61",
+  "province_name_normalized": "อุทัยธานี",
+  "summary": {
+    "eligible_voters": 134528,
+    "voters_came": 83898,
+    "ballots_received": 134619,
+    "ballots_used": 83898,
+    "good_votes": 77470,
+    "invalid_votes": 3461,
+    "no_votes": 2967
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายชาดา ไทยเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 54284,
+      "candidate_uuid": "acc9583b-01f8-43e0-afa6-a80b9775bc86",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสุชาดา บัวพันธ์",
+      "party": "ประชาชน",
+      "votes": 9062,
+      "candidate_uuid": "1030a66e-f914-4da5-9b02-8246a3878ac7",
+      "is_active": true
+    },
+    {
+      "number": null,
+      "name": "นายอรรถพล โต๋วสัจจา",
+      "party": "เพื่อไทย",
+      "votes": 8033,
+      "candidate_uuid": "56757cee-94fe-46db-a628-d6eb834ed2e7",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "ร.ต.ศึกษา ฟุ้งเฟื่อง ร.น.",
+      "party": "ประชาธิปัตย์",
+      "votes": 5878,
+      "candidate_uuid": "b8c36300-d9ed-4f07-9c07-b5fabf5e7445",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสุพรรณษา นันทา",
+      "party": "กล้าธรรม",
+      "votes": 213,
+      "candidate_uuid": "742c4622-ca95-4988-8952-ee28127fcb5a",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

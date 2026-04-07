@@ -1,0 +1,139 @@
+{
+  "province_name": "ชุมพร",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136820,
+    "1.2": 107786,
+    "2.1": 141486,
+    "2.2": 107786,
+    "2.3": 33700,
+    "3.1": 102380,
+    "3.2": 0,
+    "3.3": 5406,
+    "3.4": 107786,
+    "4.1": 101248,
+    "4.2": 2763,
+    "4.3": 3775
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายกิตติศักดิ์ พรหมรัตน์",
+      "party": "ภูมิใจไทย",
+      "votes": 35467
+    },
+    {
+      "number": 6,
+      "name": "นายสันต์ แซ่ตั้ง",
+      "party": "กล้าธรรม",
+      "votes": 23041
+    },
+    {
+      "number": 5,
+      "name": "นายสราวุธ อ่อนละมัย",
+      "party": "ประชาธิปัตย์",
+      "votes": 16287
+    },
+    {
+      "number": 7,
+      "name": "นายสมมิตร ทองเหลือ",
+      "party": "โอกาสใหม่",
+      "votes": 15064
+    },
+    {
+      "number": 3,
+      "name": "นางสาวจินดารัตน์ ชูคง",
+      "party": "ประชาชน",
+      "votes": 10062
+    },
+    {
+      "number": 2,
+      "name": "นางสาวรุจินาถ ศรีสุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 782
+    },
+    {
+      "number": 1,
+      "name": "นายธน บุญเกิด",
+      "party": "เสรีรวมไทย",
+      "votes": 545
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/12. ชุมพร เขต 2.json",
+  "_validation": {
+    "vote_sum": 101248,
+    "good_votes": 101248,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "86",
+  "province_name_normalized": "ชุมพร",
+  "summary": {
+    "eligible_voters": 136820,
+    "voters_came": 107786,
+    "ballots_received": 141486,
+    "ballots_used": 107786,
+    "good_votes": 101248,
+    "invalid_votes": 2763,
+    "no_votes": 3775
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายกิตติศักดิ์ พรหมรัตน์",
+      "party": "ภูมิใจไทย",
+      "votes": 35467,
+      "candidate_uuid": "a96a5a3e-db9e-4db5-bf1c-7b26178a6221",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสันต์ แซ่ตั้ง",
+      "party": "กล้าธรรม",
+      "votes": 23041,
+      "candidate_uuid": "72d0fdb3-4173-451f-b9a3-38ee5f72d21c",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสราวุธ อ่อนละมัย",
+      "party": "ประชาธิปัตย์",
+      "votes": 16287,
+      "candidate_uuid": "e2118249-779d-4056-8fa0-8a4aa1778559",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสมมิตร ทองเหลือ",
+      "party": "โอกาสใหม่",
+      "votes": 15064,
+      "candidate_uuid": "b9016669-0b26-456f-8974-95901886f666",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวจินดารัตน์ ชูคง",
+      "party": "ประชาชน",
+      "votes": 10062,
+      "candidate_uuid": "d0f62bd4-e061-4fda-aeb5-5b4837e26f91",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวรุจินาถ ศรีสุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 782,
+      "candidate_uuid": "37eab102-b44e-4b2b-82d8-ea564c260bc6",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายธน บุญเกิด",
+      "party": "เสรีรวมไทย",
+      "votes": 545,
+      "candidate_uuid": "f17406ed-e259-421c-904c-fd24daa35bf4",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,125 @@
+{
+  "province_name": "นครศรีธรรมราช",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132977,
+    "1.2": 99799,
+    "2.1": 136217,
+    "2.2": 99799,
+    "2.3": 36418,
+    "3.1": 92061,
+    "3.2": 33,
+    "3.3": 7704,
+    "3.4": 99798,
+    "4.1": 91623,
+    "4.2": 3036,
+    "4.3": 5139
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายทรงศักดิ์ มุสิกอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 39225
+    },
+    {
+      "number": 5,
+      "name": "นายราชิต สุดพุ่ม",
+      "party": "ภูมิใจไทย",
+      "votes": 29583
+    },
+    {
+      "number": 4,
+      "name": "นายปกรณ์ อารีกุล",
+      "party": "ประชาชน",
+      "votes": 18768
+    },
+    {
+      "number": 1,
+      "name": "นายมนตรี เฉียบแหลม",
+      "party": "เพื่อไทย",
+      "votes": 1617
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสุวรรณี ว่องชล",
+      "party": "ไทยภักดี",
+      "votes": 1324
+    },
+    {
+      "number": 6,
+      "name": "นางสุภาพ ขุนศรี",
+      "party": "พลังประชารัฐ",
+      "votes": 1106
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/22. นครศรีธรรมราช เขต 1.json",
+  "_validation": {
+    "vote_sum": 91623,
+    "good_votes": 91623,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "80",
+  "province_name_normalized": "นครศรีธรรมราช",
+  "summary": {
+    "eligible_voters": 132977,
+    "voters_came": 99799,
+    "ballots_received": 136217,
+    "ballots_used": 99799,
+    "good_votes": 91623,
+    "invalid_votes": 3036,
+    "no_votes": 5139
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายทรงศักดิ์ มุสิกอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 39225,
+      "candidate_uuid": "2479e707-d166-42a6-a972-7fe546fb11cc",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายราชิต สุดพุ่ม",
+      "party": "ภูมิใจไทย",
+      "votes": 29583,
+      "candidate_uuid": "987e4d77-54fe-4042-a1a5-e30689d8cd76",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายปกรณ์ อารีกุล",
+      "party": "ประชาชน",
+      "votes": 18768,
+      "candidate_uuid": "ca08ae18-f40c-4e55-a4a0-ba05df50a358",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายมนตรี เฉียบแหลม",
+      "party": "เพื่อไทย",
+      "votes": 1617,
+      "candidate_uuid": "3ac0cc84-d989-417b-967e-e2ca6c27c75a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสุวรรณี ว่องชล",
+      "party": "ไทยภักดี",
+      "votes": 1324,
+      "candidate_uuid": "7f02c28b-d76d-47a0-b4fc-337e7ae23aba",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสุภาพ ขุนศรี",
+      "party": "พลังประชารัฐ",
+      "votes": 1106,
+      "candidate_uuid": "11ba222b-f163-4461-9922-c9deb7021ecb",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

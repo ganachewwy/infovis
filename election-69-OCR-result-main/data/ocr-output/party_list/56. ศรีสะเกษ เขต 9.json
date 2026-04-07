@@ -1,0 +1,312 @@
+{
+  "province_name": "ศรีสะเกษ",
+  "constituency_number": 9,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 139255,
+    "1.2": 93002,
+    "2.1": 144376,
+    "2.2": 93002,
+    "2.3": 51374,
+    "3.1": 84772,
+    "3.2": 14,
+    "3.3": 8216,
+    "3.4": 93002,
+    "4.1": 87485,
+    "4.2": 3885,
+    "4.3": 1632
+  },
+  "results": [
+    {
+      "number": 2,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 535
+    },
+    {
+      "number": 3,
+      "party": "เพื่อชาติไทย",
+      "votes": 4094
+    },
+    {
+      "number": 4,
+      "party": "ใหม่",
+      "votes": 268
+    },
+    {
+      "number": 5,
+      "party": "มิติใหม่",
+      "votes": 114
+    },
+    {
+      "number": 6,
+      "party": "รวมใจไทย",
+      "votes": 466
+    },
+    {
+      "number": 7,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 732
+    },
+    {
+      "number": 8,
+      "party": "พลวัต",
+      "votes": 66
+    },
+    {
+      "number": 9,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 375
+    },
+    {
+      "number": 10,
+      "party": "เพื่อไทย",
+      "votes": 33299
+    },
+    {
+      "number": 11,
+      "party": "ทางเลือกใหม่",
+      "votes": 2208
+    },
+    {
+      "number": 12,
+      "party": "เศรษฐกิจ",
+      "votes": 2050
+    },
+    {
+      "number": 13,
+      "party": "เสรีรวมไทย",
+      "votes": 329
+    },
+    {
+      "number": 14,
+      "party": "รวมพลังประชาชน",
+      "votes": 405
+    },
+    {
+      "number": 15,
+      "party": "ท้องที่ไทย",
+      "votes": 138
+    },
+    {
+      "number": 16,
+      "party": "อนาคตไทย",
+      "votes": 48
+    },
+    {
+      "number": 17,
+      "party": "พลังเพื่อไทย",
+      "votes": 309
+    },
+    {
+      "number": 18,
+      "party": "ไทยชนะ",
+      "votes": 112
+    },
+    {
+      "number": 19,
+      "party": "พลังสังคมใหม่",
+      "votes": 24
+    },
+    {
+      "number": 20,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 29
+    },
+    {
+      "number": 21,
+      "party": "ฟิวชัน",
+      "votes": 22
+    },
+    {
+      "number": 22,
+      "party": "ไทรวมพลัง",
+      "votes": 107
+    },
+    {
+      "number": 23,
+      "party": "ก้าวอิสระ",
+      "votes": 26
+    },
+    {
+      "number": 24,
+      "party": "ปวงชนไทย",
+      "votes": 44
+    },
+    {
+      "number": 25,
+      "party": "วิชชั่นใหม่",
+      "votes": 72
+    },
+    {
+      "number": 26,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 26
+    },
+    {
+      "number": 27,
+      "party": "คลองไทย",
+      "votes": 56
+    },
+    {
+      "number": 28,
+      "party": "ประชาธิปัตย์",
+      "votes": 1033
+    },
+    {
+      "number": 29,
+      "party": "ไทยก้าวหน้า",
+      "votes": 89
+    },
+    {
+      "number": 30,
+      "party": "ไทยภักดี",
+      "votes": 203
+    },
+    {
+      "number": 31,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 144
+    },
+    {
+      "number": 32,
+      "party": "ประชากรไทย",
+      "votes": 414
+    },
+    {
+      "number": 33,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 184
+    },
+    {
+      "number": 34,
+      "party": "ประชาชาติ",
+      "votes": 58
+    },
+    {
+      "number": 35,
+      "party": "สร้างอนาคตไทย",
+      "votes": 88
+    },
+    {
+      "number": 36,
+      "party": "รักชาติ",
+      "votes": 81
+    },
+    {
+      "number": 37,
+      "party": "ไทยพร้อม",
+      "votes": 140
+    },
+    {
+      "number": 38,
+      "party": "ภูมิใจไทย",
+      "votes": 17999
+    },
+    {
+      "number": 39,
+      "party": "พลังธรรมใหม่",
+      "votes": 678
+    },
+    {
+      "number": 40,
+      "party": "กรีน",
+      "votes": 239
+    },
+    {
+      "number": 41,
+      "party": "ไทยธรรม",
+      "votes": 62
+    },
+    {
+      "number": 42,
+      "party": "แผ่นดินธรรม",
+      "votes": 29
+    },
+    {
+      "number": 43,
+      "party": "กล้าธรรม",
+      "votes": 1106
+    },
+    {
+      "number": 44,
+      "party": "พลังประชารัฐ",
+      "votes": 173
+    },
+    {
+      "number": 45,
+      "party": "โอกาสใหม่",
+      "votes": 32
+    },
+    {
+      "number": 46,
+      "party": "เป็นธรรม",
+      "votes": 54
+    },
+    {
+      "number": 47,
+      "party": "ประชาชน",
+      "votes": 17898
+    },
+    {
+      "number": 48,
+      "party": "ประชาไทย",
+      "votes": 123
+    },
+    {
+      "number": 49,
+      "party": "ไทยสร้างไทย",
+      "votes": 374
+    },
+    {
+      "number": 50,
+      "party": "ไทยก้าวใหม่",
+      "votes": 147
+    },
+    {
+      "number": 51,
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "number": 52,
+      "party": "พร้อม",
+      "votes": 42
+    },
+    {
+      "number": 53,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 14
+    },
+    {
+      "number": 54,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 15
+    },
+    {
+      "number": 55,
+      "party": "ความหวังใหม่",
+      "votes": 23
+    },
+    {
+      "number": 56,
+      "party": "ไทยรวมไทย",
+      "votes": 20
+    },
+    {
+      "number": 57,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 13
+    },
+    {
+      "number": 58,
+      "party": "พลังไทยรักชาติ",
+      "votes": 50
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/56. ศรีสะเกษ เขต 9 (บช).pdf",
+  "_validation": {
+    "vote_sum": 87485,
+    "good_votes": 87485,
+    "sum_diff_pct": 0.0
+  }
+}

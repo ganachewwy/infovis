@@ -1,0 +1,139 @@
+{
+  "province_name": "สระบุรี",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128318,
+    "1.2": 100197,
+    "2.1": 131400,
+    "2.2": 100197,
+    "2.3": 31203,
+    "3.1": 97148,
+    "3.2": 16,
+    "3.3": 3033,
+    "3.4": 100197,
+    "4.1": 90067,
+    "4.2": 4340,
+    "4.3": 5790
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายองอาจ วงษ์ประยูร",
+      "party": "กล้าธรรม",
+      "votes": 48159
+    },
+    {
+      "number": 1,
+      "name": "นายพิธาน ทรงกัมพล",
+      "party": "ประชาชน",
+      "votes": 28119
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปิยธิดา เอี่ยมสุวรรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 5163
+    },
+    {
+      "number": 6,
+      "name": "นายเจษฎา น้ำทรง",
+      "party": "เพื่อไทย",
+      "votes": 3452
+    },
+    {
+      "number": 3,
+      "name": "นายสมบูรณ์ มีนาค",
+      "party": "ประชาธิปัตย์",
+      "votes": 2402
+    },
+    {
+      "number": 7,
+      "name": "นายเฉลิมเกียรติ ครูประเสริฐ",
+      "party": "เศรษฐกิจ",
+      "votes": 1950
+    },
+    {
+      "number": 2,
+      "name": "นายวสันต์ ศรีสอาด",
+      "party": "ไทยก้าวใหม่",
+      "votes": 822
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/64. สระบุรี เขต 4.json",
+  "_validation": {
+    "vote_sum": 90067,
+    "good_votes": 90067,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "19",
+  "province_name_normalized": "สระบุรี",
+  "summary": {
+    "eligible_voters": 128318,
+    "voters_came": 100197,
+    "ballots_received": 131400,
+    "ballots_used": 100197,
+    "good_votes": 90067,
+    "invalid_votes": 4340,
+    "no_votes": 5790
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายองอาจ วงษ์ประยูร",
+      "party": "กล้าธรรม",
+      "votes": 48159,
+      "candidate_uuid": "7ff067dc-fc1b-40e8-af82-012d540d963b",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพิธาน ทรงกัมพล",
+      "party": "ประชาชน",
+      "votes": 28119,
+      "candidate_uuid": "2fb6d515-32f3-4cfb-9e9f-1f53ad91e9e4",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปิยธิดา เอี่ยมสุวรรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 5163,
+      "candidate_uuid": "4c54ba82-0fa2-4d97-af25-a1988de2413d",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเจษฎา น้ำทรง",
+      "party": "เพื่อไทย",
+      "votes": 3452,
+      "candidate_uuid": "06981715-4e6b-45e8-b6c1-68fa56ae4934",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสมบูรณ์ มีนาค",
+      "party": "ประชาธิปัตย์",
+      "votes": 2402,
+      "candidate_uuid": "3e242987-7d6d-49d9-bbb8-28c14b032053",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายเฉลิมเกียรติ ครูประเสริฐ",
+      "party": "เศรษฐกิจ",
+      "votes": 1950,
+      "candidate_uuid": "704cc387-edd5-4010-b949-f7804735c32e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวสันต์ ศรีสอาด",
+      "party": "ไทยก้าวใหม่",
+      "votes": 822,
+      "candidate_uuid": "3263c31d-c6e4-4a0a-ac08-7155bfefeff0",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

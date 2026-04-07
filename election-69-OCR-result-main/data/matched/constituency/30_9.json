@@ -1,0 +1,167 @@
+{
+  "province_name": "นครราชสีมา",
+  "constituency_number": 9,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 135762,
+    "1.2": 92485,
+    "2.1": 137645,
+    "2.2": 92485,
+    "2.3": 45160,
+    "3.1": 87500,
+    "3.2": 0,
+    "3.3": 4985,
+    "3.4": 92485,
+    "4.1": 87655,
+    "4.2": 2909,
+    "4.3": 1921
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายพลพีร์ สุวรรณฉวี",
+      "party": "ภูมิใจไทย",
+      "votes": 41235
+    },
+    {
+      "number": 6,
+      "name": "นางสาวธนวรรณ เกษเมธีการุณ",
+      "party": "กล้าธรรม",
+      "votes": 24623
+    },
+    {
+      "number": 5,
+      "name": "นายเศวตโชติ ตันติกุล",
+      "party": "ประชาชน",
+      "votes": 14731
+    },
+    {
+      "number": 4,
+      "name": "นางนารดา อึ้งสวัสดิ์",
+      "party": "เพื่อไทย",
+      "votes": 4320
+    },
+    {
+      "number": 7,
+      "name": "นายจอน องกระโทก",
+      "party": "เศรษฐกิจ",
+      "votes": 1150
+    },
+    {
+      "number": 1,
+      "name": "นายอำนวย การค้า",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 617
+    },
+    {
+      "number": 2,
+      "name": "นายจอห์น ธีฬจิตต์ ศรีสุขา",
+      "party": "ประชาธิปัตย์",
+      "votes": 570
+    },
+    {
+      "number": 8,
+      "name": "นายกล้ารบ สิงหกมลศึก",
+      "party": "ไทยภักดี",
+      "votes": 258
+    },
+    {
+      "number": 9,
+      "name": "นางอรุณวรรณ ชาญสัมพันธ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 151
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/21. นครราชสีมา เขต 9.json",
+  "_validation": {
+    "vote_sum": 87655,
+    "good_votes": 87655,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "30",
+  "province_name_normalized": "นครราชสีมา",
+  "summary": {
+    "eligible_voters": 135762,
+    "voters_came": 92485,
+    "ballots_received": 137645,
+    "ballots_used": 92485,
+    "good_votes": 87655,
+    "invalid_votes": 2909,
+    "no_votes": 1921
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายพลพีร์ สุวรรณฉวี",
+      "party": "ภูมิใจไทย",
+      "votes": 41235,
+      "candidate_uuid": "9680cf8c-b5cf-4dc3-88a4-0f1b4e8b415a",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวธนวรรณ เกษเมธีการุณ",
+      "party": "กล้าธรรม",
+      "votes": 24623,
+      "candidate_uuid": "9e16fcda-19ff-4d2a-9d89-f9dd7fcd0a3f",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเศวตโชติ ตันติกุล",
+      "party": "ประชาชน",
+      "votes": 14731,
+      "candidate_uuid": "ae33a73e-be2a-42bd-b857-bca5e266a9a6",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางนารดา อึ้งสวัสดิ์",
+      "party": "เพื่อไทย",
+      "votes": 4320,
+      "candidate_uuid": "ea45acfa-5635-430e-94b2-dabe5c46cea3",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายจอน องกระโทก",
+      "party": "เศรษฐกิจ",
+      "votes": 1150,
+      "candidate_uuid": "30c835b9-4586-4531-bbfe-64bf5f4e2ac9",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอำนวย การค้า",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 617,
+      "candidate_uuid": "ea3a4545-8ff7-461c-b388-40405ab2f055",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายจอห์น ธีฬจิตต์ ศรีสุขา",
+      "party": "ประชาธิปัตย์",
+      "votes": 570,
+      "candidate_uuid": "9311f20e-8620-4f64-bd12-b968fb14a7ef",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายกล้ารบ สิงหกมลศึก",
+      "party": "ไทยภักดี",
+      "votes": 258,
+      "candidate_uuid": "e317f00a-7997-4132-9fa6-23c356aacfe0",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางอรุณวรรณ ชาญสัมพันธ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 151,
+      "candidate_uuid": "96cf8dd5-d8e7-49ec-94d5-a2787f98fa88",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

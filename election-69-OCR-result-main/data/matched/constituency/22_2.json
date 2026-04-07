@@ -1,0 +1,125 @@
+{
+  "province_name": "จันทบุรี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 142477,
+    "1.2": 102880,
+    "2.1": 146504,
+    "2.2": 102880,
+    "2.3": 43624,
+    "3.1": 99644,
+    "3.2": 32,
+    "3.3": 3204,
+    "3.4": 102880,
+    "4.1": 91807,
+    "4.2": 5014,
+    "4.3": 6059
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายคัมภีร์ ชื่นบาน",
+      "party": "ภูมิใจไทย",
+      "votes": 39979
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปรัชญาวรรณ ไชยสืบ",
+      "party": "ประชาชน",
+      "votes": 29466
+    },
+    {
+      "number": 2,
+      "name": "นายจารึก ศรีอ่อน",
+      "party": "เพื่อไทย",
+      "votes": 9940
+    },
+    {
+      "number": 1,
+      "name": "นายสิรวิชญ์ กิตติวงศา",
+      "party": "ประชาธิปัตย์",
+      "votes": 6708
+    },
+    {
+      "number": 6,
+      "name": "นายจตุพร นิยมพฤกษ์",
+      "party": "เศรษฐกิจ",
+      "votes": 4672
+    },
+    {
+      "number": 5,
+      "name": "นายบุญธรรม เจริญกล้า",
+      "party": "กล้าธรรม",
+      "votes": 1042
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/7. จันทบุรี เขต 2.json",
+  "_validation": {
+    "vote_sum": 91807,
+    "good_votes": 91807,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "22",
+  "province_name_normalized": "จันทบุรี",
+  "summary": {
+    "eligible_voters": 142477,
+    "voters_came": 102880,
+    "ballots_received": 146504,
+    "ballots_used": 102880,
+    "good_votes": 91807,
+    "invalid_votes": 5014,
+    "no_votes": 6059
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายคัมภีร์ ชื่นบาน",
+      "party": "ภูมิใจไทย",
+      "votes": 39979,
+      "candidate_uuid": "eaff4998-e486-4e28-9ea0-2350a37ead41",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปรัชญาวรรณ ไชยสืบ",
+      "party": "ประชาชน",
+      "votes": 29466,
+      "candidate_uuid": "a3830f5c-8ee0-4b0f-b700-1468c0ea46d6",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายจารึก ศรีอ่อน",
+      "party": "เพื่อไทย",
+      "votes": 9940,
+      "candidate_uuid": "95c8e8d0-9031-4dda-b510-4159c1f2f802",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสิรวิชญ์ กิตติวงศา",
+      "party": "ประชาธิปัตย์",
+      "votes": 6708,
+      "candidate_uuid": "0c1ee6e1-8fd5-47fd-95d9-cf51e2d19781",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายจตุพร นิยมพฤกษ์",
+      "party": "เศรษฐกิจ",
+      "votes": 4672,
+      "candidate_uuid": "e7abb2b9-d580-4339-ba78-56d2a87fb802",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายบุญธรรม เจริญกล้า",
+      "party": "กล้าธรรม",
+      "votes": 1042,
+      "candidate_uuid": "b6f900fa-9e79-4ce3-95c9-10f1670a6ca1",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

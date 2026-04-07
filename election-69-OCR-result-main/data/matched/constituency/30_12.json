@@ -1,0 +1,153 @@
+{
+  "province_name": "นครราชสีมา",
+  "constituency_number": 12,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132388,
+    "1.2": 94858,
+    "2.1": 130420,
+    "2.2": 94858,
+    "2.3": 35562,
+    "3.1": 90386,
+    "3.2": 0,
+    "3.3": 4472,
+    "3.4": 94858,
+    "4.1": 86006,
+    "4.2": 4617,
+    "4.3": 4235
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายนรเสฏฐ์ ศิริโรจนกุล",
+      "party": "เพื่อไทย",
+      "votes": 47794
+    },
+    {
+      "number": 7,
+      "name": "นายจิรภัทร พันธ์เกษม",
+      "party": "ภูมิใจไทย",
+      "votes": 16572
+    },
+    {
+      "number": 2,
+      "name": "นายชรินทร์ ทำดี",
+      "party": "ประชาชน",
+      "votes": 16493
+    },
+    {
+      "number": 5,
+      "name": "นายสมปอง เกตุดอน",
+      "party": "เศรษฐกิจ",
+      "votes": 1527
+    },
+    {
+      "number": 6,
+      "name": "นายภานุ ยนต์สุข",
+      "party": "โอกาสใหม่",
+      "votes": 1288
+    },
+    {
+      "number": 1,
+      "name": "นายพิบูลย์รัฐ ศรีจันทร์อ่อน",
+      "party": "ประชาธิปัตย์",
+      "votes": 1229
+    },
+    {
+      "number": 4,
+      "name": "นางสาวกาญจนา เปรมภิรักษา",
+      "party": "กล้าธรรม",
+      "votes": 830
+    },
+    {
+      "number": 8,
+      "name": "นายบัณทัต ฤทธิบุตร",
+      "party": "รักชาติ",
+      "votes": 273
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/21. นครราชสีมา เขต 12.json",
+  "_validation": {
+    "vote_sum": 86006,
+    "good_votes": 86006,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "30",
+  "province_name_normalized": "นครราชสีมา",
+  "summary": {
+    "eligible_voters": 132388,
+    "voters_came": 94858,
+    "ballots_received": 130420,
+    "ballots_used": 94858,
+    "good_votes": 86006,
+    "invalid_votes": 4617,
+    "no_votes": 4235
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายนรเสฏฐ์ ศิริโรจนกุล",
+      "party": "เพื่อไทย",
+      "votes": 47794,
+      "candidate_uuid": "a4fc97e1-cee3-42e0-8990-a81018fcb9ae",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายจิรภัทร พันธ์เกษม",
+      "party": "ภูมิใจไทย",
+      "votes": 16572,
+      "candidate_uuid": "9c810b8d-f362-4211-94c6-a2a9e16a5aba",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายชรินทร์ ทำดี",
+      "party": "ประชาชน",
+      "votes": 16493,
+      "candidate_uuid": "26bdcf8d-aee8-4535-9c30-ea4e70f4db6c",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสมปอง เกตุดอน",
+      "party": "เศรษฐกิจ",
+      "votes": 1527,
+      "candidate_uuid": "e4886140-8ca4-4e8a-80d9-2c9f9d683ac4",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายภานุ ยนต์สุข",
+      "party": "โอกาสใหม่",
+      "votes": 1288,
+      "candidate_uuid": "f06e55d3-ad24-4d40-aee8-7c8111a13c17",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพิบูลย์รัฐ ศรีจันทร์อ่อน",
+      "party": "ประชาธิปัตย์",
+      "votes": 1229,
+      "candidate_uuid": "c5ac7fb3-7b1f-4047-948a-a565fd4241a9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวกาญจนา เปรมภิรักษา",
+      "party": "กล้าธรรม",
+      "votes": 830,
+      "candidate_uuid": "450db5c1-6844-4e0a-8db1-0f1805aad62d",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายบัณทัต ฤทธิบุตร",
+      "party": "รักชาติ",
+      "votes": 273,
+      "candidate_uuid": "d08436d5-e79c-46ab-be45-074bc713fe7d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

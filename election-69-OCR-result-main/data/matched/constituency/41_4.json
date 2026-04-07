@@ -1,0 +1,209 @@
+{
+  "province_name": "อุดรธานี",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126481,
+    "1.2": 74870,
+    "2.1": 127662,
+    "2.2": 74870,
+    "2.3": 52792,
+    "3.1": 70608,
+    "3.2": 0,
+    "3.3": 4262,
+    "3.4": 74870,
+    "4.1": 70876,
+    "4.2": 2316,
+    "4.3": 1678
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายภาณุ พรวัฒนา",
+      "party": "ภูมิใจไทย",
+      "votes": 22361
+    },
+    {
+      "number": 2,
+      "name": "นายศักดา เกตุแก้ว",
+      "party": "ประชาชน",
+      "votes": 14216
+    },
+    {
+      "number": 3,
+      "name": "นายไตรภพ คำเพชร",
+      "party": "เพื่อไทย",
+      "votes": 29757
+    },
+    {
+      "number": 4,
+      "name": "นายภัควัฒน์ ธรรมครุฑทิพย์",
+      "party": "พลังประชารัฐ",
+      "votes": 352
+    },
+    {
+      "number": 5,
+      "name": "นางสาวอิงค์ณภัจฉร์ ชินวัตรนุวงค์",
+      "party": "กล้าธรรม",
+      "votes": 269
+    },
+    {
+      "number": 6,
+      "name": "นายไชยวัฒน์ธนา เวฬุวนารักษ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 351
+    },
+    {
+      "number": 7,
+      "name": "นายกิตติพัฒน์ สีดามาตย์",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 180
+    },
+    {
+      "number": 8,
+      "name": "นายสังคม สอนบุญ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 658
+    },
+    {
+      "number": 9,
+      "name": "นายอัศวิน นันทะแสง",
+      "party": "พลวัต",
+      "votes": 1593
+    },
+    {
+      "number": 10,
+      "name": "นางวรา เทพกิจ",
+      "party": "ประชาธิปัตย์",
+      "votes": 258
+    },
+    {
+      "number": 11,
+      "name": "นายละออง วงค์ดวงตา",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 605
+    },
+    {
+      "number": 12,
+      "name": "นายอนุราช ไชยตะวงค์",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 276
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/74. อุดรธานี เขต 4.json",
+  "_validation": {
+    "vote_sum": 70876,
+    "good_votes": 70876,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "41",
+  "province_name_normalized": "อุดรธานี",
+  "summary": {
+    "eligible_voters": 126481,
+    "voters_came": 74870,
+    "ballots_received": 127662,
+    "ballots_used": 74870,
+    "good_votes": 70876,
+    "invalid_votes": 2316,
+    "no_votes": 1678
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายภาณุ พรวัฒนา",
+      "party": "ภูมิใจไทย",
+      "votes": 22361,
+      "candidate_uuid": "bdba234e-bb37-410b-b021-db3dcab09543",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายศักดา เกตุแก้ว",
+      "party": "ประชาชน",
+      "votes": 14216,
+      "candidate_uuid": "2ff33c28-ce83-44bb-8fa6-70dad0a81d03",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายไตรภพ คำเพชร",
+      "party": "เพื่อไทย",
+      "votes": 29757,
+      "candidate_uuid": "ca71a690-8f20-4bd0-9818-6ae46c702955",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายภัควัฒน์ ธรรมครุฑทิพย์",
+      "party": "พลังประชารัฐ",
+      "votes": 352,
+      "candidate_uuid": "40f6ff23-49ed-489f-a474-554db05e659e",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวอิงค์ณภัจฉร์ ชินวัตรนุวงค์",
+      "party": "กล้าธรรม",
+      "votes": 269,
+      "candidate_uuid": "5195f587-a0a2-4f53-8c6d-cbac19b47d6a",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายไชยวัฒน์ธนา เวฬุวนารักษ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 351,
+      "candidate_uuid": "48dfe8a8-2adf-48d8-a5c7-8f147b625c91",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายกิตติพัฒน์ สีดามาตย์",
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 180,
+      "candidate_uuid": "91339aea-5a61-41ea-9627-ad8ff7f322a3",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสังคม สอนบุญ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 658,
+      "candidate_uuid": "e3c5e114-2642-4627-92c7-0e758c9fe3e6",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายอัศวิน นันทะแสง",
+      "party": "พลวัต",
+      "votes": 1593,
+      "candidate_uuid": "e8c7a7c8-1ec0-4fa0-b9a9-a4eadf06b8a1",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางวรา เทพกิจ",
+      "party": "ประชาธิปัตย์",
+      "votes": 258,
+      "candidate_uuid": "4370d27b-3f5d-47df-a92f-8ba15fb1b6d7",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายละออง วงค์ดวงตา",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 605,
+      "candidate_uuid": "32a02ca8-c2e8-4ccf-9005-9bffc827ccec",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายอนุราช ไชยตะวงค์",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 276,
+      "candidate_uuid": "af9a6300-8f48-472d-b278-0cd099d93ca3",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

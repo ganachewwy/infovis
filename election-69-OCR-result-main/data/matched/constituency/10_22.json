@@ -1,0 +1,237 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 22,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133612,
+    "1.2": 92301,
+    "2.1": 137131,
+    "2.2": 92301,
+    "2.3": 44830,
+    "3.1": 87969,
+    "3.2": 150,
+    "3.3": 4182,
+    "3.4": 92301,
+    "4.1": 85558,
+    "4.2": 1511,
+    "4.3": 5232
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายสุภกร ตันติไพบูลย์ธนะ",
+      "party": "ประชาชน",
+      "votes": 42264
+    },
+    {
+      "number": 2,
+      "name": "นายพงศ์พล ยอดเมืองเจริญ",
+      "party": "ภูมิใจไทย",
+      "votes": 17486
+    },
+    {
+      "number": 3,
+      "name": "นายปรินต์ ทองปุสสะ",
+      "party": "ประชาธิปัตย์",
+      "votes": 9244
+    },
+    {
+      "number": 4,
+      "name": "นายธกร เลาหพงศ์ชนะ",
+      "party": "เพื่อไทย",
+      "votes": 7036
+    },
+    {
+      "number": 5,
+      "name": "ร.ต.ต.มณฑล โพธิ์คาย",
+      "party": "พลังประชารัฐ",
+      "votes": 2983
+    },
+    {
+      "number": 6,
+      "name": "นายพงศ์ไพศาล มะลุลีม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1705
+    },
+    {
+      "number": 7,
+      "name": "นายกัณฑ์ชาติ มนต์กันภัย",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1491
+    },
+    {
+      "number": 8,
+      "name": "นายวิรัล ทองเมืองหลวง",
+      "party": "เศรษฐกิจ",
+      "votes": 1130
+    },
+    {
+      "number": 9,
+      "name": "นายอรรถเวช กองนักวงษ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 786
+    },
+    {
+      "number": 10,
+      "name": "นายปรนัยน์ นพการุญ",
+      "party": "พลวัต",
+      "votes": 425
+    },
+    {
+      "number": 11,
+      "name": "นายอธิป เพศยนาวิน",
+      "party": "ปวงชนไทย",
+      "votes": 368
+    },
+    {
+      "number": 12,
+      "name": "นายชณทัต รินน์นพคุณ",
+      "party": "กล้าธรรม",
+      "votes": 253
+    },
+    {
+      "number": 13,
+      "name": "นายวราทิตย์ ตะโกจีน",
+      "party": "วิชชั่นใหม่",
+      "votes": 205
+    },
+    {
+      "number": 14,
+      "name": "นายปรีชา เอี่ยมอ่อน",
+      "party": "โอกาสใหม่",
+      "votes": 182
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 22.json",
+  "_validation": {
+    "vote_sum": 85558,
+    "good_votes": 85558,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 133612,
+    "voters_came": 92301,
+    "ballots_received": 137131,
+    "ballots_used": 92301,
+    "good_votes": 85558,
+    "invalid_votes": 1511,
+    "no_votes": 5232
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายสุภกร ตันติไพบูลย์ธนะ",
+      "party": "ประชาชน",
+      "votes": 42264,
+      "candidate_uuid": "e323634f-00cb-4ab0-beab-598c1ca96269",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพงศ์พล ยอดเมืองเจริญ",
+      "party": "ภูมิใจไทย",
+      "votes": 17486,
+      "candidate_uuid": "0ecd9cfa-a213-4516-8c62-9009a6177f67",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายปรินต์ ทองปุสสะ",
+      "party": "ประชาธิปัตย์",
+      "votes": 9244,
+      "candidate_uuid": "47ab6693-ad53-4986-a42e-0725ab060b3d",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธกร เลาหพงศ์ชนะ",
+      "party": "เพื่อไทย",
+      "votes": 7036,
+      "candidate_uuid": "b2c26bf9-842a-4cd1-b100-11ce25b3afd5",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "ร.ต.ต.มณฑล โพธิ์คาย",
+      "party": "พลังประชารัฐ",
+      "votes": 2983,
+      "candidate_uuid": "932d6d4a-8efe-4c89-86fa-905fa5cf5cf3",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพงศ์ไพศาล มะลุลีม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1705,
+      "candidate_uuid": "0f308f0f-6b18-4b52-a6a7-18816d7d9490",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายกัณฑ์ชาติ มนต์กันภัย",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1491,
+      "candidate_uuid": "85f327b0-90c9-4795-be9a-3b984c2accfe",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวิรัล ทองเมืองหลวง",
+      "party": "เศรษฐกิจ",
+      "votes": 1130,
+      "candidate_uuid": "a56a9bfd-c338-4cc9-b801-429eb3658061",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายอรรถเวช กองนักวงษ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 786,
+      "candidate_uuid": "ae82560c-83ef-4ceb-a2bd-405abdad24ec",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายปรนัยน์ นพการุญ",
+      "party": "พลวัต",
+      "votes": 425,
+      "candidate_uuid": "c0002dd7-16fd-4b25-a804-b78fbfe62656",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายอธิป เพศยนาวิน",
+      "party": "ปวงชนไทย",
+      "votes": 368,
+      "candidate_uuid": "12d0e08b-8f87-4e36-a267-8ab8895957c7",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายชณทัต รินน์นพคุณ",
+      "party": "กล้าธรรม",
+      "votes": 253,
+      "candidate_uuid": "2d992b32-55e1-42ae-904b-5b4ced861266",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายวราทิตย์ ตะโกจีน",
+      "party": "วิชชั่นใหม่",
+      "votes": 205,
+      "candidate_uuid": "a3425546-3ef6-4413-93d1-629a1a2d1fc2",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายปรีชา เอี่ยมอ่อน",
+      "party": "โอกาสใหม่",
+      "votes": 182,
+      "candidate_uuid": "e2adefa3-15b2-4714-870f-5b4fddec25b8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

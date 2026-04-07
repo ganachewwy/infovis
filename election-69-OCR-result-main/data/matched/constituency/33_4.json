@@ -1,0 +1,181 @@
+{
+  "province_name": "ศรีสะเกษ",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 122479,
+    "1.2": 82768,
+    "2.1": 124945,
+    "2.2": 82768,
+    "2.3": 42177,
+    "3.1": 76191,
+    "3.2": 12,
+    "3.3": 6565,
+    "3.4": 82768,
+    "4.1": 77864,
+    "4.2": 2762,
+    "4.3": 2142
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายชิตพล ไตรสรณกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 43534
+    },
+    {
+      "number": 2,
+      "name": "นายภูมินทร์ ลีธีระประเสริฐ",
+      "party": "กล้าธรรม",
+      "votes": 20190
+    },
+    {
+      "number": 5,
+      "name": "นายวัลลภ วันทมาตย์",
+      "party": "ประชาชน",
+      "votes": 8100
+    },
+    {
+      "number": 1,
+      "name": "นางสาวพิชิตา บุญมา",
+      "party": "เพื่อไทย",
+      "votes": 3428
+    },
+    {
+      "number": 7,
+      "name": "นายอนุบาล ขันทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 969
+    },
+    {
+      "number": 3,
+      "name": "นายกิติศักดิ์ พ้นภัย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 789
+    },
+    {
+      "number": 8,
+      "name": "นายสายัณห์ หล้าบุดดา",
+      "party": "ประชากรไทย",
+      "votes": 372
+    },
+    {
+      "number": 6,
+      "name": "นายปิยะนันท์ มั่นยืนยาว",
+      "party": "ประชาธิปัตย์",
+      "votes": 293
+    },
+    {
+      "number": 10,
+      "name": "นายอุทัย อุทธาธรณ์",
+      "party": "พลังประชารัฐ",
+      "votes": 96
+    },
+    {
+      "number": 9,
+      "name": "นายวาสิทธิ์ พวงสวัสดิ์",
+      "party": "ปวงชนไทย",
+      "votes": 93
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/56. ศรีสะเกษ เขต 4.json",
+  "_validation": {
+    "vote_sum": 77864,
+    "good_votes": 77864,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "33",
+  "province_name_normalized": "ศรีสะเกษ",
+  "summary": {
+    "eligible_voters": 122479,
+    "voters_came": 82768,
+    "ballots_received": 124945,
+    "ballots_used": 82768,
+    "good_votes": 77864,
+    "invalid_votes": 2762,
+    "no_votes": 2142
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายชิตพล ไตรสรณกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 43534,
+      "candidate_uuid": "c5e5a6d6-25e9-400d-ac2e-371c3217037d",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายภูมินทร์ ลีธีระประเสริฐ",
+      "party": "กล้าธรรม",
+      "votes": 20190,
+      "candidate_uuid": "a8988b6d-72d7-48fb-8379-c443488df17d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวัลลภ วันทมาตย์",
+      "party": "ประชาชน",
+      "votes": 8100,
+      "candidate_uuid": "0b4b4758-d701-4c4e-8bc1-0fa5b9eb9a7e",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวพิชิตา บุญมา",
+      "party": "เพื่อไทย",
+      "votes": 3428,
+      "candidate_uuid": "acbaff20-befa-45ad-8b84-b2b74bf9cf08",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอนุบาล ขันทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 969,
+      "candidate_uuid": "d6aadb4e-edf4-4f65-b24a-b1ff43e12eb8",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกิติศักดิ์ พ้นภัย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 789,
+      "candidate_uuid": "6cfb631c-ecb7-40e4-be16-7d5b34cb42f5",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสายัณห์ หล้าบุดดา",
+      "party": "ประชากรไทย",
+      "votes": 372,
+      "candidate_uuid": "a9324e77-9a1b-4c05-bc14-3388e65d2212",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปิยะนันท์ มั่นยืนยาว",
+      "party": "ประชาธิปัตย์",
+      "votes": 293,
+      "candidate_uuid": "7a7a7013-d1ae-40c3-ac65-0438fd83825e",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายอุทัย อุทธาธรณ์",
+      "party": "พลังประชารัฐ",
+      "votes": 96,
+      "candidate_uuid": "3e6038f6-c1a6-475f-b65b-2adb5f5c7568",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายวาสิทธิ์ พวงสวัสดิ์",
+      "party": "ปวงชนไทย",
+      "votes": 93,
+      "candidate_uuid": "e5bfd634-fdca-4bd4-afce-90e1cd4b87af",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,195 @@
+{
+  "province_name": "นครพนม",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144802,
+    "1.2": 96215,
+    "2.1": 147662,
+    "2.2": 96215,
+    "2.3": 51447,
+    "3.1": 90665,
+    "3.2": 8,
+    "3.3": 5542,
+    "3.4": 96215,
+    "4.1": 92181,
+    "4.2": 2349,
+    "4.3": 1685
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายชาญชัย คำจำปา",
+      "party": "เพื่อไทย",
+      "votes": 41312
+    },
+    {
+      "number": 2,
+      "name": "นายชูกัน กุลวงษา",
+      "party": "ภูมิใจไทย",
+      "votes": 35119
+    },
+    {
+      "number": 3,
+      "name": "นายวุฒิพงษ์ มีบุญ",
+      "party": "ประชาชน",
+      "votes": 11444
+    },
+    {
+      "number": 4,
+      "name": "นายบัญชา มาตย์วังแสง",
+      "party": "ไทยพร้อม",
+      "votes": 1637
+    },
+    {
+      "number": 11,
+      "name": "นายสุริยา พรหมดี",
+      "party": "ไทยสร้างไทย",
+      "votes": 731
+    },
+    {
+      "number": 6,
+      "name": "นางสาวรัตติภรณ์ ทุมเที่ยง",
+      "party": "เศรษฐกิจ",
+      "votes": 620
+    },
+    {
+      "number": 9,
+      "name": "นายวิลัย ยศสุริยะชัย",
+      "party": "ปวงชนไทย",
+      "votes": 451
+    },
+    {
+      "number": 5,
+      "name": "นางสาวเกษราภัส เชื้อคำเพ็ง",
+      "party": "กล้าธรรม",
+      "votes": 274
+    },
+    {
+      "number": 7,
+      "name": "นายบัวลา จันทร์แก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 248
+    },
+    {
+      "number": 8,
+      "name": "นายกฐสักกษัษฐี โคตุทา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 233
+    },
+    {
+      "number": 10,
+      "name": "นางสาวณัฐพร ฝาระมี",
+      "party": "พลังประชารัฐ",
+      "votes": 112
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/20. นครพนม เขต 4.json",
+  "_validation": {
+    "vote_sum": 92181,
+    "good_votes": 92181,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "48",
+  "province_name_normalized": "นครพนม",
+  "summary": {
+    "eligible_voters": 144802,
+    "voters_came": 96215,
+    "ballots_received": 147662,
+    "ballots_used": 96215,
+    "good_votes": 92181,
+    "invalid_votes": 2349,
+    "no_votes": 1685
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายชาญชัย คำจำปา",
+      "party": "เพื่อไทย",
+      "votes": 41312,
+      "candidate_uuid": "99a37f86-fade-4257-8548-f8b3b2517b77",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายชูกัน กุลวงษา",
+      "party": "ภูมิใจไทย",
+      "votes": 35119,
+      "candidate_uuid": "feeb1a27-6bf2-4733-bca4-1777685fac6c",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวุฒิพงษ์ มีบุญ",
+      "party": "ประชาชน",
+      "votes": 11444,
+      "candidate_uuid": "ba07db5d-b625-4c2d-9ae1-1b841d692cd0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายบัญชา มาตย์วังแสง",
+      "party": "ไทยพร้อม",
+      "votes": 1637,
+      "candidate_uuid": "a381474b-228c-453e-828a-5a950d1be9f2",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายสุริยา พรหมดี",
+      "party": "ไทยสร้างไทย",
+      "votes": 731,
+      "candidate_uuid": "83d22ac7-ac16-459e-9915-2e1045e135f4",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวรัตติภรณ์ ทุมเที่ยง",
+      "party": "เศรษฐกิจ",
+      "votes": 620,
+      "candidate_uuid": "b2e20e4c-dffc-4265-8135-a52bdaed6f1a",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายวิลัย ยศสุริยะชัย",
+      "party": "ปวงชนไทย",
+      "votes": 451,
+      "candidate_uuid": "4b83769c-27b0-465e-8d1f-cd5a1bd604dc",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวเกษราภัส เชื้อคำเพ็ง",
+      "party": "กล้าธรรม",
+      "votes": 274,
+      "candidate_uuid": "630b2fcb-dba1-4735-bac1-1300678dac49",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายบัวลา จันทร์แก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 248,
+      "candidate_uuid": "c3ec6fcf-6a58-4b3b-bf72-07cca1c4a491",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายกฐสักกษัษฐี โคตุทา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 233,
+      "candidate_uuid": "06b6328a-f5d7-418f-8bf9-ff64da8277a7",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวณัฐพร ฝาระมี",
+      "party": "พลังประชารัฐ",
+      "votes": 112,
+      "candidate_uuid": "eb8c3b81-1ba4-4880-9e6a-6f1e054cc7c2",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

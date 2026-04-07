@@ -1,0 +1,139 @@
+{
+  "province_name": "ลำปาง",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 157730,
+    "1.2": 115740,
+    "2.1": 160294,
+    "2.2": 115740,
+    "2.3": 44554,
+    "3.1": 105670,
+    "3.2": 3,
+    "3.3": 10067,
+    "3.4": 115740,
+    "4.1": 104442,
+    "4.2": 6630,
+    "4.3": 4668
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นางสาวเพ็ญภัค รัตนคำฟู",
+      "party": "กล้าธรรม",
+      "votes": 38171
+    },
+    {
+      "number": 7,
+      "name": "นายบอนด์ สุริยะ",
+      "party": "ประชาชน",
+      "votes": 29656
+    },
+    {
+      "number": 5,
+      "name": "นางสาวณฐอร ชมภูรัตน์",
+      "party": "พลังประชารัฐ",
+      "votes": 16237
+    },
+    {
+      "number": 4,
+      "name": "นางสาวรภัสสรณ์, นิยะโมสถ",
+      "party": "เพื่อไทย",
+      "votes": 13288
+    },
+    {
+      "number": 6,
+      "name": "นางภุมรา จันทรสุรินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 4107
+    },
+    {
+      "number": 8,
+      "name": "นางสาวสรินทิพย์ วงศ์วรกุลกิจ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1548
+    },
+    {
+      "number": 9,
+      "name": "นางสาวธัญญาทิพย์ ดาวเรือง",
+      "party": "ไทยสร้างไทย",
+      "votes": 1435
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/53. ลำปาง เขต 4.json",
+  "_validation": {
+    "vote_sum": 104442,
+    "good_votes": 104442,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "52",
+  "province_name_normalized": "ลำปาง",
+  "summary": {
+    "eligible_voters": 157730,
+    "voters_came": 115740,
+    "ballots_received": 160294,
+    "ballots_used": 115740,
+    "good_votes": 104442,
+    "invalid_votes": 6630,
+    "no_votes": 4668
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นางสาวเพ็ญภัค รัตนคำฟู",
+      "party": "กล้าธรรม",
+      "votes": 38171,
+      "candidate_uuid": "5c35579e-42b4-41f9-a881-a32cf32fc4a3",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายบอนด์ สุริยะ",
+      "party": "ประชาชน",
+      "votes": 29656,
+      "candidate_uuid": "ef64412e-2ae0-48ec-a513-da5c8a5ec16d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวณฐอร ชมภูรัตน์",
+      "party": "พลังประชารัฐ",
+      "votes": 16237,
+      "candidate_uuid": "4ebd4889-208b-4ada-82cf-b2303aabba70",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวรภัสสรณ์, นิยะโมสถ",
+      "party": "เพื่อไทย",
+      "votes": 13288,
+      "candidate_uuid": "2efc0b7b-8de7-441e-8c88-8e7c468d854d",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางภุมรา จันทรสุรินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 4107,
+      "candidate_uuid": "ce11b54f-c551-4563-b0df-3d6169db9e2f",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวสรินทิพย์ วงศ์วรกุลกิจ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1548,
+      "candidate_uuid": "bcb2891d-6992-4183-8e62-59031deaae0f",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวธัญญาทิพย์ ดาวเรือง",
+      "party": "ไทยสร้างไทย",
+      "votes": 1435,
+      "candidate_uuid": "523d708c-88a7-40a6-9aa4-bb13d91d98e2",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

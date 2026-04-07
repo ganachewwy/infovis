@@ -1,0 +1,63 @@
+{
+  "province_name": "ร้อยเอ็ด",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 134383,
+    "1.2": 84922,
+    "2.1": 137610,
+    "2.2": 84922,
+    "2.3": 52688,
+    "3.1": 77028,
+    "3.2": 0,
+    "3.3": 7894,
+    "3.4": 84922,
+    "4.1": 81314,
+    "4.2": 2760,
+    "4.3": 848
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายชัชวาล แพทยาไทย",
+      "party": "ไทยสร้างไทย",
+      "votes": 44414
+    },
+    {
+      "number": 3,
+      "name": "นางนวรัตน์ พาโคกทม",
+      "party": "เพื่อไทย",
+      "votes": 29794
+    },
+    {
+      "number": 1,
+      "name": "นายฐาปนา กาสิงห์",
+      "party": "ประชาชน",
+      "votes": 6138
+    },
+    {
+      "number": 6,
+      "name": "นายสีดา บุตรนาแพง",
+      "party": "เศรษฐกิจ",
+      "votes": 408
+    },
+    {
+      "number": 2,
+      "name": "นายสุชาติ บุรีรัตน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 355
+    },
+    {
+      "number": 5,
+      "name": "นายจิระณัฏฐ์ ไชยวารี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 205
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/48. ร้อยเอ็ด เขต 7.pdf",
+  "_validation": {
+    "vote_sum": 81314,
+    "good_votes": 81314,
+    "sum_diff_pct": 0.0
+  }
+}

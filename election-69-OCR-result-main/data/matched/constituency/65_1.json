@@ -1,0 +1,139 @@
+{
+  "province_name": "พิษณุโลก",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139505,
+    "1.2": 99468,
+    "2.1": 140788,
+    "2.2": 99468,
+    "2.3": 41320,
+    "3.1": 91700,
+    "3.2": 13,
+    "3.3": 7755,
+    "3.4": 99468,
+    "4.1": 89782,
+    "4.2": 3147,
+    "4.3": 6539
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายณฐชนน ชนะบูรณาศักดิ์",
+      "party": "ประชาชน",
+      "votes": 34692
+    },
+    {
+      "number": 4,
+      "name": "นายจเด็ศ จันทรา",
+      "party": "เพื่อไทย",
+      "votes": 33470
+    },
+    {
+      "number": 2,
+      "name": "นายจักษ์ พันธ์ชูเพชร",
+      "party": "ภูมิใจไทย",
+      "votes": 15241
+    },
+    {
+      "number": 6,
+      "name": "นางสาวนิรัญ ดอนสุวรรณ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2610
+    },
+    {
+      "number": 3,
+      "name": "นายจักรพรรดิ์ กาญจนธนานนท์",
+      "party": "เศรษฐกิจ",
+      "votes": 2229
+    },
+    {
+      "number": 7,
+      "name": "นายอารีฟ กุนนาบี",
+      "party": "กล้าธรรม",
+      "votes": 844
+    },
+    {
+      "number": 1,
+      "name": "นายณัฐกิตติ์ ฉัตราภรณ์ลักษมี",
+      "party": "ไทยชนะ",
+      "votes": 696
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/38. พิษณุโลก เขต 1.json",
+  "_validation": {
+    "vote_sum": 89782,
+    "good_votes": 89782,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "65",
+  "province_name_normalized": "พิษณุโลก",
+  "summary": {
+    "eligible_voters": 139505,
+    "voters_came": 99468,
+    "ballots_received": 140788,
+    "ballots_used": 99468,
+    "good_votes": 89782,
+    "invalid_votes": 3147,
+    "no_votes": 6539
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายณฐชนน ชนะบูรณาศักดิ์",
+      "party": "ประชาชน",
+      "votes": 34692,
+      "candidate_uuid": "009e3133-383c-4d20-ac45-483411a85649",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายจเด็ศ จันทรา",
+      "party": "เพื่อไทย",
+      "votes": 33470,
+      "candidate_uuid": "e53fa98c-d72d-40c7-a472-4c2045bd91b5",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายจักษ์ พันธ์ชูเพชร",
+      "party": "ภูมิใจไทย",
+      "votes": 15241,
+      "candidate_uuid": "4dc5487b-6bf2-4be6-b861-bb72f7000e73",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวนิรัญ ดอนสุวรรณ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2610,
+      "candidate_uuid": "46a1372a-6b08-48ab-a29e-d30c7a5ea652",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายจักรพรรดิ์ กาญจนธนานนท์",
+      "party": "เศรษฐกิจ",
+      "votes": 2229,
+      "candidate_uuid": "14b4b262-a70b-48e8-86b5-c2b619a7ea15",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอารีฟ กุนนาบี",
+      "party": "กล้าธรรม",
+      "votes": 844,
+      "candidate_uuid": "52ebccfa-2a52-47d7-b150-12122cc9659d",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายณัฐกิตติ์ ฉัตราภรณ์ลักษมี",
+      "party": "ไทยชนะ",
+      "votes": 696,
+      "candidate_uuid": "51e5f376-e81b-4b37-b183-97cbf014921d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

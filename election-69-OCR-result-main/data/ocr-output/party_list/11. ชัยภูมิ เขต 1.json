@@ -1,0 +1,312 @@
+{
+  "province_name": "ชัยภูมิ",
+  "constituency_number": 1,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 129541,
+    "1.2": 88777,
+    "2.1": 131010,
+    "2.2": 88777,
+    "2.3": 42233,
+    "3.1": 82498,
+    "3.2": 49,
+    "3.3": 6230,
+    "3.4": 88777,
+    "4.1": 81337,
+    "4.2": 4386,
+    "4.3": 3054
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "รวมใจไทย",
+      "votes": 554
+    },
+    {
+      "number": 2,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 953
+    },
+    {
+      "number": 3,
+      "party": "เพื่อชาติไทย",
+      "votes": 5706
+    },
+    {
+      "number": 4,
+      "party": "ใหม่",
+      "votes": 411
+    },
+    {
+      "number": 5,
+      "party": "มิติใหม่",
+      "votes": 469
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1651
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 82
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 546
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 21476
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 391
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 3240
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 906
+    },
+    {
+      "number": 13,
+      "party": "ท้องที่ไทย",
+      "votes": 635
+    },
+    {
+      "number": 14,
+      "party": "อนาคตไทย",
+      "votes": 64
+    },
+    {
+      "number": 15,
+      "party": "ไทยชนะ",
+      "votes": 101
+    },
+    {
+      "number": 16,
+      "party": "พลังสังคมใหม่",
+      "votes": 251
+    },
+    {
+      "number": 17,
+      "party": "(พันตำรวจเอก เสกสรร บุญยรัชนิกร)",
+      "votes": 105
+    },
+    {
+      "number": 18,
+      "party": "ไทยชนะ",
+      "votes": 20
+    },
+    {
+      "number": 19,
+      "party": "(นางสราลี)",
+      "votes": 58
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 65
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 117
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 87
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 40
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 92
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 32
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 85
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 2434
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 167
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 557
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 174
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 350
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 277
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 108
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 79
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 104
+    },
+    {
+      "number": 36,
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 37,
+      "party": "ไทยพร้อม",
+      "votes": 99
+    },
+    {
+      "number": 38,
+      "party": "ภูมิใจไทย",
+      "votes": 10042
+    },
+    {
+      "number": 39,
+      "party": "พลังธรรมใหม่",
+      "votes": 325
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 66
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 35
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 543
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 167
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 48
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 69
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 26286
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 125
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 528
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 329
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 47
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 13
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 33
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 11
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 26
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 65
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/11. ชัยภูมิ เขต 1 (บช).pdf",
+  "_validation": {
+    "vote_sum": 81275,
+    "good_votes": 81337,
+    "sum_diff_pct": 0.08
+  }
+}

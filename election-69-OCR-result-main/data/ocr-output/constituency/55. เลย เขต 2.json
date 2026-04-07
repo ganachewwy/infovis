@@ -1,0 +1,69 @@
+{
+  "province_name": "เลย",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132976,
+    "1.2": 83494,
+    "2.1": 133800,
+    "2.2": 83494,
+    "2.3": 50306,
+    "3.1": 78652,
+    "3.2": 8,
+    "3.3": 4834,
+    "3.4": 83494,
+    "4.1": 72730,
+    "4.2": 6284,
+    "4.3": 4480
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายศรัณย์ ทิมสุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 27956
+    },
+    {
+      "number": 3,
+      "name": "นายสมศักดิ์ คำมงคุณ",
+      "party": "ประชาชน",
+      "votes": 19571
+    },
+    {
+      "number": 5,
+      "name": "นายจีระศักดิ์ น้อยกำ",
+      "party": "พลังประชารัฐ",
+      "votes": 13478
+    },
+    {
+      "number": 4,
+      "name": "นายชูศักดิ์ บัวระภาสิริ",
+      "party": "กล้าธรรม",
+      "votes": 5393
+    },
+    {
+      "number": 6,
+      "name": "นายนิธินันท์ อินทรโฆษิต",
+      "party": "เศรษฐกิจ",
+      "votes": 2463
+    },
+    {
+      "number": 7,
+      "name": "นายเกรียงไกร กลิ่นจันทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 2286
+    },
+    {
+      "number": 8,
+      "name": "นายสุรสีห์ ลานนท์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1583
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/55. เลย เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 72730,
+    "good_votes": 72730,
+    "sum_diff_pct": 0.0
+  }
+}

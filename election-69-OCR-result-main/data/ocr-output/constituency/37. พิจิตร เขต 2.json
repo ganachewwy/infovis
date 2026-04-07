@@ -1,0 +1,69 @@
+{
+  "province_name": "พิจิตร",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 140325,
+    "1.2": 91079,
+    "2.1": 142456,
+    "2.2": 91078,
+    "2.3": 51378,
+    "3.1": 84352,
+    "3.2": 10,
+    "3.3": 6716,
+    "3.4": 91078,
+    "4.1": 83178,
+    "4.2": 4341,
+    "4.3": 3559
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายวินัย ภัทรประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 46639
+    },
+    {
+      "number": 6,
+      "name": "นายชัยณรงค์ คล้ายเนียม",
+      "party": "ประชาชน",
+      "votes": 20167
+    },
+    {
+      "number": 3,
+      "name": "นายภูดิท อินสุวรรณ์",
+      "party": "เพื่อไทย",
+      "votes": 12757
+    },
+    {
+      "number": 5,
+      "name": "นายวัชรินทร์ แทนจำรัส",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1240
+    },
+    {
+      "number": 8,
+      "name": "นางบัวลอย โพธิ์หลาย",
+      "party": "ประชาธิปัตย์",
+      "votes": 991
+    },
+    {
+      "number": 7,
+      "name": "นายนิทัศน์ จันทเดช",
+      "party": "เศรษฐกิจ",
+      "votes": 921
+    },
+    {
+      "number": 9,
+      "name": "นายวชรพล เดชอ่อน",
+      "party": "กล้าธรรม",
+      "votes": 463
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/37. พิจิตร เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 83178,
+    "good_votes": 83178,
+    "sum_diff_pct": 0.0
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "province_name": "สมุทรสาคร",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 119400,
+    "1.2": 88046,
+    "2.1": 119580,
+    "2.2": 88046,
+    "2.3": 31534,
+    "3.1": 85517,
+    "3.2": 13,
+    "3.3": 2516,
+    "3.4": 88046,
+    "4.1": 80970,
+    "4.2": 2423,
+    "4.3": 4653
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวณมาณิตา กลับบ้านเกาะ",
+      "party": "กล้าธรรม",
+      "votes": 2440
+    },
+    {
+      "number": 2,
+      "name": "นายภัคเมศฐ์ ธีระศิลาเวทย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 23066
+    },
+    {
+      "number": 3,
+      "name": "นายธนชิต ทัศนีย์ไตรเทพ",
+      "party": "ภูมิใจไทย",
+      "votes": 11469
+    },
+    {
+      "number": 4,
+      "name": "นายสมนึก เตชมหามงคล",
+      "party": "เศรษฐกิจ",
+      "votes": 1594
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐพงษ์ สุมโนธรรม",
+      "party": "ประชาชน",
+      "votes": 32553
+    },
+    {
+      "number": 6,
+      "name": "นายยุทธศิลป์ มณีไพโรจน์",
+      "party": "ไทยสร้างไทย",
+      "votes": 951
+    },
+    {
+      "number": 7,
+      "name": "นายอุดม กันม่วง",
+      "party": "เพื่อไทย",
+      "votes": 6922
+    },
+    {
+      "number": 8,
+      "name": "นายโกศล ตาลทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1008
+    },
+    {
+      "number": 9,
+      "name": "นางสาวอรธิยา สวัสดี",
+      "party": "พลังประชารัฐ",
+      "votes": 967
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/62. สมุทรสาคร เขต 1.json",
+  "_validation": {
+    "vote_sum": 80970,
+    "good_votes": 80970,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "74",
+  "province_name_normalized": "สมุทรสาคร",
+  "summary": {
+    "eligible_voters": 119400,
+    "voters_came": 88046,
+    "ballots_received": 119580,
+    "ballots_used": 88046,
+    "good_votes": 80970,
+    "invalid_votes": 2423,
+    "no_votes": 4653
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวณมาณิตา กลับบ้านเกาะ",
+      "party": "กล้าธรรม",
+      "votes": 2440,
+      "candidate_uuid": "8a60dafc-03b3-4be6-bf34-eda3f1bce0ab",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายภัคเมศฐ์ ธีระศิลาเวทย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 23066,
+      "candidate_uuid": "3fefde6c-9ed2-4df6-a7a9-c77e915fb6cc",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธนชิต ทัศนีย์ไตรเทพ",
+      "party": "ภูมิใจไทย",
+      "votes": 11469,
+      "candidate_uuid": "ad76018d-bf58-4d26-a144-7a2b88544a79",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสมนึก เตชมหามงคล",
+      "party": "เศรษฐกิจ",
+      "votes": 1594,
+      "candidate_uuid": "390366dc-a959-4098-b7d8-72b26f003429",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐพงษ์ สุมโนธรรม",
+      "party": "ประชาชน",
+      "votes": 32553,
+      "candidate_uuid": "c162e10f-d5a9-4962-8277-66c3f791d3df",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายยุทธศิลป์ มณีไพโรจน์",
+      "party": "ไทยสร้างไทย",
+      "votes": 951,
+      "candidate_uuid": "bacdaa98-b7ce-4294-ae1b-a1d0e6b4faa4",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอุดม กันม่วง",
+      "party": "เพื่อไทย",
+      "votes": 6922,
+      "candidate_uuid": "13123686-f5ef-4aac-8c99-1332e944a12e",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายโกศล ตาลทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1008,
+      "candidate_uuid": "0a8329ee-255c-4e6f-9237-fa3a4ba63dd4",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวอรธิยา สวัสดี",
+      "party": "พลังประชารัฐ",
+      "votes": 967,
+      "candidate_uuid": "29c9f5b2-6f86-42d6-bb15-c409ce5e6c36",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

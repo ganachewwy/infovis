@@ -1,0 +1,153 @@
+{
+  "province_name": "ปทุมธานี",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 122404,
+    "1.2": 92701,
+    "2.1": 122540,
+    "2.2": 92701,
+    "2.3": 29839,
+    "3.1": 89220,
+    "3.2": 0,
+    "3.3": 3481,
+    "3.4": 92701,
+    "4.1": 85346,
+    "4.2": 3525,
+    "4.3": 3830
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวพรพิมล ธรรมสาร",
+      "party": "ภูมิใจไทย",
+      "votes": 42730
+    },
+    {
+      "number": 2,
+      "name": "นายปิยพล อัครกิติพัฒน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1276
+    },
+    {
+      "number": 3,
+      "name": "นายพนพ เกษามา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1978
+    },
+    {
+      "number": 4,
+      "name": "นายยงยุทธ มั่นบุปผชาติ",
+      "party": "เพื่อไทย",
+      "votes": 10865
+    },
+    {
+      "number": 5,
+      "name": "นางสาวนารีรัตน์ แสนสวาท",
+      "party": "รักชาติ",
+      "votes": 655
+    },
+    {
+      "number": 6,
+      "name": "นายประสิทธิ์ ปัทมผดุงศักดิ์",
+      "party": "ประชาชน",
+      "votes": 26551
+    },
+    {
+      "number": 7,
+      "name": "นางสาวณัฏฐ์พิชา ปธาชญ์เทียนทอง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 628
+    },
+    {
+      "number": 9,
+      "name": "นายปรีชา ชื่นชนกพิบูล",
+      "party": "พลังประชารัฐ",
+      "votes": 663
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/29. ปทุมธานี เขต 8.json",
+  "_validation": {
+    "vote_sum": 85346,
+    "good_votes": 85346,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "13",
+  "province_name_normalized": "ปทุมธานี",
+  "summary": {
+    "eligible_voters": 122404,
+    "voters_came": 92701,
+    "ballots_received": 122540,
+    "ballots_used": 92701,
+    "good_votes": 85346,
+    "invalid_votes": 3525,
+    "no_votes": 3830
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวพรพิมล ธรรมสาร",
+      "party": "ภูมิใจไทย",
+      "votes": 42730,
+      "candidate_uuid": "6a0dc431-ffbb-4b6f-8345-c3f9e90319f5",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายปิยพล อัครกิติพัฒน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1276,
+      "candidate_uuid": "e70ca501-236f-40c1-bf84-902bcdf0d526",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพนพ เกษามา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1978,
+      "candidate_uuid": "d0c8a02a-e1b1-47e9-a438-ad2a3adbdf7b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายยงยุทธ มั่นบุปผชาติ",
+      "party": "เพื่อไทย",
+      "votes": 10865,
+      "candidate_uuid": "66642bae-13da-415a-aa39-3008d13ffed2",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวนารีรัตน์ แสนสวาท",
+      "party": "รักชาติ",
+      "votes": 655,
+      "candidate_uuid": "51adf368-c5cb-4d0f-8400-dffb1bf8feb8",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายประสิทธิ์ ปัทมผดุงศักดิ์",
+      "party": "ประชาชน",
+      "votes": 26551,
+      "candidate_uuid": "2b1cb250-eec0-4813-abbd-c21f22d8f2f0",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวณัฏฐ์พิชา ปธาชญ์เทียนทอง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 628,
+      "candidate_uuid": "18014dde-a166-49de-918b-d47238db0167",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายปรีชา ชื่นชนกพิบูล",
+      "party": "พลังประชารัฐ",
+      "votes": 663,
+      "candidate_uuid": "19e83d60-8af2-4df3-9605-52f877e07c50",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

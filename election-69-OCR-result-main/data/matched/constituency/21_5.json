@@ -1,0 +1,125 @@
+{
+  "province_name": "ระยอง",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129572,
+    "1.2": 89547,
+    "2.1": 130843,
+    "2.2": 89547,
+    "2.3": 41296,
+    "3.1": 86545,
+    "3.2": 0,
+    "3.3": 3002,
+    "3.4": 89547,
+    "4.1": 81289,
+    "4.2": 3458,
+    "4.3": 4800
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายวัชรพงษ์ ศิริรักษ์",
+      "party": "ประชาชน",
+      "votes": 37569
+    },
+    {
+      "number": 5,
+      "name": "นายสมพงษ์ โสภณ",
+      "party": "ภูมิใจไทย",
+      "votes": 29469
+    },
+    {
+      "number": 3,
+      "name": "นายมานิฏฐ์ เล็กโล่ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 6244
+    },
+    {
+      "number": 4,
+      "name": "นายธนชัย วสุอนันต์กุล",
+      "party": "เพื่อไทย",
+      "votes": 5120
+    },
+    {
+      "number": 1,
+      "name": "ว่าที่เรืออากาศตรีสุรยุทธ์ มาลากุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1672
+    },
+    {
+      "number": 6,
+      "name": "นางสาวชนากาณ เหลืองประเสริฐ",
+      "party": "ไทยสร้างไทย",
+      "votes": 1215
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/50. ระยอง เขต 5.json",
+  "_validation": {
+    "vote_sum": 81289,
+    "good_votes": 81289,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "21",
+  "province_name_normalized": "ระยอง",
+  "summary": {
+    "eligible_voters": 129572,
+    "voters_came": 89547,
+    "ballots_received": 130843,
+    "ballots_used": 89547,
+    "good_votes": 81289,
+    "invalid_votes": 3458,
+    "no_votes": 4800
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายวัชรพงษ์ ศิริรักษ์",
+      "party": "ประชาชน",
+      "votes": 37569,
+      "candidate_uuid": "8d13fbe6-3cd6-4320-8c13-61db1f77a3f7",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสมพงษ์ โสภณ",
+      "party": "ภูมิใจไทย",
+      "votes": 29469,
+      "candidate_uuid": "5944aff6-7c04-4275-9d0c-f33e06caacd7",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายมานิฏฐ์ เล็กโล่ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 6244,
+      "candidate_uuid": "609b578f-7c82-4d41-a23f-f12e123c8f3a",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธนชัย วสุอนันต์กุล",
+      "party": "เพื่อไทย",
+      "votes": 5120,
+      "candidate_uuid": "2ea2b389-37fd-4424-8e58-ccd73a70327e",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "ว่าที่เรืออากาศตรีสุรยุทธ์ มาลากุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1672,
+      "candidate_uuid": "c1388797-dc6a-4ad2-9b0d-9965142d1ac0",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวชนากาณ เหลืองประเสริฐ",
+      "party": "ไทยสร้างไทย",
+      "votes": 1215,
+      "candidate_uuid": "b25a308b-f467-41da-bee0-cb3a97a0d430",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

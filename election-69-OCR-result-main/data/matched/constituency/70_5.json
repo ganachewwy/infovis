@@ -1,0 +1,153 @@
+{
+  "province_name": "ราชบุรี",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133773,
+    "1.2": 114688,
+    "2.1": 135560,
+    "2.2": 114688,
+    "2.3": 20872,
+    "3.1": 111950,
+    "3.2": 28,
+    "3.3": 2710,
+    "3.4": 114688,
+    "4.1": 108560,
+    "4.2": 3139,
+    "4.3": 2989
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายบุญลือ ประเสริฐโสภา",
+      "party": "ภูมิใจไทย",
+      "votes": 45150
+    },
+    {
+      "number": 3,
+      "name": "นายชัยทิพย์ กมลพันธ์ทิพย์",
+      "party": "กล้าธรรม",
+      "votes": 39913
+    },
+    {
+      "number": 6,
+      "name": "นางสาวจิราภรณ์ จิตร์มั่น",
+      "party": "ประชาชน",
+      "votes": 18091
+    },
+    {
+      "number": 7,
+      "name": "นางสาวปวันรัตน์ เอกอัครอัญธรณ์",
+      "party": "เพื่อไทย",
+      "votes": 1810
+    },
+    {
+      "number": 2,
+      "name": "นายทศพล แก้วทิมา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1684
+    },
+    {
+      "number": 1,
+      "name": "นายปารเมษฐ์ อัศวพงศ์วาณิช",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 985
+    },
+    {
+      "number": 8,
+      "name": "นางสาวชลชญา ชุ่มมงคล",
+      "party": "เศรษฐกิจ",
+      "votes": 631
+    },
+    {
+      "number": 5,
+      "name": "นายตฤณฤทธ เทพประสิทธิ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 296
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/51. ราชบุรี เขต 5.json",
+  "_validation": {
+    "vote_sum": 108560,
+    "good_votes": 108560,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "70",
+  "province_name_normalized": "ราชบุรี",
+  "summary": {
+    "eligible_voters": 133773,
+    "voters_came": 114688,
+    "ballots_received": 135560,
+    "ballots_used": 114688,
+    "good_votes": 108560,
+    "invalid_votes": 3139,
+    "no_votes": 2989
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายบุญลือ ประเสริฐโสภา",
+      "party": "ภูมิใจไทย",
+      "votes": 45150,
+      "candidate_uuid": "f3b39a52-bca1-41e3-be85-741f5e5051d0",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชัยทิพย์ กมลพันธ์ทิพย์",
+      "party": "กล้าธรรม",
+      "votes": 39913,
+      "candidate_uuid": "e37a176c-ae5c-4bf2-a677-77cdd2ab79e3",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวจิราภรณ์ จิตร์มั่น",
+      "party": "ประชาชน",
+      "votes": 18091,
+      "candidate_uuid": "73a69a39-0006-4499-8aaf-5d15defca4a5",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวปวันรัตน์ เอกอัครอัญธรณ์",
+      "party": "เพื่อไทย",
+      "votes": 1810,
+      "candidate_uuid": "c5924681-4135-4c47-9e2a-bb8ea3fceded",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายทศพล แก้วทิมา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1684,
+      "candidate_uuid": "775366ba-3e40-4f58-b0a5-e4cbb4ca1cb8",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายปารเมษฐ์ อัศวพงศ์วาณิช",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 985,
+      "candidate_uuid": "90dbab92-c85a-4594-93f1-7b734bda69c1",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวชลชญา ชุ่มมงคล",
+      "party": "เศรษฐกิจ",
+      "votes": 631,
+      "candidate_uuid": "968284f6-71e8-4e21-aa10-0ba5078e9008",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายตฤณฤทธ เทพประสิทธิ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 296,
+      "candidate_uuid": "4b95a0eb-707a-4e9b-a5d9-821d1c22ef44",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,125 @@
+{
+  "province_name": "แพร่",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 122115,
+    "1.2": 98225,
+    "2.1": 124667,
+    "2.2": 98225,
+    "2.3": 26442,
+    "3.1": 88446,
+    "3.2": 22,
+    "3.3": 9757,
+    "3.4": 98225,
+    "4.1": 92581,
+    "4.2": 2743,
+    "4.3": 2901
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวชนกนันท์ ศุภศิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 40738
+    },
+    {
+      "number": 4,
+      "name": "นางสาวขวัญรัตน์ พนมขวัญ",
+      "party": "ประชาชน",
+      "votes": 24153
+    },
+    {
+      "number": 3,
+      "name": "นายวิตติ แสงสุพรรณ",
+      "party": "กล้าธรรม",
+      "votes": 15633
+    },
+    {
+      "number": 2,
+      "name": "นางภูวษา สินธุวงศ์",
+      "party": "เพื่อไทย",
+      "votes": 10702
+    },
+    {
+      "number": 6,
+      "name": "นายภูมิพงศ์ สุนทรเนติวงศ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 871
+    },
+    {
+      "number": 5,
+      "name": "นายธีรพล พรเสาวลักษณ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 484
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/41. แพร่ เขต 1.json",
+  "_validation": {
+    "vote_sum": 92581,
+    "good_votes": 92581,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "54",
+  "province_name_normalized": "แพร่",
+  "summary": {
+    "eligible_voters": 122115,
+    "voters_came": 98225,
+    "ballots_received": 124667,
+    "ballots_used": 98225,
+    "good_votes": 92581,
+    "invalid_votes": 2743,
+    "no_votes": 2901
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวชนกนันท์ ศุภศิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 40738,
+      "candidate_uuid": "3245a7ef-87c1-4cfd-b409-8a3d5814a504",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวขวัญรัตน์ พนมขวัญ",
+      "party": "ประชาชน",
+      "votes": 24153,
+      "candidate_uuid": "f30f6557-7879-4a16-a930-4527025b82ca",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวิตติ แสงสุพรรณ",
+      "party": "กล้าธรรม",
+      "votes": 15633,
+      "candidate_uuid": "de988b06-c030-420c-afdb-ddef07355b31",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางภูวษา สินธุวงศ์",
+      "party": "เพื่อไทย",
+      "votes": 10702,
+      "candidate_uuid": "a2a93bc3-7742-4842-a9e5-1527d8c4c69c",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายภูมิพงศ์ สุนทรเนติวงศ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 871,
+      "candidate_uuid": "8f57c5df-d615-47ba-b3fb-94702a18670b",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายธีรพล พรเสาวลักษณ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 484,
+      "candidate_uuid": "4dfbade7-3d0e-44c9-8603-eb237896e944",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,125 @@
+{
+  "province_name": "ชัยนาท",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132320,
+    "1.2": 94469,
+    "2.1": 130820,
+    "2.2": 94469,
+    "2.3": 36351,
+    "3.1": 89799,
+    "3.2": 6,
+    "3.3": 4664,
+    "3.4": 94469,
+    "4.1": 80770,
+    "4.2": 5718,
+    "4.3": 7981
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายอนุชา นาคาศัย",
+      "party": "เพื่อไทย",
+      "votes": 36058
+    },
+    {
+      "number": 5,
+      "name": "นายทรงพล ภัทราภิรมย์",
+      "party": "ประชาชน",
+      "votes": 28737
+    },
+    {
+      "number": 4,
+      "name": "นายธนบดี คุ้มชนะ",
+      "party": "ประชาธิปัตย์",
+      "votes": 7271
+    },
+    {
+      "number": 2,
+      "name": "นางสาวณัฐธิดา เมืองช้าง",
+      "party": "ภูมิใจไทย",
+      "votes": 6221
+    },
+    {
+      "number": 3,
+      "name": "นายปริญญา สุโพธิ์",
+      "party": "กล้าธรรม",
+      "votes": 1284
+    },
+    {
+      "number": 6,
+      "name": "นายสนธยา ภูษิต",
+      "party": "พลังประชารัฐ",
+      "votes": 1199
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/10. ชัยนาท เขต 1.json",
+  "_validation": {
+    "vote_sum": 80770,
+    "good_votes": 80770,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "18",
+  "province_name_normalized": "ชัยนาท",
+  "summary": {
+    "eligible_voters": 132320,
+    "voters_came": 94469,
+    "ballots_received": 130820,
+    "ballots_used": 94469,
+    "good_votes": 80770,
+    "invalid_votes": 5718,
+    "no_votes": 7981
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายอนุชา นาคาศัย",
+      "party": "เพื่อไทย",
+      "votes": 36058,
+      "candidate_uuid": "984fdb99-dd19-4ddf-8b4a-2e2f1efb72c2",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายทรงพล ภัทราภิรมย์",
+      "party": "ประชาชน",
+      "votes": 28737,
+      "candidate_uuid": "59e2b5a6-b1e5-4cc6-91ee-ef98b0940dda",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธนบดี คุ้มชนะ",
+      "party": "ประชาธิปัตย์",
+      "votes": 7271,
+      "candidate_uuid": "0127acb6-131c-4bc5-8384-55ba28e93f70",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวณัฐธิดา เมืองช้าง",
+      "party": "ภูมิใจไทย",
+      "votes": 6221,
+      "candidate_uuid": "da46e37a-8852-4641-83b6-d33c4a450825",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายปริญญา สุโพธิ์",
+      "party": "กล้าธรรม",
+      "votes": 1284,
+      "candidate_uuid": "faf835ea-e49a-44b5-8a66-b36fb453ebdc",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสนธยา ภูษิต",
+      "party": "พลังประชารัฐ",
+      "votes": 1199,
+      "candidate_uuid": "dd336e81-78e4-4970-8686-11b668c3a036",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

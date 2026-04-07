@@ -1,0 +1,195 @@
+{
+  "province_name": "ปทุมธานี",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 122733,
+    "1.2": 89639,
+    "2.1": 122580,
+    "2.2": 89639,
+    "2.3": 32941,
+    "3.1": 85872,
+    "3.2": 12,
+    "3.3": 3755,
+    "3.4": 89639,
+    "4.1": 82519,
+    "4.2": 1715,
+    "4.3": 5405
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายเชตวัน เตือประโคน",
+      "party": "ประชาชน",
+      "votes": 35383
+    },
+    {
+      "number": 6,
+      "name": "นางสาวอัยรินทร์ พันธุ์ฤทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 12941
+    },
+    {
+      "number": 2,
+      "name": "นายภานุวัฒน์ ณ ระนอง",
+      "party": "เพื่อไทย",
+      "votes": 12043
+    },
+    {
+      "number": 10,
+      "name": "นายชัยยันต์ ผลสุวรรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 10418
+    },
+    {
+      "number": 5,
+      "name": "นายพันธุ์เทพ พัฒนณรงค์กรณ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 4424
+    },
+    {
+      "number": 8,
+      "name": "นายชาญชัย ฉายบุ",
+      "party": "เศรษฐกิจ",
+      "votes": 2063
+    },
+    {
+      "number": 7,
+      "name": "นายสุรเดช กองรัตน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1559
+    },
+    {
+      "number": 9,
+      "name": "นายศุภลักษณ์ สายยงค์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1185
+    },
+    {
+      "number": 1,
+      "name": "นายอดิศร แจ้งจันทร์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 930
+    },
+    {
+      "number": 11,
+      "name": "นายผดุง หน่องพงษ์",
+      "party": "พลังประชารัฐ",
+      "votes": 899
+    },
+    {
+      "number": 4,
+      "name": "นายเทพนิมิตร จิตรนคร",
+      "party": "รักชาติ",
+      "votes": 674
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/29. ปทุมธานี เขต 5.json",
+  "_validation": {
+    "vote_sum": 82519,
+    "good_votes": 82519,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "13",
+  "province_name_normalized": "ปทุมธานี",
+  "summary": {
+    "eligible_voters": 122733,
+    "voters_came": 89639,
+    "ballots_received": 122580,
+    "ballots_used": 89639,
+    "good_votes": 82519,
+    "invalid_votes": 1715,
+    "no_votes": 5405
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายเชตวัน เตือประโคน",
+      "party": "ประชาชน",
+      "votes": 35383,
+      "candidate_uuid": "df4bbfc7-474e-417e-bb40-206049f667f0",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวอัยรินทร์ พันธุ์ฤทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 12941,
+      "candidate_uuid": "2e703b23-2439-452d-91d5-c0a92f5fa9ff",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายภานุวัฒน์ ณ ระนอง",
+      "party": "เพื่อไทย",
+      "votes": 12043,
+      "candidate_uuid": "0a751063-0d88-4147-aaf3-57fa78b80a5d",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายชัยยันต์ ผลสุวรรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 10418,
+      "candidate_uuid": "06ef2a2b-ab08-4d78-9b1a-fe7b608c6731",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายพันธุ์เทพ พัฒนณรงค์กรณ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 4424,
+      "candidate_uuid": "5934fe4b-7260-4d66-a9f7-60e1ad8f6fe4",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชาญชัย ฉายบุ",
+      "party": "เศรษฐกิจ",
+      "votes": 2063,
+      "candidate_uuid": "84473f82-a0af-40f8-908d-08a2887837cf",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุรเดช กองรัตน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1559,
+      "candidate_uuid": "66b1c09b-bc96-4400-9f5b-9d2aaee379a0",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายศุภลักษณ์ สายยงค์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1185,
+      "candidate_uuid": "2837e39e-ad29-4f43-8f5b-e64ed7acc435",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอดิศร แจ้งจันทร์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 930,
+      "candidate_uuid": "5ab44794-b99c-482e-bbca-d647ae1eabe0",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายผดุง หน่องพงษ์",
+      "party": "พลังประชารัฐ",
+      "votes": 899,
+      "candidate_uuid": "a2749513-3900-47e9-96b8-1b5a55dc94b4",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายเทพนิมิตร จิตรนคร",
+      "party": "รักชาติ",
+      "votes": 674,
+      "candidate_uuid": "478e507c-3092-4d6f-b36a-249eeb5deedf",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

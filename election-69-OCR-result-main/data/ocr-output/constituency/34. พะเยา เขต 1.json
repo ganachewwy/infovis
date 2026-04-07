@@ -1,0 +1,63 @@
+{
+  "province_name": "พะเยา",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 124913,
+    "1.2": 94639,
+    "2.1": 128162,
+    "2.2": 94625,
+    "2.3": 29537,
+    "3.1": 89643,
+    "3.2": 38,
+    "3.3": 8944,
+    "3.4": 98625,
+    "4.1": 91616,
+    "4.2": 2999,
+    "4.3": 4010
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางทัศนีย์ สมธิ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1054
+    },
+    {
+      "number": 2,
+      "name": "นายวิสา บุญนัดดา",
+      "party": "ประชาชน",
+      "votes": 18907
+    },
+    {
+      "number": 3,
+      "name": "นายอัครา พรหมเผ่า",
+      "party": "กล้าธรรม",
+      "votes": 66739
+    },
+    {
+      "number": 4,
+      "name": "นายชยุต จิตธำรงสุนทร",
+      "party": "ภูมิใจไทย",
+      "votes": 1228
+    },
+    {
+      "number": 5,
+      "name": "นายวิชัย ไชยมงคล",
+      "party": "เพื่อไทย",
+      "votes": 2790
+    },
+    {
+      "number": 6,
+      "name": "นายฉัตรชัย ใจเย็น",
+      "party": "ประชาธิปัตย์",
+      "votes": 898
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/34. พะเยา เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 91616,
+    "good_votes": 91616,
+    "sum_diff_pct": 0.0
+  }
+}

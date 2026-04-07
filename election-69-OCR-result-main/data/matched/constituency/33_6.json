@@ -1,0 +1,153 @@
+{
+  "province_name": "ศรีสะเกษ",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128551,
+    "1.2": 83911,
+    "2.1": 131872,
+    "2.2": 83912,
+    "2.3": 47960,
+    "3.1": 75715,
+    "3.2": 4,
+    "3.3": 8193,
+    "3.4": 83912,
+    "4.1": 79063,
+    "4.2": 3411,
+    "4.3": 1438
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายวีระพล จิตสัมฤทธิ์",
+      "party": "เพื่อไทย",
+      "votes": 31345
+    },
+    {
+      "number": 2,
+      "name": "นายคชศักดิ์ ศิริรัตน์มานะวงศ์",
+      "party": "ภูมิใจไทย",
+      "votes": 31072
+    },
+    {
+      "number": 1,
+      "name": "นายธรรมศักดิ์ เรืองชัยจตุพร",
+      "party": "ประชาชน",
+      "votes": 13132
+    },
+    {
+      "number": 9,
+      "name": "พันตำรวจเอกประเสริฐศักดิ์ ศรีไชย",
+      "party": "เศรษฐกิจ",
+      "votes": 1724
+    },
+    {
+      "number": 5,
+      "name": "นายนิธินันท์ ธนัทภพวรานนท์",
+      "party": "กล้าธรรม",
+      "votes": 502
+    },
+    {
+      "number": 3,
+      "name": "นายพงษ์ประณต บุญทศ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 438
+    },
+    {
+      "number": 6,
+      "name": "นายนิมิตร จินาวัลย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 435
+    },
+    {
+      "number": 7,
+      "name": "นายปืน นันทะเสน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 415
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/56. ศรีสะเกษ เขต 6.json",
+  "_validation": {
+    "vote_sum": 79063,
+    "good_votes": 79063,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "33",
+  "province_name_normalized": "ศรีสะเกษ",
+  "summary": {
+    "eligible_voters": 128551,
+    "voters_came": 83911,
+    "ballots_received": 131872,
+    "ballots_used": 83912,
+    "good_votes": 79063,
+    "invalid_votes": 3411,
+    "no_votes": 1438
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายวีระพล จิตสัมฤทธิ์",
+      "party": "เพื่อไทย",
+      "votes": 31345,
+      "candidate_uuid": "76b24ecc-7209-4f5a-a31c-94034cdbe829",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายคชศักดิ์ ศิริรัตน์มานะวงศ์",
+      "party": "ภูมิใจไทย",
+      "votes": 31072,
+      "candidate_uuid": "f1d2cb15-e3bb-46fa-a6dd-8f4a3906d285",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายธรรมศักดิ์ เรืองชัยจตุพร",
+      "party": "ประชาชน",
+      "votes": 13132,
+      "candidate_uuid": "2261c4c4-552b-4b71-9ab0-f284ac4d3899",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "พันตำรวจเอกประเสริฐศักดิ์ ศรีไชย",
+      "party": "เศรษฐกิจ",
+      "votes": 1724,
+      "candidate_uuid": "ed0abe75-b38f-464c-aa8c-852b660b7ea6",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนิธินันท์ ธนัทภพวรานนท์",
+      "party": "กล้าธรรม",
+      "votes": 502,
+      "candidate_uuid": "b2a8bb00-c99a-4629-80ee-a98c98acf713",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพงษ์ประณต บุญทศ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 438,
+      "candidate_uuid": "571980b6-0ec9-4d97-a223-edfb9a4d277d",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายนิมิตร จินาวัลย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 435,
+      "candidate_uuid": "2aa773b7-8228-4c80-b09a-202af88515af",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายปืน นันทะเสน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 415,
+      "candidate_uuid": "de31261d-6e1d-4fe2-840c-d2e64f95f4ce",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

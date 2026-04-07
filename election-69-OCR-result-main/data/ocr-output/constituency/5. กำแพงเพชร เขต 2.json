@@ -1,0 +1,63 @@
+{
+  "province_name": "กำแพงเพชร",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 147930,
+    "1.2": 105321,
+    "2.1": 150483,
+    "2.2": 105321,
+    "2.3": 45162,
+    "3.1": 99878,
+    "3.2": 0,
+    "3.3": 5443,
+    "3.4": 105321,
+    "4.1": 97504,
+    "4.2": 4752,
+    "4.3": 3065
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายเพชรภูมิ อาภรณ์รัตน์",
+      "party": "กล้าธรรม",
+      "votes": 42302
+    },
+    {
+      "number": 2,
+      "name": "นายธนากร รัตนากร",
+      "party": "เพื่อไทย",
+      "votes": 32930
+    },
+    {
+      "number": 3,
+      "name": "นายสุกิจ ศุภกิจเจริญ",
+      "party": "ประชาชน",
+      "votes": 16681
+    },
+    {
+      "number": 6,
+      "name": "นายสมชาย ผลมา",
+      "party": "ภูมิใจไทย",
+      "votes": 2161
+    },
+    {
+      "number": 4,
+      "name": "นางสาวกาญจนา เสือจู",
+      "party": "ประชาธิปัตย์",
+      "votes": 2108
+    },
+    {
+      "number": 7,
+      "name": "นายเรวัตร์ อินทพงษ์",
+      "party": "พลังประชารัฐ",
+      "votes": 1322
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/5. กำแพงเพชร เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 97504,
+    "good_votes": 97504,
+    "sum_diff_pct": 0.0
+  }
+}

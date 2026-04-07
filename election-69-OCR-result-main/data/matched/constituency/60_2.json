@@ -1,0 +1,139 @@
+{
+  "province_name": "นครสวรรค์",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137003,
+    "1.2": 104185,
+    "2.1": 137830,
+    "2.2": 104185,
+    "2.3": 33645,
+    "3.1": 99066,
+    "3.2": 44,
+    "3.3": 5119,
+    "3.4": 104185,
+    "4.1": 96984,
+    "4.2": 3889,
+    "4.3": 3312
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายชานนท์ ไทยเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 47296
+    },
+    {
+      "number": 5,
+      "name": "นายทรงศักดิ์ ส่งเสริมอุดมชัย",
+      "party": "เพื่อไทย",
+      "votes": 28620
+    },
+    {
+      "number": 2,
+      "name": "นายพิสิษฐ์ เนียมสุ่ม",
+      "party": "ประชาชน",
+      "votes": 16325
+    },
+    {
+      "number": 1,
+      "name": "นายนัยศาลิน ถนอมมิตรวัฒนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 2932
+    },
+    {
+      "number": 6,
+      "name": "นางณัฏฐณิชา เหลือกาฬ",
+      "party": "เศรษฐกิจ",
+      "votes": 1060
+    },
+    {
+      "number": 4,
+      "name": "นายสมเกียรติ สระแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 576
+    },
+    {
+      "number": 7,
+      "name": "นายดนัย ดาวเรือง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 171
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/23. นครสวรรค์ เขต 2.json",
+  "_validation": {
+    "vote_sum": 96980,
+    "good_votes": 96984,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "60",
+  "province_name_normalized": "นครสวรรค์",
+  "summary": {
+    "eligible_voters": 137003,
+    "voters_came": 104185,
+    "ballots_received": 137830,
+    "ballots_used": 104185,
+    "good_votes": 96984,
+    "invalid_votes": 3889,
+    "no_votes": 3312
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายชานนท์ ไทยเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 47296,
+      "candidate_uuid": "a6256f1b-0374-4cae-8ca6-b02729d2e2fa",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายทรงศักดิ์ ส่งเสริมอุดมชัย",
+      "party": "เพื่อไทย",
+      "votes": 28620,
+      "candidate_uuid": "b3318db9-b899-47e2-830c-b0b636dcc0eb",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพิสิษฐ์ เนียมสุ่ม",
+      "party": "ประชาชน",
+      "votes": 16325,
+      "candidate_uuid": "8ba1936c-a18e-4055-a3d5-a08aed77ab6f",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายนัยศาลิน ถนอมมิตรวัฒนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 2932,
+      "candidate_uuid": "3003209f-057f-43eb-a6fa-4145e8335b83",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางณัฏฐณิชา เหลือกาฬ",
+      "party": "เศรษฐกิจ",
+      "votes": 1060,
+      "candidate_uuid": "cc1763bd-a999-4e14-b7fc-d44cf65eef78",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสมเกียรติ สระแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 576,
+      "candidate_uuid": "bf84e4d6-782b-4288-bf49-48bef671dbff",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายดนัย ดาวเรือง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 171,
+      "candidate_uuid": "90d48bdc-17f2-4dd6-a1e8-aacee5a8fa29",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

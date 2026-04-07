@@ -1,0 +1,167 @@
+{
+  "province_name": "ศรีสะเกษ",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132927,
+    "1.2": 98770,
+    "2.1": 137333,
+    "2.2": 98770,
+    "2.3": 38563,
+    "3.1": 96663,
+    "3.2": 14,
+    "3.3": 8093,
+    "3.4": 98770,
+    "4.1": 94666,
+    "4.2": 2365,
+    "4.3": 1739
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายสิริพงศ์ อังคสกุลเกียรติ",
+      "party": "ภูมิใจไทย",
+      "votes": 53220
+    },
+    {
+      "number": 3,
+      "name": "นายธเนศ เครือรัตน์",
+      "party": "เพื่อไทย",
+      "votes": 25401
+    },
+    {
+      "number": 1,
+      "name": "นายสุขเกษม เรืองนุช",
+      "party": "ประชาชน",
+      "votes": 13456
+    },
+    {
+      "number": 9,
+      "name": "นางสาวฉวี ปิ่นหอม",
+      "party": "ปวงชนไทย",
+      "votes": 868
+    },
+    {
+      "number": 4,
+      "name": "นายวีระชัย จันทร์ดวงศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 460
+    },
+    {
+      "number": 7,
+      "name": "นายคณิศร คำโสภา",
+      "party": "เศรษฐกิจ",
+      "votes": 438
+    },
+    {
+      "number": 2,
+      "name": "นายเนียม ผลบุญ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 394
+    },
+    {
+      "number": 6,
+      "name": "นายสุรเดช นาจำปา",
+      "party": "กล้าธรรม",
+      "votes": 222
+    },
+    {
+      "number": 8,
+      "name": "นายกุลธวัช สาลี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 207
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/56. ศรีสะเกษ เขต 1.json",
+  "_validation": {
+    "vote_sum": 94666,
+    "good_votes": 94666,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "33",
+  "province_name_normalized": "ศรีสะเกษ",
+  "summary": {
+    "eligible_voters": 132927,
+    "voters_came": 98770,
+    "ballots_received": 137333,
+    "ballots_used": 98770,
+    "good_votes": 94666,
+    "invalid_votes": 2365,
+    "no_votes": 1739
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายสิริพงศ์ อังคสกุลเกียรติ",
+      "party": "ภูมิใจไทย",
+      "votes": 53220,
+      "candidate_uuid": "13eed153-ed24-4713-811f-870d604683e8",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธเนศ เครือรัตน์",
+      "party": "เพื่อไทย",
+      "votes": 25401,
+      "candidate_uuid": "a0b9d2ab-d029-45f5-b625-a385aeec1dd8",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุขเกษม เรืองนุช",
+      "party": "ประชาชน",
+      "votes": 13456,
+      "candidate_uuid": "98aeb250-8005-4512-97e3-9c23f893e10c",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวฉวี ปิ่นหอม",
+      "party": "ปวงชนไทย",
+      "votes": 868,
+      "candidate_uuid": "8008de47-53b0-4f1f-980b-46740c11d4ce",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวีระชัย จันทร์ดวงศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 460,
+      "candidate_uuid": "789c5b25-6783-47dd-8637-6795011738cf",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายคณิศร คำโสภา",
+      "party": "เศรษฐกิจ",
+      "votes": 438,
+      "candidate_uuid": "0a9e4899-9c5d-4972-a0fe-e21c26773fd1",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายเนียม ผลบุญ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 394,
+      "candidate_uuid": "4a8dfa6a-78fe-4828-91d3-d6fd9e53d068",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสุรเดช นาจำปา",
+      "party": "กล้าธรรม",
+      "votes": 222,
+      "candidate_uuid": "2afcf755-46dd-4e46-b130-fdfa123bf7d7",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายกุลธวัช สาลี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 207,
+      "candidate_uuid": "dc45fa5b-dd72-4bf6-a368-c94aa1243f62",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

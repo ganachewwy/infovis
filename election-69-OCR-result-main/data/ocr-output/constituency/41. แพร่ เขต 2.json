@@ -1,0 +1,57 @@
+{
+  "province_name": "แพร่",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 116303,
+    "1.2": 88953,
+    "2.1": 124928,
+    "2.2": 79831,
+    "2.3": 45097,
+    "3.1": 79831,
+    "3.2": 3,
+    "3.3": 9119,
+    "3.4": 88953,
+    "4.1": 83283,
+    "4.2": 3325,
+    "4.3": 2345
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายชนาธิป ศุภศิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 54734
+    },
+    {
+      "number": 2,
+      "name": "นายนิยม วิวรรธนดิฐกุล",
+      "party": "เพื่อไทย",
+      "votes": 13030
+    },
+    {
+      "number": 3,
+      "name": "นายธีรศักดิ์ มีสมศักดิ์",
+      "party": "กล้าธรรม",
+      "votes": 524
+    },
+    {
+      "number": 4,
+      "name": "นายวสันต์ จันทร์สอง",
+      "party": "ประชาชน",
+      "votes": 14577
+    },
+    {
+      "number": 5,
+      "name": "นายราชสิทธิ์ มิ่งปรีชา",
+      "party": "ประชาธิปัตย์",
+      "votes": 418
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/41. แพร่ เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 83283,
+    "good_votes": 83283,
+    "sum_diff_pct": 0.0
+  }
+}

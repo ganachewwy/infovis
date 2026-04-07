@@ -1,0 +1,167 @@
+{
+  "province_name": "ลพบุรี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 145648,
+    "1.2": 105930,
+    "2.1": 149500,
+    "2.2": 105929,
+    "2.3": 43571,
+    "3.1": 101027,
+    "3.2": 2,
+    "3.3": 4900,
+    "3.4": 105929,
+    "4.1": 99225,
+    "4.2": 3885,
+    "4.3": 2819
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นางสาวกาญจนาพร จิระพันธุ์วาณิช",
+      "party": "ภูมิใจไทย",
+      "votes": 49264
+    },
+    {
+      "number": 3,
+      "name": "นายพหล วรปัญญา",
+      "party": "เพื่อไทย",
+      "votes": 27504
+    },
+    {
+      "number": 8,
+      "name": "นายประดิษฐ์ บวรกิติอนันต์",
+      "party": "ประชาชน",
+      "votes": 15294
+    },
+    {
+      "number": 4,
+      "name": "นายสุชาติ ลายน้ำเงิน",
+      "party": "พลังประชารัฐ",
+      "votes": 2527
+    },
+    {
+      "number": 5,
+      "name": "นายเอนก สนามทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 1816
+    },
+    {
+      "number": 7,
+      "name": "นายชัยอนันต์ มานะกุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 882
+    },
+    {
+      "number": 9,
+      "name": "นางสาวกัญญาภัค กอกัน",
+      "party": "ปวงชนไทย",
+      "votes": 801
+    },
+    {
+      "number": 2,
+      "name": "นายพรอนันต์ ไชยชาติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 670
+    },
+    {
+      "number": 1,
+      "name": "พันเอกสุชาติ คัดสูงเนิน",
+      "party": "กล้าธรรม",
+      "votes": 467
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/52. ลพบุรี เขต 3.json",
+  "_validation": {
+    "vote_sum": 99225,
+    "good_votes": 99225,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "16",
+  "province_name_normalized": "ลพบุรี",
+  "summary": {
+    "eligible_voters": 145648,
+    "voters_came": 105930,
+    "ballots_received": 149500,
+    "ballots_used": 105929,
+    "good_votes": 99225,
+    "invalid_votes": 3885,
+    "no_votes": 2819
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นางสาวกาญจนาพร จิระพันธุ์วาณิช",
+      "party": "ภูมิใจไทย",
+      "votes": 49264,
+      "candidate_uuid": "6b6edec3-8def-44c7-a648-144e26439297",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพหล วรปัญญา",
+      "party": "เพื่อไทย",
+      "votes": 27504,
+      "candidate_uuid": "214ef967-d440-4dd0-99a2-b136b556738c",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายประดิษฐ์ บวรกิติอนันต์",
+      "party": "ประชาชน",
+      "votes": 15294,
+      "candidate_uuid": "72ba5a7a-a96c-4e43-a12e-90958923d3d9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสุชาติ ลายน้ำเงิน",
+      "party": "พลังประชารัฐ",
+      "votes": 2527,
+      "candidate_uuid": "ade8e4bd-d6fd-4aa7-8b34-8af9bd126396",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเอนก สนามทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 1816,
+      "candidate_uuid": "ea287954-df4b-4da6-a8f2-c2b96bfadcc7",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายชัยอนันต์ มานะกุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 882,
+      "candidate_uuid": "bcc83c6a-a7ff-4bd6-9850-344c131bc24e",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวกัญญาภัค กอกัน",
+      "party": "ปวงชนไทย",
+      "votes": 801,
+      "candidate_uuid": "da9aa2ba-2a44-43dd-adce-1e8ea4a5dbcb",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพรอนันต์ ไชยชาติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 670,
+      "candidate_uuid": "5c711d2b-5df2-4300-a48f-47e507333516",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "พันเอกสุชาติ คัดสูงเนิน",
+      "party": "กล้าธรรม",
+      "votes": 467,
+      "candidate_uuid": "9a188ec7-9b08-4acd-aa86-f998d35f7e0e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

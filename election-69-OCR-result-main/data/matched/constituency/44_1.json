@@ -1,0 +1,181 @@
+{
+  "province_name": "มหาสารคาม",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129888,
+    "1.2": 90569,
+    "2.1": 127447,
+    "2.2": 90569,
+    "2.3": 36878,
+    "3.1": 84322,
+    "3.2": 127,
+    "3.3": 6120,
+    "3.4": 90569,
+    "4.1": 84916,
+    "4.2": 2106,
+    "4.3": 3547
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายธีระวัฒน์ พรรณะ",
+      "party": "ประชาชน",
+      "votes": 22794
+    },
+    {
+      "number": 2,
+      "name": "พันตำรวจเอกชัยสิทธิ์ ภความนตรี",
+      "party": "พลังประชารัฐ",
+      "votes": 890
+    },
+    {
+      "number": 3,
+      "name": "นายปัญญา ประทุมชัย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 547
+    },
+    {
+      "number": 4,
+      "name": "นายทองหล่อ พลโคตร",
+      "party": "กล้าธรรม",
+      "votes": 10178
+    },
+    {
+      "number": 5,
+      "name": "นายเชวงศักดิ์ พลลาภ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1199
+    },
+    {
+      "number": 6,
+      "name": "นายฤทธิรงค์ ภูมิสวัสดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 32493
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนงลักษณ์ ทุงจันทร์",
+      "party": "เพื่อไทย",
+      "votes": 15504
+    },
+    {
+      "number": 8,
+      "name": "นายกิจอนันต์ วิริยะสุข",
+      "party": "เศรษฐกิจ",
+      "votes": 718
+    },
+    {
+      "number": 9,
+      "name": "นายณรงค์ ชารีคง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 90
+    },
+    {
+      "number": 10,
+      "name": "นายชยพล โบราณมูล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 503
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/43. มหาสารคาม เขต 1.json",
+  "_validation": {
+    "vote_sum": 84916,
+    "good_votes": 84916,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "44",
+  "province_name_normalized": "มหาสารคาม",
+  "summary": {
+    "eligible_voters": 129888,
+    "voters_came": 90569,
+    "ballots_received": 127447,
+    "ballots_used": 90569,
+    "good_votes": 84916,
+    "invalid_votes": 2106,
+    "no_votes": 3547
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายธีระวัฒน์ พรรณะ",
+      "party": "ประชาชน",
+      "votes": 22794,
+      "candidate_uuid": "d71b466b-e1f6-418a-ae62-792b7ef44dbb",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "พันตำรวจเอกชัยสิทธิ์ ภความนตรี",
+      "party": "พลังประชารัฐ",
+      "votes": 890,
+      "candidate_uuid": "4395bd87-1807-454a-976e-955d0ff5f811",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายปัญญา ประทุมชัย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 547,
+      "candidate_uuid": "3f406917-b5ab-4685-9a11-50d3dfaed3b9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายทองหล่อ พลโคตร",
+      "party": "กล้าธรรม",
+      "votes": 10178,
+      "candidate_uuid": "9d898c61-2437-46ec-b812-321402395bfc",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเชวงศักดิ์ พลลาภ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1199,
+      "candidate_uuid": "36631f41-370a-4fc7-9e2c-e9b732fbdacc",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายฤทธิรงค์ ภูมิสวัสดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 32493,
+      "candidate_uuid": "0b18594e-a8ba-4a07-8465-f589ffc797cc",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนงลักษณ์ ทุงจันทร์",
+      "party": "เพื่อไทย",
+      "votes": 15504,
+      "candidate_uuid": "1b1bf6ab-9b7d-4fde-b999-e873b427db6b",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายกิจอนันต์ วิริยะสุข",
+      "party": "เศรษฐกิจ",
+      "votes": 718,
+      "candidate_uuid": "b4702d19-ef17-4003-81d8-ad47f6e6dd71",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายณรงค์ ชารีคง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 90,
+      "candidate_uuid": "89b217cb-244f-4519-91ae-3c280a1675e7",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายชยพล โบราณมูล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 503,
+      "candidate_uuid": "8bd290da-c68e-41b9-803e-52c537556f13",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,237 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 20,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126470,
+    "1.2": 87486,
+    "2.1": 126020,
+    "2.2": 87486,
+    "2.3": 38534,
+    "3.1": 83921,
+    "3.2": 164,
+    "3.3": 3401,
+    "3.4": 87486,
+    "4.1": 81935,
+    "4.2": 1769,
+    "4.3": 3782
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายชุมพล หลักคำ",
+      "party": "ประชาชน",
+      "votes": 34941
+    },
+    {
+      "number": 11,
+      "name": "นางสาวธีรรัตน์ สำเร็จวาณิชย์",
+      "party": "เพื่อไทย",
+      "votes": 27474
+    },
+    {
+      "number": 2,
+      "name": "นายธนะสิทธิ์ เมธพันธ์เมือง",
+      "party": "ภูมิใจไทย",
+      "votes": 7771
+    },
+    {
+      "number": 13,
+      "name": "นายรัฐศักดิ์ สุขยิ่ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 4139
+    },
+    {
+      "number": 9,
+      "name": "นายหวังจันทร์ ยิ้มวิไล",
+      "party": "โอกาสใหม่",
+      "votes": 1483
+    },
+    {
+      "number": 12,
+      "name": "นายวีรภัทร์ พันธุ์หาญ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1229
+    },
+    {
+      "number": 14,
+      "name": "นายจตุพล ยอดวงค์พะเนา",
+      "party": "เศรษฐกิจ",
+      "votes": 1221
+    },
+    {
+      "number": 6,
+      "name": "นายพงศ์ปณตพล รักสกุลกานต์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1135
+    },
+    {
+      "number": 5,
+      "name": "ว่าที่ร้อยตรีหญิงนุชนาฏ หุ่นอยู่",
+      "party": "ไทยสร้างไทย",
+      "votes": 1018
+    },
+    {
+      "number": 1,
+      "name": "นายวรชัย สมบัติเจริญกิจ",
+      "party": "พลวัต",
+      "votes": 424
+    },
+    {
+      "number": 10,
+      "name": "นายปิยะพล เหมันต์",
+      "party": "กล้าธรรม",
+      "votes": 308
+    },
+    {
+      "number": 8,
+      "name": "นายพิชชา ขำสุวรรณ",
+      "party": "พร้อม",
+      "votes": 298
+    },
+    {
+      "number": 4,
+      "name": "นางเขมจิรา พชรจรวยพร",
+      "party": "ปวงชนไทย",
+      "votes": 287
+    },
+    {
+      "number": 3,
+      "name": "นายวันชัย รัตนขจรไทย",
+      "party": "พลังประชารัฐ",
+      "votes": 207
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 20.json",
+  "_validation": {
+    "vote_sum": 81935,
+    "good_votes": 81935,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 126470,
+    "voters_came": 87486,
+    "ballots_received": 126020,
+    "ballots_used": 87486,
+    "good_votes": 81935,
+    "invalid_votes": 1769,
+    "no_votes": 3782
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นายชุมพล หลักคำ",
+      "party": "ประชาชน",
+      "votes": 34941,
+      "candidate_uuid": "1bfc8936-19ef-4251-a374-5bcdd5aadd11",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางสาวธีรรัตน์ สำเร็จวาณิชย์",
+      "party": "เพื่อไทย",
+      "votes": 27474,
+      "candidate_uuid": "1edb8a64-8020-4bc2-a8b6-2a6f76cfa6c5",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธนะสิทธิ์ เมธพันธ์เมือง",
+      "party": "ภูมิใจไทย",
+      "votes": 7771,
+      "candidate_uuid": "c4d3ed42-eba3-442a-948b-c7aa62842c65",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายรัฐศักดิ์ สุขยิ่ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 4139,
+      "candidate_uuid": "61172005-fa79-47b0-8afa-f57d2c478067",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายหวังจันทร์ ยิ้มวิไล",
+      "party": "โอกาสใหม่",
+      "votes": 1483,
+      "candidate_uuid": "62ba5022-1fa0-4d2c-9177-27ca4eb2f943",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายวีรภัทร์ พันธุ์หาญ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1229,
+      "candidate_uuid": "33027a1b-3468-48cd-a235-03a545ddc7a1",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายจตุพล ยอดวงค์พะเนา",
+      "party": "เศรษฐกิจ",
+      "votes": 1221,
+      "candidate_uuid": "75563321-03de-4f7f-803e-feee6f2f0ba1",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพงศ์ปณตพล รักสกุลกานต์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1135,
+      "candidate_uuid": "be352178-1954-40de-9c4d-e4590005da00",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "ว่าที่ร้อยตรีหญิงนุชนาฏ หุ่นอยู่",
+      "party": "ไทยสร้างไทย",
+      "votes": 1018,
+      "candidate_uuid": "cc0ee6f0-1a01-475f-b317-537a16d6f307",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวรชัย สมบัติเจริญกิจ",
+      "party": "พลวัต",
+      "votes": 424,
+      "candidate_uuid": "37f36ac5-1113-4d89-90d8-1939c3f693cb",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายปิยะพล เหมันต์",
+      "party": "กล้าธรรม",
+      "votes": 308,
+      "candidate_uuid": "a578c432-5a0c-4af4-bafc-11d9b226f6dc",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายพิชชา ขำสุวรรณ",
+      "party": "พร้อม",
+      "votes": 298,
+      "candidate_uuid": "9417d25c-f380-4cd7-a5b9-ea204a09753b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางเขมจิรา พชรจรวยพร",
+      "party": "ปวงชนไทย",
+      "votes": 287,
+      "candidate_uuid": "b9169c43-f5ca-4fe3-b409-ace3e75bbe92",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวันชัย รัตนขจรไทย",
+      "party": "พลังประชารัฐ",
+      "votes": 207,
+      "candidate_uuid": "0f92cbd2-089c-4955-b638-33abbd0c1fe0",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

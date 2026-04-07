@@ -1,0 +1,167 @@
+{
+  "province_name": "เชียงราย",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 141608,
+    "1.2": 109317,
+    "2.1": 143285,
+    "2.2": 109317,
+    "2.3": 33968,
+    "3.1": 101332,
+    "3.2": 27,
+    "3.3": 7958,
+    "3.4": 109317,
+    "4.1": 98917,
+    "4.2": 3599,
+    "4.3": 6801
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายธนรัช จงสุทธานามณี",
+      "party": "เพื่อไทย",
+      "votes": 44084
+    },
+    {
+      "number": 1,
+      "name": "นายชิตวัน ชินอนุวัฒน์",
+      "party": "ประชาชน",
+      "votes": 38694
+    },
+    {
+      "number": 6,
+      "name": "นายวุฒิชาติ เกรียงเกษร",
+      "party": "กล้าธรรม",
+      "votes": 8150
+    },
+    {
+      "number": 2,
+      "name": "นายนิติธร สมสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 3419
+    },
+    {
+      "number": 4,
+      "name": "นายสมนึก ใจจักร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1383
+    },
+    {
+      "number": 8,
+      "name": "นายเอกนิสิต ศรีแก้ว",
+      "party": "พลวัต",
+      "votes": 1361
+    },
+    {
+      "number": 5,
+      "name": "นายไอใจ ปู่หมื่อ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1020
+    },
+    {
+      "number": 3,
+      "name": "นายธเนตร ติ๊บโทะ",
+      "party": "โอกาสใหม่",
+      "votes": 563
+    },
+    {
+      "number": 9,
+      "name": "นายธนัยรัชต์ ศรีโชติ",
+      "party": "ปวงชนไทย",
+      "votes": 243
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/13. เชียงราย เขต 1.json",
+  "_validation": {
+    "vote_sum": 98917,
+    "good_votes": 98917,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "57",
+  "province_name_normalized": "เชียงราย",
+  "summary": {
+    "eligible_voters": 141608,
+    "voters_came": 109317,
+    "ballots_received": 143285,
+    "ballots_used": 109317,
+    "good_votes": 98917,
+    "invalid_votes": 3599,
+    "no_votes": 6801
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นายธนรัช จงสุทธานามณี",
+      "party": "เพื่อไทย",
+      "votes": 44084,
+      "candidate_uuid": "70f8ea7c-f993-4c1a-9f32-11292bc9d013",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายชิตวัน ชินอนุวัฒน์",
+      "party": "ประชาชน",
+      "votes": 38694,
+      "candidate_uuid": "9a5d949e-b85b-4077-ab1d-28900a2c7b9c",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายวุฒิชาติ เกรียงเกษร",
+      "party": "กล้าธรรม",
+      "votes": 8150,
+      "candidate_uuid": "75d7d333-2373-4fda-a38c-1a1083c85867",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนิติธร สมสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 3419,
+      "candidate_uuid": "6256999f-c812-4f1f-9fa2-b171ebeee103",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสมนึก ใจจักร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1383,
+      "candidate_uuid": "fba80a8c-c481-4561-89cb-798e000a9be6",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายเอกนิสิต ศรีแก้ว",
+      "party": "พลวัต",
+      "votes": 1361,
+      "candidate_uuid": "d0fd640c-8294-4359-8ef4-4c1f82a5b977",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายไอใจ ปู่หมื่อ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1020,
+      "candidate_uuid": "e9f9bfc7-9e70-412e-ada5-cf9761a8f5be",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธเนตร ติ๊บโทะ",
+      "party": "โอกาสใหม่",
+      "votes": 563,
+      "candidate_uuid": "0590bdcf-5cd4-41e2-b6b2-15fb6868df71",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธนัยรัชต์ ศรีโชติ",
+      "party": "ปวงชนไทย",
+      "votes": 243,
+      "candidate_uuid": "c89babc4-be4e-49bb-bbc9-17ee887d5bd6",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

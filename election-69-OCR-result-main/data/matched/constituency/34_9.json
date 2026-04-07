@@ -1,0 +1,139 @@
+{
+  "province_name": "อุบลราชธานี",
+  "constituency_number": 9,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130179,
+    "1.2": 83647,
+    "2.1": 129560,
+    "2.2": 83647,
+    "2.3": 45913,
+    "3.1": 78111,
+    "3.2": 17,
+    "3.3": 5519,
+    "3.4": 83647,
+    "4.1": 78470,
+    "4.2": 3831,
+    "4.3": 1346
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นางจิตรวรรณ หวังศุภกิจโกศล",
+      "party": "ไทรวมพลัง",
+      "votes": 42832
+    },
+    {
+      "number": 4,
+      "name": "นางรำพูล ตันติวณิชชานนท์",
+      "party": "กล้าธรรม",
+      "votes": 15396
+    },
+    {
+      "number": 5,
+      "name": "นายประภูศักดิ์ จินตะเวช",
+      "party": "เพื่อไทย",
+      "votes": 11382
+    },
+    {
+      "number": 6,
+      "name": "นายกฤติน มักเรียน",
+      "party": "ประชาชน",
+      "votes": 6786
+    },
+    {
+      "number": 2,
+      "name": "นางสาววิจิตรา สัตยากูล",
+      "party": "ภูมิใจไทย",
+      "votes": 1576
+    },
+    {
+      "number": 7,
+      "name": "นายสุพจน์ วรรณสุข",
+      "party": "ประชาธิปัตย์",
+      "votes": 369
+    },
+    {
+      "number": 1,
+      "name": "นายธีระ พุฒพิพักตร์",
+      "party": "พลังประชารัฐ",
+      "votes": 129
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/77. อุบลราชธานี เขต 9.json",
+  "_validation": {
+    "vote_sum": 78470,
+    "good_votes": 78470,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "34",
+  "province_name_normalized": "อุบลราชธานี",
+  "summary": {
+    "eligible_voters": 130179,
+    "voters_came": 83647,
+    "ballots_received": 129560,
+    "ballots_used": 83647,
+    "good_votes": 78470,
+    "invalid_votes": 3831,
+    "no_votes": 1346
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นางจิตรวรรณ หวังศุภกิจโกศล",
+      "party": "ไทรวมพลัง",
+      "votes": 42832,
+      "candidate_uuid": "150e3c8f-a551-4f78-bea7-29ba0b0d4ce4",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางรำพูล ตันติวณิชชานนท์",
+      "party": "กล้าธรรม",
+      "votes": 15396,
+      "candidate_uuid": "3115106e-fee4-4728-9026-c0186affa4d5",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายประภูศักดิ์ จินตะเวช",
+      "party": "เพื่อไทย",
+      "votes": 11382,
+      "candidate_uuid": "528b3fab-e815-400d-aefc-fb9fe74a5705",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายกฤติน มักเรียน",
+      "party": "ประชาชน",
+      "votes": 6786,
+      "candidate_uuid": "45b3e074-175f-4fea-a8d1-6b9125f293a6",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาววิจิตรา สัตยากูล",
+      "party": "ภูมิใจไทย",
+      "votes": 1576,
+      "candidate_uuid": "cbcf10b7-9636-472b-9560-192e6a86b8cb",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุพจน์ วรรณสุข",
+      "party": "ประชาธิปัตย์",
+      "votes": 369,
+      "candidate_uuid": "8e611c97-a0c2-48e4-b98b-ed2fe054fb79",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายธีระ พุฒพิพักตร์",
+      "party": "พลังประชารัฐ",
+      "votes": 129,
+      "candidate_uuid": "96a9b330-235e-466f-bac3-a8a47eb3634c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

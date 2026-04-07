@@ -1,0 +1,153 @@
+{
+  "province_name": "นครศรีธรรมราช",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136225,
+    "1.2": 99928,
+    "2.1": 132540,
+    "2.2": 99928,
+    "2.3": 32612,
+    "3.1": 94474,
+    "3.2": 0,
+    "3.3": 5454,
+    "3.4": 99928,
+    "4.1": 92847,
+    "4.2": 2720,
+    "4.3": 4361
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางอวยพรศรี เชาวลิต",
+      "party": "ภูมิใจไทย",
+      "votes": 54040
+    },
+    {
+      "number": 6,
+      "name": "นายปฏิวัติ ยุติธรรม",
+      "party": "ประชาธิปัตย์",
+      "votes": 22534
+    },
+    {
+      "number": 2,
+      "name": "นายธีรวัฒน์ บุญวรรณ",
+      "party": "ประชาชน",
+      "votes": 12201
+    },
+    {
+      "number": 5,
+      "name": "นายอนุชิต พรหมจันทร์",
+      "party": "พลังประชารัฐ",
+      "votes": 1630
+    },
+    {
+      "number": 4,
+      "name": "นางสาวรัตนาวดี ศรีนาคช",
+      "party": "เพื่อไทย",
+      "votes": 860
+    },
+    {
+      "number": 3,
+      "name": "นายธีรพงศ์ สิทธา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 805
+    },
+    {
+      "number": 7,
+      "name": "นายสมบูรณ์ หัตถประดิษฐ์",
+      "party": "พลวัต",
+      "votes": 487
+    },
+    {
+      "number": 8,
+      "name": "นาวาอากาศเอก สุรินทร์ เมฆาวรรณ",
+      "party": "ทางเลือกใหม่",
+      "votes": 290
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/22. นครศรีธรรมราช เขต 8.json",
+  "_validation": {
+    "vote_sum": 92847,
+    "good_votes": 92847,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "80",
+  "province_name_normalized": "นครศรีธรรมราช",
+  "summary": {
+    "eligible_voters": 136225,
+    "voters_came": 99928,
+    "ballots_received": 132540,
+    "ballots_used": 99928,
+    "good_votes": 92847,
+    "invalid_votes": 2720,
+    "no_votes": 4361
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางอวยพรศรี เชาวลิต",
+      "party": "ภูมิใจไทย",
+      "votes": 54040,
+      "candidate_uuid": "a7c8aaf1-ddf3-4322-9419-46cf61412ff5",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปฏิวัติ ยุติธรรม",
+      "party": "ประชาธิปัตย์",
+      "votes": 22534,
+      "candidate_uuid": "9792935c-6d50-4a69-bf3f-6e5e3aa811d8",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธีรวัฒน์ บุญวรรณ",
+      "party": "ประชาชน",
+      "votes": 12201,
+      "candidate_uuid": "873148ca-242b-45a8-9221-e4c9f8f9428e",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอนุชิต พรหมจันทร์",
+      "party": "พลังประชารัฐ",
+      "votes": 1630,
+      "candidate_uuid": "6c7e3976-3ae9-4d64-8c58-74bf6a97efb7",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวรัตนาวดี ศรีนาคช",
+      "party": "เพื่อไทย",
+      "votes": 860,
+      "candidate_uuid": "f20980e4-8020-4f03-9ad4-d6942af73967",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธีรพงศ์ สิทธา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 805,
+      "candidate_uuid": "9168074e-4271-4e25-8fa0-9aa0845466dc",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสมบูรณ์ หัตถประดิษฐ์",
+      "party": "พลวัต",
+      "votes": 487,
+      "candidate_uuid": "485eef6b-1be5-4ebf-acfb-9bd4edbff522",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นาวาอากาศเอก สุรินทร์ เมฆาวรรณ",
+      "party": "ทางเลือกใหม่",
+      "votes": 290,
+      "candidate_uuid": "33d1b4f1-a067-47c2-9327-6bd48f179cf9",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

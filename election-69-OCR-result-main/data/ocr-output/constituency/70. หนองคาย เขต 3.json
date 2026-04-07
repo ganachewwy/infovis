@@ -1,0 +1,57 @@
+{
+  "province_name": "หนองคาย",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137314,
+    "1.2": 87064,
+    "2.1": 136000,
+    "2.2": 87064,
+    "2.3": 48936,
+    "3.1": 81543,
+    "3.2": 0,
+    "3.3": 5521,
+    "3.4": 87064,
+    "4.1": 78176,
+    "4.2": 5458,
+    "4.3": 3430
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายศักดิ์ดา จันทรสุวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 36917
+    },
+    {
+      "number": 4,
+      "name": "นายเอกธนัช อินทร์รอด",
+      "party": "เพื่อไทย",
+      "votes": 19988
+    },
+    {
+      "number": 3,
+      "name": "นายชัยณรงค์ ชัยสุข",
+      "party": "ประชาชน",
+      "votes": 19381
+    },
+    {
+      "number": 1,
+      "name": "นายสถิตย์ สีสวาท",
+      "party": "ประชาธิปัตย์",
+      "votes": 1343
+    },
+    {
+      "number": 5,
+      "name": "นายบัวขาว ภูสมศรี",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 547
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/70. หนองคาย เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 78176,
+    "good_votes": 78176,
+    "sum_diff_pct": 0.0
+  }
+}

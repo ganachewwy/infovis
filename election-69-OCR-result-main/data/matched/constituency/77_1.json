@@ -1,0 +1,125 @@
+{
+  "province_name": "ประจวบคีรีขันธ์",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 152841,
+    "1.2": 118298,
+    "2.1": 155616,
+    "2.2": 118298,
+    "2.3": 37318,
+    "3.1": 112882,
+    "3.2": 53,
+    "3.3": 5363,
+    "3.4": 118298,
+    "4.1": 112249,
+    "4.2": 3405,
+    "4.3": 2643
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายสังคม แดงโชติ",
+      "party": "ภูมิใจไทย",
+      "votes": 51582
+    },
+    {
+      "number": 4,
+      "name": "นายธิตินัย ตั้งบูรพาจิตร์",
+      "party": "กล้าธรรม",
+      "votes": 43544
+    },
+    {
+      "number": 5,
+      "name": "นายมรกต โอ่เอี่ยม",
+      "party": "ประชาชน",
+      "votes": 13063
+    },
+    {
+      "number": 6,
+      "name": "นายไชยวัฒน์ วงศ์วรรณ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2477
+    },
+    {
+      "number": 1,
+      "name": "นายอุดร โพธิ์พ่วง",
+      "party": "เพื่อไทย",
+      "votes": 1002
+    },
+    {
+      "number": 2,
+      "name": "นายสรานนท์ ใยบำรุง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 581
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/30. ประจวบคีรีขันธ์ เขต 1.json",
+  "_validation": {
+    "vote_sum": 112249,
+    "good_votes": 112249,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "77",
+  "province_name_normalized": "ประจวบคีรีขันธ์",
+  "summary": {
+    "eligible_voters": 152841,
+    "voters_came": 118298,
+    "ballots_received": 155616,
+    "ballots_used": 118298,
+    "good_votes": 112249,
+    "invalid_votes": 3405,
+    "no_votes": 2643
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายสังคม แดงโชติ",
+      "party": "ภูมิใจไทย",
+      "votes": 51582,
+      "candidate_uuid": "e7db4b65-f6b6-4829-b1ae-bf2c1e8323d7",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธิตินัย ตั้งบูรพาจิตร์",
+      "party": "กล้าธรรม",
+      "votes": 43544,
+      "candidate_uuid": "51280355-b8ba-40ce-a8c4-d3b77e662569",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายมรกต โอ่เอี่ยม",
+      "party": "ประชาชน",
+      "votes": 13063,
+      "candidate_uuid": "63c21b5e-9651-4bfa-a4f3-72499e5d0036",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายไชยวัฒน์ วงศ์วรรณ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2477,
+      "candidate_uuid": "c4e9e7c1-0fc8-4a66-b6cd-12baf2d2b898",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอุดร โพธิ์พ่วง",
+      "party": "เพื่อไทย",
+      "votes": 1002,
+      "candidate_uuid": "d40c8d33-aa03-498f-b9e1-bf55b0222202",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสรานนท์ ใยบำรุง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 581,
+      "candidate_uuid": "0eef5ba9-6ca3-4076-b485-09ea91e653df",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

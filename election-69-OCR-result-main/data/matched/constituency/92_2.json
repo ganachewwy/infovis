@@ -1,0 +1,139 @@
+{
+  "province_name": "ตรัง",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131993,
+    "1.2": 101194,
+    "2.1": 135587,
+    "2.2": 101194,
+    "2.3": 34393,
+    "3.1": 95106,
+    "3.2": 13,
+    "3.3": 6075,
+    "3.4": 101194,
+    "4.1": 95121,
+    "4.2": 2259,
+    "4.3": 3814
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายทวี สุระบาล",
+      "party": "ภูมิใจไทย",
+      "votes": 42668
+    },
+    {
+      "number": 1,
+      "name": "นางสาวดวงฤทัย บัวแก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 38154
+    },
+    {
+      "number": 2,
+      "name": "พันตำรวจเอกอธิศ ภักดีนามฉวี",
+      "party": "ประชาชน",
+      "votes": 8159
+    },
+    {
+      "number": 3,
+      "name": "นายกิตติเดช วรรณบวร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 4184
+    },
+    {
+      "number": 5,
+      "name": "นายปรีชา ยอดยิ่ง",
+      "party": "เพื่อไทย",
+      "votes": 747
+    },
+    {
+      "number": 6,
+      "name": "นายชยางกูร ชูมณี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 645
+    },
+    {
+      "number": 7,
+      "name": "นายชัยพร ชูเสน",
+      "party": "กล้าธรรม",
+      "votes": 564
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/15. ตรัง เขต 2.json",
+  "_validation": {
+    "vote_sum": 95121,
+    "good_votes": 95121,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "92",
+  "province_name_normalized": "ตรัง",
+  "summary": {
+    "eligible_voters": 131993,
+    "voters_came": 101194,
+    "ballots_received": 135587,
+    "ballots_used": 101194,
+    "good_votes": 95121,
+    "invalid_votes": 2259,
+    "no_votes": 3814
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายทวี สุระบาล",
+      "party": "ภูมิใจไทย",
+      "votes": 42668,
+      "candidate_uuid": "73a67cf2-3f77-43a0-abe5-882544aac00a",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวดวงฤทัย บัวแก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 38154,
+      "candidate_uuid": "5784e797-2639-4b44-9487-b1b510a47d01",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "พันตำรวจเอกอธิศ ภักดีนามฉวี",
+      "party": "ประชาชน",
+      "votes": 8159,
+      "candidate_uuid": "51148be8-f4ec-49ea-a708-873c83fa1dc8",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกิตติเดช วรรณบวร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 4184,
+      "candidate_uuid": "837416ed-5ba9-4966-863f-7042835c9456",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายปรีชา ยอดยิ่ง",
+      "party": "เพื่อไทย",
+      "votes": 747,
+      "candidate_uuid": "386c9249-1eaa-4c84-b6b0-11d377ecc4c8",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายชยางกูร ชูมณี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 645,
+      "candidate_uuid": "894661d4-95d6-47fe-8020-cd3f9b02aa9c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายชัยพร ชูเสน",
+      "party": "กล้าธรรม",
+      "votes": 564,
+      "candidate_uuid": "74315a40-b270-42fb-82ab-3f3ebf98034e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

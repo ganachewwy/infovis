@@ -1,0 +1,153 @@
+{
+  "province_name": "อุบลราชธานี",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131259,
+    "1.2": 90567,
+    "2.1": 135484,
+    "2.2": 90567,
+    "2.3": 44917,
+    "3.1": 84643,
+    "3.2": 0,
+    "3.3": 5924,
+    "3.4": 90567,
+    "4.1": 87014,
+    "4.2": 2560,
+    "4.3": 993
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวสุดารัตน์ พิทักษ์พรพัลลภ",
+      "party": "ภูมิใจไทย",
+      "votes": 45003
+    },
+    {
+      "number": 5,
+      "name": "นายเชิดศักดิ์ โภคกุลกานนท์",
+      "party": "เพื่อไทย",
+      "votes": 34817
+    },
+    {
+      "number": 4,
+      "name": "นายไพฑูรย์ จันทะยา",
+      "party": "ประชาชน",
+      "votes": 6036
+    },
+    {
+      "number": 2,
+      "name": "นายชุติมันต์ ปานเพชร",
+      "party": "ประชาธิปัตย์",
+      "votes": 618
+    },
+    {
+      "number": 6,
+      "name": "นางสาวชุพวัน สำราญพงษ์",
+      "party": "พลังประชารัฐ",
+      "votes": 176
+    },
+    {
+      "number": 3,
+      "name": "นายมานะ แรงมูลพฤกษ์",
+      "party": "แผ่นดินธรรม",
+      "votes": 151
+    },
+    {
+      "number": 7,
+      "name": "นายก้องชายแดน พินธุรักษ์",
+      "party": "ประชากรไทย",
+      "votes": 137
+    },
+    {
+      "number": 8,
+      "name": "นายชาญณรงค์เดช อยู่สุข",
+      "party": "ไทยก้าวใหม่",
+      "votes": 76
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/77. อุบลราชธานี เขต 7.json",
+  "_validation": {
+    "vote_sum": 87014,
+    "good_votes": 87014,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "34",
+  "province_name_normalized": "อุบลราชธานี",
+  "summary": {
+    "eligible_voters": 131259,
+    "voters_came": 90567,
+    "ballots_received": 135484,
+    "ballots_used": 90567,
+    "good_votes": 87014,
+    "invalid_votes": 2560,
+    "no_votes": 993
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวสุดารัตน์ พิทักษ์พรพัลลภ",
+      "party": "ภูมิใจไทย",
+      "votes": 45003,
+      "candidate_uuid": "33506a3e-8b4e-44d4-8ca0-38ce697d68d5",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเชิดศักดิ์ โภคกุลกานนท์",
+      "party": "เพื่อไทย",
+      "votes": 34817,
+      "candidate_uuid": "b79a633d-382f-43e5-b2c1-4aed1214891b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายไพฑูรย์ จันทะยา",
+      "party": "ประชาชน",
+      "votes": 6036,
+      "candidate_uuid": "90a6a045-8124-4ad8-b9f3-be4f769b33ff",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายชุติมันต์ ปานเพชร",
+      "party": "ประชาธิปัตย์",
+      "votes": 618,
+      "candidate_uuid": "3329d2ae-5fb6-47a8-9a6c-ced493e57a4b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวชุพวัน สำราญพงษ์",
+      "party": "พลังประชารัฐ",
+      "votes": 176,
+      "candidate_uuid": "834dc9e7-b056-4b97-bd43-b6ea5c98e41b",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายมานะ แรงมูลพฤกษ์",
+      "party": "แผ่นดินธรรม",
+      "votes": 151,
+      "candidate_uuid": "8dd63a59-6e91-4d38-8e7c-076191c8efa8",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายก้องชายแดน พินธุรักษ์",
+      "party": "ประชากรไทย",
+      "votes": 137,
+      "candidate_uuid": "dde5174f-acdd-4187-be5a-0338208dcab7",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชาญณรงค์เดช อยู่สุข",
+      "party": "ไทยก้าวใหม่",
+      "votes": 76,
+      "candidate_uuid": "c14cdc7d-bbca-43fc-a400-7358c4dacd62",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

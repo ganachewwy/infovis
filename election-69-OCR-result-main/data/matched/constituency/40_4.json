@@ -1,0 +1,195 @@
+{
+  "province_name": "ขอนแก่น",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130877,
+    "1.2": 95728,
+    "2.1": 132740,
+    "2.2": 95728,
+    "2.3": 37012,
+    "3.1": 91112,
+    "3.2": 8,
+    "3.3": 4608,
+    "3.4": 95728,
+    "4.1": 90702,
+    "4.2": 2779,
+    "4.3": 2247
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายรุ่งโรจน์ เย็นสบาย",
+      "party": "เพื่อไทย",
+      "votes": 40255
+    },
+    {
+      "number": 3,
+      "name": "นางสาวอาทิตยา พงษ์สมบัติ",
+      "party": "กล้าธรรม",
+      "votes": 22219
+    },
+    {
+      "number": 4,
+      "name": "นายวุฒิรักษ์ แพงตาแก้ว",
+      "party": "ประชาชน",
+      "votes": 16325
+    },
+    {
+      "number": 2,
+      "name": "นายนันทวิชช์ วรรณเสน",
+      "party": "เป็นธรรม",
+      "votes": 6373
+    },
+    {
+      "number": 1,
+      "name": "นายจรูญ ยศธสาร",
+      "party": "ภูมิใจไทย",
+      "votes": 1627
+    },
+    {
+      "number": 8,
+      "name": "นางบุษบา แสนสีหา",
+      "party": "ไทยภักดี",
+      "votes": 1205
+    },
+    {
+      "number": 6,
+      "name": "นายวิษณุ วงษ์เสนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 730
+    },
+    {
+      "number": 7,
+      "name": "นายวุฒิกร แสงประดิษฐ์",
+      "party": "เศรษฐกิจ",
+      "votes": 730
+    },
+    {
+      "number": 9,
+      "name": "ร.ต.อ.ประภาส น้อยเลาหกุล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 587
+    },
+    {
+      "number": 11,
+      "name": "นายชัยนิวัฒน์ ไชยสา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 535
+    },
+    {
+      "number": 10,
+      "name": "นายประเคน โอดพิมพ์",
+      "party": "ทางเลือกใหม่",
+      "votes": 116
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/6. ขอนแก่น เขต 4.json",
+  "_validation": {
+    "vote_sum": 90702,
+    "good_votes": 90702,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "40",
+  "province_name_normalized": "ขอนแก่น",
+  "summary": {
+    "eligible_voters": 130877,
+    "voters_came": 95728,
+    "ballots_received": 132740,
+    "ballots_used": 95728,
+    "good_votes": 90702,
+    "invalid_votes": 2779,
+    "no_votes": 2247
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายรุ่งโรจน์ เย็นสบาย",
+      "party": "เพื่อไทย",
+      "votes": 40255,
+      "candidate_uuid": "1990d41d-3fc2-428d-ab1c-e26aaf52c8a7",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวอาทิตยา พงษ์สมบัติ",
+      "party": "กล้าธรรม",
+      "votes": 22219,
+      "candidate_uuid": "76f83c0f-8461-4a89-90b9-33dd06a4a452",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวุฒิรักษ์ แพงตาแก้ว",
+      "party": "ประชาชน",
+      "votes": 16325,
+      "candidate_uuid": "2218f0a0-49c2-4549-a7e0-1780edebf1f0",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนันทวิชช์ วรรณเสน",
+      "party": "เป็นธรรม",
+      "votes": 6373,
+      "candidate_uuid": "9707a8a6-76e9-4e44-8d54-0289291bcee2",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายจรูญ ยศธสาร",
+      "party": "ภูมิใจไทย",
+      "votes": 1627,
+      "candidate_uuid": "4be8e314-7847-479a-8035-e02be6e11937",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางบุษบา แสนสีหา",
+      "party": "ไทยภักดี",
+      "votes": 1205,
+      "candidate_uuid": "be4d4fad-afa5-4390-a368-a945b87bad6b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายวิษณุ วงษ์เสนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 730,
+      "candidate_uuid": "1bf37f65-38bd-4d5c-b539-69345256cf0c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวุฒิกร แสงประดิษฐ์",
+      "party": "เศรษฐกิจ",
+      "votes": 730,
+      "candidate_uuid": "fe2c0356-5a5f-4a1a-8fd4-f658c3525d08",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "ร.ต.อ.ประภาส น้อยเลาหกุล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 587,
+      "candidate_uuid": "4796f3dc-21fa-4ff1-9c44-41d30e7cd40d",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายชัยนิวัฒน์ ไชยสา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 535,
+      "candidate_uuid": "d33fa1f7-b7b0-466d-b192-83283fb552b1",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายประเคน โอดพิมพ์",
+      "party": "ทางเลือกใหม่",
+      "votes": 116,
+      "candidate_uuid": "caf3b2ee-7cb4-4517-b2fb-5ccab55cdef3",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

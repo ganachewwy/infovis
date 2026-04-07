@@ -1,0 +1,139 @@
+{
+  "province_name": "พิษณุโลก",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 147554,
+    "1.2": 101319,
+    "2.1": 149154,
+    "2.2": 101319,
+    "2.3": 47835,
+    "3.1": 95145,
+    "3.2": 0,
+    "3.3": 6174,
+    "3.4": 101319,
+    "4.1": 88246,
+    "4.2": 5057,
+    "4.3": 8016
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายนพพล เหลืองทองนารา",
+      "party": "เพื่อไทย",
+      "votes": 40429
+    },
+    {
+      "number": 2,
+      "name": "นายณชพล พลอาสา",
+      "party": "ประชาชน",
+      "votes": 32070
+    },
+    {
+      "number": 3,
+      "name": "นางสาวปรานอม หลิมประเสริฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 7084
+    },
+    {
+      "number": 4,
+      "name": "นายธนกร ภักดิ์โต",
+      "party": "ประชาธิปัตย์",
+      "votes": 4705
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐวุฒิ สุกคร",
+      "party": "เศรษฐกิจ",
+      "votes": 2286
+    },
+    {
+      "number": 6,
+      "name": "นายนคเรศ ฤทธิรอน",
+      "party": "พลังประชารัฐ",
+      "votes": 1158
+    },
+    {
+      "number": 7,
+      "name": "นายทนง มั่นนุช",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 514
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/38. พิษณุโลก เขต 2.json",
+  "_validation": {
+    "vote_sum": 88246,
+    "good_votes": 88246,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "65",
+  "province_name_normalized": "พิษณุโลก",
+  "summary": {
+    "eligible_voters": 147554,
+    "voters_came": 101319,
+    "ballots_received": 149154,
+    "ballots_used": 101319,
+    "good_votes": 88246,
+    "invalid_votes": 5057,
+    "no_votes": 8016
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายนพพล เหลืองทองนารา",
+      "party": "เพื่อไทย",
+      "votes": 40429,
+      "candidate_uuid": "c3e7cabc-7a2e-435a-b943-14358d5af310",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายณชพล พลอาสา",
+      "party": "ประชาชน",
+      "votes": 32070,
+      "candidate_uuid": "dff23a27-14b8-479f-a6fc-350df2d898fa",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวปรานอม หลิมประเสริฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 7084,
+      "candidate_uuid": "db2f5f26-e930-41e7-a62e-fbc72a27c28b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธนกร ภักดิ์โต",
+      "party": "ประชาธิปัตย์",
+      "votes": 4705,
+      "candidate_uuid": "d193753d-d47f-4ca5-a272-58d636e39900",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐวุฒิ สุกคร",
+      "party": "เศรษฐกิจ",
+      "votes": 2286,
+      "candidate_uuid": "21b82fc4-e617-47e5-8930-1b830356ea90",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายนคเรศ ฤทธิรอน",
+      "party": "พลังประชารัฐ",
+      "votes": 1158,
+      "candidate_uuid": "bd28cb93-3015-4a10-87df-b04215491ff7",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายทนง มั่นนุช",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 514,
+      "candidate_uuid": "6fc9d278-dbe9-4f0b-bfa9-be0f70cd36c0",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

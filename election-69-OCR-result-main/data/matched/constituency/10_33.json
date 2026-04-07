@@ -1,0 +1,237 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 33,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 148164,
+    "1.2": 102628,
+    "2.1": 146580,
+    "2.2": 102628,
+    "2.3": 43952,
+    "3.1": 97892,
+    "3.2": 157,
+    "3.3": 4579,
+    "3.4": 102628,
+    "4.1": 94416,
+    "4.2": 2142,
+    "4.3": 6070
+  },
+  "results": [
+    {
+      "number": 11,
+      "name": "นายเท่าพิภพ ลิ้มจิตรกร",
+      "party": "ประชาชน",
+      "votes": 44860
+    },
+    {
+      "number": 8,
+      "name": "นายเจตน์สฤษฎิ์ เลิศธนสาร",
+      "party": "ประชาธิปัตย์",
+      "votes": 16359
+    },
+    {
+      "number": 10,
+      "name": "นายอรรทิตย์ฌาณ คูหาเรืองรอง",
+      "party": "ภูมิใจไทย",
+      "votes": 15046
+    },
+    {
+      "number": 1,
+      "name": "นายสุไพรพล เพ็ญแข",
+      "party": "เพื่อไทย",
+      "votes": 7551
+    },
+    {
+      "number": 13,
+      "name": "นายธนกร คงอุดม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2503
+    },
+    {
+      "number": 6,
+      "name": "นายมานัส อรุณวิราม",
+      "party": "เศรษฐกิจ",
+      "votes": 2260
+    },
+    {
+      "number": 2,
+      "name": "นางสาวบุณณดา สุปิยพันธุ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1541
+    },
+    {
+      "number": 9,
+      "name": "นายกฤษณ์ สุริยผล",
+      "party": "กล้าธรรม",
+      "votes": 1506
+    },
+    {
+      "number": 3,
+      "name": "นายอมรเทพ หวังแก้ว",
+      "party": "ไทยสร้างไทย",
+      "votes": 768
+    },
+    {
+      "number": 12,
+      "name": "นายอนันตเดช ธนวิภารัตน์",
+      "party": "เสรีรวมไทย",
+      "votes": 626
+    },
+    {
+      "number": 7,
+      "name": "นายธราธรณ์ อรสุขศรี",
+      "party": "วิชชั่นใหม่",
+      "votes": 605
+    },
+    {
+      "number": 4,
+      "name": "นายสุริยะ เรืองพุ่ม",
+      "party": "พลวัต",
+      "votes": 404
+    },
+    {
+      "number": 5,
+      "name": "นายณพมิตร อภิษฎารัตน์",
+      "party": "โอกาสใหม่",
+      "votes": 288
+    },
+    {
+      "number": 14,
+      "name": "นายอภิชาติ ศุภพันธ์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 199
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 33.json",
+  "_validation": {
+    "vote_sum": 94516,
+    "good_votes": 94416,
+    "sum_diff_pct": 0.11
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 148164,
+    "voters_came": 102628,
+    "ballots_received": 146580,
+    "ballots_used": 102628,
+    "good_votes": 94416,
+    "invalid_votes": 2142,
+    "no_votes": 6070
+  },
+  "matched_candidates": [
+    {
+      "number": 11,
+      "name": "นายเท่าพิภพ ลิ้มจิตรกร",
+      "party": "ประชาชน",
+      "votes": 44860,
+      "candidate_uuid": "414edb71-85b8-4d9c-9744-4baa9b62feb7",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายเจตน์สฤษฎิ์ เลิศธนสาร",
+      "party": "ประชาธิปัตย์",
+      "votes": 16359,
+      "candidate_uuid": "30a90262-1bb4-490a-bd46-da03afdd453c",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายอรรทิตย์ฌาณ คูหาเรืองรอง",
+      "party": "ภูมิใจไทย",
+      "votes": 15046,
+      "candidate_uuid": "4f7b2133-dc59-4b9c-88b1-66c8fb213f20",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุไพรพล เพ็ญแข",
+      "party": "เพื่อไทย",
+      "votes": 7551,
+      "candidate_uuid": "b37fc331-1286-4a6a-ab7e-f2417c1036a5",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายธนกร คงอุดม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2503,
+      "candidate_uuid": "ea30c0db-f020-4bd1-93ac-52db6ba3bf09",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายมานัส อรุณวิราม",
+      "party": "เศรษฐกิจ",
+      "votes": 2260,
+      "candidate_uuid": "14f0a52f-8e67-4b84-aabd-a8ac9add4fb0",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวบุณณดา สุปิยพันธุ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1541,
+      "candidate_uuid": "29d5c7f8-e3ff-45a5-bf1c-56e7cb227877",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายกฤษณ์ สุริยผล",
+      "party": "กล้าธรรม",
+      "votes": 1506,
+      "candidate_uuid": "de71cf5b-fc0e-4056-a62d-bbabaaeb6e31",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอมรเทพ หวังแก้ว",
+      "party": "ไทยสร้างไทย",
+      "votes": 768,
+      "candidate_uuid": "0eb0153c-e8bb-42f2-ad2a-c2918b9ae267",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายอนันตเดช ธนวิภารัตน์",
+      "party": "เสรีรวมไทย",
+      "votes": 626,
+      "candidate_uuid": "7552f127-93bf-4c22-bb2a-57e123f6b952",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายธราธรณ์ อรสุขศรี",
+      "party": "วิชชั่นใหม่",
+      "votes": 605,
+      "candidate_uuid": "ad3614f8-ca4c-4450-b7d1-f7565f18b594",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสุริยะ เรืองพุ่ม",
+      "party": "พลวัต",
+      "votes": 404,
+      "candidate_uuid": "e99ba267-8d67-4da1-8185-718ecbfca11b",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายณพมิตร อภิษฎารัตน์",
+      "party": "โอกาสใหม่",
+      "votes": 288,
+      "candidate_uuid": "cfc26592-d933-42ad-a0d3-7276972a0e02",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายอภิชาติ ศุภพันธ์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 199,
+      "candidate_uuid": "c511f1f2-d174-414f-b3a4-16fbdbf5ad39",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

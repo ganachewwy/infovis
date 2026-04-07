@@ -1,0 +1,125 @@
+{
+  "province_name": "พะเยา",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 124913,
+    "1.2": 94639,
+    "2.1": 128162,
+    "2.2": 94625,
+    "2.3": 29537,
+    "3.1": 89643,
+    "3.2": 38,
+    "3.3": 8944,
+    "3.4": 98625,
+    "4.1": 91616,
+    "4.2": 2999,
+    "4.3": 4010
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางทัศนีย์ สมธิ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1054
+    },
+    {
+      "number": 2,
+      "name": "นายวิสา บุญนัดดา",
+      "party": "ประชาชน",
+      "votes": 18907
+    },
+    {
+      "number": 3,
+      "name": "นายอัครา พรหมเผ่า",
+      "party": "กล้าธรรม",
+      "votes": 66739
+    },
+    {
+      "number": 4,
+      "name": "นายชยุต จิตธำรงสุนทร",
+      "party": "ภูมิใจไทย",
+      "votes": 1228
+    },
+    {
+      "number": 5,
+      "name": "นายวิชัย ไชยมงคล",
+      "party": "เพื่อไทย",
+      "votes": 2790
+    },
+    {
+      "number": 6,
+      "name": "นายฉัตรชัย ใจเย็น",
+      "party": "ประชาธิปัตย์",
+      "votes": 898
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/34. พะเยา เขต 1.json",
+  "_validation": {
+    "vote_sum": 91616,
+    "good_votes": 91616,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "56",
+  "province_name_normalized": "พะเยา",
+  "summary": {
+    "eligible_voters": 124913,
+    "voters_came": 94639,
+    "ballots_received": 128162,
+    "ballots_used": 94625,
+    "good_votes": 91616,
+    "invalid_votes": 2999,
+    "no_votes": 4010
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางทัศนีย์ สมธิ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1054,
+      "candidate_uuid": "4f2b52a8-a621-4872-822a-92ce4cb9c8fa",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวิสา บุญนัดดา",
+      "party": "ประชาชน",
+      "votes": 18907,
+      "candidate_uuid": "66275e2e-8bc3-4099-bfb9-51a4fb6285f7",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอัครา พรหมเผ่า",
+      "party": "กล้าธรรม",
+      "votes": 66739,
+      "candidate_uuid": "d93428f6-3f5e-4eb0-b1be-95d594c2fb12",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายชยุต จิตธำรงสุนทร",
+      "party": "ภูมิใจไทย",
+      "votes": 1228,
+      "candidate_uuid": "9be87e37-67c3-4a6f-a372-b89b3fb0aac7",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวิชัย ไชยมงคล",
+      "party": "เพื่อไทย",
+      "votes": 2790,
+      "candidate_uuid": "057cd62c-57dd-4883-97d0-8b65796db02a",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายฉัตรชัย ใจเย็น",
+      "party": "ประชาธิปัตย์",
+      "votes": 898,
+      "candidate_uuid": "dbcaa7ad-82e1-4e07-9db3-4c4b95dbd0cc",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

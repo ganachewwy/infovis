@@ -1,0 +1,63 @@
+{
+  "province_name": "แพร่",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 121732,
+    "1.2": 84246,
+    "2.1": 115015,
+    "2.2": 84246,
+    "2.3": 30769,
+    "3.1": 76474,
+    "3.2": 0,
+    "3.3": 7772,
+    "3.4": 84246,
+    "4.1": 73590,
+    "4.2": 6065,
+    "4.3": 4591
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นางสาวลักษณารีย์ ดวงตาดำ",
+      "party": "ประชาชน",
+      "votes": 23987
+    },
+    {
+      "number": 2,
+      "name": "นายวรวัจน์ เอื้ออภิญญกุล",
+      "party": "เพื่อไทย",
+      "votes": 21539
+    },
+    {
+      "number": 1,
+      "name": "นายประสงค์ ซุ่มเชย",
+      "party": "ภูมิใจไทย",
+      "votes": 16448
+    },
+    {
+      "number": 3,
+      "name": "นายกฤติเดช สันติวชิระกุล",
+      "party": "กล้าธรรม",
+      "votes": 9327
+    },
+    {
+      "number": 6,
+      "name": "นายชูชาติ คำมา",
+      "party": "พลังประชารัฐ",
+      "votes": 1515
+    },
+    {
+      "number": 5,
+      "name": "นางพรรณพร สีใหม่",
+      "party": "ประชาธิปัตย์",
+      "votes": 774
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/41. แพร่ เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 73590,
+    "good_votes": 73590,
+    "sum_diff_pct": 0.0
+  }
+}

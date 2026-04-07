@@ -1,0 +1,153 @@
+{
+  "province_name": "กำแพงเพชร",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 138876,
+    "1.2": 93620,
+    "2.1": 143164,
+    "2.2": 93620,
+    "2.3": 49544,
+    "3.1": 93620,
+    "3.2": 52,
+    "3.3": 5992,
+    "3.4": 99664,
+    "4.1": 86283,
+    "4.2": 4444,
+    "4.3": 2893
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายสุรสิทธิ์ วงศ์วิทยานันท์",
+      "party": "เพื่อไทย",
+      "votes": 38450
+    },
+    {
+      "number": 4,
+      "name": "นายปริญญา ฤกษ์หร่าย",
+      "party": "กล้าธรรม",
+      "votes": 27423
+    },
+    {
+      "number": 1,
+      "name": "นายอัศนัย แดงศรี",
+      "party": "ประชาชน",
+      "votes": 15711
+    },
+    {
+      "number": 5,
+      "name": "พันตำรวจเอกกำลาภ โตทองสุข",
+      "party": "ภูมิใจไทย",
+      "votes": 1888
+    },
+    {
+      "number": 6,
+      "name": "นายพลเดช ศรีแบ่งวงค์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1215
+    },
+    {
+      "number": 3,
+      "name": "นายธานันท์ หล่าวเจริญ",
+      "party": "โอกาสใหม่",
+      "votes": 800
+    },
+    {
+      "number": 2,
+      "name": "นายรุ่งเจริญ โชติมั่ง",
+      "party": "ใหม่",
+      "votes": 423
+    },
+    {
+      "number": 8,
+      "name": "นายปรีชา เพ็งภู่",
+      "party": "พลังประชารัฐ",
+      "votes": 373
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/5. กำแพงเพชร เขต 4.json",
+  "_validation": {
+    "vote_sum": 86283,
+    "good_votes": 86283,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "62",
+  "province_name_normalized": "กำแพงเพชร",
+  "summary": {
+    "eligible_voters": 138876,
+    "voters_came": 93620,
+    "ballots_received": 143164,
+    "ballots_used": 93620,
+    "good_votes": 86283,
+    "invalid_votes": 4444,
+    "no_votes": 2893
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นายสุรสิทธิ์ วงศ์วิทยานันท์",
+      "party": "เพื่อไทย",
+      "votes": 38450,
+      "candidate_uuid": "a5ad812c-042d-437d-b47b-b8e121c545ca",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายปริญญา ฤกษ์หร่าย",
+      "party": "กล้าธรรม",
+      "votes": 27423,
+      "candidate_uuid": "a67b01a4-89a9-429c-b3f0-031b9490b480",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอัศนัย แดงศรี",
+      "party": "ประชาชน",
+      "votes": 15711,
+      "candidate_uuid": "bf4f7497-5cbc-4dea-a240-f7403e3c6413",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "พันตำรวจเอกกำลาภ โตทองสุข",
+      "party": "ภูมิใจไทย",
+      "votes": 1888,
+      "candidate_uuid": "91f8ee0c-a5e9-44b8-8f59-d23448c36087",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพลเดช ศรีแบ่งวงค์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1215,
+      "candidate_uuid": "aa244785-fee2-40eb-afcb-1bf5328718b0",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธานันท์ หล่าวเจริญ",
+      "party": "โอกาสใหม่",
+      "votes": 800,
+      "candidate_uuid": "f527c294-3f5e-4e9e-9142-fc72f4bf5153",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายรุ่งเจริญ โชติมั่ง",
+      "party": "ใหม่",
+      "votes": 423,
+      "candidate_uuid": "6ae5937e-be0c-49d7-bec5-6396e35eaaf7",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายปรีชา เพ็งภู่",
+      "party": "พลังประชารัฐ",
+      "votes": 373,
+      "candidate_uuid": "1307df7d-63c0-425a-8f4e-15b49cd0c71f",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

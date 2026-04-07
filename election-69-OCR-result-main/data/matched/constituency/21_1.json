@@ -1,0 +1,153 @@
+{
+  "province_name": "ระยอง",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 121750,
+    "1.2": 91421,
+    "2.1": 124138,
+    "2.2": 91421,
+    "2.3": 32717,
+    "3.1": 87708,
+    "3.2": 0,
+    "3.3": 3713,
+    "3.4": 91421,
+    "4.1": 85091,
+    "4.2": 2387,
+    "4.3": 3943
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวกมนทรรศน์ กิตติสุนทรสกุล",
+      "party": "ประชาชน",
+      "votes": 36934
+    },
+    {
+      "number": 5,
+      "name": "นายกฤษฎา เอกกำลังกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 27277
+    },
+    {
+      "number": 4,
+      "name": "นายไพศาล เรืองฤทธิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 15357
+    },
+    {
+      "number": 3,
+      "name": "นายรัฐชานนท์ คาดหมายดี",
+      "party": "เพื่อไทย",
+      "votes": 2917
+    },
+    {
+      "number": 6,
+      "name": "นายฉัตรชัย เล็กบุญแถม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1093
+    },
+    {
+      "number": 2,
+      "name": "นางสาวรฎาศิริ ศิริคช",
+      "party": "พลังประชารัฐ",
+      "votes": 664
+    },
+    {
+      "number": 7,
+      "name": "นางสาวพฤกษา พฤกษานิตย์",
+      "party": "ไทยสร้างไทย",
+      "votes": 428
+    },
+    {
+      "number": 8,
+      "name": "นายพรทวี พูลกลาง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 421
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/50. ระยอง เขต 1.json",
+  "_validation": {
+    "vote_sum": 85091,
+    "good_votes": 85091,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "21",
+  "province_name_normalized": "ระยอง",
+  "summary": {
+    "eligible_voters": 121750,
+    "voters_came": 91421,
+    "ballots_received": 124138,
+    "ballots_used": 91421,
+    "good_votes": 85091,
+    "invalid_votes": 2387,
+    "no_votes": 3943
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวกมนทรรศน์ กิตติสุนทรสกุล",
+      "party": "ประชาชน",
+      "votes": 36934,
+      "candidate_uuid": "51a61c60-d27d-40d6-b013-7c3541992e33",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายกฤษฎา เอกกำลังกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 27277,
+      "candidate_uuid": "05c406db-952b-47ea-bfbe-c9eb54cd6ac3",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายไพศาล เรืองฤทธิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 15357,
+      "candidate_uuid": "d1643765-112f-4a5a-ba9d-501f11dfbdd8",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายรัฐชานนท์ คาดหมายดี",
+      "party": "เพื่อไทย",
+      "votes": 2917,
+      "candidate_uuid": "891806c6-8329-4729-9885-e68866d78ecc",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายฉัตรชัย เล็กบุญแถม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1093,
+      "candidate_uuid": "d1754aff-42e1-48c8-88a0-1fd400560ff9",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวรฎาศิริ ศิริคช",
+      "party": "พลังประชารัฐ",
+      "votes": 664,
+      "candidate_uuid": "e3f2581b-727f-43bf-bb53-4ead400a1a11",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวพฤกษา พฤกษานิตย์",
+      "party": "ไทยสร้างไทย",
+      "votes": 428,
+      "candidate_uuid": "0707d0c9-6e4d-4aaf-bd87-26753eb16595",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายพรทวี พูลกลาง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 421,
+      "candidate_uuid": "4b566ad1-abec-4811-9311-624f75de704d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

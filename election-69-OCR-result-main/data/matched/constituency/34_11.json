@@ -1,0 +1,139 @@
+{
+  "province_name": "อุบลราชธานี",
+  "constituency_number": 11,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 135277,
+    "1.2": 85958,
+    "2.1": 133540,
+    "2.2": 85958,
+    "2.3": 47582,
+    "3.1": 80739,
+    "3.2": 18,
+    "3.3": 5201,
+    "3.4": 85958,
+    "4.1": 80032,
+    "4.2": 3254,
+    "4.3": 2672
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นางสาวตวงทิพย์ จินตะเวช",
+      "party": "ภูมิใจไทย",
+      "votes": 58379
+    },
+    {
+      "number": 6,
+      "name": "นายธีรศักดิ์ วีระจินตวงศ์",
+      "party": "ประชาชน",
+      "votes": 11868
+    },
+    {
+      "number": 4,
+      "name": "นางอุบล สิมมา",
+      "party": "เพื่อไทย",
+      "votes": 4521
+    },
+    {
+      "number": 7,
+      "name": "นายสุริยา ขันอาสา",
+      "party": "ไทยสร้างไทย",
+      "votes": 2690
+    },
+    {
+      "number": 1,
+      "name": "นายเรืองศรี ตรีราช",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1047
+    },
+    {
+      "number": 2,
+      "name": "นายอำไพ เฉลิมสุข",
+      "party": "ประชาธิปัตย์",
+      "votes": 781
+    },
+    {
+      "number": 5,
+      "name": "นายสมมาตร มะลิลา",
+      "party": "กล้าธรรม",
+      "votes": 746
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/77. อุบลราชธานี เขต 11.json",
+  "_validation": {
+    "vote_sum": 80032,
+    "good_votes": 80032,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "34",
+  "province_name_normalized": "อุบลราชธานี",
+  "summary": {
+    "eligible_voters": 135277,
+    "voters_came": 85958,
+    "ballots_received": 133540,
+    "ballots_used": 85958,
+    "good_votes": 80032,
+    "invalid_votes": 3254,
+    "no_votes": 2672
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นางสาวตวงทิพย์ จินตะเวช",
+      "party": "ภูมิใจไทย",
+      "votes": 58379,
+      "candidate_uuid": "29171f4f-8d86-4ad2-a2c0-4f1817edcd39",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธีรศักดิ์ วีระจินตวงศ์",
+      "party": "ประชาชน",
+      "votes": 11868,
+      "candidate_uuid": "e8f68322-4014-490b-9957-113921a0094a",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางอุบล สิมมา",
+      "party": "เพื่อไทย",
+      "votes": 4521,
+      "candidate_uuid": "10ffa7b6-27d1-43c2-8d03-939666fa948b",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุริยา ขันอาสา",
+      "party": "ไทยสร้างไทย",
+      "votes": 2690,
+      "candidate_uuid": "0d326626-e93e-4127-ae7d-9c4acfaded62",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเรืองศรี ตรีราช",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1047,
+      "candidate_uuid": "cd1dc10a-f4f3-438d-be94-9eb1a17ddae8",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอำไพ เฉลิมสุข",
+      "party": "ประชาธิปัตย์",
+      "votes": 781,
+      "candidate_uuid": "83985ff2-a1d3-4280-8fd7-493e1f4b9a69",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสมมาตร มะลิลา",
+      "party": "กล้าธรรม",
+      "votes": 746,
+      "candidate_uuid": "93f64188-431e-41bd-9f5a-ba3f97933a06",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

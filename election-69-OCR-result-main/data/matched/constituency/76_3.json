@@ -1,0 +1,125 @@
+{
+  "province_name": "เพชรบุรี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131561,
+    "1.2": 103294,
+    "2.1": 133920,
+    "2.2": 103294,
+    "2.3": 30626,
+    "3.1": 100154,
+    "3.2": 3,
+    "3.3": 3137,
+    "3.4": 103294,
+    "4.1": 95005,
+    "4.2": 3789,
+    "4.3": 4500
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "จ่าอากาศเอก อภิชาติ แก้วโกศล",
+      "party": "ภูมิใจไทย",
+      "votes": 71153
+    },
+    {
+      "number": 3,
+      "name": "นายหัสพันธ์ เสมเถื่อน",
+      "party": "ประชาชน",
+      "votes": 14187
+    },
+    {
+      "number": 1,
+      "name": "นายกฤษณ์ แก้วอยู่",
+      "party": "กล้าธรรม",
+      "votes": 3900
+    },
+    {
+      "number": 2,
+      "name": "นายวิรัฐ จันทวิโรจน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2660
+    },
+    {
+      "number": 6,
+      "name": "ว่าที่ ร.ต.เสรี รูปิยะเวช",
+      "party": "เศรษฐกิจ",
+      "votes": 1626
+    },
+    {
+      "number": 4,
+      "name": "นายอำนาจ โกงกาง",
+      "party": "เพื่อไทย",
+      "votes": 1479
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/39. เพชรบุรี เขต 3.json",
+  "_validation": {
+    "vote_sum": 95005,
+    "good_votes": 95005,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "76",
+  "province_name_normalized": "เพชรบุรี",
+  "summary": {
+    "eligible_voters": 131561,
+    "voters_came": 103294,
+    "ballots_received": 133920,
+    "ballots_used": 103294,
+    "good_votes": 95005,
+    "invalid_votes": 3789,
+    "no_votes": 4500
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "จ่าอากาศเอก อภิชาติ แก้วโกศล",
+      "party": "ภูมิใจไทย",
+      "votes": 71153,
+      "candidate_uuid": "2cd3bf37-b02a-4f58-9118-05acc1899360",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายหัสพันธ์ เสมเถื่อน",
+      "party": "ประชาชน",
+      "votes": 14187,
+      "candidate_uuid": "e6683880-7554-4c86-9ef6-441b2161c39d",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายกฤษณ์ แก้วอยู่",
+      "party": "กล้าธรรม",
+      "votes": 3900,
+      "candidate_uuid": "b7738f6f-50e4-4e58-8313-cacb0a039776",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวิรัฐ จันทวิโรจน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2660,
+      "candidate_uuid": "2b27ad00-4920-4870-a847-451e76a016ac",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "ว่าที่ ร.ต.เสรี รูปิยะเวช",
+      "party": "เศรษฐกิจ",
+      "votes": 1626,
+      "candidate_uuid": "b4daecc2-d3b6-4f87-b549-9b5152dfb1c9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอำนาจ โกงกาง",
+      "party": "เพื่อไทย",
+      "votes": 1479,
+      "candidate_uuid": "0a156480-8d9d-4655-9284-f3315cc49904",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

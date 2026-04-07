@@ -1,0 +1,167 @@
+{
+  "province_name": "ตาก",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 150581,
+    "1.2": 105329,
+    "2.1": 155591,
+    "2.2": 105329,
+    "2.3": 50262,
+    "3.1": 97280,
+    "3.2": 217,
+    "3.3": 7831,
+    "3.4": 105328,
+    "4.1": 96390,
+    "4.2": 3819,
+    "4.3": 5119
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายธนัสถ์ ทวีเกื้อกูลกิจ",
+      "party": "ภูมิใจไทย",
+      "votes": 37819
+    },
+    {
+      "number": 5,
+      "name": "นายคริษฐ์ ปานเนียม",
+      "party": "ประชาชน",
+      "votes": 28996
+    },
+    {
+      "number": 3,
+      "name": "พันตำรวจโทพิษณุ พลบุตร",
+      "party": "เพื่อไทย",
+      "votes": 17054
+    },
+    {
+      "number": 8,
+      "name": "นายวริศ มีไชโย",
+      "party": "ประชาธิปัตย์",
+      "votes": 6170
+    },
+    {
+      "number": 7,
+      "name": "นายพิทักษ์ อ่อนน้อม",
+      "party": "กล้าธรรม",
+      "votes": 1916
+    },
+    {
+      "number": 6,
+      "name": "นายปองภพ วณิชศิริ",
+      "party": "เศรษฐกิจ",
+      "votes": 1565
+    },
+    {
+      "number": 2,
+      "name": "นางศิริกุล อนุตรพงศ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1387
+    },
+    {
+      "number": 9,
+      "name": "นายธนพล อิ่มอ้น",
+      "party": "พลังไทยรักชาติ",
+      "votes": 944
+    },
+    {
+      "number": 4,
+      "name": "นายชนะพล อ่อนพรม",
+      "party": "รวมใจไทย",
+      "votes": 539
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/17. ตาก เขต 1.json",
+  "_validation": {
+    "vote_sum": 96390,
+    "good_votes": 96390,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "63",
+  "province_name_normalized": "ตาก",
+  "summary": {
+    "eligible_voters": 150581,
+    "voters_came": 105329,
+    "ballots_received": 155591,
+    "ballots_used": 105329,
+    "good_votes": 96390,
+    "invalid_votes": 3819,
+    "no_votes": 5119
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายธนัสถ์ ทวีเกื้อกูลกิจ",
+      "party": "ภูมิใจไทย",
+      "votes": 37819,
+      "candidate_uuid": "ce04e182-cbdd-4a78-bb2f-ce1817032fed",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายคริษฐ์ ปานเนียม",
+      "party": "ประชาชน",
+      "votes": 28996,
+      "candidate_uuid": "d35bd243-7dec-405f-b989-b63d50dcb186",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "พันตำรวจโทพิษณุ พลบุตร",
+      "party": "เพื่อไทย",
+      "votes": 17054,
+      "candidate_uuid": "b2965e0d-f147-4fd2-9f2d-d7a81d005570",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวริศ มีไชโย",
+      "party": "ประชาธิปัตย์",
+      "votes": 6170,
+      "candidate_uuid": "34f405c6-274f-4cd2-a5f7-e3b6c79b2bef",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพิทักษ์ อ่อนน้อม",
+      "party": "กล้าธรรม",
+      "votes": 1916,
+      "candidate_uuid": "28ad8462-f566-4d11-8e22-656fb28f7192",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปองภพ วณิชศิริ",
+      "party": "เศรษฐกิจ",
+      "votes": 1565,
+      "candidate_uuid": "141ec433-7697-40a8-8b5d-c823248154f3",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางศิริกุล อนุตรพงศ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1387,
+      "candidate_uuid": "9dc01176-cada-4c8a-9a7c-8dd0470159bd",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธนพล อิ่มอ้น",
+      "party": "พลังไทยรักชาติ",
+      "votes": 944,
+      "candidate_uuid": "66547ccc-077d-4dbc-b62b-2fc1f6af4692",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายชนะพล อ่อนพรม",
+      "party": "รวมใจไทย",
+      "votes": 539,
+      "candidate_uuid": "f09f8ee4-5a3c-4297-a7c6-d1ac55c177e1",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

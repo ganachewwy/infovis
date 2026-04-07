@@ -1,0 +1,153 @@
+{
+  "province_name": "ลพบุรี",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 149394,
+    "1.2": 116195,
+    "2.1": 151315,
+    "2.2": 116195,
+    "2.3": 35102,
+    "3.1": 111658,
+    "3.2": 4,
+    "3.3": 4533,
+    "3.4": 116195,
+    "4.1": 108277,
+    "4.2": 4834,
+    "4.3": 3084
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายวรวงศ์ วรปัญญา",
+      "party": "เพื่อไทย",
+      "votes": 50031
+    },
+    {
+      "number": 4,
+      "name": "นายเทียนชัย สุขมั่น",
+      "party": "กล้าธรรม",
+      "votes": 33738
+    },
+    {
+      "number": 3,
+      "name": "นายสงกรานต์ รังสรรค์",
+      "party": "ประชาชน",
+      "votes": 18256
+    },
+    {
+      "number": 2,
+      "name": "นายณรงค์ศักดิ์ ตาลช่วง",
+      "party": "ภูมิใจไทย",
+      "votes": 2318
+    },
+    {
+      "number": 6,
+      "name": "นางสาวพรรณี บัวรักษา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1354
+    },
+    {
+      "number": 8,
+      "name": "นายพบพล แสงสกุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1279
+    },
+    {
+      "number": 9,
+      "name": "นางสาวศิริทิพย์ ผกามาศ",
+      "party": "เศรษฐกิจ",
+      "votes": 1079
+    },
+    {
+      "number": 7,
+      "name": "นายสนั่น พรหมสุข",
+      "party": "พลังประชารัฐ",
+      "votes": 222
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/52. ลพบุรี เขต 4.json",
+  "_validation": {
+    "vote_sum": 108277,
+    "good_votes": 108277,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "16",
+  "province_name_normalized": "ลพบุรี",
+  "summary": {
+    "eligible_voters": 149394,
+    "voters_came": 116195,
+    "ballots_received": 151315,
+    "ballots_used": 116195,
+    "good_votes": 108277,
+    "invalid_votes": 4834,
+    "no_votes": 3084
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายวรวงศ์ วรปัญญา",
+      "party": "เพื่อไทย",
+      "votes": 50031,
+      "candidate_uuid": "17bae6ae-4070-4d7c-970d-33248b4cdef6",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายเทียนชัย สุขมั่น",
+      "party": "กล้าธรรม",
+      "votes": 33738,
+      "candidate_uuid": "9bbab672-4ac4-42bb-844d-b53ac505d3c8",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสงกรานต์ รังสรรค์",
+      "party": "ประชาชน",
+      "votes": 18256,
+      "candidate_uuid": "b6a2e443-675b-48b1-ac72-940b77085624",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายณรงค์ศักดิ์ ตาลช่วง",
+      "party": "ภูมิใจไทย",
+      "votes": 2318,
+      "candidate_uuid": "e14d37ce-05f8-46bc-9cc4-7ad7f91294da",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวพรรณี บัวรักษา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1354,
+      "candidate_uuid": "8d181048-ba17-4557-a2de-030ee016e3d8",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายพบพล แสงสกุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1279,
+      "candidate_uuid": "c44d0ea2-4e42-4d54-92b5-4c5d1ffb8546",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวศิริทิพย์ ผกามาศ",
+      "party": "เศรษฐกิจ",
+      "votes": 1079,
+      "candidate_uuid": "b36ea7ae-5274-4af1-aa57-9317aa55da33",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสนั่น พรหมสุข",
+      "party": "พลังประชารัฐ",
+      "votes": 222,
+      "candidate_uuid": "7e072375-8f8c-4450-b186-81ca57cbfc93",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

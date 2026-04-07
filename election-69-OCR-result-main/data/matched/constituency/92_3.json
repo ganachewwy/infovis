@@ -1,0 +1,139 @@
+{
+  "province_name": "ตรัง",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 125344,
+    "1.2": 95235,
+    "2.1": 128792,
+    "2.2": 95235,
+    "2.3": 33557,
+    "3.1": 89303,
+    "3.2": 0,
+    "3.3": 5932,
+    "3.4": 95235,
+    "4.1": 88101,
+    "4.2": 2502,
+    "4.3": 4632
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายกฤตย์อิชย์ ภาคย์อิชณน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 46916
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุณัฐชา โล่สถาพรพิพิธ",
+      "party": "ภูมิใจไทย",
+      "votes": 28897
+    },
+    {
+      "number": 3,
+      "name": "นายวีรพล เต็งรัง",
+      "party": "ประชาชน",
+      "votes": 9248
+    },
+    {
+      "number": 1,
+      "name": "นายศักดิ์ดาธร พุฒนวล",
+      "party": "กล้าธรรม",
+      "votes": 1249
+    },
+    {
+      "number": 4,
+      "name": "นายทวี จันทร์ฝาก",
+      "party": "เพื่อไทย",
+      "votes": 889
+    },
+    {
+      "number": 6,
+      "name": "นายอำนวย นวลทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 569
+    },
+    {
+      "number": 7,
+      "name": "นายชัยยุทธ รองเดช",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 333
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/15. ตรัง เขต 3.json",
+  "_validation": {
+    "vote_sum": 88101,
+    "good_votes": 88101,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "92",
+  "province_name_normalized": "ตรัง",
+  "summary": {
+    "eligible_voters": 125344,
+    "voters_came": 95235,
+    "ballots_received": 128792,
+    "ballots_used": 95235,
+    "good_votes": 88101,
+    "invalid_votes": 2502,
+    "no_votes": 4632
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายกฤตย์อิชย์ ภาคย์อิชณน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 46916,
+      "candidate_uuid": "7c3cc393-9b6b-4895-900b-1a5ee7996193",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุณัฐชา โล่สถาพรพิพิธ",
+      "party": "ภูมิใจไทย",
+      "votes": 28897,
+      "candidate_uuid": "72859803-640d-4eca-9705-4e6515d14835",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวีรพล เต็งรัง",
+      "party": "ประชาชน",
+      "votes": 9248,
+      "candidate_uuid": "0a012b4a-3155-4cf0-8d0f-1ce1d76fe328",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายศักดิ์ดาธร พุฒนวล",
+      "party": "กล้าธรรม",
+      "votes": 1249,
+      "candidate_uuid": "4b99f843-696b-49a9-a08b-ef92cabe6e0d",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายทวี จันทร์ฝาก",
+      "party": "เพื่อไทย",
+      "votes": 889,
+      "candidate_uuid": "b2fbcbcc-35d0-46ec-978f-91829c19f0af",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอำนวย นวลทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 569,
+      "candidate_uuid": "6d8ac577-0643-4550-8873-1b2ad1751697",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายชัยยุทธ รองเดช",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 333,
+      "candidate_uuid": "38a4b9a6-1c1b-4066-bba1-a28753827cd2",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

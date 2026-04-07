@@ -1,0 +1,181 @@
+{
+  "province_name": "ปทุมธานี",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 122395,
+    "1.2": 91434,
+    "2.1": 122777,
+    "2.2": 91434,
+    "2.3": 31343,
+    "3.1": 87487,
+    "3.2": 10,
+    "3.3": 3937,
+    "3.4": 91434,
+    "4.1": 84382,
+    "4.2": 1781,
+    "4.3": 5271
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายธนภัทร ตระกูลภูชัย",
+      "party": "ประชาชน",
+      "votes": 42684
+    },
+    {
+      "number": 3,
+      "name": "นายอธิวัฒน์ สอนเนย",
+      "party": "เพื่อไทย",
+      "votes": 10079
+    },
+    {
+      "number": 7,
+      "name": "นายวรากร เครือทองศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 9739
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพัชร์ชิสา พชิระธารีรัตน์",
+      "party": "กล้าธรรม",
+      "votes": 8530
+    },
+    {
+      "number": 6,
+      "name": "ว่าที่ร้อยตรีเกียรติศักดิ์ คงเขียว",
+      "party": "ประชาธิปัตย์",
+      "votes": 6809
+    },
+    {
+      "number": 8,
+      "name": "นายสรวีย์ ศุภปณิตา",
+      "party": "เศรษฐกิจ",
+      "votes": 2767
+    },
+    {
+      "number": 9,
+      "name": "นายบุญเลิศ สงบจิตร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2017
+    },
+    {
+      "number": 5,
+      "name": "นางสาววิภาวดี ชนะชัย",
+      "party": "ไทยก้าวใหม่",
+      "votes": 689
+    },
+    {
+      "number": 2,
+      "name": "นายภรภัทร มานิตเมธากิจ",
+      "party": "พลังประชารัฐ",
+      "votes": 564
+    },
+    {
+      "number": 10,
+      "name": "นายพลวัฒน์ จันทะเอ",
+      "party": "เสรีรวมไทย",
+      "votes": 504
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/29. ปทุมธานี เขต 6.json",
+  "_validation": {
+    "vote_sum": 84382,
+    "good_votes": 84382,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "13",
+  "province_name_normalized": "ปทุมธานี",
+  "summary": {
+    "eligible_voters": 122395,
+    "voters_came": 91434,
+    "ballots_received": 122777,
+    "ballots_used": 91434,
+    "good_votes": 84382,
+    "invalid_votes": 1781,
+    "no_votes": 5271
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายธนภัทร ตระกูลภูชัย",
+      "party": "ประชาชน",
+      "votes": 42684,
+      "candidate_uuid": "ad3fe6e5-3959-442e-ba39-c90d0cefa539",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอธิวัฒน์ สอนเนย",
+      "party": "เพื่อไทย",
+      "votes": 10079,
+      "candidate_uuid": "ccfb10e2-0105-428e-9365-c279f6be291e",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวรากร เครือทองศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 9739,
+      "candidate_uuid": "88f265f4-3d86-4d17-b81c-f408c2eb7802",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพัชร์ชิสา พชิระธารีรัตน์",
+      "party": "กล้าธรรม",
+      "votes": 8530,
+      "candidate_uuid": "bb9b4a0e-2aaa-4998-afcd-1a6836de7e95",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "ว่าที่ร้อยตรีเกียรติศักดิ์ คงเขียว",
+      "party": "ประชาธิปัตย์",
+      "votes": 6809,
+      "candidate_uuid": "a10f5901-c278-4efe-a36f-71ee74707089",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสรวีย์ ศุภปณิตา",
+      "party": "เศรษฐกิจ",
+      "votes": 2767,
+      "candidate_uuid": "acc01e02-51fa-4ce0-8870-827648dccb36",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายบุญเลิศ สงบจิตร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2017,
+      "candidate_uuid": "0585408c-0985-4f29-8fea-c0dc277a2fd8",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาววิภาวดี ชนะชัย",
+      "party": "ไทยก้าวใหม่",
+      "votes": 689,
+      "candidate_uuid": "5e05b0ed-b06b-4dd3-9820-436d971fc430",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายภรภัทร มานิตเมธากิจ",
+      "party": "พลังประชารัฐ",
+      "votes": 564,
+      "candidate_uuid": "f51f3099-dc0a-426c-9f92-7105e69aa418",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายพลวัฒน์ จันทะเอ",
+      "party": "เสรีรวมไทย",
+      "votes": 504,
+      "candidate_uuid": "1bddb293-1e71-4a64-8e13-8a3e5ff703de",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

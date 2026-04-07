@@ -1,0 +1,181 @@
+{
+  "province_name": "อุดรธานี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130457,
+    "1.2": 89477,
+    "2.1": 131451,
+    "2.2": 89477,
+    "2.3": 41974,
+    "3.1": 83986,
+    "3.2": 4,
+    "3.3": 5487,
+    "3.4": 89477,
+    "4.1": 82554,
+    "4.2": 3107,
+    "4.3": 3816
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางหทัยรัตน์ เพชรพนมพร",
+      "party": "เพื่อไทย",
+      "votes": 29377
+    },
+    {
+      "number": 7,
+      "name": "นางสาวพิชฎาภา อายุวัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 24364
+    },
+    {
+      "number": 6,
+      "name": "นายธนากร จำปาหอม",
+      "party": "ประชาชน",
+      "votes": 21067
+    },
+    {
+      "number": 8,
+      "name": "นายชัยยงค์ ถียัง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 2335
+    },
+    {
+      "number": 5,
+      "name": "นายกฤตภาส จึงเติบโต",
+      "party": "เศรษฐกิจ",
+      "votes": 1696
+    },
+    {
+      "number": 2,
+      "name": "พลตรี พิทักษ์ชัย ธนพรานสิงห์",
+      "party": "กล้าธรรม",
+      "votes": 1467
+    },
+    {
+      "number": 4,
+      "name": "นายชัยกาล กันตรง",
+      "party": "ประชาธิปัตย์",
+      "votes": 874
+    },
+    {
+      "number": 3,
+      "name": "เรือตรี ศุภเศรษฐ์ ศรีชัยรุ่งโรจน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 850
+    },
+    {
+      "number": 9,
+      "name": "นายอนันต์ ศรีพันธุ์",
+      "party": "พลังประชารัฐ",
+      "votes": 399
+    },
+    {
+      "number": 10,
+      "name": "นางเยาวลักษณ์ คำศรี",
+      "party": "ประชากรไทย",
+      "votes": 125
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/74. อุดรธานี เขต 2.json",
+  "_validation": {
+    "vote_sum": 82554,
+    "good_votes": 82554,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "41",
+  "province_name_normalized": "อุดรธานี",
+  "summary": {
+    "eligible_voters": 130457,
+    "voters_came": 89477,
+    "ballots_received": 131451,
+    "ballots_used": 89477,
+    "good_votes": 82554,
+    "invalid_votes": 3107,
+    "no_votes": 3816
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางหทัยรัตน์ เพชรพนมพร",
+      "party": "เพื่อไทย",
+      "votes": 29377,
+      "candidate_uuid": "00c4d71d-027f-44f5-8873-63bc30cfd86e",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวพิชฎาภา อายุวัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 24364,
+      "candidate_uuid": "7f73b063-3650-4af6-89d0-ee8ae6eb5b0c",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธนากร จำปาหอม",
+      "party": "ประชาชน",
+      "votes": 21067,
+      "candidate_uuid": "105fa52d-f311-403d-acf2-b6ba61113ffa",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชัยยงค์ ถียัง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 2335,
+      "candidate_uuid": "ea2d5126-31b7-463c-bde0-74c0c925d768",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายกฤตภาส จึงเติบโต",
+      "party": "เศรษฐกิจ",
+      "votes": 1696,
+      "candidate_uuid": "4b3dcb3d-a8e5-49c7-b7ec-1f61723c26bf",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "พลตรี พิทักษ์ชัย ธนพรานสิงห์",
+      "party": "กล้าธรรม",
+      "votes": 1467,
+      "candidate_uuid": "e236029a-5ff4-4ec8-ac93-2e70e6f8329d",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายชัยกาล กันตรง",
+      "party": "ประชาธิปัตย์",
+      "votes": 874,
+      "candidate_uuid": "35ee5407-4113-45a2-9754-9fe5546d0f09",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "เรือตรี ศุภเศรษฐ์ ศรีชัยรุ่งโรจน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 850,
+      "candidate_uuid": "70ab299a-9c94-43ef-b122-a8d7b4466555",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายอนันต์ ศรีพันธุ์",
+      "party": "พลังประชารัฐ",
+      "votes": 399,
+      "candidate_uuid": "6051cbd0-e7d7-4c35-8523-cdea32b53318",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางเยาวลักษณ์ คำศรี",
+      "party": "ประชากรไทย",
+      "votes": 125,
+      "candidate_uuid": "7bcc14ce-02a9-4366-9277-7b6076be48b6",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

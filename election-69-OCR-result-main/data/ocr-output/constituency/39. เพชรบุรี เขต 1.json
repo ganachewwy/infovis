@@ -1,0 +1,51 @@
+{
+  "province_name": "เพชรบุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 125465,
+    "1.2": 99383,
+    "2.1": 127406,
+    "2.2": 99383,
+    "2.3": 28023,
+    "3.1": 95297,
+    "3.2": 79,
+    "3.3": 4007,
+    "3.4": 99383,
+    "4.1": 89618,
+    "4.2": 3957,
+    "4.3": 5808
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นางธิวัลรัตน์ อังกินันทน์",
+      "party": "ภูมิใจไทย",
+      "votes": 61734
+    },
+    {
+      "number": 2,
+      "name": "น.ส.ปินดา บุโรทกานนท์",
+      "party": "ประชาชน",
+      "votes": 20431
+    },
+    {
+      "number": 1,
+      "name": "นายฐานันดร์ ขันธ์แก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 5699
+    },
+    {
+      "number": 4,
+      "name": "นายประพัฒน์ ปานยิ้ม",
+      "party": "เพื่อไทย",
+      "votes": 1754
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/39. เพชรบุรี เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 89618,
+    "good_votes": 89618,
+    "sum_diff_pct": 0.0
+  }
+}

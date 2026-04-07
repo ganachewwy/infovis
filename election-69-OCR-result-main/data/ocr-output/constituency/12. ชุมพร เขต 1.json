@@ -1,0 +1,69 @@
+{
+  "province_name": "ชุมพร",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137061,
+    "1.2": 104168,
+    "2.1": 138922,
+    "2.2": 104168,
+    "2.3": 34754,
+    "3.1": 97666,
+    "3.2": 0,
+    "3.3": 6502,
+    "3.4": 104168,
+    "4.1": 96247,
+    "4.2": 2480,
+    "4.3": 5441
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายวิชัย สุดสวาสดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 45966
+    },
+    {
+      "number": 6,
+      "name": "นายสุรชัย แดงละอุ่น",
+      "party": "ประชาธิปัตย์",
+      "votes": 34079
+    },
+    {
+      "number": 3,
+      "name": "นางสาวชุติมา ชุมขุน",
+      "party": "ประชาชน",
+      "votes": 13078
+    },
+    {
+      "number": 1,
+      "name": "นายชวลิต อาจหาญ",
+      "party": "พลังประชารัฐ",
+      "votes": 1138
+    },
+    {
+      "number": 2,
+      "name": "พันตำรวจเอกสิทธิพร พุ่มพะเนิน",
+      "party": "เพื่อไทย",
+      "votes": 870
+    },
+    {
+      "number": 7,
+      "name": "นายชัย กายศิหัตถาคุณ",
+      "party": "ประชากรไทย",
+      "votes": 582
+    },
+    {
+      "number": 5,
+      "name": "นางสาวหนึ่งฤทัย พันกุ่ม",
+      "party": "กรีน",
+      "votes": 534
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/12. ชุมพร เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 96247,
+    "good_votes": 96247,
+    "sum_diff_pct": 0.0
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "province_name": "ยโสธร",
+  "constituency_number": 2,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 141191,
+    "1.2": 94115,
+    "2.1": 139280,
+    "2.2": 94115,
+    "2.3": 45165,
+    "3.1": 85759,
+    "3.2": 0,
+    "3.3": 8356,
+    "3.4": 94115,
+    "4.1": 89211,
+    "4.2": 3614,
+    "4.3": 1290
+  },
+  "results": [
+    {
+      "number": 2,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 1516
+    },
+    {
+      "number": 3,
+      "party": "เพื่อชาติไทย",
+      "votes": 1416
+    },
+    {
+      "number": 4,
+      "party": "ใหม่",
+      "votes": 1940
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 564
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 759
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 84
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 722
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 33275
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 260
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 2358
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 476
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 355
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 81
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 40
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 210
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 83
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 16
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 36
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 21
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 121
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 14
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 40
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 28
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 13
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 38
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 1283
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 93
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 225
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 143
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 150
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 188
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 100
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 147
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 57
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 145
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 21845
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 454
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 45
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 38
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 17
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 77
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 115
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 40
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 66
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 18560
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 83
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 497
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 146
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 4
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 33
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 6
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 5
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 15
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 12
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 19
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 35
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/46. ยโสธร เขต 2 (บช).pdf",
+  "_validation": {
+    "vote_sum": 89109,
+    "good_votes": 89211,
+    "sum_diff_pct": 0.11
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "สงขลา",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 120456,
+    "1.2": 99959,
+    "2.1": 120360,
+    "2.2": 99959,
+    "2.3": 20401,
+    "3.1": 96557,
+    "3.2": 8,
+    "3.3": 3394,
+    "3.4": 99959,
+    "4.1": 94569,
+    "4.2": 2563,
+    "4.3": 2827
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายฆอซาลี ดุสะเหม็ะ",
+      "party": "ภูมิใจไทย",
+      "votes": 36216
+    },
+    {
+      "number": 2,
+      "name": "นายปรีชา แดงหลี",
+      "party": "ประชาชาติ",
+      "votes": 995
+    },
+    {
+      "number": 3,
+      "name": "พล.ต.ต.สุรินทร์ ปาลาเร่",
+      "party": "กล้าธรรม",
+      "votes": 43540
+    },
+    {
+      "number": 4,
+      "name": "นายอธิวัตร ใบสะเม๊าะ",
+      "party": "เพื่อไทย",
+      "votes": 447
+    },
+    {
+      "number": 5,
+      "name": "นายธีรพงศ์ ดนสวี",
+      "party": "ประชาธิปัตย์",
+      "votes": 6217
+    },
+    {
+      "number": 6,
+      "name": "นายกรธัช พัชนี",
+      "party": "ประชาชน",
+      "votes": 6707
+    },
+    {
+      "number": 7,
+      "name": "นายเกษม ขวัญแก้ว",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 240
+    },
+    {
+      "number": 8,
+      "name": "นายอำนาจ คงเอียง",
+      "party": "ไทยภักดี",
+      "votes": 207
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/58. สงขลา เขต 8.json",
+  "_validation": {
+    "vote_sum": 94569,
+    "good_votes": 94569,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "90",
+  "province_name_normalized": "สงขลา",
+  "summary": {
+    "eligible_voters": 120456,
+    "voters_came": 99959,
+    "ballots_received": 120360,
+    "ballots_used": 99959,
+    "good_votes": 94569,
+    "invalid_votes": 2563,
+    "no_votes": 2827
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายฆอซาลี ดุสะเหม็ะ",
+      "party": "ภูมิใจไทย",
+      "votes": 36216,
+      "candidate_uuid": "c51e2fe5-3af5-45d9-8730-2c4607855511",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายปรีชา แดงหลี",
+      "party": "ประชาชาติ",
+      "votes": 995,
+      "candidate_uuid": "c5fbcbcd-8093-4a63-8533-c3b8a8eae216",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "พล.ต.ต.สุรินทร์ ปาลาเร่",
+      "party": "กล้าธรรม",
+      "votes": 43540,
+      "candidate_uuid": "dfbb6634-65cb-46b2-8309-994d7cef83b9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอธิวัตร ใบสะเม๊าะ",
+      "party": "เพื่อไทย",
+      "votes": 447,
+      "candidate_uuid": "ef1643e5-82c9-4469-a472-b2dde2d81b87",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายธีรพงศ์ ดนสวี",
+      "party": "ประชาธิปัตย์",
+      "votes": 6217,
+      "candidate_uuid": "a552af97-287e-4869-8ac7-d4598dea9e54",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายกรธัช พัชนี",
+      "party": "ประชาชน",
+      "votes": 6707,
+      "candidate_uuid": "23fd0680-e328-4d0b-b031-efeaab34ef8a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายเกษม ขวัญแก้ว",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 240,
+      "candidate_uuid": "47edf9b6-4aff-4118-bbe0-b4de47df52da",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอำนาจ คงเอียง",
+      "party": "ไทยภักดี",
+      "votes": 207,
+      "candidate_uuid": "029e07c3-3aaa-4bb8-901a-c609056295c6",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

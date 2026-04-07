@@ -1,0 +1,139 @@
+{
+  "province_name": "สงขลา",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126618,
+    "1.2": 101440,
+    "2.1": 128371,
+    "2.2": 101440,
+    "2.3": 26931,
+    "3.1": 96317,
+    "3.2": 0,
+    "3.3": 5123,
+    "3.4": 101440,
+    "4.1": 95854,
+    "4.2": 2640,
+    "4.3": 2946
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายชนนพัฒฐ์ นาคสั้ว",
+      "party": "กล้าธรรม",
+      "votes": 45863
+    },
+    {
+      "number": 4,
+      "name": "นายโยธิน ทองเนื้อแข็ง",
+      "party": "ภูมิใจไทย",
+      "votes": 24612
+    },
+    {
+      "number": 1,
+      "name": "นายสิทธิพัฒน์ เสนเนียม",
+      "party": "ประชาธิปัตย์",
+      "votes": 18187
+    },
+    {
+      "number": 5,
+      "name": "นายชัยวัฒน์ อินศรีไกร",
+      "party": "ประชาชน",
+      "votes": 5868
+    },
+    {
+      "number": 6,
+      "name": "นายเนติศิลป์ พฤกษศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 494
+    },
+    {
+      "number": 3,
+      "name": "นายนุกูล อยู่ทอง",
+      "party": "เพื่อไทย",
+      "votes": 492
+    },
+    {
+      "number": 7,
+      "name": "นายชนาเมธ อักโขสุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 338
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/58. สงขลา เขต 4.json",
+  "_validation": {
+    "vote_sum": 95854,
+    "good_votes": 95854,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "90",
+  "province_name_normalized": "สงขลา",
+  "summary": {
+    "eligible_voters": 126618,
+    "voters_came": 101440,
+    "ballots_received": 128371,
+    "ballots_used": 101440,
+    "good_votes": 95854,
+    "invalid_votes": 2640,
+    "no_votes": 2946
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายชนนพัฒฐ์ นาคสั้ว",
+      "party": "กล้าธรรม",
+      "votes": 45863,
+      "candidate_uuid": "3d048e4d-cced-4049-b6f4-cee431a0ba71",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายโยธิน ทองเนื้อแข็ง",
+      "party": "ภูมิใจไทย",
+      "votes": 24612,
+      "candidate_uuid": "8da85653-263c-4c3a-8b52-acda9f2a38dc",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสิทธิพัฒน์ เสนเนียม",
+      "party": "ประชาธิปัตย์",
+      "votes": 18187,
+      "candidate_uuid": "8aed1bae-7829-4246-bc64-ecd288b08d44",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชัยวัฒน์ อินศรีไกร",
+      "party": "ประชาชน",
+      "votes": 5868,
+      "candidate_uuid": "329c05a0-d67e-4402-b629-c94825a8b6c5",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเนติศิลป์ พฤกษศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 494,
+      "candidate_uuid": "3a27e144-6d32-4779-910e-71094858ce6e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายนุกูล อยู่ทอง",
+      "party": "เพื่อไทย",
+      "votes": 492,
+      "candidate_uuid": "39691e7a-6821-40a6-a175-227592db5a58",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายชนาเมธ อักโขสุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 338,
+      "candidate_uuid": "fd6a6419-6e7f-493c-b189-235160428805",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,209 @@
+{
+  "province_name": "นนทบุรี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 124496,
+    "1.2": 88604,
+    "2.1": 126738,
+    "2.2": 88604,
+    "2.3": 38134,
+    "3.1": 84926,
+    "3.2": 6,
+    "3.3": 3672,
+    "3.4": 88604,
+    "4.1": 81123,
+    "4.2": 1807,
+    "4.3": 5674
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นางปัญญารัตน์ นันทภูษิตานนท์",
+      "party": "ประชาชน",
+      "votes": 38013
+    },
+    {
+      "number": 3,
+      "name": "นายเฉลิมพล นิยมสินธุ์",
+      "party": "ภูมิใจไทย",
+      "votes": 20126
+    },
+    {
+      "number": 5,
+      "name": "นายภาณุพงศ์ ทรงวัชราภรณ์",
+      "party": "เพื่อไทย",
+      "votes": 10730
+    },
+    {
+      "number": 6,
+      "name": "นางสาวสุพรรษา เย็นเพ็ชร",
+      "party": "ประชาธิปัตย์",
+      "votes": 5756
+    },
+    {
+      "number": 1,
+      "name": "นางสาวกาญจนา ยงเสมอ",
+      "party": "เศรษฐกิจ",
+      "votes": 1667
+    },
+    {
+      "number": 10,
+      "name": "นายปราโมทย์ พันธุเกตุ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1210
+    },
+    {
+      "number": 11,
+      "name": "นางสาวพกาวรรณ ทิมดี",
+      "party": "ไทยภักดี",
+      "votes": 1047
+    },
+    {
+      "number": 8,
+      "name": "นางสาวสมบูรณ์วรรณ ตรีสินธุ์ไชย",
+      "party": "พลังประชารัฐ",
+      "votes": 906
+    },
+    {
+      "number": 9,
+      "name": "นางสาวภควรรณ กุลปัญญาพินิจ",
+      "party": "กล้าธรรม",
+      "votes": 563
+    },
+    {
+      "number": 4,
+      "name": "นายตฤณ สุวรรณศร",
+      "party": "ทางเลือกใหม่",
+      "votes": 518
+    },
+    {
+      "number": 2,
+      "name": "นายกิตติ เพ็ญภาคกุล",
+      "party": "พลวัต",
+      "votes": 386
+    },
+    {
+      "number": 12,
+      "name": "นายธนาชัย จิรัตถิติกุล",
+      "party": "ฟิวชัน",
+      "votes": 201
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/24. นนทบุรี เขต 2.json",
+  "_validation": {
+    "vote_sum": 81123,
+    "good_votes": 81123,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "12",
+  "province_name_normalized": "นนทบุรี",
+  "summary": {
+    "eligible_voters": 124496,
+    "voters_came": 88604,
+    "ballots_received": 126738,
+    "ballots_used": 88604,
+    "good_votes": 81123,
+    "invalid_votes": 1807,
+    "no_votes": 5674
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นางปัญญารัตน์ นันทภูษิตานนท์",
+      "party": "ประชาชน",
+      "votes": 38013,
+      "candidate_uuid": "7fb6adf2-5b77-447f-ac21-fea849faca0a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเฉลิมพล นิยมสินธุ์",
+      "party": "ภูมิใจไทย",
+      "votes": 20126,
+      "candidate_uuid": "d741ece5-cdef-4ab2-91a3-b17d45091581",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายภาณุพงศ์ ทรงวัชราภรณ์",
+      "party": "เพื่อไทย",
+      "votes": 10730,
+      "candidate_uuid": "ad41de70-d95e-4a12-a044-50c4d1467c55",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวสุพรรษา เย็นเพ็ชร",
+      "party": "ประชาธิปัตย์",
+      "votes": 5756,
+      "candidate_uuid": "ba457a69-6b85-48dc-82ca-813d2c631cac",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวกาญจนา ยงเสมอ",
+      "party": "เศรษฐกิจ",
+      "votes": 1667,
+      "candidate_uuid": "4cce4cbd-0f64-4bde-9e68-764e59e7d18e",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายปราโมทย์ พันธุเกตุ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1210,
+      "candidate_uuid": "2774778e-aedc-40de-8683-01ac53108720",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางสาวพกาวรรณ ทิมดี",
+      "party": "ไทยภักดี",
+      "votes": 1047,
+      "candidate_uuid": "abe55623-6004-41ad-9641-21f0f53c6aad",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวสมบูรณ์วรรณ ตรีสินธุ์ไชย",
+      "party": "พลังประชารัฐ",
+      "votes": 906,
+      "candidate_uuid": "212604fa-2512-4bca-b95f-a405fbec666c",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวภควรรณ กุลปัญญาพินิจ",
+      "party": "กล้าธรรม",
+      "votes": 563,
+      "candidate_uuid": "1433f773-c396-486b-8e33-768ab1746dc2",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายตฤณ สุวรรณศร",
+      "party": "ทางเลือกใหม่",
+      "votes": 518,
+      "candidate_uuid": "df17a88c-44c5-472a-acb8-b384b207eb6e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายกิตติ เพ็ญภาคกุล",
+      "party": "พลวัต",
+      "votes": 386,
+      "candidate_uuid": "a16de79b-d6ca-42c4-8bc5-b0eaa89abd4e",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายธนาชัย จิรัตถิติกุล",
+      "party": "ฟิวชัน",
+      "votes": 201,
+      "candidate_uuid": "31d24573-60ed-44e1-9bc5-47ee2c55a568",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

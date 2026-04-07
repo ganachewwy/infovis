@@ -1,0 +1,251 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 16,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137721,
+    "1.2": 100557,
+    "2.1": 139506,
+    "2.2": 100557,
+    "2.3": 38949,
+    "3.1": 95971,
+    "3.2": 25,
+    "3.3": 4561,
+    "3.4": 100557,
+    "4.1": 94218,
+    "4.2": 1438,
+    "4.3": 4901
+  },
+  "results": [
+    {
+      "number": 10,
+      "name": "นางสาวพิมพ์กาญจน์ กีรติวิราปกรณ์",
+      "party": "ประชาชน",
+      "votes": 46021
+    },
+    {
+      "number": 2,
+      "name": "นายณัฐนันท์ กัลยาศิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 15424
+    },
+    {
+      "number": 7,
+      "name": "นายจิรายุ ห่วงทรัพย์",
+      "party": "เพื่อไทย",
+      "votes": 15340
+    },
+    {
+      "number": 8,
+      "name": "นายสุนันท์ มีนมณี",
+      "party": "ประชาธิปัตย์",
+      "votes": 8442
+    },
+    {
+      "number": 4,
+      "name": "นายปิยชาติ โชติช่วง",
+      "party": "เศรษฐกิจ",
+      "votes": 1660
+    },
+    {
+      "number": 5,
+      "name": "นายอัฏฐพล สิทธิชัยอารีกิจ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1648
+    },
+    {
+      "number": 9,
+      "name": "ผู้ช่วยศาสตราจารย์วสันต์ ภู่รัสมี",
+      "party": "โอกาสใหม่",
+      "votes": 1317
+    },
+    {
+      "number": 11,
+      "name": "นายภาคิณ ภูกิจสิริกุล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1112
+    },
+    {
+      "number": 6,
+      "name": "นายสิรภพ เอื้อชลิตนุกูล",
+      "party": "กล้าธรรม",
+      "votes": 824
+    },
+    {
+      "number": 12,
+      "name": "นายฤทธี กิจพิพิธ",
+      "party": "ไทยสร้างไทย",
+      "votes": 747
+    },
+    {
+      "number": 3,
+      "name": "นายกันตพงศ์ นาคสุวรรณ",
+      "party": "ไทยภักดี",
+      "votes": 626
+    },
+    {
+      "number": 1,
+      "name": "นายหมวดตรีกิติภูมิ นีละไพจิตร์",
+      "party": "พลังประชารัฐ",
+      "votes": 467
+    },
+    {
+      "number": 13,
+      "name": "นายธนพิสิฐ จีรวงศ์ไกรสร",
+      "party": "รักชาติ",
+      "votes": 286
+    },
+    {
+      "number": 14,
+      "name": "นายศุภโชค มุ่งดี",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 153
+    },
+    {
+      "number": 15,
+      "name": "ว่าที่ร้อยตรีรัชภูมิ ใบเรือ",
+      "party": "ปวงชนไทย",
+      "votes": 151
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 16.json",
+  "_validation": {
+    "vote_sum": 94218,
+    "good_votes": 94218,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 137721,
+    "voters_came": 100557,
+    "ballots_received": 139506,
+    "ballots_used": 100557,
+    "good_votes": 94218,
+    "invalid_votes": 1438,
+    "no_votes": 4901
+  },
+  "matched_candidates": [
+    {
+      "number": 10,
+      "name": "นางสาวพิมพ์กาญจน์ กีรติวิราปกรณ์",
+      "party": "ประชาชน",
+      "votes": 46021,
+      "candidate_uuid": "87f3b7c3-576d-4600-bfa1-17380067ff0c",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายณัฐนันท์ กัลยาศิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 15424,
+      "candidate_uuid": "d31adef7-c3a0-4593-807d-f3c99825d8bf",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายจิรายุ ห่วงทรัพย์",
+      "party": "เพื่อไทย",
+      "votes": 15340,
+      "candidate_uuid": "8050e30b-a697-4526-bea0-1c1bfdb376a1",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุนันท์ มีนมณี",
+      "party": "ประชาธิปัตย์",
+      "votes": 8442,
+      "candidate_uuid": "a39fbd0a-2413-41e9-9fff-ca0a88a7635d",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายปิยชาติ โชติช่วง",
+      "party": "เศรษฐกิจ",
+      "votes": 1660,
+      "candidate_uuid": "b58dafbc-a302-4672-b666-a6b753651755",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอัฏฐพล สิทธิชัยอารีกิจ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1648,
+      "candidate_uuid": "e151e565-1522-4bf2-996f-3005934d0e2d",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "ผู้ช่วยศาสตราจารย์วสันต์ ภู่รัสมี",
+      "party": "โอกาสใหม่",
+      "votes": 1317,
+      "candidate_uuid": "1a302cd2-aad0-4837-bae4-90b0e5ec982e",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายภาคิณ ภูกิจสิริกุล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1112,
+      "candidate_uuid": "eb66be73-c31a-4da9-9e5f-b7108aca06c5",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสิรภพ เอื้อชลิตนุกูล",
+      "party": "กล้าธรรม",
+      "votes": 824,
+      "candidate_uuid": "67e02a92-24f7-4111-b7de-a6ec0eee5228",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายฤทธี กิจพิพิธ",
+      "party": "ไทยสร้างไทย",
+      "votes": 747,
+      "candidate_uuid": "d90bcef3-e3e5-47f3-9453-c990d6da50e8",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกันตพงศ์ นาคสุวรรณ",
+      "party": "ไทยภักดี",
+      "votes": 626,
+      "candidate_uuid": "b137fd3b-2287-43fc-a63d-e8f9c7befea3",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายหมวดตรีกิติภูมิ นีละไพจิตร์",
+      "party": "พลังประชารัฐ",
+      "votes": 467,
+      "candidate_uuid": "53cfa1f8-f0e6-47fd-868c-d9905d4a31e6",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายธนพิสิฐ จีรวงศ์ไกรสร",
+      "party": "รักชาติ",
+      "votes": 286,
+      "candidate_uuid": "5220e9dd-7bae-4b93-861e-e36391cfcd72",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายศุภโชค มุ่งดี",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 153,
+      "candidate_uuid": "05241c01-529e-4ca6-b1e6-d2d86e27a1d0",
+      "is_active": true
+    },
+    {
+      "number": 15,
+      "name": "ว่าที่ร้อยตรีรัชภูมิ ใบเรือ",
+      "party": "ปวงชนไทย",
+      "votes": 151,
+      "candidate_uuid": "2294c136-644c-4f84-b2ca-a446a46356d6",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

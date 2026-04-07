@@ -1,0 +1,111 @@
+{
+  "province_name": "พังงา",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 100343,
+    "1.2": 74406,
+    "2.1": 103757,
+    "2.2": 74406,
+    "2.3": 29351,
+    "3.1": 70769,
+    "3.2": 33,
+    "3.3": 3604,
+    "3.4": 74406,
+    "4.1": 66345,
+    "4.2": 2919,
+    "4.3": 5142
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายอรรถพล ไตรศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 36274
+    },
+    {
+      "number": 4,
+      "name": "นายสรรเพชร ทิพย์มณเฑียร",
+      "party": "ประชาธิปัตย์",
+      "votes": 15654
+    },
+    {
+      "number": 3,
+      "name": "นายอมรศักดิ์ หอมจันทร์",
+      "party": "ประชาชน",
+      "votes": 9019
+    },
+    {
+      "number": 2,
+      "name": "นายธราธิป ทองเจิม",
+      "party": "กล้าธรรม",
+      "votes": 4171
+    },
+    {
+      "number": 1,
+      "name": "นายชนัญ เรื่องผล",
+      "party": "เพื่อไทย",
+      "votes": 1227
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/35. พังงา เขต 1.json",
+  "_validation": {
+    "vote_sum": 66345,
+    "good_votes": 66345,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "82",
+  "province_name_normalized": "พังงา",
+  "summary": {
+    "eligible_voters": 100343,
+    "voters_came": 74406,
+    "ballots_received": 103757,
+    "ballots_used": 74406,
+    "good_votes": 66345,
+    "invalid_votes": 2919,
+    "no_votes": 5142
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายอรรถพล ไตรศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 36274,
+      "candidate_uuid": "fbfdb4a4-055d-47bb-b065-325eb44a1970",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสรรเพชร ทิพย์มณเฑียร",
+      "party": "ประชาธิปัตย์",
+      "votes": 15654,
+      "candidate_uuid": "38121921-d16f-4636-a89e-2dd84d831b40",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอมรศักดิ์ หอมจันทร์",
+      "party": "ประชาชน",
+      "votes": 9019,
+      "candidate_uuid": "3e9b0226-b62b-4781-aec7-394db8dfa1eb",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธราธิป ทองเจิม",
+      "party": "กล้าธรรม",
+      "votes": 4171,
+      "candidate_uuid": "fb976563-1449-4487-b8df-19ad7d2c5e6b",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายชนัญ เรื่องผล",
+      "party": "เพื่อไทย",
+      "votes": 1227,
+      "candidate_uuid": "37f0441d-8cfe-448f-9f8a-a6afb25440de",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

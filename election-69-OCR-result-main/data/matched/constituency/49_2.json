@@ -1,0 +1,153 @@
+{
+  "province_name": "มุกดาหาร",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 138474,
+    "1.2": 100884,
+    "2.1": 144308,
+    "2.2": 100884,
+    "2.3": 43424,
+    "3.1": 94876,
+    "3.2": 0,
+    "3.3": 6008,
+    "3.4": 100884,
+    "4.1": 94225,
+    "4.2": 3958,
+    "4.3": 2701
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายเลขาดำไตรสรณคมน์ หนองเรือง",
+      "party": "กล้าธรรม",
+      "votes": 42393
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปิยธิดา บุตรกาล",
+      "party": "เพื่อไทย",
+      "votes": 23462
+    },
+    {
+      "number": 5,
+      "name": "นายณกร ชารีพันธ์",
+      "party": "ประชาชน",
+      "votes": 15648
+    },
+    {
+      "number": 6,
+      "name": "นายประพันธ์ คนหาญ",
+      "party": "ภูมิใจไทย",
+      "votes": 7571
+    },
+    {
+      "number": 2,
+      "name": "นางสาวปภาสิริ ประทุมลี",
+      "party": "พลังประชารัฐ",
+      "votes": 4112
+    },
+    {
+      "number": 3,
+      "name": "นางกิ่งฟ้า อรพันธ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 548
+    },
+    {
+      "number": 8,
+      "name": "นายวรสิงฆ์ บับพาน",
+      "party": "ทางเลือกใหม่",
+      "votes": 299
+    },
+    {
+      "number": 7,
+      "name": "นายก้องบุญ ชาธิราช",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 192
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/44. มุกดาหาร เขต 2.json",
+  "_validation": {
+    "vote_sum": 94225,
+    "good_votes": 94225,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "49",
+  "province_name_normalized": "มุกดาหาร",
+  "summary": {
+    "eligible_voters": 138474,
+    "voters_came": 100884,
+    "ballots_received": 144308,
+    "ballots_used": 100884,
+    "good_votes": 94225,
+    "invalid_votes": 3958,
+    "no_votes": 2701
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายเลขาดำไตรสรณคมน์ หนองเรือง",
+      "party": "กล้าธรรม",
+      "votes": 42393,
+      "candidate_uuid": "10893e2c-05dd-4f10-9100-c1ef7c27747a",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปิยธิดา บุตรกาล",
+      "party": "เพื่อไทย",
+      "votes": 23462,
+      "candidate_uuid": "06639676-19c1-446f-ad9d-f9506f8ef760",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายณกร ชารีพันธ์",
+      "party": "ประชาชน",
+      "votes": 15648,
+      "candidate_uuid": "78291779-fd42-4db0-aaf3-45fc438858bf",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายประพันธ์ คนหาญ",
+      "party": "ภูมิใจไทย",
+      "votes": 7571,
+      "candidate_uuid": "e526d2b4-335f-4033-a5e0-e95068a89143",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวปภาสิริ ประทุมลี",
+      "party": "พลังประชารัฐ",
+      "votes": 4112,
+      "candidate_uuid": "54bb36d1-6518-4874-adb6-1ee95c461650",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางกิ่งฟ้า อรพันธ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 548,
+      "candidate_uuid": "bb7187a1-5e67-4b89-a00e-73c0ba66824b",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวรสิงฆ์ บับพาน",
+      "party": "ทางเลือกใหม่",
+      "votes": 299,
+      "candidate_uuid": "e23e21de-87c7-4c6b-a424-0c9e83fd89d3",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายก้องบุญ ชาธิราช",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 192,
+      "candidate_uuid": "423aee2d-4440-4824-b6b6-9fcf14dc561e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

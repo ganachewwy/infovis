@@ -1,0 +1,139 @@
+{
+  "province_name": "เชียงราย",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139953,
+    "1.2": 104922,
+    "2.1": 143995,
+    "2.2": 104922,
+    "2.3": 39073,
+    "3.1": 98896,
+    "3.2": 11,
+    "3.3": 6015,
+    "3.4": 104922,
+    "4.1": 91475,
+    "4.2": 8431,
+    "4.3": 5016
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายพิทักษ์ แสงคำ",
+      "party": "กล้าธรรม",
+      "votes": 34046
+    },
+    {
+      "number": 5,
+      "name": "นายฐากูร ยะแสง",
+      "party": "ประชาชน",
+      "votes": 25793
+    },
+    {
+      "number": 6,
+      "name": "นายวิสาร เตชะธีราวัฒน์",
+      "party": "เพื่อไทย",
+      "votes": 25466
+    },
+    {
+      "number": 4,
+      "name": "นายประเวศน์ รวีโอภาส",
+      "party": "ภูมิใจไทย",
+      "votes": 1856
+    },
+    {
+      "number": 2,
+      "name": "นายเรืองฤทธิ์ พวกอินแสง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1709
+    },
+    {
+      "number": 1,
+      "name": "นายอาคม จันต๊ะมา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1674
+    },
+    {
+      "number": 7,
+      "name": "นายสมชาติ ขวัญชัย",
+      "party": "พลังประชารัฐ",
+      "votes": 931
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/13. เชียงราย เขต 3.json",
+  "_validation": {
+    "vote_sum": 91475,
+    "good_votes": 91475,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "57",
+  "province_name_normalized": "เชียงราย",
+  "summary": {
+    "eligible_voters": 139953,
+    "voters_came": 104922,
+    "ballots_received": 143995,
+    "ballots_used": 104922,
+    "good_votes": 91475,
+    "invalid_votes": 8431,
+    "no_votes": 5016
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายพิทักษ์ แสงคำ",
+      "party": "กล้าธรรม",
+      "votes": 34046,
+      "candidate_uuid": "65ed2a90-6867-49b0-bf46-1a87332cc0f2",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายฐากูร ยะแสง",
+      "party": "ประชาชน",
+      "votes": 25793,
+      "candidate_uuid": "7a3174b0-4d1c-4975-84f2-56b677cbfffd",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายวิสาร เตชะธีราวัฒน์",
+      "party": "เพื่อไทย",
+      "votes": 25466,
+      "candidate_uuid": "53389cda-b2be-4f5d-959a-60a29f7977d3",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายประเวศน์ รวีโอภาส",
+      "party": "ภูมิใจไทย",
+      "votes": 1856,
+      "candidate_uuid": "8c053bf0-9ce8-4751-b75a-c6907c80c7fd",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายเรืองฤทธิ์ พวกอินแสง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1709,
+      "candidate_uuid": "f8cb885a-c0f5-474b-a2a7-2e06034b46b4",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอาคม จันต๊ะมา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1674,
+      "candidate_uuid": "51e75925-523e-4a23-ae1a-68e55fc0d03c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสมชาติ ขวัญชัย",
+      "party": "พลังประชารัฐ",
+      "votes": 931,
+      "candidate_uuid": "de6a2cbf-86c6-4eb4-87a6-844cd62c4fe8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

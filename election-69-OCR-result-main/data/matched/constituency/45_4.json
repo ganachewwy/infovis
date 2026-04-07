@@ -1,0 +1,181 @@
+{
+  "province_name": "ร้อยเอ็ด",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129528,
+    "1.2": 83975,
+    "2.1": 133029,
+    "2.2": 83975,
+    "2.3": 49054,
+    "3.1": 76502,
+    "3.2": 4,
+    "3.3": 7469,
+    "3.4": 83975,
+    "4.1": 80404,
+    "4.2": 1967,
+    "4.3": 1604
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายศุภศิษย์ กอเจริญยศ",
+      "party": "เพื่อไทย",
+      "votes": 22302
+    },
+    {
+      "number": 5,
+      "name": "นายนีโอ พลซื่อ",
+      "party": "กล้าธรรม",
+      "votes": 21829
+    },
+    {
+      "number": 6,
+      "name": "นายนรากร นาเมืองรักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 16270
+    },
+    {
+      "number": 3,
+      "name": "นายวัจน์คมกริช ศรีวะรมย์",
+      "party": "ประชาชน",
+      "votes": 10958
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุทธิกานต์ สิทธิ์ประภากูล",
+      "party": "โอกาสใหม่",
+      "votes": 4826
+    },
+    {
+      "number": 7,
+      "name": "นางสาวกัญจน์พร วงศ์เวไนย",
+      "party": "พลังประชารัฐ",
+      "votes": 2030
+    },
+    {
+      "number": 8,
+      "name": "นายชัยชนะ รัตนชัยฤทธิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1106
+    },
+    {
+      "number": 1,
+      "name": "นางสาวมารยาท มานัส",
+      "party": "ประชาธิปัตย์",
+      "votes": 687
+    },
+    {
+      "number": 9,
+      "name": "นางสาวดนิตา มาบุญธรรม",
+      "party": "ไทยก้าวใหม่",
+      "votes": 335
+    },
+    {
+      "number": 10,
+      "name": "นายเกียรติศักดิ์ วรรณพาด",
+      "party": "พลวัต",
+      "votes": 61
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/48. ร้อยเอ็ด เขต 4.json",
+  "_validation": {
+    "vote_sum": 80404,
+    "good_votes": 80404,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "45",
+  "province_name_normalized": "ร้อยเอ็ด",
+  "summary": {
+    "eligible_voters": 129528,
+    "voters_came": 83975,
+    "ballots_received": 133029,
+    "ballots_used": 83975,
+    "good_votes": 80404,
+    "invalid_votes": 1967,
+    "no_votes": 1604
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายศุภศิษย์ กอเจริญยศ",
+      "party": "เพื่อไทย",
+      "votes": 22302,
+      "candidate_uuid": "ba56cdac-41ce-4c94-bbf8-7d4650126f51",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนีโอ พลซื่อ",
+      "party": "กล้าธรรม",
+      "votes": 21829,
+      "candidate_uuid": "22cb85af-98c9-42df-b478-f90150501414",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายนรากร นาเมืองรักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 16270,
+      "candidate_uuid": "55ac85c0-0541-411d-ae4a-083b2da70931",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวัจน์คมกริช ศรีวะรมย์",
+      "party": "ประชาชน",
+      "votes": 10958,
+      "candidate_uuid": "61f501c5-0611-4e19-a7f8-a01631b8ebb1",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุทธิกานต์ สิทธิ์ประภากูล",
+      "party": "โอกาสใหม่",
+      "votes": 4826,
+      "candidate_uuid": "bcb83cbb-3e1e-4f6e-b972-e8cb4b5f7b06",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวกัญจน์พร วงศ์เวไนย",
+      "party": "พลังประชารัฐ",
+      "votes": 2030,
+      "candidate_uuid": "127d50a3-631d-44ab-a818-705333bd1686",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชัยชนะ รัตนชัยฤทธิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1106,
+      "candidate_uuid": "3d64e818-e6c0-4afb-8507-985ba2407608",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวมารยาท มานัส",
+      "party": "ประชาธิปัตย์",
+      "votes": 687,
+      "candidate_uuid": "19304fac-270b-4527-9b02-073bdc382844",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวดนิตา มาบุญธรรม",
+      "party": "ไทยก้าวใหม่",
+      "votes": 335,
+      "candidate_uuid": "ea1fbe7c-bcd7-4885-a0a4-2fb2044fdb98",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายเกียรติศักดิ์ วรรณพาด",
+      "party": "พลวัต",
+      "votes": 61,
+      "candidate_uuid": "c0fa043e-1262-44c2-8245-68a30837abda",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

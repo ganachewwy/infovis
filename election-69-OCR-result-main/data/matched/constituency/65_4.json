@@ -1,0 +1,139 @@
+{
+  "province_name": "พิษณุโลก",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128190,
+    "1.2": 94492,
+    "2.1": 130189,
+    "2.2": 94492,
+    "2.3": 35697,
+    "3.1": 89961,
+    "3.2": 8,
+    "3.3": 4523,
+    "3.4": 94492,
+    "4.1": 88736,
+    "4.2": 3345,
+    "4.3": 2411
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายนิยม ช่างพินิจ",
+      "party": "ภูมิใจไทย",
+      "votes": 42805
+    },
+    {
+      "number": 1,
+      "name": "นางสาวพิมพ์พิชชา ชัยศุภกิจเจริญ",
+      "party": "เพื่อไทย",
+      "votes": 29467
+    },
+    {
+      "number": 4,
+      "name": "นายนิธิทนันท์ ก้าวศรีสุริยะธาดา",
+      "party": "ประชาชน",
+      "votes": 14282
+    },
+    {
+      "number": 5,
+      "name": "นายเฉลา บดีรัฐ",
+      "party": "ประชาธิปัตย์",
+      "votes": 746
+    },
+    {
+      "number": 6,
+      "name": "นางสาวณัฏฐปีญา แครบทรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 731
+    },
+    {
+      "number": 2,
+      "name": "นายปองภพ ณ สงขลา",
+      "party": "กล้าธรรม",
+      "votes": 534
+    },
+    {
+      "number": 7,
+      "name": "นายบรรจบ เมฆประดับ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 171
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/38. พิษณุโลก เขต 4.json",
+  "_validation": {
+    "vote_sum": 88736,
+    "good_votes": 88736,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "65",
+  "province_name_normalized": "พิษณุโลก",
+  "summary": {
+    "eligible_voters": 128190,
+    "voters_came": 94492,
+    "ballots_received": 130189,
+    "ballots_used": 94492,
+    "good_votes": 88736,
+    "invalid_votes": 3345,
+    "no_votes": 2411
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายนิยม ช่างพินิจ",
+      "party": "ภูมิใจไทย",
+      "votes": 42805,
+      "candidate_uuid": "e3a8f727-5cd8-435a-b944-73ab3a817d02",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวพิมพ์พิชชา ชัยศุภกิจเจริญ",
+      "party": "เพื่อไทย",
+      "votes": 29467,
+      "candidate_uuid": "4b9501a3-ab51-473c-b57a-09ca8d012108",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายนิธิทนันท์ ก้าวศรีสุริยะธาดา",
+      "party": "ประชาชน",
+      "votes": 14282,
+      "candidate_uuid": "d20df11e-e2fd-40f8-8b0f-87530b9dac96",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเฉลา บดีรัฐ",
+      "party": "ประชาธิปัตย์",
+      "votes": 746,
+      "candidate_uuid": "dad367fe-4ea7-406f-93ce-76aa0021af71",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวณัฏฐปีญา แครบทรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 731,
+      "candidate_uuid": "950a19ca-b486-43fb-b529-c38924d5e235",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายปองภพ ณ สงขลา",
+      "party": "กล้าธรรม",
+      "votes": 534,
+      "candidate_uuid": "f237d47e-1ba3-4bef-a635-22e30c31ebf7",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายบรรจบ เมฆประดับ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 171,
+      "candidate_uuid": "cf268b05-1a1a-4aec-9500-ec2be5b0c7ad",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

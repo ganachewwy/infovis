@@ -1,0 +1,57 @@
+{
+  "province_name": "พังงา",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 100343,
+    "1.2": 74406,
+    "2.1": 103757,
+    "2.2": 74406,
+    "2.3": 29351,
+    "3.1": 70769,
+    "3.2": 33,
+    "3.3": 3604,
+    "3.4": 74406,
+    "4.1": 66345,
+    "4.2": 2919,
+    "4.3": 5142
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายอรรถพล ไตรศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 36274
+    },
+    {
+      "number": 4,
+      "name": "นายสรรเพชร ทิพย์มณเฑียร",
+      "party": "ประชาธิปัตย์",
+      "votes": 15654
+    },
+    {
+      "number": 3,
+      "name": "นายอมรศักดิ์ หอมจันทร์",
+      "party": "ประชาชน",
+      "votes": 9019
+    },
+    {
+      "number": 2,
+      "name": "นายธราธิป ทองเจิม",
+      "party": "กล้าธรรม",
+      "votes": 4171
+    },
+    {
+      "number": 1,
+      "name": "นายชนัญ เรื่องผล",
+      "party": "เพื่อไทย",
+      "votes": 1227
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/35. พังงา เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 66345,
+    "good_votes": 66345,
+    "sum_diff_pct": 0.0
+  }
+}

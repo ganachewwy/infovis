@@ -1,0 +1,209 @@
+{
+  "province_name": "เชียงใหม่",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137824,
+    "1.2": 103006,
+    "2.1": 140333,
+    "2.2": 103006,
+    "2.3": 37327,
+    "3.1": 94961,
+    "3.2": 32,
+    "3.3": 8013,
+    "3.4": 103006,
+    "4.1": 93695,
+    "4.2": 2478,
+    "4.3": 6833
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นางสาวเพชรรัตน์ ใหม่ชมภู",
+      "party": "ประชาชน",
+      "votes": 47840
+    },
+    {
+      "number": 6,
+      "name": "นายธีรพัฒน์ ตันพิริยะกุล",
+      "party": "เพื่อไทย",
+      "votes": 20164
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนารากร ติยายน",
+      "party": "ประชาธิปัตย์",
+      "votes": 8513
+    },
+    {
+      "number": 5,
+      "name": "นายชินภัสร์ กิจเลิศสิริวัฒนา",
+      "party": "ภูมิใจไทย",
+      "votes": 6888
+    },
+    {
+      "number": 4,
+      "name": "นายภวฤทธิ์ กาญจนเกตุ",
+      "party": "กล้าธรรม",
+      "votes": 3091
+    },
+    {
+      "number": 9,
+      "name": "นายนิธิวิทย์ เกียรติสยมภู",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3033
+    },
+    {
+      "number": 3,
+      "name": "นางสาวมนัญชยา นิลประยูร",
+      "party": "เศรษฐกิจ",
+      "votes": 1390
+    },
+    {
+      "number": 8,
+      "name": "นายพจนารถ ศรียารัณย",
+      "party": "โอกาสใหม่",
+      "votes": 943
+    },
+    {
+      "number": 1,
+      "name": "นายปราณกมล สุขวรวงษ์",
+      "party": "วิชชั่นใหม่",
+      "votes": 769
+    },
+    {
+      "number": 11,
+      "name": "นายอิสระพงศ์ เจริญวรายุทธ",
+      "party": "รักชาติ",
+      "votes": 460
+    },
+    {
+      "number": 12,
+      "name": "ว่าที่ร้อยเอกจอห์นนพดล วศินสุนทร",
+      "party": "เสรีรวมไทย",
+      "votes": 437
+    },
+    {
+      "number": 10,
+      "name": "นายญาณพัฒน์ พันอ้น",
+      "party": "ไทยก้าวใหม่",
+      "votes": 167
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/14. เชียงใหม่ เขต 1.json",
+  "_validation": {
+    "vote_sum": 93695,
+    "good_votes": 93695,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "50",
+  "province_name_normalized": "เชียงใหม่",
+  "summary": {
+    "eligible_voters": 137824,
+    "voters_came": 103006,
+    "ballots_received": 140333,
+    "ballots_used": 103006,
+    "good_votes": 93695,
+    "invalid_votes": 2478,
+    "no_votes": 6833
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นางสาวเพชรรัตน์ ใหม่ชมภู",
+      "party": "ประชาชน",
+      "votes": 47840,
+      "candidate_uuid": "e310ed5d-4d96-47ac-821b-dc8e7adb2874",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธีรพัฒน์ ตันพิริยะกุล",
+      "party": "เพื่อไทย",
+      "votes": 20164,
+      "candidate_uuid": "6ad62db8-82af-4309-af03-92667a0d02e6",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนารากร ติยายน",
+      "party": "ประชาธิปัตย์",
+      "votes": 8513,
+      "candidate_uuid": "376f2e46-df46-4d10-aeb2-33026de7440c",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชินภัสร์ กิจเลิศสิริวัฒนา",
+      "party": "ภูมิใจไทย",
+      "votes": 6888,
+      "candidate_uuid": "a9127fde-b20d-45a4-8398-5d9ccda9dff9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายภวฤทธิ์ กาญจนเกตุ",
+      "party": "กล้าธรรม",
+      "votes": 3091,
+      "candidate_uuid": "ee246ef4-838d-4d9c-bdfb-99232c3b75ea",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายนิธิวิทย์ เกียรติสยมภู",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3033,
+      "candidate_uuid": "5d9ec6b9-8948-4e37-b9ce-617550c215f6",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวมนัญชยา นิลประยูร",
+      "party": "เศรษฐกิจ",
+      "votes": 1390,
+      "candidate_uuid": "c374dc3f-e320-4f19-92f1-dec9afd48754",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายพจนารถ ศรียารัณย",
+      "party": "โอกาสใหม่",
+      "votes": 943,
+      "candidate_uuid": "0957d0a6-3c6e-4d30-a1bd-b64c2bdc6b1f",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายปราณกมล สุขวรวงษ์",
+      "party": "วิชชั่นใหม่",
+      "votes": 769,
+      "candidate_uuid": "40d2781d-3277-436a-a1c6-86248aea4c1c",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายอิสระพงศ์ เจริญวรายุทธ",
+      "party": "รักชาติ",
+      "votes": 460,
+      "candidate_uuid": "995ecbf3-effa-479a-b986-4c239dac5922",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "ว่าที่ร้อยเอกจอห์นนพดล วศินสุนทร",
+      "party": "เสรีรวมไทย",
+      "votes": 437,
+      "candidate_uuid": "e8fb5e12-d150-4ae2-9dfd-6fbd6c6cbf7a",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายญาณพัฒน์ พันอ้น",
+      "party": "ไทยก้าวใหม่",
+      "votes": 167,
+      "candidate_uuid": "34982897-50eb-4208-ab28-3df9a37378a2",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

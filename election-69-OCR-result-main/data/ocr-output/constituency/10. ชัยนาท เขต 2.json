@@ -1,0 +1,63 @@
+{
+  "province_name": "ชัยนาท",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130196,
+    "1.2": 95079,
+    "2.1": 128460,
+    "2.2": 95079,
+    "2.3": 33381,
+    "3.1": 90831,
+    "3.2": 0,
+    "3.3": 4248,
+    "3.4": 95079,
+    "4.1": 84484,
+    "4.2": 4951,
+    "4.3": 5644
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายมณเฑียร สงฆ์ประชา",
+      "party": "ภูมิใจไทย",
+      "votes": 54585
+    },
+    {
+      "number": 2,
+      "name": "นายสราวุธ งามสุขศรี",
+      "party": "ประชาชน",
+      "votes": 16933
+    },
+    {
+      "number": 4,
+      "name": "นายวิฑูร ลี้ธีระนานนท์",
+      "party": "เพื่อไทย",
+      "votes": 8937
+    },
+    {
+      "number": 3,
+      "name": "นายธงชัย จอยซู",
+      "party": "ประชาธิปัตย์",
+      "votes": 2819
+    },
+    {
+      "number": 6,
+      "name": "นายปัญญา ไทยรัตนกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 747
+    },
+    {
+      "number": 5,
+      "name": "นายสุทิน แจงสิน",
+      "party": "กลาธรรม",
+      "votes": 463
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/10. ชัยนาท เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 84484,
+    "good_votes": 84484,
+    "sum_diff_pct": 0.0
+  }
+}

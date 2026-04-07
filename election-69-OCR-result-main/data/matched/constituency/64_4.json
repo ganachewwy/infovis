@@ -1,0 +1,139 @@
+{
+  "province_name": "สุโขทัย",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 120229,
+    "1.2": 87668,
+    "2.1": 121643,
+    "2.2": 87668,
+    "2.3": 33975,
+    "3.1": 81505,
+    "3.2": 5,
+    "3.3": 6158,
+    "3.4": 87668,
+    "4.1": 82780,
+    "4.2": 2915,
+    "4.3": 1973
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายนวพันธ์ เอื้อคณิต",
+      "party": "กล้าธรรม",
+      "votes": 880
+    },
+    {
+      "number": 2,
+      "name": "นายจักรวาล ชัยวิรัตน์นุกูล",
+      "party": "เพื่อไทย",
+      "votes": 20045
+    },
+    {
+      "number": 3,
+      "name": "นายศราวุฒิ ปรีดากัญญารัตน์",
+      "party": "เศรษฐกิจ",
+      "votes": 740
+    },
+    {
+      "number": 4,
+      "name": "นางสาวนาตยา กรุณามิตร",
+      "party": "ประชาชน",
+      "votes": 12143
+    },
+    {
+      "number": 5,
+      "name": "นายสมเจตน์ ลิมปะพันธุ์",
+      "party": "ภูมิใจไทย",
+      "votes": 48293
+    },
+    {
+      "number": 6,
+      "name": "นางสาวดรุณี ขำดอน",
+      "party": "ประชาธิปัตย์",
+      "votes": 495
+    },
+    {
+      "number": 7,
+      "name": "นายสะอาด กาฟัก",
+      "party": "เสรีรวมไทย",
+      "votes": 184
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/66. สุโขทัย เขต 4.json",
+  "_validation": {
+    "vote_sum": 82780,
+    "good_votes": 82780,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "64",
+  "province_name_normalized": "สุโขทัย",
+  "summary": {
+    "eligible_voters": 120229,
+    "voters_came": 87668,
+    "ballots_received": 121643,
+    "ballots_used": 87668,
+    "good_votes": 82780,
+    "invalid_votes": 2915,
+    "no_votes": 1973
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายนวพันธ์ เอื้อคณิต",
+      "party": "กล้าธรรม",
+      "votes": 880,
+      "candidate_uuid": "5b8be6fc-1360-4b25-8f31-53206a89bcd3",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายจักรวาล ชัยวิรัตน์นุกูล",
+      "party": "เพื่อไทย",
+      "votes": 20045,
+      "candidate_uuid": "c2e45474-a01e-47ed-b834-0b3a3112b425",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายศราวุฒิ ปรีดากัญญารัตน์",
+      "party": "เศรษฐกิจ",
+      "votes": 740,
+      "candidate_uuid": "8dbad9a3-4a0f-4e89-b33c-5754cb6941ce",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวนาตยา กรุณามิตร",
+      "party": "ประชาชน",
+      "votes": 12143,
+      "candidate_uuid": "43676137-d91e-472a-998c-9853546cb204",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสมเจตน์ ลิมปะพันธุ์",
+      "party": "ภูมิใจไทย",
+      "votes": 48293,
+      "candidate_uuid": "db572007-0f16-42a5-a926-b48cbacb7da2",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวดรุณี ขำดอน",
+      "party": "ประชาธิปัตย์",
+      "votes": 495,
+      "candidate_uuid": "bf7ed175-82c8-4f35-9bd8-47c56deba7c6",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสะอาด กาฟัก",
+      "party": "เสรีรวมไทย",
+      "votes": 184,
+      "candidate_uuid": "e739f2ca-cfe7-4314-a2a1-e4443dfe2000",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "นนทบุรี",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144044,
+    "1.2": 110023,
+    "2.1": 147588,
+    "2.2": 110023,
+    "2.3": 37565,
+    "3.1": 105654,
+    "3.2": 5,
+    "3.3": 4364,
+    "3.4": 110023,
+    "4.1": 99026,
+    "4.2": 3607,
+    "4.3": 7390
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายสุทัศน์ มีศิริ",
+      "party": "ประชาชน",
+      "votes": 44405
+    },
+    {
+      "number": 2,
+      "name": "นางสาวศศิประภา ดีรอด",
+      "party": "ภูมิใจไทย",
+      "votes": 25218
+    },
+    {
+      "number": 5,
+      "name": "นายประถมการ อ่วมอ่อง",
+      "party": "เพื่อไทย",
+      "votes": 17968
+    },
+    {
+      "number": 1,
+      "name": "นายพงศกร นกทรัพย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 6595
+    },
+    {
+      "number": 8,
+      "name": "นายเกริกหิรัญ แปลกประเสริฐ",
+      "party": "เศรษฐกิจ",
+      "votes": 1741
+    },
+    {
+      "number": 6,
+      "name": "นายชานนท์ พงษ์เจริญ",
+      "party": "ทางเลือกใหม่",
+      "votes": 1389
+    },
+    {
+      "number": 3,
+      "name": "นายธีรวัจน์ ดารามาศ",
+      "party": "พลวัต",
+      "votes": 887
+    },
+    {
+      "number": 7,
+      "name": "นายคุณากร มั่นนทีรัย",
+      "party": "กล้าธรรม",
+      "votes": 823
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/24. นนทบุรี เขต 6.json",
+  "_validation": {
+    "vote_sum": 99026,
+    "good_votes": 99026,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "12",
+  "province_name_normalized": "นนทบุรี",
+  "summary": {
+    "eligible_voters": 144044,
+    "voters_came": 110023,
+    "ballots_received": 147588,
+    "ballots_used": 110023,
+    "good_votes": 99026,
+    "invalid_votes": 3607,
+    "no_votes": 7390
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายสุทัศน์ มีศิริ",
+      "party": "ประชาชน",
+      "votes": 44405,
+      "candidate_uuid": "f0ac241b-e218-4c8e-9bb5-e52e2ed8a06a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวศศิประภา ดีรอด",
+      "party": "ภูมิใจไทย",
+      "votes": 25218,
+      "candidate_uuid": "0fc13d67-f0a4-419e-936e-d2fd4b1b5bdc",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายประถมการ อ่วมอ่อง",
+      "party": "เพื่อไทย",
+      "votes": 17968,
+      "candidate_uuid": "70f3e5e4-575d-41bb-a116-70d08d027dfc",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพงศกร นกทรัพย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 6595,
+      "candidate_uuid": "4247defd-3e68-41f4-94a3-364f371eddbc",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายเกริกหิรัญ แปลกประเสริฐ",
+      "party": "เศรษฐกิจ",
+      "votes": 1741,
+      "candidate_uuid": "f6060e50-b246-4fa6-8794-b70a8abd2c5d",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายชานนท์ พงษ์เจริญ",
+      "party": "ทางเลือกใหม่",
+      "votes": 1389,
+      "candidate_uuid": "601f5e78-4454-4a14-a063-8f6650b6edba",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธีรวัจน์ ดารามาศ",
+      "party": "พลวัต",
+      "votes": 887,
+      "candidate_uuid": "1c6a4990-e70e-4daf-a741-baf791cb3927",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายคุณากร มั่นนทีรัย",
+      "party": "กล้าธรรม",
+      "votes": 823,
+      "candidate_uuid": "19b4f16a-68ec-4a2e-99b6-d28c3cbcc04d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

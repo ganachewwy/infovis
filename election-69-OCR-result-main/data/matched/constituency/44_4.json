@@ -1,0 +1,153 @@
+{
+  "province_name": "มหาสารคาม",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 125931,
+    "1.2": 84945,
+    "2.1": 123850,
+    "2.2": 84945,
+    "2.3": 38905,
+    "3.1": 78875,
+    "3.2": 4,
+    "3.3": 6066,
+    "3.4": 84945,
+    "4.1": 80681,
+    "4.2": 2959,
+    "4.3": 1305
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวิเชียร จงชูวณิชย์",
+      "party": "ภูมิใจไทย",
+      "votes": 30843
+    },
+    {
+      "number": 6,
+      "name": "นายชนินทร์ มีนาสันติรักษ์",
+      "party": "กล้าธรรม",
+      "votes": 21773
+    },
+    {
+      "number": 9,
+      "name": "นายสรรพภัญญู ศิริไปล์",
+      "party": "เพื่อไทย",
+      "votes": 15459
+    },
+    {
+      "number": 2,
+      "name": "นายวันชนะ ชัยรุ่งเรือง",
+      "party": "ประชาชน",
+      "votes": 11621
+    },
+    {
+      "number": 5,
+      "name": "นายเกษม สิงพร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 318
+    },
+    {
+      "number": 4,
+      "name": "นายอำนาจ ทบทอบ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 286
+    },
+    {
+      "number": 7,
+      "name": "นายเนตร แก้วลาด",
+      "party": "ประชาธิปัตย์",
+      "votes": 248
+    },
+    {
+      "number": 8,
+      "name": "นายประสงค์ กันพล",
+      "party": "พลังประชารัฐ",
+      "votes": 133
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/43. มหาสารคาม เขต 4.json",
+  "_validation": {
+    "vote_sum": 80681,
+    "good_votes": 80681,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "44",
+  "province_name_normalized": "มหาสารคาม",
+  "summary": {
+    "eligible_voters": 125931,
+    "voters_came": 84945,
+    "ballots_received": 123850,
+    "ballots_used": 84945,
+    "good_votes": 80681,
+    "invalid_votes": 2959,
+    "no_votes": 1305
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายวิเชียร จงชูวณิชย์",
+      "party": "ภูมิใจไทย",
+      "votes": 30843,
+      "candidate_uuid": "b751fdf2-9389-4538-bd42-c4bea2c1c8ac",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายชนินทร์ มีนาสันติรักษ์",
+      "party": "กล้าธรรม",
+      "votes": 21773,
+      "candidate_uuid": "dc8adacf-845b-4d7f-9537-9baa0d1f4ec4",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสรรพภัญญู ศิริไปล์",
+      "party": "เพื่อไทย",
+      "votes": 15459,
+      "candidate_uuid": "ad617e41-696d-41cc-8cc4-b192c5f909ad",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวันชนะ ชัยรุ่งเรือง",
+      "party": "ประชาชน",
+      "votes": 11621,
+      "candidate_uuid": "68aadc72-0d4f-4374-91a3-8d1b49957e74",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเกษม สิงพร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 318,
+      "candidate_uuid": "8b20106c-235d-47c1-bd19-3eb09117ccf6",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอำนาจ ทบทอบ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 286,
+      "candidate_uuid": "cdbc3af9-c68c-4d0c-8804-6fefce9a87af",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายเนตร แก้วลาด",
+      "party": "ประชาธิปัตย์",
+      "votes": 248,
+      "candidate_uuid": "266a235f-f6f7-44fa-b28f-3ee98c5fa95b",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายประสงค์ กันพล",
+      "party": "พลังประชารัฐ",
+      "votes": 133,
+      "candidate_uuid": "bd68e137-2c60-4e7e-83ae-3de85791f3f9",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

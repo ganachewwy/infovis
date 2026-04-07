@@ -1,0 +1,125 @@
+{
+  "province_name": "กำแพงเพชร",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 147930,
+    "1.2": 105321,
+    "2.1": 150483,
+    "2.2": 105321,
+    "2.3": 45162,
+    "3.1": 99878,
+    "3.2": 0,
+    "3.3": 5443,
+    "3.4": 105321,
+    "4.1": 97504,
+    "4.2": 4752,
+    "4.3": 3065
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายเพชรภูมิ อาภรณ์รัตน์",
+      "party": "กล้าธรรม",
+      "votes": 42302
+    },
+    {
+      "number": 2,
+      "name": "นายธนากร รัตนากร",
+      "party": "เพื่อไทย",
+      "votes": 32930
+    },
+    {
+      "number": 3,
+      "name": "นายสุกิจ ศุภกิจเจริญ",
+      "party": "ประชาชน",
+      "votes": 16681
+    },
+    {
+      "number": 6,
+      "name": "นายสมชาย ผลมา",
+      "party": "ภูมิใจไทย",
+      "votes": 2161
+    },
+    {
+      "number": 4,
+      "name": "นางสาวกาญจนา เสือจู",
+      "party": "ประชาธิปัตย์",
+      "votes": 2108
+    },
+    {
+      "number": 7,
+      "name": "นายเรวัตร์ อินทพงษ์",
+      "party": "พลังประชารัฐ",
+      "votes": 1322
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/5. กำแพงเพชร เขต 2.json",
+  "_validation": {
+    "vote_sum": 97504,
+    "good_votes": 97504,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "62",
+  "province_name_normalized": "กำแพงเพชร",
+  "summary": {
+    "eligible_voters": 147930,
+    "voters_came": 105321,
+    "ballots_received": 150483,
+    "ballots_used": 105321,
+    "good_votes": 97504,
+    "invalid_votes": 4752,
+    "no_votes": 3065
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายเพชรภูมิ อาภรณ์รัตน์",
+      "party": "กล้าธรรม",
+      "votes": 42302,
+      "candidate_uuid": "25242009-e16c-4880-b37e-38cd2f3566db",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธนากร รัตนากร",
+      "party": "เพื่อไทย",
+      "votes": 32930,
+      "candidate_uuid": "d2188360-5228-4894-b8d9-68e6c0f48934",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสุกิจ ศุภกิจเจริญ",
+      "party": "ประชาชน",
+      "votes": 16681,
+      "candidate_uuid": "f2c82191-c822-4aa8-b438-b406e4632373",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสมชาย ผลมา",
+      "party": "ภูมิใจไทย",
+      "votes": 2161,
+      "candidate_uuid": "685bafb0-b638-4e2d-99aa-98b63636608c",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวกาญจนา เสือจู",
+      "party": "ประชาธิปัตย์",
+      "votes": 2108,
+      "candidate_uuid": "f6ae0bd0-fcab-45f9-8870-8746ad16bca6",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายเรวัตร์ อินทพงษ์",
+      "party": "พลังประชารัฐ",
+      "votes": 1322,
+      "candidate_uuid": "88bbed94-4007-4c4a-8cb0-830938a5be1c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

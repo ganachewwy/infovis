@@ -1,0 +1,153 @@
+{
+  "province_name": "เชียงใหม่",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127678,
+    "1.2": 91404,
+    "2.1": 129199,
+    "2.2": 91404,
+    "2.3": 37795,
+    "3.1": 85894,
+    "3.2": 2,
+    "3.3": 5508,
+    "3.4": 91404,
+    "4.1": 81574,
+    "4.2": 6347,
+    "4.3": 3483
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+      "party": "กล้าธรรม",
+      "votes": 33043
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่ร้อยตรีหญิงอรพรรณ จันตาเรื่อง",
+      "party": "ประชาชน",
+      "votes": 26649
+    },
+    {
+      "number": 8,
+      "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 16016
+    },
+    {
+      "number": 5,
+      "name": "นายวรโชติ จี้เรือน",
+      "party": "ภูมิใจไทย",
+      "votes": 2041
+    },
+    {
+      "number": 4,
+      "name": "นายอุทิศ สายดวงแก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 1534
+    },
+    {
+      "number": 6,
+      "name": "นายธรรมมญ วุฒิลักษณ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1166
+    },
+    {
+      "number": 7,
+      "name": "นายอรุณ ธนะหมี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 798
+    },
+    {
+      "number": 3,
+      "name": "นายเอก ปุกมณี",
+      "party": "วิชชั่นใหม่",
+      "votes": 327
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/14. เชียงใหม่ เขต 6.json",
+  "_validation": {
+    "vote_sum": 81574,
+    "good_votes": 81574,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "50",
+  "province_name_normalized": "เชียงใหม่",
+  "summary": {
+    "eligible_voters": 127678,
+    "voters_came": 91404,
+    "ballots_received": 129199,
+    "ballots_used": 91404,
+    "good_votes": 81574,
+    "invalid_votes": 6347,
+    "no_votes": 3483
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวสุภานันท์ ปัญญาทิพย์",
+      "party": "กล้าธรรม",
+      "votes": 33043,
+      "candidate_uuid": "2dd91fce-073b-419e-8523-b7c330fd1e11",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่ร้อยตรีหญิงอรพรรณ จันตาเรื่อง",
+      "party": "ประชาชน",
+      "votes": 26649,
+      "candidate_uuid": "c21f8ccc-fa52-4d1a-a56e-44e3c90df714",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายบัณจงศักดิ์ วงศ์รัตนวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 16016,
+      "candidate_uuid": "e9767a52-5001-40f1-b000-06a9fb6c8cd1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวรโชติ จี้เรือน",
+      "party": "ภูมิใจไทย",
+      "votes": 2041,
+      "candidate_uuid": "ee9a92e1-8912-4de2-8e26-6b4a70eeb3c1",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอุทิศ สายดวงแก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 1534,
+      "candidate_uuid": "7ead0620-a759-4790-a5ce-c18fd4fa1370",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธรรมมญ วุฒิลักษณ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1166,
+      "candidate_uuid": "1771faea-d7c5-47bb-9b72-3dbf091a53cd",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอรุณ ธนะหมี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 798,
+      "candidate_uuid": "257429ab-8fb1-421b-9f72-be198e1723c2",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเอก ปุกมณี",
+      "party": "วิชชั่นใหม่",
+      "votes": 327,
+      "candidate_uuid": "9c1ff098-55c8-40e9-89d8-3d3be8b2e3d7",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,125 @@
+{
+  "province_name": "พระนครศรีอยุธยา",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136428,
+    "1.2": 107866,
+    "2.1": 141128,
+    "2.2": 107866,
+    "2.3": 33262,
+    "3.1": 105294,
+    "3.2": 4,
+    "3.3": 2568,
+    "3.4": 107866,
+    "4.1": 100331,
+    "4.2": 3677,
+    "4.3": 3858
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายภาคภูมิสุข พวงกูลสมบัติ",
+      "party": "เศรษฐกิจ",
+      "votes": 2104
+    },
+    {
+      "number": 2,
+      "name": "นายวิเชษฐ์ รุณเจริญ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 915
+    },
+    {
+      "number": 3,
+      "name": "นางสาวธนภร โสมทองแดง",
+      "party": "เพื่อไทย",
+      "votes": 5768
+    },
+    {
+      "number": 4,
+      "name": "นายวีระยุทธ ใยวังหน้า",
+      "party": "ประชาชน",
+      "votes": 31983
+    },
+    {
+      "number": 5,
+      "name": "นางสาวพิมพฤดา ตันจรารักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 58072
+    },
+    {
+      "number": 6,
+      "name": "นายเอกราช ใกล้สว่าง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1489
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/33. พระนครศรีอยุธยา เขต 3.json",
+  "_validation": {
+    "vote_sum": 100331,
+    "good_votes": 100331,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "14",
+  "province_name_normalized": "พระนครศรีอยุธยา",
+  "summary": {
+    "eligible_voters": 136428,
+    "voters_came": 107866,
+    "ballots_received": 141128,
+    "ballots_used": 107866,
+    "good_votes": 100331,
+    "invalid_votes": 3677,
+    "no_votes": 3858
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายภาคภูมิสุข พวงกูลสมบัติ",
+      "party": "เศรษฐกิจ",
+      "votes": 2104,
+      "candidate_uuid": "5c92297f-3f46-4b50-aa68-91f5d894be00",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวิเชษฐ์ รุณเจริญ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 915,
+      "candidate_uuid": "22453f03-c454-41e1-b88c-f79d1a3ef9ee",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวธนภร โสมทองแดง",
+      "party": "เพื่อไทย",
+      "votes": 5768,
+      "candidate_uuid": "cf1b91a0-4135-42e5-8cf6-99d24aa261b2",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวีระยุทธ ใยวังหน้า",
+      "party": "ประชาชน",
+      "votes": 31983,
+      "candidate_uuid": "6b3dd347-131e-4f2a-8c14-73178a7203a1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวพิมพฤดา ตันจรารักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 58072,
+      "candidate_uuid": "b3afaf43-94e6-422f-9c1f-99d356deb46e",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเอกราช ใกล้สว่าง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1489,
+      "candidate_uuid": "dd1f7315-9b90-4463-b4f4-7cb301895f75",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

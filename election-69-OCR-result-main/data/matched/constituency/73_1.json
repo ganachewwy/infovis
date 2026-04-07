@@ -1,0 +1,153 @@
+{
+  "province_name": "นครปฐม",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129731,
+    "1.2": 104422,
+    "2.1": 130940,
+    "2.2": 104422,
+    "2.3": 26518,
+    "3.1": 101808,
+    "3.2": 0,
+    "3.3": 2614,
+    "3.4": 104422,
+    "4.1": 95931,
+    "4.2": 3661,
+    "4.3": 4830
+  },
+  "results": [
+    {
+      "number": null,
+      "name": "นายศุภโชค ศรีสุขจร",
+      "party": "ภูมิใจไทย",
+      "votes": 57347
+    },
+    {
+      "number": 6,
+      "name": "นางสาวภาชินี เหลืองเพิ่มสกุล",
+      "party": "ประชาชน",
+      "votes": 27833
+    },
+    {
+      "number": 7,
+      "name": "นายธนพล โตโพธิ์ไทย",
+      "party": "เพื่อไทย",
+      "votes": 4422
+    },
+    {
+      "number": 5,
+      "name": "นายอัครดิฏฐ์ คุณดิลกจิรายุ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1687
+    },
+    {
+      "number": 4,
+      "name": "นายโกศล สิงห์ทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 1679
+    },
+    {
+      "number": 2,
+      "name": "ร้อยตำรวจโท สุธรรม เข็มแข็งปรีชานน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1492
+    },
+    {
+      "number": 1,
+      "name": "นายอุฬาร ชั้นอินทร์งาม",
+      "party": "กล้าธรรม",
+      "votes": 1041
+    },
+    {
+      "number": 3,
+      "name": "นายชยพล จำปาโชติ",
+      "party": "พลวัต",
+      "votes": 430
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/19. นครปฐม เขต 1.json",
+  "_validation": {
+    "vote_sum": 95931,
+    "good_votes": 95931,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "73",
+  "province_name_normalized": "นครปฐม",
+  "summary": {
+    "eligible_voters": 129731,
+    "voters_came": 104422,
+    "ballots_received": 130940,
+    "ballots_used": 104422,
+    "good_votes": 95931,
+    "invalid_votes": 3661,
+    "no_votes": 4830
+  },
+  "matched_candidates": [
+    {
+      "number": null,
+      "name": "นายศุภโชค ศรีสุขจร",
+      "party": "ภูมิใจไทย",
+      "votes": 57347,
+      "candidate_uuid": "59a5423a-d415-46d9-875a-effbb6925a3a",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวภาชินี เหลืองเพิ่มสกุล",
+      "party": "ประชาชน",
+      "votes": 27833,
+      "candidate_uuid": "8bc260ab-d84e-4aa3-b552-a2fa9b1dc938",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายธนพล โตโพธิ์ไทย",
+      "party": "เพื่อไทย",
+      "votes": 4422,
+      "candidate_uuid": "e03da988-ac05-4db7-bc81-3127d1ca73e3",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอัครดิฏฐ์ คุณดิลกจิรายุ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1687,
+      "candidate_uuid": "eed345e8-6d59-47dd-afc9-73b31e91f4d8",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายโกศล สิงห์ทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 1679,
+      "candidate_uuid": "40c7ed90-a849-45fc-bff5-0364ac9034d1",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "ร้อยตำรวจโท สุธรรม เข็มแข็งปรีชานน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1492,
+      "candidate_uuid": "1c1d93b2-efcf-4c38-ab1a-32a2577f573b",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอุฬาร ชั้นอินทร์งาม",
+      "party": "กล้าธรรม",
+      "votes": 1041,
+      "candidate_uuid": "9668f535-76b8-4b84-a3cc-449d055208fb",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชยพล จำปาโชติ",
+      "party": "พลวัต",
+      "votes": 430,
+      "candidate_uuid": "675bf9f4-17a4-4d16-9dd7-cfee68fae5a8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

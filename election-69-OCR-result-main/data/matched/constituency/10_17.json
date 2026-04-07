@@ -1,0 +1,251 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 17,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 120676,
+    "1.2": 79075,
+    "2.1": 118860,
+    "2.2": 79075,
+    "2.3": 39785,
+    "3.1": 76102,
+    "3.2": 0,
+    "3.3": 2973,
+    "3.4": 79075,
+    "4.1": 71720,
+    "4.2": 1965,
+    "4.3": 5390
+  },
+  "results": [
+    {
+      "number": 10,
+      "name": "นายวีรวุธ รักเที่ยง",
+      "party": "ประชาชน",
+      "votes": 28587
+    },
+    {
+      "number": 4,
+      "name": "นายสุขสันต์ แสงศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 16132
+    },
+    {
+      "number": 6,
+      "name": "นายไพโรจน์ อิสระเสรีพงษ์",
+      "party": "เพื่อไทย",
+      "votes": 12311
+    },
+    {
+      "number": 8,
+      "name": "นายฐิติวัชร์ ดีประเสริฐวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 5611
+    },
+    {
+      "number": 9,
+      "name": "นางสาวณัฐิดา เตาเฟ็ส",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1967
+    },
+    {
+      "number": 3,
+      "name": "นายกรัณ ดรัลพงศ์",
+      "party": "รวมไทยสร้าง",
+      "votes": 1604
+    },
+    {
+      "number": 15,
+      "name": "นางสาวบวรลักษณ์ จงจามรีสีทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 1382
+    },
+    {
+      "number": 11,
+      "name": "นายศิริศักดิ์ อัตดาวีย์",
+      "party": "พลังประชารัฐ",
+      "votes": 864
+    },
+    {
+      "number": 5,
+      "name": "นายมังกร ศิริศรีโพธิ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 773
+    },
+    {
+      "number": 7,
+      "name": "นายธนกิจ สาโสภา",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 745
+    },
+    {
+      "number": 12,
+      "name": "นายนพดลชัย ประภัสสิริ",
+      "party": "กล้าธรรม",
+      "votes": 499
+    },
+    {
+      "number": 2,
+      "name": "นายวุฒิภัทร คำประกอบ",
+      "party": "โอกาสใหม่",
+      "votes": 419
+    },
+    {
+      "number": 1,
+      "name": "นายกิตติศักดิ์ มูลทรัพย์",
+      "party": "วิชชั่นใหม่",
+      "votes": 358
+    },
+    {
+      "number": 13,
+      "name": "นายสุวโรจน์ กิจสมศักดิ์",
+      "party": "ปวงชนไทย",
+      "votes": 246
+    },
+    {
+      "number": 14,
+      "name": "นายชัยพร จิตรอารีย์เลิศ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 222
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 17.json",
+  "_validation": {
+    "vote_sum": 71720,
+    "good_votes": 71720,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 120676,
+    "voters_came": 79075,
+    "ballots_received": 118860,
+    "ballots_used": 79075,
+    "good_votes": 71720,
+    "invalid_votes": 1965,
+    "no_votes": 5390
+  },
+  "matched_candidates": [
+    {
+      "number": 10,
+      "name": "นายวีรวุธ รักเที่ยง",
+      "party": "ประชาชน",
+      "votes": 28587,
+      "candidate_uuid": "024001ce-e928-425c-8adf-099aa8370034",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสุขสันต์ แสงศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 16132,
+      "candidate_uuid": "6e6e978b-8e2d-405b-941e-574d27903cd4",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายไพโรจน์ อิสระเสรีพงษ์",
+      "party": "เพื่อไทย",
+      "votes": 12311,
+      "candidate_uuid": "cd73ba64-039a-42f6-814c-6a1e474803f9",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายฐิติวัชร์ ดีประเสริฐวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 5611,
+      "candidate_uuid": "1d2df60c-bcf8-4f0e-a504-15cc16085b5f",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวณัฐิดา เตาเฟ็ส",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1967,
+      "candidate_uuid": "028093b0-3287-4dd9-b2c7-e274329f0fce",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกรัณ ดรัลพงศ์",
+      "party": "รวมไทยสร้าง",
+      "votes": 1604,
+      "candidate_uuid": "42885441-da3f-49da-91c0-068895b9b4af",
+      "is_active": true
+    },
+    {
+      "number": 15,
+      "name": "นางสาวบวรลักษณ์ จงจามรีสีทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 1382,
+      "candidate_uuid": "3c27d313-9795-4d60-95df-6399971443c8",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายศิริศักดิ์ อัตดาวีย์",
+      "party": "พลังประชารัฐ",
+      "votes": 864,
+      "candidate_uuid": "2badb709-e53e-4883-bc51-a1b091d83b76",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายมังกร ศิริศรีโพธิ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 773,
+      "candidate_uuid": "94e24404-83eb-4c22-862e-0ec87ad3b231",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายธนกิจ สาโสภา",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 745,
+      "candidate_uuid": "02e285d4-ccf7-4fec-9b0d-29463199b221",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายนพดลชัย ประภัสสิริ",
+      "party": "กล้าธรรม",
+      "votes": 499,
+      "candidate_uuid": "76a1a20a-f098-415b-85c9-7e1cf3e5f50d",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวุฒิภัทร คำประกอบ",
+      "party": "โอกาสใหม่",
+      "votes": 419,
+      "candidate_uuid": "ee7adb48-41c4-47bc-9980-deae5b7081c2",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายกิตติศักดิ์ มูลทรัพย์",
+      "party": "วิชชั่นใหม่",
+      "votes": 358,
+      "candidate_uuid": "529000ec-7617-4905-a12d-75b1ea540841",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายสุวโรจน์ กิจสมศักดิ์",
+      "party": "ปวงชนไทย",
+      "votes": 246,
+      "candidate_uuid": "1c10d35f-87ff-48a0-bb38-0b110e1207de",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายชัยพร จิตรอารีย์เลิศ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 222,
+      "candidate_uuid": "c3cbdc4c-4e53-452e-b4a8-3c41bc14d545",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,125 @@
+{
+  "province_name": "ปัตตานี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 110666,
+    "1.2": 81515,
+    "2.1": 114290,
+    "2.2": 81515,
+    "2.3": 32775,
+    "3.1": 78019,
+    "3.2": 6,
+    "3.3": 3490,
+    "3.4": 81515,
+    "4.1": 75926,
+    "4.2": 2861,
+    "4.3": 2728
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายคอซีย์ มามุ",
+      "party": "ภูมิใจไทย",
+      "votes": 38541
+    },
+    {
+      "number": 1,
+      "name": "นายอับดุลบาซิม อาบู",
+      "party": "กล้าธรรม",
+      "votes": 14082
+    },
+    {
+      "number": 3,
+      "name": "นายอรุณ เบ็ญจลักษณ์",
+      "party": "ประชาชาติ",
+      "votes": 13920
+    },
+    {
+      "number": 4,
+      "name": "นายอับดุลเราะมัน สายาดะ",
+      "party": "ประชาชน",
+      "votes": 7134
+    },
+    {
+      "number": 5,
+      "name": "นายเจะนิ สะนิ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1975
+    },
+    {
+      "number": 6,
+      "name": "นายอับดุลการิม ยูโซะ",
+      "party": "เพื่อไทย",
+      "votes": 274
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/32. ปัตตานี เขต 2.json",
+  "_validation": {
+    "vote_sum": 75926,
+    "good_votes": 75926,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "94",
+  "province_name_normalized": "ปัตตานี",
+  "summary": {
+    "eligible_voters": 110666,
+    "voters_came": 81515,
+    "ballots_received": 114290,
+    "ballots_used": 81515,
+    "good_votes": 75926,
+    "invalid_votes": 2861,
+    "no_votes": 2728
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายคอซีย์ มามุ",
+      "party": "ภูมิใจไทย",
+      "votes": 38541,
+      "candidate_uuid": "fe33834b-2977-4212-9820-2c8610a45f21",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอับดุลบาซิม อาบู",
+      "party": "กล้าธรรม",
+      "votes": 14082,
+      "candidate_uuid": "7805ec65-b429-48bc-a07e-97e54e47f04b",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอรุณ เบ็ญจลักษณ์",
+      "party": "ประชาชาติ",
+      "votes": 13920,
+      "candidate_uuid": "fce80706-8032-4920-b625-c2f094b15114",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอับดุลเราะมัน สายาดะ",
+      "party": "ประชาชน",
+      "votes": 7134,
+      "candidate_uuid": "50cf5862-c6a9-40a8-859d-1485f27ba6c6",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเจะนิ สะนิ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1975,
+      "candidate_uuid": "897732e8-9dd0-4d28-96ac-3507eda3e41e",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอับดุลการิม ยูโซะ",
+      "party": "เพื่อไทย",
+      "votes": 274,
+      "candidate_uuid": "1ad069c8-8a95-4097-8de7-309de99038e8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "สุโขทัย",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 118249,
+    "1.2": 84340,
+    "2.1": 120089,
+    "2.2": 84340,
+    "2.3": 35749,
+    "3.1": 78931,
+    "3.2": 24,
+    "3.3": 5385,
+    "3.4": 84340,
+    "4.1": 74658,
+    "4.2": 4044,
+    "4.3": 5638
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นางสาวณัคนางค์ กุลนาถศิริ",
+      "party": "เพื่อไทย",
+      "votes": 30925
+    },
+    {
+      "number": 1,
+      "name": "นางกัญญาวีร์ ทองสงค์",
+      "party": "ประชาชน",
+      "votes": 24095
+    },
+    {
+      "number": 2,
+      "name": "นายชาญกิจ จำรัสศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 8465
+    },
+    {
+      "number": 4,
+      "name": "นายวิรัตน์ วิริยะพงษ์",
+      "party": "พลังประชารัฐ",
+      "votes": 5494
+    },
+    {
+      "number": 7,
+      "name": "นายธนารักษ์ ฉลองสัพพัญญู",
+      "party": "ภูมิใจไทย",
+      "votes": 2461
+    },
+    {
+      "number": 6,
+      "name": "นายอภิรักษ์ อินดี",
+      "party": "เศรษฐกิจ",
+      "votes": 1395
+    },
+    {
+      "number": 3,
+      "name": "นายธนัช ขุนพงษ์ทอง",
+      "party": "กล้าธรรม",
+      "votes": 1247
+    },
+    {
+      "number": 8,
+      "name": "นายนนท์ มาทหมาย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 576
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/66. สุโขทัย เขต 1.json",
+  "_validation": {
+    "vote_sum": 74658,
+    "good_votes": 74658,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "64",
+  "province_name_normalized": "สุโขทัย",
+  "summary": {
+    "eligible_voters": 118249,
+    "voters_came": 84340,
+    "ballots_received": 120089,
+    "ballots_used": 84340,
+    "good_votes": 74658,
+    "invalid_votes": 4044,
+    "no_votes": 5638
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นางสาวณัคนางค์ กุลนาถศิริ",
+      "party": "เพื่อไทย",
+      "votes": 30925,
+      "candidate_uuid": "f3c00d04-43bd-4e5b-af9f-446a806ea947",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางกัญญาวีร์ ทองสงค์",
+      "party": "ประชาชน",
+      "votes": 24095,
+      "candidate_uuid": "79334ce0-c0a3-4454-83e8-dda39539bed6",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายชาญกิจ จำรัสศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 8465,
+      "candidate_uuid": "a0a62ef8-2549-4dba-999f-9c42b9cb0e8e",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิรัตน์ วิริยะพงษ์",
+      "party": "พลังประชารัฐ",
+      "votes": 5494,
+      "candidate_uuid": "cd109d47-0e79-4355-84b8-0df9234a35e8",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายธนารักษ์ ฉลองสัพพัญญู",
+      "party": "ภูมิใจไทย",
+      "votes": 2461,
+      "candidate_uuid": "380e4b3b-a046-42e6-bef5-7bbe4331d164",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอภิรักษ์ อินดี",
+      "party": "เศรษฐกิจ",
+      "votes": 1395,
+      "candidate_uuid": "f3ca0598-59df-4f51-9776-8dd305978b88",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธนัช ขุนพงษ์ทอง",
+      "party": "กล้าธรรม",
+      "votes": 1247,
+      "candidate_uuid": "564d0426-055f-495a-8e42-1f4b79da8aab",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายนนท์ มาทหมาย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 576,
+      "candidate_uuid": "5dc4b880-bc48-4d88-b654-b37b1521ed8b",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

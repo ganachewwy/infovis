@@ -1,0 +1,139 @@
+{
+  "province_name": "หนองคาย",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136455,
+    "1.2": 85701,
+    "2.1": 133780,
+    "2.2": 85701,
+    "2.3": 48079,
+    "3.1": 79811,
+    "3.2": 3,
+    "3.3": 5887,
+    "3.4": 85701,
+    "4.1": 81218,
+    "4.2": 3298,
+    "4.3": 1185
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายยุทธนา ศรีตะบุตร",
+      "party": "พลังประชารัฐ",
+      "votes": 30322
+    },
+    {
+      "number": 2,
+      "name": "นางจิดาภา สุนทรธนากุล",
+      "party": "ภูมิใจไทย",
+      "votes": 26423
+    },
+    {
+      "number": 1,
+      "name": "นางสาวชนก จันทาทอง",
+      "party": "เพื่อไทย",
+      "votes": 13883
+    },
+    {
+      "number": 5,
+      "name": "นางสาวทศพร จันทร์ศรี",
+      "party": "ประชาชน",
+      "votes": 9782
+    },
+    {
+      "number": 4,
+      "name": "นายธงชัย กึ่งมาตย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 397
+    },
+    {
+      "number": 7,
+      "name": "นายจักรภัทร สายไธสง",
+      "party": "ประชากรไทย",
+      "votes": 217
+    },
+    {
+      "number": 6,
+      "name": "นางราตรี กาลจักร์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 194
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/70. หนองคาย เขต 2.json",
+  "_validation": {
+    "vote_sum": 81218,
+    "good_votes": 81218,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "43",
+  "province_name_normalized": "หนองคาย",
+  "summary": {
+    "eligible_voters": 136455,
+    "voters_came": 85701,
+    "ballots_received": 133780,
+    "ballots_used": 85701,
+    "good_votes": 81218,
+    "invalid_votes": 3298,
+    "no_votes": 1185
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายยุทธนา ศรีตะบุตร",
+      "party": "พลังประชารัฐ",
+      "votes": 30322,
+      "candidate_uuid": "35d7a0c7-5280-406c-a45b-4052bffa47b9",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางจิดาภา สุนทรธนากุล",
+      "party": "ภูมิใจไทย",
+      "votes": 26423,
+      "candidate_uuid": "e11d6689-7aac-47de-a5d3-6e9e78ab2296",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวชนก จันทาทอง",
+      "party": "เพื่อไทย",
+      "votes": 13883,
+      "candidate_uuid": "1f1131c5-021d-4fcb-9929-561626f2d7c3",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวทศพร จันทร์ศรี",
+      "party": "ประชาชน",
+      "votes": 9782,
+      "candidate_uuid": "aa1a35a2-54ad-4136-8b0d-551591dae9f4",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธงชัย กึ่งมาตย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 397,
+      "candidate_uuid": "3cb1d88d-91fb-4e65-adff-95ae270130d6",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายจักรภัทร สายไธสง",
+      "party": "ประชากรไทย",
+      "votes": 217,
+      "candidate_uuid": "9a894f8b-7e41-4ff8-8336-48b59c109000",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางราตรี กาลจักร์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 194,
+      "candidate_uuid": "5a2a033e-291b-456d-8360-57128e8a77d7",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

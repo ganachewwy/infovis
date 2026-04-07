@@ -1,0 +1,139 @@
+{
+  "province_name": "เลย",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132976,
+    "1.2": 83494,
+    "2.1": 133800,
+    "2.2": 83494,
+    "2.3": 50306,
+    "3.1": 78652,
+    "3.2": 8,
+    "3.3": 4834,
+    "3.4": 83494,
+    "4.1": 72730,
+    "4.2": 6284,
+    "4.3": 4480
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายศรัณย์ ทิมสุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 27956
+    },
+    {
+      "number": 3,
+      "name": "นายสมศักดิ์ คำมงคุณ",
+      "party": "ประชาชน",
+      "votes": 19571
+    },
+    {
+      "number": 5,
+      "name": "นายจีระศักดิ์ น้อยกำ",
+      "party": "พลังประชารัฐ",
+      "votes": 13478
+    },
+    {
+      "number": 4,
+      "name": "นายชูศักดิ์ บัวระภาสิริ",
+      "party": "กล้าธรรม",
+      "votes": 5393
+    },
+    {
+      "number": 6,
+      "name": "นายนิธินันท์ อินทรโฆษิต",
+      "party": "เศรษฐกิจ",
+      "votes": 2463
+    },
+    {
+      "number": 7,
+      "name": "นายเกรียงไกร กลิ่นจันทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 2286
+    },
+    {
+      "number": 8,
+      "name": "นายสุรสีห์ ลานนท์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1583
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/55. เลย เขต 2.json",
+  "_validation": {
+    "vote_sum": 72730,
+    "good_votes": 72730,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "42",
+  "province_name_normalized": "เลย",
+  "summary": {
+    "eligible_voters": 132976,
+    "voters_came": 83494,
+    "ballots_received": 133800,
+    "ballots_used": 83494,
+    "good_votes": 72730,
+    "invalid_votes": 6284,
+    "no_votes": 4480
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายศรัณย์ ทิมสุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 27956,
+      "candidate_uuid": "6379df98-03d6-49a9-84b3-f84967e4430b",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสมศักดิ์ คำมงคุณ",
+      "party": "ประชาชน",
+      "votes": 19571,
+      "candidate_uuid": "94f16995-bdaa-4b33-98e7-ae9865b225a9",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายจีระศักดิ์ น้อยกำ",
+      "party": "พลังประชารัฐ",
+      "votes": 13478,
+      "candidate_uuid": "dd15a04a-78d3-4b79-8e18-35a069891140",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายชูศักดิ์ บัวระภาสิริ",
+      "party": "กล้าธรรม",
+      "votes": 5393,
+      "candidate_uuid": "2fa015ee-14d2-4fd3-9497-412b84f12ae4",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายนิธินันท์ อินทรโฆษิต",
+      "party": "เศรษฐกิจ",
+      "votes": 2463,
+      "candidate_uuid": "0a460b8a-00a4-4d3d-8ab1-48e59f25efe6",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายเกรียงไกร กลิ่นจันทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 2286,
+      "candidate_uuid": "cbe603ef-d748-4a76-9a19-78991ecca3bb",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุรสีห์ ลานนท์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1583,
+      "candidate_uuid": "f6edbf08-6c58-427d-a73b-1fd735d9cae4",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

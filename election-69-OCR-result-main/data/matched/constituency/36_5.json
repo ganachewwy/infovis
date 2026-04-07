@@ -1,0 +1,195 @@
+{
+  "province_name": "ชัยภูมิ",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132089,
+    "1.2": 89483,
+    "2.1": 136986,
+    "2.2": 89483,
+    "2.3": 47503,
+    "3.1": 84027,
+    "3.2": 0,
+    "3.3": 5456,
+    "3.4": 89483,
+    "4.1": 85450,
+    "4.2": 2651,
+    "4.3": 1382
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายศิวะ พงศ์ธีระดุลย์",
+      "party": "เพื่อไทย",
+      "votes": 29851
+    },
+    {
+      "number": 2,
+      "name": "นายธนกฤต จรรย์โกมล",
+      "party": "ภูมิใจไทย",
+      "votes": 23594
+    },
+    {
+      "number": 3,
+      "name": "นายสุขสันต์ ชื่นจิตร",
+      "party": "กล้าธรรม",
+      "votes": 19605
+    },
+    {
+      "number": 4,
+      "name": "นายอภิเดช ประทุมแก้ว",
+      "party": "ประชาชน",
+      "votes": 9294
+    },
+    {
+      "number": 5,
+      "name": "นายชยนนท์ คำเบ้า",
+      "party": "ประชาธิปัตย์",
+      "votes": 719
+    },
+    {
+      "number": 6,
+      "name": "นายปิยชัย โชติมาวณิช",
+      "party": "เศรษฐกิจ",
+      "votes": 711
+    },
+    {
+      "number": 7,
+      "name": "นายวิชัย ปัญญา",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 646
+    },
+    {
+      "number": 8,
+      "name": "ส.อ.นิติภัส สุภาพงษ์นันทกุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 448
+    },
+    {
+      "number": 9,
+      "name": "นายจงเจริญ เอกทวีกุล",
+      "party": "ประชากรไทย",
+      "votes": 278
+    },
+    {
+      "number": 10,
+      "name": "นายศรคม ภาชา",
+      "party": "พลังประชารัฐ",
+      "votes": 233
+    },
+    {
+      "number": 11,
+      "name": "นายหนูเสน พรมวงศ์",
+      "party": "ทางเลือกใหม่",
+      "votes": 71
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/11. ชัยภูมิ เขต 5.json",
+  "_validation": {
+    "vote_sum": 85450,
+    "good_votes": 85450,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "36",
+  "province_name_normalized": "ชัยภูมิ",
+  "summary": {
+    "eligible_voters": 132089,
+    "voters_came": 89483,
+    "ballots_received": 136986,
+    "ballots_used": 89483,
+    "good_votes": 85450,
+    "invalid_votes": 2651,
+    "no_votes": 1382
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายศิวะ พงศ์ธีระดุลย์",
+      "party": "เพื่อไทย",
+      "votes": 29851,
+      "candidate_uuid": "7ad1389f-cf6a-4598-93a4-fc832de64a70",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธนกฤต จรรย์โกมล",
+      "party": "ภูมิใจไทย",
+      "votes": 23594,
+      "candidate_uuid": "7048cd2a-d056-40cd-a7ae-35cb8c2c4702",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสุขสันต์ ชื่นจิตร",
+      "party": "กล้าธรรม",
+      "votes": 19605,
+      "candidate_uuid": "ee31235b-0087-4ae3-b023-37ed652b1ac0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอภิเดช ประทุมแก้ว",
+      "party": "ประชาชน",
+      "votes": 9294,
+      "candidate_uuid": "844b8e29-4b4c-4b7e-a217-0612922a2423",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชยนนท์ คำเบ้า",
+      "party": "ประชาธิปัตย์",
+      "votes": 719,
+      "candidate_uuid": "c99a6cc9-019e-4334-aa8d-2bb92ff49cff",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปิยชัย โชติมาวณิช",
+      "party": "เศรษฐกิจ",
+      "votes": 711,
+      "candidate_uuid": "86a5a588-9571-48e5-95cd-4a87fd5f8852",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวิชัย ปัญญา",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 646,
+      "candidate_uuid": "a5c079da-92fc-4481-989e-e3da89b7d784",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ส.อ.นิติภัส สุภาพงษ์นันทกุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 448,
+      "candidate_uuid": "50ddb834-f03a-4a43-96e1-86c7887b3655",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายจงเจริญ เอกทวีกุล",
+      "party": "ประชากรไทย",
+      "votes": 278,
+      "candidate_uuid": "e2161d5f-36ed-498e-aa92-b049af784473",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายศรคม ภาชา",
+      "party": "พลังประชารัฐ",
+      "votes": 233,
+      "candidate_uuid": "eff72049-921e-48fb-b616-7b64a1a14a4e",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายหนูเสน พรมวงศ์",
+      "party": "ทางเลือกใหม่",
+      "votes": 71,
+      "candidate_uuid": "9fe66702-424e-4188-93af-2966bf89102e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

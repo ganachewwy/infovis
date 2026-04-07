@@ -1,0 +1,57 @@
+{
+  "province_name": "แม่ฮ่องสอน",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 95247,
+    "1.2": 68159,
+    "2.1": 92602,
+    "2.2": 68159,
+    "2.3": 24443,
+    "3.1": 62621,
+    "3.2": 16,
+    "3.3": 5522,
+    "3.4": 68159,
+    "4.1": 61134,
+    "4.2": 3932,
+    "4.3": 3093
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายปกรณ์ จีนาคำ",
+      "party": "กล้าธรรม",
+      "votes": 35870
+    },
+    {
+      "number": 5,
+      "name": "นายอนัส มณีพฤกษ์",
+      "party": "ประชาชน",
+      "votes": 18680
+    },
+    {
+      "number": 3,
+      "name": "นายวิชัย เจริญพระธรรมดี",
+      "party": "เพื่อไทย",
+      "votes": 3126
+    },
+    {
+      "number": 1,
+      "name": "ว่าที่ ร.ต.สุรพล ต๊ะวิชัย",
+      "party": "ประชาธิปัตย์",
+      "votes": 2148
+    },
+    {
+      "number": 4,
+      "name": "นายจำลอง รุ่งเรือง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1310
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/45. แม่ฮ่องสอน เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 57134,
+    "good_votes": 61134,
+    "sum_diff_pct": 6.54
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "province_name": "นครราชสีมา",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136725,
+    "1.2": 81993,
+    "2.1": 137653,
+    "2.2": 81993,
+    "2.3": 55660,
+    "3.1": 76025,
+    "3.2": 4,
+    "3.3": 5964,
+    "3.4": 81993,
+    "4.1": 76958,
+    "4.2": 2717,
+    "4.3": 2318
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นางสาวปิยะนุช ยินดีสุข",
+      "party": "เพื่อไทย",
+      "votes": 40228
+    },
+    {
+      "number": 4,
+      "name": "นายอัครวัฒน์ กุลเฉลิมพัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 21229
+    },
+    {
+      "number": 6,
+      "name": "นายอธิรัฐ รัตนเศรษฐ",
+      "party": "ประชาชน",
+      "votes": 12032
+    },
+    {
+      "number": 8,
+      "name": "นายสุหลี ศรีแสง",
+      "party": "เศรษฐกิจ",
+      "votes": 1483
+    },
+    {
+      "number": 1,
+      "name": "นายธำรงศักดิ์ ไสยราม",
+      "party": "ประชาธิปัตย์",
+      "votes": 897
+    },
+    {
+      "number": 7,
+      "name": "นายนวกิจ พลวิเศษ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 417
+    },
+    {
+      "number": 3,
+      "name": "นายอุดม เพ็ชรอ่อน",
+      "party": "กล้าธรรม",
+      "votes": 387
+    },
+    {
+      "number": 5,
+      "name": "นางนพวรรณ รอดพูล",
+      "party": "ไทยธรรม",
+      "votes": 208
+    },
+    {
+      "number": 9,
+      "name": "นางเบญญาภา ทองคำ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 77
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/21. นครราชสีมา เขต 7.json",
+  "_validation": {
+    "vote_sum": 76958,
+    "good_votes": 76958,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "30",
+  "province_name_normalized": "นครราชสีมา",
+  "summary": {
+    "eligible_voters": 136725,
+    "voters_came": 81993,
+    "ballots_received": 137653,
+    "ballots_used": 81993,
+    "good_votes": 76958,
+    "invalid_votes": 2717,
+    "no_votes": 2318
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นางสาวปิยะนุช ยินดีสุข",
+      "party": "เพื่อไทย",
+      "votes": 40228,
+      "candidate_uuid": "7bb228b5-a948-45f7-b17f-2e92d5162932",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอัครวัฒน์ กุลเฉลิมพัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 21229,
+      "candidate_uuid": "8d9520cc-f863-427d-9159-6c3555d84a7b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอธิรัฐ รัตนเศรษฐ",
+      "party": "ประชาชน",
+      "votes": 12032,
+      "candidate_uuid": "f13f424a-1384-4aac-994b-371997233ca1",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุหลี ศรีแสง",
+      "party": "เศรษฐกิจ",
+      "votes": 1483,
+      "candidate_uuid": "2c7722b6-48d2-4fe5-9593-ec2f36ba3345",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายธำรงศักดิ์ ไสยราม",
+      "party": "ประชาธิปัตย์",
+      "votes": 897,
+      "candidate_uuid": "bdd0a703-9e73-429b-bd4e-70bf01f64027",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายนวกิจ พลวิเศษ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 417,
+      "candidate_uuid": "1b247f0a-2e5d-411f-9596-84797acf06bf",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอุดม เพ็ชรอ่อน",
+      "party": "กล้าธรรม",
+      "votes": 387,
+      "candidate_uuid": "58bf4b07-ad8e-4e9c-99d8-26b3ef4355ee",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางนพวรรณ รอดพูล",
+      "party": "ไทยธรรม",
+      "votes": 208,
+      "candidate_uuid": "37f2711b-351e-42e1-b414-2045c745dd18",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางเบญญาภา ทองคำ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 77,
+      "candidate_uuid": "b87010fd-3582-46c7-8b44-4296e4bfd9be",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "ร้อยเอ็ด",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133199,
+    "1.2": 79956,
+    "2.1": 130760,
+    "2.2": 79956,
+    "2.3": 50804,
+    "3.1": 72044,
+    "3.2": 0,
+    "3.3": 7912,
+    "3.4": 79956,
+    "4.1": 72043,
+    "4.2": 4678,
+    "4.3": 3235
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นางสาวจิราพร สินธุไพร",
+      "party": "เพื่อไทย",
+      "votes": 43787
+    },
+    {
+      "number": 1,
+      "name": "นายสนิท กล้าหาญ",
+      "party": "ประชาชน",
+      "votes": 14428
+    },
+    {
+      "number": 5,
+      "name": "นายชัยวุฒิ เอี่ยมรัศมีกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 9584
+    },
+    {
+      "number": 3,
+      "name": "นายวีระชัย จารย์รัตน์",
+      "party": "ไทยภักดี",
+      "votes": 1210
+    },
+    {
+      "number": 2,
+      "name": "นางสาวรวินดา วรกาญจนบุญ",
+      "party": "กล้าธรรม",
+      "votes": 1014
+    },
+    {
+      "number": 4,
+      "name": "นายจิรายุ มณีพันธ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 785
+    },
+    {
+      "number": 8,
+      "name": "นายเผด็จ สลักศิลป์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 766
+    },
+    {
+      "number": 7,
+      "name": "นางสาวสุนิดสา เวฎสุวัณ",
+      "party": "พลังประชารัฐ",
+      "votes": 469
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/48. ร้อยเอ็ด เขต 5.json",
+  "_validation": {
+    "vote_sum": 72043,
+    "good_votes": 72043,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "45",
+  "province_name_normalized": "ร้อยเอ็ด",
+  "summary": {
+    "eligible_voters": 133199,
+    "voters_came": 79956,
+    "ballots_received": 130760,
+    "ballots_used": 79956,
+    "good_votes": 72043,
+    "invalid_votes": 4678,
+    "no_votes": 3235
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นางสาวจิราพร สินธุไพร",
+      "party": "เพื่อไทย",
+      "votes": 43787,
+      "candidate_uuid": "351014e5-1cd9-468c-bdd8-44fcf1710cd7",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสนิท กล้าหาญ",
+      "party": "ประชาชน",
+      "votes": 14428,
+      "candidate_uuid": "c893d76f-03f4-4a0b-9369-1282cde36275",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชัยวุฒิ เอี่ยมรัศมีกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 9584,
+      "candidate_uuid": "d522b525-fb04-4ffe-bd7b-6dc134b16905",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวีระชัย จารย์รัตน์",
+      "party": "ไทยภักดี",
+      "votes": 1210,
+      "candidate_uuid": "399b14d7-c6db-49e4-a7de-ab516af96af3",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวรวินดา วรกาญจนบุญ",
+      "party": "กล้าธรรม",
+      "votes": 1014,
+      "candidate_uuid": "4daad8d7-d4cf-4e82-b6bb-c917238d7f6d",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายจิรายุ มณีพันธ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 785,
+      "candidate_uuid": "a9bf526e-6057-4266-a0ad-63e607a64a51",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายเผด็จ สลักศิลป์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 766,
+      "candidate_uuid": "30a384df-b359-407e-af58-f3fe7df971ea",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวสุนิดสา เวฎสุวัณ",
+      "party": "พลังประชารัฐ",
+      "votes": 469,
+      "candidate_uuid": "a78f313a-0278-4953-a43c-7ba91c2c71e2",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

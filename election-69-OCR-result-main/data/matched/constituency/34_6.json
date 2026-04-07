@@ -1,0 +1,125 @@
+{
+  "province_name": "อุบลราชธานี",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132010,
+    "1.2": 83930,
+    "2.1": 130700,
+    "2.2": 83930,
+    "2.3": 46770,
+    "3.1": 78309,
+    "3.2": 5,
+    "3.3": 5616,
+    "3.4": 83930,
+    "4.1": 78144,
+    "4.2": 4115,
+    "4.3": 1671
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวธัญธารีย์ สันตพันธุ์",
+      "party": "เพื่อไทย",
+      "votes": 33345
+    },
+    {
+      "number": 2,
+      "name": "นายกิตติกร เชิดชู",
+      "party": "ไทรวมพลัง",
+      "votes": 31887
+    },
+    {
+      "number": 5,
+      "name": "นายศิระ พันธ์ทอง",
+      "party": "ประชาชน",
+      "votes": 9341
+    },
+    {
+      "number": 3,
+      "name": "นางสาวอุบลกาญจน์ อมรสิน",
+      "party": "ภูมิใจไทย",
+      "votes": 2663
+    },
+    {
+      "number": 6,
+      "name": "นายฐาปนัฐ แสงสุกวาว",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 471
+    },
+    {
+      "number": 4,
+      "name": "นายชาญ การเพียร",
+      "party": "ประชาธิปัตย์",
+      "votes": 437
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/77. อุบลราชธานี เขต 6.json",
+  "_validation": {
+    "vote_sum": 78144,
+    "good_votes": 78144,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "34",
+  "province_name_normalized": "อุบลราชธานี",
+  "summary": {
+    "eligible_voters": 132010,
+    "voters_came": 83930,
+    "ballots_received": 130700,
+    "ballots_used": 83930,
+    "good_votes": 78144,
+    "invalid_votes": 4115,
+    "no_votes": 1671
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวธัญธารีย์ สันตพันธุ์",
+      "party": "เพื่อไทย",
+      "votes": 33345,
+      "candidate_uuid": "ba859406-d574-49b8-b221-b4ba8279b334",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายกิตติกร เชิดชู",
+      "party": "ไทรวมพลัง",
+      "votes": 31887,
+      "candidate_uuid": "c0a5c2ce-bf38-4e28-8a7a-0d9b76d9d3a1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายศิระ พันธ์ทอง",
+      "party": "ประชาชน",
+      "votes": 9341,
+      "candidate_uuid": "9b0c8d9f-0395-4c3f-89e2-36f2f407bbf5",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวอุบลกาญจน์ อมรสิน",
+      "party": "ภูมิใจไทย",
+      "votes": 2663,
+      "candidate_uuid": "90f73c69-2484-4bb8-b1b7-06df69a17a30",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายฐาปนัฐ แสงสุกวาว",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 471,
+      "candidate_uuid": "8ae71a85-e09b-4bc1-a073-104fb455dd9a",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายชาญ การเพียร",
+      "party": "ประชาธิปัตย์",
+      "votes": 437,
+      "candidate_uuid": "daa5df29-91e4-4432-aca3-3e4ebb37d620",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

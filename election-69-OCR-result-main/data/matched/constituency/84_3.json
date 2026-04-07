@@ -1,0 +1,125 @@
+{
+  "province_name": "สุราษฎร์ธานี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 120055,
+    "1.2": 94207,
+    "2.1": 123133,
+    "2.2": 94207,
+    "2.3": 28926,
+    "3.1": 90094,
+    "3.2": 5,
+    "3.3": 4108,
+    "3.4": 94207,
+    "4.1": 88689,
+    "4.2": 2218,
+    "4.3": 3300
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นางสาววชิราภรณ์ กาญจนะ",
+      "party": "ไทรวมพลัง",
+      "votes": 39958
+    },
+    {
+      "number": 4,
+      "name": "นายกฤษพณ หวานแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 24524
+    },
+    {
+      "number": 6,
+      "name": "นายปิยะรัฐ จิรัตน์ฐิกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 13684
+    },
+    {
+      "number": 2,
+      "name": "นายสิทธิภร จันทบูรณ์",
+      "party": "ประชาชน",
+      "votes": 8099
+    },
+    {
+      "number": 1,
+      "name": "นายวัชรพล ประกายแก้วสกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 1469
+    },
+    {
+      "number": 3,
+      "name": "นายสิทธิกร เกษมณี",
+      "party": "เพื่อไทย",
+      "votes": 955
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/68. สุราษฎร์ธานี เขต 3.json",
+  "_validation": {
+    "vote_sum": 88689,
+    "good_votes": 88689,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "84",
+  "province_name_normalized": "สุราษฎร์ธานี",
+  "summary": {
+    "eligible_voters": 120055,
+    "voters_came": 94207,
+    "ballots_received": 123133,
+    "ballots_used": 94207,
+    "good_votes": 88689,
+    "invalid_votes": 2218,
+    "no_votes": 3300
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นางสาววชิราภรณ์ กาญจนะ",
+      "party": "ไทรวมพลัง",
+      "votes": 39958,
+      "candidate_uuid": "37568d79-e5d1-4a61-829c-837e97d228d7",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกฤษพณ หวานแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 24524,
+      "candidate_uuid": "f6f11771-944e-420d-8e27-e4886bdae544",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปิยะรัฐ จิรัตน์ฐิกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 13684,
+      "candidate_uuid": "19412967-e0c9-4f34-ae20-116f6e9febc0",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสิทธิภร จันทบูรณ์",
+      "party": "ประชาชน",
+      "votes": 8099,
+      "candidate_uuid": "2fef1c0f-93a1-478c-8d74-13b5697f30b7",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวัชรพล ประกายแก้วสกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 1469,
+      "candidate_uuid": "9742405e-fa00-48ec-9518-c454628b78b0",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสิทธิกร เกษมณี",
+      "party": "เพื่อไทย",
+      "votes": 955,
+      "candidate_uuid": "0282921e-795f-4290-bd26-aa00e9eccf96",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

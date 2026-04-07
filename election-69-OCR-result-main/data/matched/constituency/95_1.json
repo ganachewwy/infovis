@@ -1,0 +1,153 @@
+{
+  "province_name": "ยะลา",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130009,
+    "1.2": 98981,
+    "2.1": 130210,
+    "2.2": 98981,
+    "2.3": 31229,
+    "3.1": 92334,
+    "3.2": 54,
+    "3.3": 6593,
+    "3.4": 98981,
+    "4.1": 90522,
+    "4.2": 3077,
+    "4.3": 5382
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายสุไลมาน บือแนปีแน",
+      "party": "ประชาชาติ",
+      "votes": 31446
+    },
+    {
+      "number": 2,
+      "name": "นายอาดิลัน อาลีอิสเฮาะ",
+      "party": "กล้าธรรม",
+      "votes": 20639
+    },
+    {
+      "number": 3,
+      "name": "นายประสิทธิชัย พงษ์สุวรรณศิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 16200
+    },
+    {
+      "number": 4,
+      "name": "นายอันวาร์ อุเซ็ง",
+      "party": "ประชาชน",
+      "votes": 15216
+    },
+    {
+      "number": 5,
+      "name": "นายอับดุลการิม เด็งระกีนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 5182
+    },
+    {
+      "number": 6,
+      "name": "นายสมภพ สุภนรานนท์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1136
+    },
+    {
+      "number": 7,
+      "name": "นายกูนรดินทร์ วงศ์วังษา",
+      "party": "เพื่อไทย",
+      "votes": 490
+    },
+    {
+      "number": 8,
+      "name": "นายอับดุลลาเตะ ยากัด",
+      "party": "พลังประชารัฐ",
+      "votes": 213
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/47. ยะลา เขต 1.json",
+  "_validation": {
+    "vote_sum": 90522,
+    "good_votes": 90522,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "95",
+  "province_name_normalized": "ยะลา",
+  "summary": {
+    "eligible_voters": 130009,
+    "voters_came": 98981,
+    "ballots_received": 130210,
+    "ballots_used": 98981,
+    "good_votes": 90522,
+    "invalid_votes": 3077,
+    "no_votes": 5382
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายสุไลมาน บือแนปีแน",
+      "party": "ประชาชาติ",
+      "votes": 31446,
+      "candidate_uuid": "bd4e80ec-e849-4377-93f0-659505eb0133",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอาดิลัน อาลีอิสเฮาะ",
+      "party": "กล้าธรรม",
+      "votes": 20639,
+      "candidate_uuid": "56346402-f53b-46c5-a04d-355da0c4bac1",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายประสิทธิชัย พงษ์สุวรรณศิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 16200,
+      "candidate_uuid": "ef4fe996-3b88-4fd2-9922-ba398fc4dcae",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอันวาร์ อุเซ็ง",
+      "party": "ประชาชน",
+      "votes": 15216,
+      "candidate_uuid": "679b933a-a4f0-490a-a09b-c888c0dd7a00",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอับดุลการิม เด็งระกีนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 5182,
+      "candidate_uuid": "9ae726da-dee8-4b1c-8eb2-b92d11abacb3",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสมภพ สุภนรานนท์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1136,
+      "candidate_uuid": "505b1566-f4b3-43df-a6f2-820bfd2a372d",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายกูนรดินทร์ วงศ์วังษา",
+      "party": "เพื่อไทย",
+      "votes": 490,
+      "candidate_uuid": "f0aed4eb-aeed-4c48-a51b-ae032aa8e0a8",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอับดุลลาเตะ ยากัด",
+      "party": "พลังประชารัฐ",
+      "votes": 213,
+      "candidate_uuid": "4cdd8dfb-e68e-41eb-af7b-370d5134e871",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

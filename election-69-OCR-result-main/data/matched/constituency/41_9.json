@@ -1,0 +1,153 @@
+{
+  "province_name": "อุดรธานี",
+  "constituency_number": 9,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 124798,
+    "1.2": 80810,
+    "2.1": 130290,
+    "2.2": 80810,
+    "2.3": 49480,
+    "3.1": 77109,
+    "3.2": 1,
+    "3.3": 3700,
+    "3.4": 80810,
+    "4.1": 73427,
+    "4.2": 4633,
+    "4.3": 2750
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายเกษม เบ้าวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 3584
+    },
+    {
+      "number": 2,
+      "name": "นายฐานวัฒน์ ธนาธัญญพิชญ์",
+      "party": "กล้าธรรม",
+      "votes": 20842
+    },
+    {
+      "number": 3,
+      "name": "นายพงศกร กงพาน",
+      "party": "ประชาธิปัตย์",
+      "votes": 805
+    },
+    {
+      "number": 4,
+      "name": "นายสมร ศรีวิพันธ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 773
+    },
+    {
+      "number": 5,
+      "name": "นายนภาดล ดวงสอนแสง",
+      "party": "ประชาชน",
+      "votes": 17300
+    },
+    {
+      "number": 6,
+      "name": "นายวัชระพล ขาวขำ",
+      "party": "เพื่อไทย",
+      "votes": 29522
+    },
+    {
+      "number": 7,
+      "name": "นายนิธิศ ประกอบใส",
+      "party": "พลังประชารัฐ",
+      "votes": 268
+    },
+    {
+      "number": 8,
+      "name": "นายนิธิศ รอดชมภู",
+      "party": "ไทยก้าวใหม่",
+      "votes": 333
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/74. อุดรธานี เขต 9.json",
+  "_validation": {
+    "vote_sum": 73427,
+    "good_votes": 73427,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "41",
+  "province_name_normalized": "อุดรธานี",
+  "summary": {
+    "eligible_voters": 124798,
+    "voters_came": 80810,
+    "ballots_received": 130290,
+    "ballots_used": 80810,
+    "good_votes": 73427,
+    "invalid_votes": 4633,
+    "no_votes": 2750
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายเกษม เบ้าวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 3584,
+      "candidate_uuid": "d1aab58b-5b57-4910-949f-6cc9acf9cb19",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายฐานวัฒน์ ธนาธัญญพิชญ์",
+      "party": "กล้าธรรม",
+      "votes": 20842,
+      "candidate_uuid": "37cb6123-f926-4203-b761-024ab6fc226d",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพงศกร กงพาน",
+      "party": "ประชาธิปัตย์",
+      "votes": 805,
+      "candidate_uuid": "5dd13f8b-7819-4207-9db7-e828d41f7c9f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสมร ศรีวิพันธ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 773,
+      "candidate_uuid": "f2c6465f-0d37-426e-9559-0be7755091fa",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนภาดล ดวงสอนแสง",
+      "party": "ประชาชน",
+      "votes": 17300,
+      "candidate_uuid": "31457e79-06b3-44bb-87a1-cea7b8ed48e1",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายวัชระพล ขาวขำ",
+      "party": "เพื่อไทย",
+      "votes": 29522,
+      "candidate_uuid": "8ac87c18-b85d-40de-b70f-9a2b267f762d",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายนิธิศ ประกอบใส",
+      "party": "พลังประชารัฐ",
+      "votes": 268,
+      "candidate_uuid": "80e9f631-c747-465b-8b34-ed854dcb6dd5",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายนิธิศ รอดชมภู",
+      "party": "ไทยก้าวใหม่",
+      "votes": 333,
+      "candidate_uuid": "0c06a803-0c01-4d56-9f0b-3050442308dd",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

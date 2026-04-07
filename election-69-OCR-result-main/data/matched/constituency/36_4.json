@@ -1,0 +1,153 @@
+{
+  "province_name": "ชัยภูมิ",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 121184,
+    "1.2": 76539,
+    "2.1": 124357,
+    "2.2": 76539,
+    "2.3": 47818,
+    "3.1": 72262,
+    "3.2": 0,
+    "3.3": 4277,
+    "3.4": 76539,
+    "4.1": 72809,
+    "4.2": 2736,
+    "4.3": 994
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นางสาวสุชาดา ซาง แทนทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 36907
+    },
+    {
+      "number": 6,
+      "name": "นางสาวกาญจนา จังหวะ",
+      "party": "กล้าธรรม",
+      "votes": 17314
+    },
+    {
+      "number": 2,
+      "name": "นายสิทธิพล ภูธรณ์",
+      "party": "ประชาชน",
+      "votes": 9001
+    },
+    {
+      "number": 1,
+      "name": "นายวรฉัตร พงษ์ธีระดุลย์",
+      "party": "เพื่อไทย",
+      "votes": 8255
+    },
+    {
+      "number": 4,
+      "name": "นายณรงฤทธิ์ มอบสันเทียะ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 449
+    },
+    {
+      "number": 8,
+      "name": "นายชาติชาย อาจสนาม",
+      "party": "เศรษฐกิจ",
+      "votes": 437
+    },
+    {
+      "number": 3,
+      "name": "นางสาวน้ำฝน หอมชาลี",
+      "party": "ประชาธิปัติย์",
+      "votes": 315
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนงค์คราญ ฤาชาญ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 131
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/11. ชัยภูมิ เขต 4.json",
+  "_validation": {
+    "vote_sum": 72809,
+    "good_votes": 72809,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "36",
+  "province_name_normalized": "ชัยภูมิ",
+  "summary": {
+    "eligible_voters": 121184,
+    "voters_came": 76539,
+    "ballots_received": 124357,
+    "ballots_used": 76539,
+    "good_votes": 72809,
+    "invalid_votes": 2736,
+    "no_votes": 994
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นางสาวสุชาดา ซาง แทนทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 36907,
+      "candidate_uuid": "b390484f-2636-46c2-a7d7-c98890ae033d",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวกาญจนา จังหวะ",
+      "party": "กล้าธรรม",
+      "votes": 17314,
+      "candidate_uuid": "b4c0377f-6dca-4c57-a5e6-d849ce3c11c7",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสิทธิพล ภูธรณ์",
+      "party": "ประชาชน",
+      "votes": 9001,
+      "candidate_uuid": "fcf67a41-775e-42f4-8f02-3cd55050fd44",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวรฉัตร พงษ์ธีระดุลย์",
+      "party": "เพื่อไทย",
+      "votes": 8255,
+      "candidate_uuid": "b540b6ae-e6c7-4b20-8f79-f8aaa7dde1f2",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายณรงฤทธิ์ มอบสันเทียะ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 449,
+      "candidate_uuid": "3c0a9dbe-134c-43e3-89f9-86555ef4fba4",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชาติชาย อาจสนาม",
+      "party": "เศรษฐกิจ",
+      "votes": 437,
+      "candidate_uuid": "9a5ab21b-eee4-4a4f-a814-30894b6be865",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวน้ำฝน หอมชาลี",
+      "party": "ประชาธิปัติย์",
+      "votes": 315,
+      "candidate_uuid": "fe0f8667-bbdc-427e-ba7f-b84128739634",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนงค์คราญ ฤาชาญ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 131,
+      "candidate_uuid": "f4bb63ca-d84c-4dff-8c41-e3948f6a54bb",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

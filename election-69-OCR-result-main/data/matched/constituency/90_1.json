@@ -1,0 +1,125 @@
+{
+  "province_name": "สงขลา",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128135,
+    "1.2": 97311,
+    "2.1": 129603,
+    "2.2": 97311,
+    "2.3": 32292,
+    "3.1": 90458,
+    "3.2": 62,
+    "3.3": 6791,
+    "3.4": 97311,
+    "4.1": 86955,
+    "4.2": 2926,
+    "4.3": 7430
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายสรรเพชญ บุญญามณี",
+      "party": "ภูมิใจไทย",
+      "votes": 44252
+    },
+    {
+      "number": 4,
+      "name": "นายพิเชฎฐ พัฒนโชติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 21201
+    },
+    {
+      "number": 1,
+      "name": "นายสักกพันธุ์ อนันต์พงค์",
+      "party": "ประชาชน",
+      "votes": 19158
+    },
+    {
+      "number": 3,
+      "name": "นายสำราญ บุญเส้ง",
+      "party": "เพื่อไทย",
+      "votes": 1072
+    },
+    {
+      "number": 6,
+      "name": "นายเทพมณตรี พรมเมือง",
+      "party": "เศรษฐกิจ",
+      "votes": 921
+    },
+    {
+      "number": 5,
+      "name": "ร.ต.อ.สมศักดิ์ แสงประดับ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 351
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/58. สงขลา เขต 1.json",
+  "_validation": {
+    "vote_sum": 86955,
+    "good_votes": 86955,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "90",
+  "province_name_normalized": "สงขลา",
+  "summary": {
+    "eligible_voters": 128135,
+    "voters_came": 97311,
+    "ballots_received": 129603,
+    "ballots_used": 97311,
+    "good_votes": 86955,
+    "invalid_votes": 2926,
+    "no_votes": 7430
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายสรรเพชญ บุญญามณี",
+      "party": "ภูมิใจไทย",
+      "votes": 44252,
+      "candidate_uuid": "35d6ff84-d8ae-4310-b348-e3b64b6bf335",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพิเชฎฐ พัฒนโชติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 21201,
+      "candidate_uuid": "33d5fbd1-6151-4125-b1f7-2683f6a9e86f",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสักกพันธุ์ อนันต์พงค์",
+      "party": "ประชาชน",
+      "votes": 19158,
+      "candidate_uuid": "1e215d83-df33-479f-ba80-37b2f5a9b3f2",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสำราญ บุญเส้ง",
+      "party": "เพื่อไทย",
+      "votes": 1072,
+      "candidate_uuid": "6d37a22c-2f70-443a-aa30-f087644290e1",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเทพมณตรี พรมเมือง",
+      "party": "เศรษฐกิจ",
+      "votes": 921,
+      "candidate_uuid": "98cc9786-48f7-4ed8-a48e-b24c402214ad",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "ร.ต.อ.สมศักดิ์ แสงประดับ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 351,
+      "candidate_uuid": "ad27b452-3fe7-4f5e-9693-6350379a6795",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

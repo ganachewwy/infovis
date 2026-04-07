@@ -1,0 +1,167 @@
+{
+  "province_name": "พัทลุง",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 143511,
+    "1.2": 116554,
+    "2.1": 145233,
+    "2.2": 116554,
+    "2.3": 24679,
+    "3.1": 110432,
+    "3.2": 19,
+    "3.3": 6103,
+    "3.4": 116554,
+    "4.1": 108849,
+    "4.2": 3271,
+    "4.3": 4434
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายจรัญ จันทร์แก้ว",
+      "party": "กล้าธรรม",
+      "votes": 47653
+    },
+    {
+      "number": 3,
+      "name": "นายเขมพล อุ้ยตยะกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 31894
+    },
+    {
+      "number": 2,
+      "name": "นายสุนัย คงแก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 16493
+    },
+    {
+      "number": 4,
+      "name": "พันตรีธีรวัฒน์ พรหมสะอาด",
+      "party": "ประชาชน",
+      "votes": 8864
+    },
+    {
+      "number": 5,
+      "name": "นายชาญวิทย์ หมาดโสะ",
+      "party": "เพื่อไทย",
+      "votes": 1676
+    },
+    {
+      "number": 1,
+      "name": "นางสาวโฉมพิไล เพิ่มพูลธนทรัพย์",
+      "party": "พลวัต",
+      "votes": 896
+    },
+    {
+      "number": 7,
+      "name": "นายปราโมทย์ หนูเลิศ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 541
+    },
+    {
+      "number": 8,
+      "name": "ร้อยตรีพงศภัค จุลพันธ์",
+      "party": "เศรษฐกิจ",
+      "votes": 453
+    },
+    {
+      "number": 9,
+      "name": "นายปิยะวุฒิ เคว็จดำ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 379
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/36. พัทลุง เขต 3.json",
+  "_validation": {
+    "vote_sum": 108849,
+    "good_votes": 108849,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "93",
+  "province_name_normalized": "พัทลุง",
+  "summary": {
+    "eligible_voters": 143511,
+    "voters_came": 116554,
+    "ballots_received": 145233,
+    "ballots_used": 116554,
+    "good_votes": 108849,
+    "invalid_votes": 3271,
+    "no_votes": 4434
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายจรัญ จันทร์แก้ว",
+      "party": "กล้าธรรม",
+      "votes": 47653,
+      "candidate_uuid": "7890422f-00ba-43d5-a14d-bfcc9fe00a38",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเขมพล อุ้ยตยะกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 31894,
+      "candidate_uuid": "21de6316-6b97-422a-9a18-ab6c776b2358",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสุนัย คงแก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 16493,
+      "candidate_uuid": "dcbe2d38-28b4-4c0d-909f-2be69c9dd0b1",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "พันตรีธีรวัฒน์ พรหมสะอาด",
+      "party": "ประชาชน",
+      "votes": 8864,
+      "candidate_uuid": "11ae03c4-5461-4c97-8533-040fe734efb2",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชาญวิทย์ หมาดโสะ",
+      "party": "เพื่อไทย",
+      "votes": 1676,
+      "candidate_uuid": "d4fb4ac7-b383-4502-bb3a-0de9c1ddd989",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวโฉมพิไล เพิ่มพูลธนทรัพย์",
+      "party": "พลวัต",
+      "votes": 896,
+      "candidate_uuid": "aec8c3cc-f89f-40f1-aae7-2bc73f0bdd56",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายปราโมทย์ หนูเลิศ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 541,
+      "candidate_uuid": "3684827e-02a9-4a2e-9461-ff4e4f3c548d",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ร้อยตรีพงศภัค จุลพันธ์",
+      "party": "เศรษฐกิจ",
+      "votes": 453,
+      "candidate_uuid": "cdde989b-6893-44d7-a980-f780fdad16ea",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายปิยะวุฒิ เคว็จดำ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 379,
+      "candidate_uuid": "951a6b5e-c049-4c63-890b-824ecc3fa8c6",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

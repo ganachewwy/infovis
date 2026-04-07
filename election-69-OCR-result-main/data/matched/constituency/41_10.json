@@ -1,0 +1,125 @@
+{
+  "province_name": "อุดรธานี",
+  "constituency_number": 10,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 122907,
+    "1.2": 79295,
+    "2.1": 127036,
+    "2.2": 79295,
+    "2.3": 47741,
+    "3.1": 75357,
+    "3.2": 2,
+    "3.3": 3936,
+    "3.4": 79295,
+    "4.1": 72317,
+    "4.2": 4832,
+    "4.3": 2146
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นางเทียบจุฑา ขาวขำ",
+      "party": "เพื่อไทย",
+      "votes": 31589
+    },
+    {
+      "number": 3,
+      "name": "นายทัชภูมิ ทองทิพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 19691
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุภาวดี วงษ์คำ",
+      "party": "ประชาชน",
+      "votes": 17920
+    },
+    {
+      "number": 1,
+      "name": "นายกิตติพัทธ์ ปราบพาล",
+      "party": "เศรษฐกิจ",
+      "votes": 2277
+    },
+    {
+      "number": 4,
+      "name": "นายอภิวัฒน์ โรมเมือง",
+      "party": "ไทยสร้างชาติ",
+      "votes": 564
+    },
+    {
+      "number": 7,
+      "name": "นายจักรภัทร ชื่นชมกุล",
+      "party": "กล้าธรรม",
+      "votes": 276
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/74. อุดรธานี เขต 10.json",
+  "_validation": {
+    "vote_sum": 72317,
+    "good_votes": 72317,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "41",
+  "province_name_normalized": "อุดรธานี",
+  "summary": {
+    "eligible_voters": 122907,
+    "voters_came": 79295,
+    "ballots_received": 127036,
+    "ballots_used": 79295,
+    "good_votes": 72317,
+    "invalid_votes": 4832,
+    "no_votes": 2146
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นางเทียบจุฑา ขาวขำ",
+      "party": "เพื่อไทย",
+      "votes": 31589,
+      "candidate_uuid": "d3012ee4-f395-4899-9094-260df92fd6c1",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายทัชภูมิ ทองทิพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 19691,
+      "candidate_uuid": "d4df1d5f-8f89-4789-8995-1351a569fcf7",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุภาวดี วงษ์คำ",
+      "party": "ประชาชน",
+      "votes": 17920,
+      "candidate_uuid": "03b8dbbc-78ef-48f5-93fb-82271bc41f12",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายกิตติพัทธ์ ปราบพาล",
+      "party": "เศรษฐกิจ",
+      "votes": 2277,
+      "candidate_uuid": "08912d1a-7b97-44bb-a436-642b6655e378",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอภิวัฒน์ โรมเมือง",
+      "party": "ไทยสร้างชาติ",
+      "votes": 564,
+      "candidate_uuid": "ed79e77a-3f7b-4984-bd0a-f5ea4e43a7ff",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายจักรภัทร ชื่นชมกุล",
+      "party": "กล้าธรรม",
+      "votes": 276,
+      "candidate_uuid": "412b72eb-d2e3-4889-a75b-df6402e0ab2b",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

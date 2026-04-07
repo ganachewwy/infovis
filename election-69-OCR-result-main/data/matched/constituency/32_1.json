@@ -1,0 +1,153 @@
+{
+  "province_name": "สุรินทร์",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136098,
+    "1.2": 94060,
+    "2.1": 136740,
+    "2.2": 94060,
+    "2.3": 42680,
+    "3.1": 85702,
+    "3.2": 9,
+    "3.3": 8349,
+    "3.4": 94060,
+    "4.1": 85981,
+    "4.2": 3504,
+    "4.3": 4575
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นางสาวเบญญา มุ่งเจริญพร",
+      "party": "ภูมิใจไทย",
+      "votes": 46167
+    },
+    {
+      "number": 1,
+      "name": "นายเบญจมินทร์ ปันสน",
+      "party": "ประชาชน",
+      "votes": 23104
+    },
+    {
+      "number": 8,
+      "name": "นายอนันต์ ปาลีคุปต์",
+      "party": "เพื่อไทย",
+      "votes": 9423
+    },
+    {
+      "number": 3,
+      "name": "นายวิภูษิต มีสิทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 2528
+    },
+    {
+      "number": 4,
+      "name": "นายขุนเดช มงคลสิรินทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 1813
+    },
+    {
+      "number": 2,
+      "name": "นายดำเกิง โถทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1312
+    },
+    {
+      "number": 7,
+      "name": "นายดำรงค์ ครึ่งมี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 984
+    },
+    {
+      "number": 6,
+      "name": "นายอนุรัตน์ ศรีสุรินทร์",
+      "party": "พลังประชารัฐ",
+      "votes": 650
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/69. สุรินทร์ เขต 1.json",
+  "_validation": {
+    "vote_sum": 85981,
+    "good_votes": 85981,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "32",
+  "province_name_normalized": "สุรินทร์",
+  "summary": {
+    "eligible_voters": 136098,
+    "voters_came": 94060,
+    "ballots_received": 136740,
+    "ballots_used": 94060,
+    "good_votes": 85981,
+    "invalid_votes": 3504,
+    "no_votes": 4575
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นางสาวเบญญา มุ่งเจริญพร",
+      "party": "ภูมิใจไทย",
+      "votes": 46167,
+      "candidate_uuid": "9ff86b25-b3e5-4c16-9355-df3dec6e1b41",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเบญจมินทร์ ปันสน",
+      "party": "ประชาชน",
+      "votes": 23104,
+      "candidate_uuid": "1636aac5-abd9-4ece-bc9e-ada52832c59f",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอนันต์ ปาลีคุปต์",
+      "party": "เพื่อไทย",
+      "votes": 9423,
+      "candidate_uuid": "3761cb83-0afe-498c-85f2-761cd6cf6e87",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวิภูษิต มีสิทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 2528,
+      "candidate_uuid": "475c1e46-9aaa-44ae-9cd5-a977b29aa977",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายขุนเดช มงคลสิรินทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 1813,
+      "candidate_uuid": "01284419-56d0-451a-976d-e8f062a664dc",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายดำเกิง โถทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1312,
+      "candidate_uuid": "bbfd96aa-7daa-4f06-9894-20737f6dcfbf",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายดำรงค์ ครึ่งมี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 984,
+      "candidate_uuid": "d3da05ff-ac0f-40fe-9be1-fdc43262cfbf",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอนุรัตน์ ศรีสุรินทร์",
+      "party": "พลังประชารัฐ",
+      "votes": 650,
+      "candidate_uuid": "670e40a1-c29b-475c-9426-34682ff6b34c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

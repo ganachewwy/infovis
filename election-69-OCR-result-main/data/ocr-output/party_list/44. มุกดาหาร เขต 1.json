@@ -1,0 +1,312 @@
+{
+  "province_name": "มุกดาหาร",
+  "constituency_number": 1,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 141889,
+    "1.2": 104804,
+    "2.1": 142920,
+    "2.2": 100435,
+    "2.3": 42485,
+    "3.1": 99022,
+    "3.2": 45,
+    "3.3": 5737,
+    "3.4": 104804,
+    "4.1": 97368,
+    "4.2": 5024,
+    "4.3": 2412
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 466
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 2554
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 1816
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 2024
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 2365
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1228
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 156
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 445
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 30899
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 448
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 3480
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 1348
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 743
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 174
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 128
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 397
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 126
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 22
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 44
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 95
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 91
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 64
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 46
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 184
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 40
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 96
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 1554
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 167
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 283
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 494
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 207
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 224
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 200
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 216
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 111
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 108
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 10870
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 388
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 79
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 62
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 55
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 2564
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 243
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 548
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 157
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 28089
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 143
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 573
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 255
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 50
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 29
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 22
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 40
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 24
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 53
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 72
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/44. มุกดาหาร เขต 1 (บช).pdf",
+  "_validation": {
+    "vote_sum": 97368,
+    "good_votes": 97368,
+    "sum_diff_pct": 0.0
+  }
+}

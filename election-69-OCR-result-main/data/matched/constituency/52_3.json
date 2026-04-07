@@ -1,0 +1,167 @@
+{
+  "province_name": "ลำปาง",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 147051,
+    "1.2": 112970,
+    "2.1": 138400,
+    "2.2": 112970,
+    "2.3": 25430,
+    "3.1": 103732,
+    "3.2": 2,
+    "3.3": 9236,
+    "3.4": 112970,
+    "4.1": 100661,
+    "4.2": 4528,
+    "4.3": 7781
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายชลธานี เชื้อน้อย",
+      "party": "ประชาชน",
+      "votes": 41016
+    },
+    {
+      "number": 1,
+      "name": "นางระพีพรรณ โพธิ์ทอง",
+      "party": "กล้าธรรม",
+      "votes": 26924
+    },
+    {
+      "number": 7,
+      "name": "นายบุญเลิศ แสนเทพ",
+      "party": "เพื่อไทย",
+      "votes": 16581
+    },
+    {
+      "number": 5,
+      "name": "นายจรัสฤทธิ์ จันทรสุรินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 7193
+    },
+    {
+      "number": 2,
+      "name": "นายประยูร เศรษฐกิจ",
+      "party": "เศรษฐกิจ",
+      "votes": 2339
+    },
+    {
+      "number": 9,
+      "name": "นายวิชัย หมื่นประจักร์",
+      "party": "ประชากรไทย",
+      "votes": 1705
+    },
+    {
+      "number": 6,
+      "name": "นายอรุณรัตน์ พลอยจันทร์กูล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1707
+    },
+    {
+      "number": 8,
+      "name": "นายธนภัทร ศรีปินตา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1836
+    },
+    {
+      "number": 3,
+      "name": "นายชาญณรงค์ มาเรียน",
+      "party": "พลังประชารัฐ",
+      "votes": 1360
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/53. ลำปาง เขต 3.json",
+  "_validation": {
+    "vote_sum": 100661,
+    "good_votes": 100661,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "52",
+  "province_name_normalized": "ลำปาง",
+  "summary": {
+    "eligible_voters": 147051,
+    "voters_came": 112970,
+    "ballots_received": 138400,
+    "ballots_used": 112970,
+    "good_votes": 100661,
+    "invalid_votes": 4528,
+    "no_votes": 7781
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายชลธานี เชื้อน้อย",
+      "party": "ประชาชน",
+      "votes": 41016,
+      "candidate_uuid": "525ad14b-bca9-4b30-8a9e-ed27bb4232ee",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางระพีพรรณ โพธิ์ทอง",
+      "party": "กล้าธรรม",
+      "votes": 26924,
+      "candidate_uuid": "e894c73c-7d64-4611-9058-29b005a55fad",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายบุญเลิศ แสนเทพ",
+      "party": "เพื่อไทย",
+      "votes": 16581,
+      "candidate_uuid": "67b0252d-90b5-486b-9b16-fecf86f4c11f",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายจรัสฤทธิ์ จันทรสุรินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 7193,
+      "candidate_uuid": "13ba2c79-e7a3-40b6-8563-63855c2ba973",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายประยูร เศรษฐกิจ",
+      "party": "เศรษฐกิจ",
+      "votes": 2339,
+      "candidate_uuid": "545cd2c0-748d-4fee-a702-b2f290077d24",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายวิชัย หมื่นประจักร์",
+      "party": "ประชากรไทย",
+      "votes": 1705,
+      "candidate_uuid": "367a2695-4dde-4e96-a0f2-e1ec1e99d5c5",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอรุณรัตน์ พลอยจันทร์กูล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1707,
+      "candidate_uuid": "fdba7624-0dfc-4f67-b41d-577d644f094e",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธนภัทร ศรีปินตา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1836,
+      "candidate_uuid": "3b1e61ad-6e74-43d1-8385-a984b96a9e4c",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชาญณรงค์ มาเรียน",
+      "party": "พลังประชารัฐ",
+      "votes": 1360,
+      "candidate_uuid": "ded1d8d6-f562-4a9d-ae57-9a66bb078e04",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

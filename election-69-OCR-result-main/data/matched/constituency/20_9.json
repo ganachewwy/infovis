@@ -1,0 +1,153 @@
+{
+  "province_name": "ชลบุรี",
+  "constituency_number": 9,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 122755,
+    "1.2": 69180,
+    "2.1": 123711,
+    "2.2": 69180,
+    "2.3": 54531,
+    "3.1": 65729,
+    "3.2": 0,
+    "3.3": 3451,
+    "3.4": 69180,
+    "4.1": 62409,
+    "4.2": 3133,
+    "4.3": 3638
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายยอดชาย พึ่งพร",
+      "party": "ประชาชน",
+      "votes": 27602
+    },
+    {
+      "number": 1,
+      "name": "นายแมน อินทร์พิทักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 23698
+    },
+    {
+      "number": 6,
+      "name": "นายรัฐกิจ เฮงตระกูล",
+      "party": "เพื่อไทย",
+      "votes": 5600
+    },
+    {
+      "number": 3,
+      "name": "นายพีระชัย ชวรัตน์โชติวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2665
+    },
+    {
+      "number": 4,
+      "name": "นางสาวกวินนาถ ตาคีย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1157
+    },
+    {
+      "number": 7,
+      "name": "นายพงศนาถ จินดา",
+      "party": "ไทยภักดี",
+      "votes": 940
+    },
+    {
+      "number": 2,
+      "name": "นายสกลชัย เจริญรุจิจินต์",
+      "party": "พลังประชารัฐ",
+      "votes": 407
+    },
+    {
+      "number": 8,
+      "name": "นายสุจินต์ หนองใหญ่",
+      "party": "ปวงชนไทย",
+      "votes": 340
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/9. ชลบุรี เขต 9.json",
+  "_validation": {
+    "vote_sum": 62409,
+    "good_votes": 62409,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "20",
+  "province_name_normalized": "ชลบุรี",
+  "summary": {
+    "eligible_voters": 122755,
+    "voters_came": 69180,
+    "ballots_received": 123711,
+    "ballots_used": 69180,
+    "good_votes": 62409,
+    "invalid_votes": 3133,
+    "no_votes": 3638
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายยอดชาย พึ่งพร",
+      "party": "ประชาชน",
+      "votes": 27602,
+      "candidate_uuid": "73bfb4f4-3e49-4c6c-9b74-2dfff33e0aee",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายแมน อินทร์พิทักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 23698,
+      "candidate_uuid": "a1ea207e-f9de-4fae-a8d2-edcf2fa3b4ab",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายรัฐกิจ เฮงตระกูล",
+      "party": "เพื่อไทย",
+      "votes": 5600,
+      "candidate_uuid": "f8b07a29-12d3-4cfa-9306-84ce8ae957ce",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพีระชัย ชวรัตน์โชติวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2665,
+      "candidate_uuid": "d5706f0c-6c71-4444-a96c-6853d95a0693",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวกวินนาถ ตาคีย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1157,
+      "candidate_uuid": "7aa9758f-6fe3-4587-9d5d-1b10ddec807c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพงศนาถ จินดา",
+      "party": "ไทยภักดี",
+      "votes": 940,
+      "candidate_uuid": "461a74ca-e165-4f46-ba99-c47d18b08d38",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสกลชัย เจริญรุจิจินต์",
+      "party": "พลังประชารัฐ",
+      "votes": 407,
+      "candidate_uuid": "79d07f57-f0aa-4624-a0c5-d98398ea1003",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุจินต์ หนองใหญ่",
+      "party": "ปวงชนไทย",
+      "votes": 340,
+      "candidate_uuid": "1d01d036-2c36-40ac-86ae-4a888bf756d8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

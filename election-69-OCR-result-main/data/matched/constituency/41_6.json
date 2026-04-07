@@ -1,0 +1,167 @@
+{
+  "province_name": "อุดรธานี",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126378,
+    "1.2": 80892,
+    "2.1": 127612,
+    "2.2": 80892,
+    "2.3": 46720,
+    "3.1": 76640,
+    "3.2": 0,
+    "3.3": 4252,
+    "3.4": 80892,
+    "4.1": 77505,
+    "4.2": 2375,
+    "4.3": 1112
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายอดิศักดิ์ แก้วมุงคุณทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 36722
+    },
+    {
+      "number": 1,
+      "name": "นายธนอนันต์ เมนะสวัสดิ์",
+      "party": "กล้าธรรม",
+      "votes": 15176
+    },
+    {
+      "number": 2,
+      "name": "นายประชาชาติ แสนแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 12386
+    },
+    {
+      "number": 3,
+      "name": "นายสรวิชญ์ นาแพงสอน",
+      "party": "ประชาชน",
+      "votes": 10595
+    },
+    {
+      "number": 4,
+      "name": "นายประกาศิต ปัญญาใส",
+      "party": "เศรษฐกิจ",
+      "votes": 1487
+    },
+    {
+      "number": 6,
+      "name": "นายบรรพต จิกจักร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 487
+    },
+    {
+      "number": 7,
+      "name": "นางสาวมลิวรรณ แก้วสุข",
+      "party": "ประชาธิปัตย์",
+      "votes": 341
+    },
+    {
+      "number": 8,
+      "name": "นายสุริวรรณ คล้ายเพชร",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 147
+    },
+    {
+      "number": 9,
+      "name": "นายธนพล คำศรี",
+      "party": "ประชากรไทย",
+      "votes": 64
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/74. อุดรธานี เขต 6.json",
+  "_validation": {
+    "vote_sum": 77405,
+    "good_votes": 77505,
+    "sum_diff_pct": 0.13
+  },
+  "province_code": "41",
+  "province_name_normalized": "อุดรธานี",
+  "summary": {
+    "eligible_voters": 126378,
+    "voters_came": 80892,
+    "ballots_received": 127612,
+    "ballots_used": 80892,
+    "good_votes": 77505,
+    "invalid_votes": 2375,
+    "no_votes": 1112
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายอดิศักดิ์ แก้วมุงคุณทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 36722,
+      "candidate_uuid": "9bb4d0e6-a7cb-4989-b12b-4b742e7b7bf5",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายธนอนันต์ เมนะสวัสดิ์",
+      "party": "กล้าธรรม",
+      "votes": 15176,
+      "candidate_uuid": "da080998-9b09-49d0-8890-123b7bf5d1bc",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายประชาชาติ แสนแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 12386,
+      "candidate_uuid": "40cecd4e-37e3-4483-bd7d-666651ae010e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสรวิชญ์ นาแพงสอน",
+      "party": "ประชาชน",
+      "votes": 10595,
+      "candidate_uuid": "bba28f6b-88d6-40fc-8698-5b31df5b9411",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายประกาศิต ปัญญาใส",
+      "party": "เศรษฐกิจ",
+      "votes": 1487,
+      "candidate_uuid": "72f7429b-499a-4a12-89fe-2c68eefa6b2a",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายบรรพต จิกจักร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 487,
+      "candidate_uuid": "421b108b-815a-46d1-8113-a20084280d90",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวมลิวรรณ แก้วสุข",
+      "party": "ประชาธิปัตย์",
+      "votes": 341,
+      "candidate_uuid": "10d324a2-3f9c-4f8d-b91b-843080f5f7b3",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุริวรรณ คล้ายเพชร",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 147,
+      "candidate_uuid": "30c0bd71-5a4e-4e81-b49e-bff6e8b6499f",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธนพล คำศรี",
+      "party": "ประชากรไทย",
+      "votes": 64,
+      "candidate_uuid": "3a506e25-2f65-4473-8d58-8e342a93c17c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

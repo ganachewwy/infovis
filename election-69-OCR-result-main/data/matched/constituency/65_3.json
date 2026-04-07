@@ -1,0 +1,139 @@
+{
+  "province_name": "พิษณุโลก",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 142882,
+    "1.2": 94938,
+    "2.1": 144438,
+    "2.2": 94938,
+    "2.3": 49500,
+    "3.1": 88940,
+    "3.2": 0,
+    "3.3": 5998,
+    "3.4": 94938,
+    "4.1": 87798,
+    "4.2": 4233,
+    "4.3": 2907
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายปุณณเมธ อ้นอารี",
+      "party": "ประชาชน",
+      "votes": 18058
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสปัณธ์หยก วีรบุญย์กฤช",
+      "party": "เศรษฐกิจ",
+      "votes": 1443
+    },
+    {
+      "number": 3,
+      "name": "นายวิมล สารมะโน",
+      "party": "ประชาธิปัตย์",
+      "votes": 2165
+    },
+    {
+      "number": 4,
+      "name": "นายเจนวิทย์ จันทรา",
+      "party": "เพื่อไทย",
+      "votes": 21990
+    },
+    {
+      "number": 5,
+      "name": "นายศิราวัฒน์ น้อยวงค์",
+      "party": "กล้าธรรม",
+      "votes": 1494
+    },
+    {
+      "number": 6,
+      "name": "นายพงษ์มนู ทองหนัก",
+      "party": "ภูมิใจไทย",
+      "votes": 42353
+    },
+    {
+      "number": 7,
+      "name": "นางสาวปุญชรัสมิ์ ศิริสวัสดิ์",
+      "party": "พลังประชารัฐ",
+      "votes": 295
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/38. พิษณุโลก เขต 3.json",
+  "_validation": {
+    "vote_sum": 87798,
+    "good_votes": 87798,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "65",
+  "province_name_normalized": "พิษณุโลก",
+  "summary": {
+    "eligible_voters": 142882,
+    "voters_came": 94938,
+    "ballots_received": 144438,
+    "ballots_used": 94938,
+    "good_votes": 87798,
+    "invalid_votes": 4233,
+    "no_votes": 2907
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายปุณณเมธ อ้นอารี",
+      "party": "ประชาชน",
+      "votes": 18058,
+      "candidate_uuid": "db17b9c4-d375-48ff-a27e-7382567133ad",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสปัณธ์หยก วีรบุญย์กฤช",
+      "party": "เศรษฐกิจ",
+      "votes": 1443,
+      "candidate_uuid": "7f2f9859-f29a-474a-b678-ecd892673213",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวิมล สารมะโน",
+      "party": "ประชาธิปัตย์",
+      "votes": 2165,
+      "candidate_uuid": "07aec464-e02c-491a-bcf4-1ecaf3bdfe12",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายเจนวิทย์ จันทรา",
+      "party": "เพื่อไทย",
+      "votes": 21990,
+      "candidate_uuid": "401e1b12-f868-43c7-9b80-a56c6694d769",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายศิราวัฒน์ น้อยวงค์",
+      "party": "กล้าธรรม",
+      "votes": 1494,
+      "candidate_uuid": "be13ac9d-5476-4cdc-a4dd-f7f07649040b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพงษ์มนู ทองหนัก",
+      "party": "ภูมิใจไทย",
+      "votes": 42353,
+      "candidate_uuid": "0d566c2d-6801-46e4-8a52-b5130800bb9a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวปุญชรัสมิ์ ศิริสวัสดิ์",
+      "party": "พลังประชารัฐ",
+      "votes": 295,
+      "candidate_uuid": "3805cf48-3260-47c7-af2b-2e3d3a1d9f5f",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,125 @@
+{
+  "province_name": "ชัยภูมิ",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127154,
+    "1.2": 80751,
+    "2.1": 129026,
+    "2.2": 80751,
+    "2.3": 48275,
+    "3.1": 76345,
+    "3.2": 0,
+    "3.3": 4406,
+    "3.4": 80751,
+    "4.1": 75289,
+    "4.2": 3742,
+    "4.3": 1720
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายสัมฤทธิ์ แทนทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 48116
+    },
+    {
+      "number": 5,
+      "name": "นายสนั่น พัชรเตชโสภณ",
+      "party": "เพื่อไทย",
+      "votes": 15311
+    },
+    {
+      "number": 3,
+      "name": "นายกฤษณ์ คูนรัตนศิริ",
+      "party": "ประชาชน",
+      "votes": 9366
+    },
+    {
+      "number": 6,
+      "name": "พันโท สุเทพ บุญทะเล",
+      "party": "เศรษฐกิจ",
+      "votes": 1072
+    },
+    {
+      "number": 2,
+      "name": "นายวีระ ถนอมธรรม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 769
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพิศมัย สร้อยสุวรรณ",
+      "party": "ประชาธิปัตย์",
+      "votes": 655
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/11. ชัยภูมิ เขต 3.json",
+  "_validation": {
+    "vote_sum": 75289,
+    "good_votes": 75289,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "36",
+  "province_name_normalized": "ชัยภูมิ",
+  "summary": {
+    "eligible_voters": 127154,
+    "voters_came": 80751,
+    "ballots_received": 129026,
+    "ballots_used": 80751,
+    "good_votes": 75289,
+    "invalid_votes": 3742,
+    "no_votes": 1720
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายสัมฤทธิ์ แทนทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 48116,
+      "candidate_uuid": "670168e2-e455-465f-a6f6-2a219a02be92",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสนั่น พัชรเตชโสภณ",
+      "party": "เพื่อไทย",
+      "votes": 15311,
+      "candidate_uuid": "21a96620-b2b7-45c0-a07e-f3d5a3a14ede",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกฤษณ์ คูนรัตนศิริ",
+      "party": "ประชาชน",
+      "votes": 9366,
+      "candidate_uuid": "4cf19ad2-2a4d-44ce-bb57-bb0452ca8b31",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "พันโท สุเทพ บุญทะเล",
+      "party": "เศรษฐกิจ",
+      "votes": 1072,
+      "candidate_uuid": "80837a85-5f4c-4801-9fd8-bdc12e3e71e9",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวีระ ถนอมธรรม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 769,
+      "candidate_uuid": "c6f79f7e-d2c7-451e-ad0e-e0614d2e4c8a",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพิศมัย สร้อยสุวรรณ",
+      "party": "ประชาธิปัตย์",
+      "votes": 655,
+      "candidate_uuid": "44a4239c-8e14-43e8-96bf-f90faa49cf97",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

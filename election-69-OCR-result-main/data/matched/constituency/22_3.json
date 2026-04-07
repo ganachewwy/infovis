@@ -1,0 +1,167 @@
+{
+  "province_name": "จันทบุรี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 142294,
+    "1.2": 101001,
+    "2.1": 140360,
+    "2.2": 101001,
+    "2.3": 39359,
+    "3.1": 97035,
+    "3.2": 0,
+    "3.3": 3966,
+    "3.4": 101001,
+    "4.1": 91176,
+    "4.2": 4249,
+    "4.3": 5576
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายชรัตน์ เนรัญชร",
+      "party": "ภูมิใจไทย",
+      "votes": 31798
+    },
+    {
+      "number": 6,
+      "name": "นายพราหมณ์ มุกดาสนิท",
+      "party": "พลังประชารัฐ",
+      "votes": 26664
+    },
+    {
+      "number": 1,
+      "name": "นายไพโรจน์ บัวเผื่อน",
+      "party": "ประชาชน",
+      "votes": 20697
+    },
+    {
+      "number": 7,
+      "name": "นายเกรียงเดช เข็มทอง",
+      "party": "เพื่อไทย",
+      "votes": 4138
+    },
+    {
+      "number": 5,
+      "name": "นายแสนคมณ์มินทร์ อนามพงษ์",
+      "party": "กล้าธรรม",
+      "votes": 2924
+    },
+    {
+      "number": 4,
+      "name": "นายกฤตนัน เย็นสำราญ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2830
+    },
+    {
+      "number": 9,
+      "name": "นายอดุลย์ ศรีภูมิสวัสดิ์",
+      "party": "รักชาติ",
+      "votes": 1030
+    },
+    {
+      "number": 2,
+      "name": "นายพชรดนัย ใจเที่ยง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 856
+    },
+    {
+      "number": 8,
+      "name": "นายธัญกาญจน์ อัครเดชเดชา",
+      "party": "ปวงชนไทย",
+      "votes": 239
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/7. จันทบุรี เขต 3.json",
+  "_validation": {
+    "vote_sum": 91176,
+    "good_votes": 91176,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "22",
+  "province_name_normalized": "จันทบุรี",
+  "summary": {
+    "eligible_voters": 142294,
+    "voters_came": 101001,
+    "ballots_received": 140360,
+    "ballots_used": 101001,
+    "good_votes": 91176,
+    "invalid_votes": 4249,
+    "no_votes": 5576
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายชรัตน์ เนรัญชร",
+      "party": "ภูมิใจไทย",
+      "votes": 31798,
+      "candidate_uuid": "9392fe89-4405-4b69-b585-a681b3e8fc22",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพราหมณ์ มุกดาสนิท",
+      "party": "พลังประชารัฐ",
+      "votes": 26664,
+      "candidate_uuid": "a197cc12-f23b-4c3e-b7d6-bfe0f84db81e",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายไพโรจน์ บัวเผื่อน",
+      "party": "ประชาชน",
+      "votes": 20697,
+      "candidate_uuid": "2ac9479b-6756-4839-b437-f7755735a523",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายเกรียงเดช เข็มทอง",
+      "party": "เพื่อไทย",
+      "votes": 4138,
+      "candidate_uuid": "c4ca76e5-3c6f-47b5-98c0-8be202d72fc6",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายแสนคมณ์มินทร์ อนามพงษ์",
+      "party": "กล้าธรรม",
+      "votes": 2924,
+      "candidate_uuid": "6c7daf0b-da11-4ae7-972a-248c34616139",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกฤตนัน เย็นสำราญ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2830,
+      "candidate_uuid": "7d88740b-589c-4b52-8222-f0e720ca5e8b",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายอดุลย์ ศรีภูมิสวัสดิ์",
+      "party": "รักชาติ",
+      "votes": 1030,
+      "candidate_uuid": "fa75c2cf-ea6d-4d9d-8c8b-400e81c5edfd",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพชรดนัย ใจเที่ยง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 856,
+      "candidate_uuid": "8e8084bd-5cd8-4961-9722-3b99963ca034",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธัญกาญจน์ อัครเดชเดชา",
+      "party": "ปวงชนไทย",
+      "votes": 239,
+      "candidate_uuid": "a0f2c0d4-0aa1-4d2c-8f9c-6230feafc827",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

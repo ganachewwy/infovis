@@ -1,0 +1,167 @@
+{
+  "province_name": "ศรีสะเกษ",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127679,
+    "1.2": 85062,
+    "2.1": 130792,
+    "2.2": 85062,
+    "2.3": 45730,
+    "3.1": 78410,
+    "3.2": 0,
+    "3.3": 6652,
+    "3.4": 85062,
+    "4.1": 79671,
+    "4.2": 3443,
+    "4.3": 1948
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นางสาวจินณ์ตวรรณ ไตรสรณกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 39108
+    },
+    {
+      "number": 5,
+      "name": "นางสาวภูริกา สมหมาย",
+      "party": "เพื่อไทย",
+      "votes": 25755
+    },
+    {
+      "number": 2,
+      "name": "นายพรสิทธิ์ รักษาทรัพย์",
+      "party": "ประชาชน",
+      "votes": 11077
+    },
+    {
+      "number": 6,
+      "name": "นายภูมินันท์ กัญญาบุตร",
+      "party": "เศรษฐกิจ",
+      "votes": 1091
+    },
+    {
+      "number": 7,
+      "name": "นายประไพย์ ศรีลาชัย",
+      "party": "ประชากรไทย",
+      "votes": 887
+    },
+    {
+      "number": 8,
+      "name": "นายสวัสดิ์ โพธิสาร",
+      "party": "ประชาธิปัตย์",
+      "votes": 652
+    },
+    {
+      "number": 9,
+      "name": "นายบุญเลี้ยง สว่างภพ",
+      "party": "กล้าธรรม",
+      "votes": 619
+    },
+    {
+      "number": 17,
+      "name": "นายธรรศ คำพันธุ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 395
+    },
+    {
+      "number": 18,
+      "name": "นางสาวนภาพร บุตรสอน",
+      "party": "ปวงชนไทย",
+      "votes": 87
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/56. ศรีสะเกษ เขต 5.json",
+  "_validation": {
+    "vote_sum": 79671,
+    "good_votes": 79671,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "33",
+  "province_name_normalized": "ศรีสะเกษ",
+  "summary": {
+    "eligible_voters": 127679,
+    "voters_came": 85062,
+    "ballots_received": 130792,
+    "ballots_used": 85062,
+    "good_votes": 79671,
+    "invalid_votes": 3443,
+    "no_votes": 1948
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นางสาวจินณ์ตวรรณ ไตรสรณกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 39108,
+      "candidate_uuid": "cc8014be-3b37-43d0-8885-da8d984b4cb0",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวภูริกา สมหมาย",
+      "party": "เพื่อไทย",
+      "votes": 25755,
+      "candidate_uuid": "3da68c4f-59ee-4985-935e-ca4eea886a63",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพรสิทธิ์ รักษาทรัพย์",
+      "party": "ประชาชน",
+      "votes": 11077,
+      "candidate_uuid": "66c8882d-c139-4660-8158-9e94e1ca9c2d",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายภูมินันท์ กัญญาบุตร",
+      "party": "เศรษฐกิจ",
+      "votes": 1091,
+      "candidate_uuid": "a563e51e-aaa3-4b3f-801c-ab1c2867b5b7",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายประไพย์ ศรีลาชัย",
+      "party": "ประชากรไทย",
+      "votes": 887,
+      "candidate_uuid": "8ddff385-7333-4e48-94b8-d35aebfd2c6e",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสวัสดิ์ โพธิสาร",
+      "party": "ประชาธิปัตย์",
+      "votes": 652,
+      "candidate_uuid": "066db407-237a-4555-a71c-80e21458a8e3",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายบุญเลี้ยง สว่างภพ",
+      "party": "กล้าธรรม",
+      "votes": 619,
+      "candidate_uuid": "db0a0048-44f8-442f-8bea-13e90d277fc8",
+      "is_active": true
+    },
+    {
+      "number": 17,
+      "name": "นายธรรศ คำพันธุ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 395,
+      "candidate_uuid": "f9dcfb0e-7720-4cfd-9399-015c783892e6",
+      "is_active": true
+    },
+    {
+      "number": 18,
+      "name": "นางสาวนภาพร บุตรสอน",
+      "party": "ปวงชนไทย",
+      "votes": 87,
+      "candidate_uuid": "a7726a53-fd1c-4285-972d-7e429e58a304",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

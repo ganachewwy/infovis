@@ -1,0 +1,111 @@
+{
+  "province_name": "พังงา",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 110773,
+    "1.2": 83093,
+    "2.1": 113035,
+    "2.2": 83093,
+    "2.3": 29942,
+    "3.1": 79238,
+    "3.2": 0,
+    "3.3": 3855,
+    "3.4": 83093,
+    "4.1": 75502,
+    "4.2": 2845,
+    "4.3": 4746
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายฉกาจ พัฒนกิจวิบูลย์",
+      "party": "ภูมิใจไทย",
+      "votes": 26513
+    },
+    {
+      "number": 2,
+      "name": "นายสมควร จันทร์แดง",
+      "party": "กล้าธรรม",
+      "votes": 23308
+    },
+    {
+      "number": 4,
+      "name": "นายกุศล ทนังผล",
+      "party": "ประชาธิปัตย์",
+      "votes": 12604
+    },
+    {
+      "number": 5,
+      "name": "นายธีรุตม์ สันหวัง",
+      "party": "ประชาชน",
+      "votes": 11249
+    },
+    {
+      "number": 6,
+      "name": "นางสาวพิจิกา อุราวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 1828
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/35. พังงา เขต 2.json",
+  "_validation": {
+    "vote_sum": 75502,
+    "good_votes": 75502,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "82",
+  "province_name_normalized": "พังงา",
+  "summary": {
+    "eligible_voters": 110773,
+    "voters_came": 83093,
+    "ballots_received": 113035,
+    "ballots_used": 83093,
+    "good_votes": 75502,
+    "invalid_votes": 2845,
+    "no_votes": 4746
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายฉกาจ พัฒนกิจวิบูลย์",
+      "party": "ภูมิใจไทย",
+      "votes": 26513,
+      "candidate_uuid": "6a3897d9-84a2-4c7f-82eb-27273e186890",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสมควร จันทร์แดง",
+      "party": "กล้าธรรม",
+      "votes": 23308,
+      "candidate_uuid": "84c3bd8d-2437-4417-aefe-6399e86940b2",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกุศล ทนังผล",
+      "party": "ประชาธิปัตย์",
+      "votes": 12604,
+      "candidate_uuid": "c7a44b66-2068-4ed8-8206-25b4c66372b2",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายธีรุตม์ สันหวัง",
+      "party": "ประชาชน",
+      "votes": 11249,
+      "candidate_uuid": "4cd6da84-03c3-46ac-a9f6-1c31cbb23b7b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวพิจิกา อุราวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 1828,
+      "candidate_uuid": "45cb4146-07f9-4414-924d-f702497a3863",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

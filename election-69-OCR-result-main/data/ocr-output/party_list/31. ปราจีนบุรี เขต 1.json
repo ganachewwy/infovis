@@ -1,0 +1,322 @@
+{
+  "province_name": "ปราจีนบุรี",
+  "constituency_number": 1,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 129363,
+    "1.2": 94811,
+    "2.1": 132748,
+    "2.2": 94811,
+    "2.3": 37937,
+    "3.1": 90423,
+    "3.2": 54,
+    "3.3": 4334,
+    "3.4": 94811,
+    "4.1": 84899,
+    "4.2": 4566,
+    "4.3": 5346
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 2,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 2250
+    },
+    {
+      "number": 3,
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 4,
+      "party": "เพื่อชาติไทย",
+      "votes": 2244
+    },
+    {
+      "number": 5,
+      "party": "ใหม่",
+      "votes": 481
+    },
+    {
+      "number": 6,
+      "party": "มิติใหม่",
+      "votes": 468
+    },
+    {
+      "number": 7,
+      "party": "พรรครวมใจไทย",
+      "votes": 796
+    },
+    {
+      "number": 8,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2466
+    },
+    {
+      "number": 9,
+      "party": "พลวัต",
+      "votes": 98
+    },
+    {
+      "number": 10,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 450
+    },
+    {
+      "number": 11,
+      "party": "เพื่อไทย",
+      "votes": 8898
+    },
+    {
+      "number": 12,
+      "party": "ทางเลือกใหม่",
+      "votes": 712
+    },
+    {
+      "number": 13,
+      "party": "เศรษฐกิจ",
+      "votes": 4310
+    },
+    {
+      "number": 14,
+      "party": "เสรีรวมไทย",
+      "votes": 658
+    },
+    {
+      "number": 15,
+      "party": "รวมพลังประชาชน",
+      "votes": 608
+    },
+    {
+      "number": 16,
+      "party": "ท้องที่ไทย",
+      "votes": 105
+    },
+    {
+      "number": 17,
+      "party": "อนาคตใหม่",
+      "votes": 86
+    },
+    {
+      "number": 18,
+      "party": "พลังเพื่อไทย",
+      "votes": 169
+    },
+    {
+      "number": 19,
+      "party": "ไทยชนะ",
+      "votes": 138
+    },
+    {
+      "number": 20,
+      "party": "พลังสังคมใหม่",
+      "votes": 28
+    },
+    {
+      "number": 21,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 38
+    },
+    {
+      "number": 22,
+      "party": "ฟิวชัน",
+      "votes": 47
+    },
+    {
+      "number": 23,
+      "party": "ไทยรวมพลัง",
+      "votes": 71
+    },
+    {
+      "number": 24,
+      "party": "ก้าวอิสระ",
+      "votes": 40
+    },
+    {
+      "number": 25,
+      "party": "ปวงชนไทย",
+      "votes": 52
+    },
+    {
+      "number": 26,
+      "party": "วิชชั่นใหม่",
+      "votes": 58
+    },
+    {
+      "number": 27,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 99
+    },
+    {
+      "number": 28,
+      "party": "คลองไทย",
+      "votes": 55
+    },
+    {
+      "number": 29,
+      "party": "ประชาธิปปัตย์",
+      "votes": 4202
+    },
+    {
+      "number": 30,
+      "party": "ไทยก้าวหน้า",
+      "votes": 161
+    },
+    {
+      "number": 31,
+      "party": "ไทยภักดี",
+      "votes": 941
+    },
+    {
+      "number": 32,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 254
+    },
+    {
+      "number": 33,
+      "party": "ประชากรไทย",
+      "votes": 220
+    },
+    {
+      "number": 34,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 91
+    },
+    {
+      "number": 35,
+      "party": "ประชาชาติ",
+      "votes": 147
+    },
+    {
+      "number": 36,
+      "party": "สร้างอนาคตไทย",
+      "votes": 126
+    },
+    {
+      "number": 37,
+      "party": "รักชาติ",
+      "votes": 140
+    },
+    {
+      "number": 38,
+      "party": "ไทยพร้อม",
+      "votes": 123
+    },
+    {
+      "number": 39,
+      "party": "ภูมิใจไทย",
+      "votes": 19725
+    },
+    {
+      "number": 40,
+      "party": "พลังธรรมใหม่",
+      "votes": 103
+    },
+    {
+      "number": 41,
+      "party": "กรีน",
+      "votes": 57
+    },
+    {
+      "number": 42,
+      "party": "ไทยธรรม",
+      "votes": 134
+    },
+    {
+      "number": 43,
+      "party": "แผ่นดินธรรม",
+      "votes": 31
+    },
+    {
+      "number": 44,
+      "party": "กล้าธรรม",
+      "votes": 500
+    },
+    {
+      "number": 45,
+      "party": "พลังประชารัฐ",
+      "votes": 358
+    },
+    {
+      "number": 46,
+      "party": "โอกาสใหม่",
+      "votes": 104
+    },
+    {
+      "number": 47,
+      "party": "เป็นธรรม",
+      "votes": 83
+    },
+    {
+      "number": 48,
+      "party": "ประชาชน",
+      "votes": 30816
+    },
+    {
+      "number": 49,
+      "party": "ประชาไทย",
+      "votes": 136
+    },
+    {
+      "number": 50,
+      "party": "ไทยสร้างไทย",
+      "votes": 389
+    },
+    {
+      "number": 51,
+      "party": "ไทยก้าวใหม่",
+      "votes": 276
+    },
+    {
+      "number": 52,
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "number": 53,
+      "party": "พร้อม",
+      "votes": 75
+    },
+    {
+      "number": 54,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 43
+    },
+    {
+      "number": 55,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "number": 56,
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "number": 57,
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 50
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 118
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/31. ปราจีนบุรี เขต 1 (บช).pdf",
+  "_validation": {
+    "vote_sum": 84900,
+    "good_votes": 84899,
+    "sum_diff_pct": 0.0
+  }
+}

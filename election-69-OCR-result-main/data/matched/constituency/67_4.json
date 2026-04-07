@@ -1,0 +1,195 @@
+{
+  "province_name": "เพชรบูรณ์",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126049,
+    "1.2": 78124,
+    "2.1": 128891,
+    "2.2": 78124,
+    "2.3": 50767,
+    "3.1": 72413,
+    "3.2": 0,
+    "3.3": 5711,
+    "3.4": 78124,
+    "4.1": 72394,
+    "4.2": 3038,
+    "4.3": 2692
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายวรโชติ สุคนธ์ขจร",
+      "party": "ภูมิใจไทย",
+      "votes": 48590
+    },
+    {
+      "number": 1,
+      "name": "นายพรหมธาดา วิเศษสิงห์",
+      "party": "ประชาชน",
+      "votes": 13294
+    },
+    {
+      "number": 5,
+      "name": "นายทวีศักดิ์ อนรรฆพันธ์",
+      "party": "เพื่อไทย",
+      "votes": 6132
+    },
+    {
+      "number": 9,
+      "name": "นายธนภาค บุ้งจันทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 1153
+    },
+    {
+      "number": 4,
+      "name": "นายทองมา ทองอำ",
+      "party": "โอกาสใหม่",
+      "votes": 698
+    },
+    {
+      "number": 8,
+      "name": "นายภาณุวัฒน์ หาญเชิงชัย",
+      "party": "ประชาธิปัตย์",
+      "votes": 593
+    },
+    {
+      "number": 6,
+      "name": "นายโชคชัย มั่นเติม",
+      "party": "ประชากรไทย",
+      "votes": 567
+    },
+    {
+      "number": 10,
+      "name": "นายเกรียงศักดิ์ ศรีวงษ์ราช",
+      "party": "พลังประชารัฐ",
+      "votes": 451
+    },
+    {
+      "number": 3,
+      "name": "นายทวีศักดิ์ เชื้อบุญมี",
+      "party": "พร้อม",
+      "votes": 424
+    },
+    {
+      "number": 2,
+      "name": "นายวิเชียร แดงม่วง",
+      "party": "กล้าธรรม",
+      "votes": 385
+    },
+    {
+      "number": 11,
+      "name": "น.ส.นัฐธันยพร ภวิตรารัตนศิริ",
+      "party": "ปวงชนไทย",
+      "votes": 107
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/40. เพชรบูรณ์ เขต 4.json",
+  "_validation": {
+    "vote_sum": 72394,
+    "good_votes": 72394,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "67",
+  "province_name_normalized": "เพชรบูรณ์",
+  "summary": {
+    "eligible_voters": 126049,
+    "voters_came": 78124,
+    "ballots_received": 128891,
+    "ballots_used": 78124,
+    "good_votes": 72394,
+    "invalid_votes": 3038,
+    "no_votes": 2692
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นายวรโชติ สุคนธ์ขจร",
+      "party": "ภูมิใจไทย",
+      "votes": 48590,
+      "candidate_uuid": "6305f825-67df-4e02-9045-ca103cf455cb",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพรหมธาดา วิเศษสิงห์",
+      "party": "ประชาชน",
+      "votes": 13294,
+      "candidate_uuid": "aafc5d16-9206-41b2-819d-86876cf4fa85",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายทวีศักดิ์ อนรรฆพันธ์",
+      "party": "เพื่อไทย",
+      "votes": 6132,
+      "candidate_uuid": "5b738351-bc2f-457d-a18a-5c0132bfae21",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธนภาค บุ้งจันทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 1153,
+      "candidate_uuid": "1731ac98-dcf0-4559-8687-1c8adf864219",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายทองมา ทองอำ",
+      "party": "โอกาสใหม่",
+      "votes": 698,
+      "candidate_uuid": "d08ce297-e233-4584-a1ee-1cf45f14de99",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายภาณุวัฒน์ หาญเชิงชัย",
+      "party": "ประชาธิปัตย์",
+      "votes": 593,
+      "candidate_uuid": "7ead7da3-bec9-43ae-87ca-013db64aa152",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายโชคชัย มั่นเติม",
+      "party": "ประชากรไทย",
+      "votes": 567,
+      "candidate_uuid": "1f9aefc7-3017-48a6-b38e-bdd3f6c93fb3",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายเกรียงศักดิ์ ศรีวงษ์ราช",
+      "party": "พลังประชารัฐ",
+      "votes": 451,
+      "candidate_uuid": "00557590-4d5e-4db9-a4f9-228311bfe851",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายทวีศักดิ์ เชื้อบุญมี",
+      "party": "พร้อม",
+      "votes": 424,
+      "candidate_uuid": "0dc5d410-74a1-44ed-bc45-a6b09fa247d3",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวิเชียร แดงม่วง",
+      "party": "กล้าธรรม",
+      "votes": 385,
+      "candidate_uuid": "706b58b6-d99f-43a3-88e5-8e36d57036bb",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "น.ส.นัฐธันยพร ภวิตรารัตนศิริ",
+      "party": "ปวงชนไทย",
+      "votes": 107,
+      "candidate_uuid": "dc10e97d-69fe-4d21-ac80-e82ef471b9ac",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

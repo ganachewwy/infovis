@@ -1,0 +1,181 @@
+{
+  "province_name": "ชลบุรี",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127875,
+    "1.2": 88767,
+    "2.1": 130689,
+    "2.2": 88767,
+    "2.3": 41922,
+    "3.1": 86134,
+    "3.2": 4,
+    "3.3": 2629,
+    "3.4": 88767,
+    "4.1": 82754,
+    "4.2": 2097,
+    "4.3": 3916
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายสหัสวัต คุมคง",
+      "party": "ประชาชน",
+      "votes": 39986
+    },
+    {
+      "number": 6,
+      "name": "นายสงกรานต์ ภาชนะ",
+      "party": "ภูมิใจไทย",
+      "votes": 31986
+    },
+    {
+      "number": 5,
+      "name": "นายนฤพล นิยมทรัพย์",
+      "party": "เพื่อไทย",
+      "votes": 3003
+    },
+    {
+      "number": 7,
+      "name": "นายสุขสันต์ มิสสาจันทร์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2584
+    },
+    {
+      "number": 8,
+      "name": "นายพีธพงศ์ เสนียุติธรรม",
+      "party": "เศรษฐกิจ",
+      "votes": 2100
+    },
+    {
+      "number": 9,
+      "name": "นางสาวภัสพร พรประเสริฐ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1412
+    },
+    {
+      "number": 3,
+      "name": "นางสาวมะลิวัลย์ โกสุมภ์",
+      "party": "ปวงชนไทย",
+      "votes": 494
+    },
+    {
+      "number": 2,
+      "name": "นายประดิษฐ์ แพรกทอง",
+      "party": "ไทยภักดี",
+      "votes": 451
+    },
+    {
+      "number": 10,
+      "name": "นายมงคล ไตรพาน",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 386
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปณิฐาณ์ อัครมหาฐีร",
+      "party": "พลังประชารัฐ",
+      "votes": 352
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/9. ชลบุรี เขต 7.json",
+  "_validation": {
+    "vote_sum": 82754,
+    "good_votes": 82754,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "20",
+  "province_name_normalized": "ชลบุรี",
+  "summary": {
+    "eligible_voters": 127875,
+    "voters_came": 88767,
+    "ballots_received": 130689,
+    "ballots_used": 88767,
+    "good_votes": 82754,
+    "invalid_votes": 2097,
+    "no_votes": 3916
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายสหัสวัต คุมคง",
+      "party": "ประชาชน",
+      "votes": 39986,
+      "candidate_uuid": "c330dee1-0bd5-4868-ae96-bdf27a1586b2",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสงกรานต์ ภาชนะ",
+      "party": "ภูมิใจไทย",
+      "votes": 31986,
+      "candidate_uuid": "e225af92-192c-4dc5-9c59-1a14e3969974",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนฤพล นิยมทรัพย์",
+      "party": "เพื่อไทย",
+      "votes": 3003,
+      "candidate_uuid": "e27d3a83-36c6-443e-a90b-b60372b66a37",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุขสันต์ มิสสาจันทร์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2584,
+      "candidate_uuid": "c931f462-dcb1-43c5-a539-281443b5762f",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายพีธพงศ์ เสนียุติธรรม",
+      "party": "เศรษฐกิจ",
+      "votes": 2100,
+      "candidate_uuid": "3d975b58-c245-400c-b5db-56c0dc368f0d",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวภัสพร พรประเสริฐ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1412,
+      "candidate_uuid": "4c2a80bc-d145-4757-8708-12daad621c10",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวมะลิวัลย์ โกสุมภ์",
+      "party": "ปวงชนไทย",
+      "votes": 494,
+      "candidate_uuid": "4435e6a6-a9e5-45fa-8ee4-d912ac48560c",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายประดิษฐ์ แพรกทอง",
+      "party": "ไทยภักดี",
+      "votes": 451,
+      "candidate_uuid": "72ec6bc3-32ca-41c8-b3d3-bfd463565e4f",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายมงคล ไตรพาน",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 386,
+      "candidate_uuid": "8096cc01-d940-4e47-8603-9557b53f8e6a",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปณิฐาณ์ อัครมหาฐีร",
+      "party": "พลังประชารัฐ",
+      "votes": 352,
+      "candidate_uuid": "e3181e51-5e9f-46b2-b749-6e0f387e159d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

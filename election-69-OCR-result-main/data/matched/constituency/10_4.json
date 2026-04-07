@@ -1,0 +1,223 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129503,
+    "1.2": 82948,
+    "2.1": 127040,
+    "2.2": 82947,
+    "2.3": 44093,
+    "3.1": 78869,
+    "3.2": 160,
+    "3.3": 3918,
+    "3.4": 82947,
+    "4.1": 77982,
+    "4.2": 1472,
+    "4.3": 3493
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายภัณฑิล น่วมเจิม",
+      "party": "ประชาชน",
+      "votes": 34405
+    },
+    {
+      "number": 1,
+      "name": "นายพงศกร ขวัญเมือง",
+      "party": "ประชาธิปัตย์",
+      "votes": 23594
+    },
+    {
+      "number": 6,
+      "name": "นายเขตรัฐ เหล่าธรรมทัศน์",
+      "party": "ภูมิใจไทย",
+      "votes": 10778
+    },
+    {
+      "number": 4,
+      "name": "นางสาวบุณยกร ดำรงรัตน์",
+      "party": "เพื่อไทย",
+      "votes": 4343
+    },
+    {
+      "number": 12,
+      "name": "นายสกลภัทร ประยูรรัตน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1050
+    },
+    {
+      "number": 10,
+      "name": "นายบุญเกียรติ วิศาลโกศล",
+      "party": "เศรษฐกิจ",
+      "votes": 857
+    },
+    {
+      "number": 9,
+      "name": "ว่าที่ร้อยตรีหญิงปภัสราวรรณ ม่วงไหม",
+      "party": "กล้าธรรม",
+      "votes": 739
+    },
+    {
+      "number": 3,
+      "name": "นายชยพงศ์ สายฟ้า",
+      "party": "ไทยก้าวใหม่",
+      "votes": 708
+    },
+    {
+      "number": 8,
+      "name": "นายรุจิระ อัคราพิริยพงศ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 418
+    },
+    {
+      "number": 11,
+      "name": "นายสรยุทธ ลิขิตอาภากุล",
+      "party": "รักชาติ",
+      "votes": 364
+    },
+    {
+      "number": 5,
+      "name": "นายเรืองไกร ลีกิจวัฒนะ",
+      "party": "พลังประชารัฐ",
+      "votes": 337
+    },
+    {
+      "number": 7,
+      "name": "นายอิทธิพัทธ์ โศภวัฒนาสิริ",
+      "party": "ปวงชนไทย",
+      "votes": 265
+    },
+    {
+      "number": 13,
+      "name": "นางสาวพรพิมล ฉิมสวัสดิ์",
+      "party": "โอกาสใหม่",
+      "votes": 124
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 4.json",
+  "_validation": {
+    "vote_sum": 77982,
+    "good_votes": 77982,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 129503,
+    "voters_came": 82948,
+    "ballots_received": 127040,
+    "ballots_used": 82947,
+    "good_votes": 77982,
+    "invalid_votes": 1472,
+    "no_votes": 3493
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายภัณฑิล น่วมเจิม",
+      "party": "ประชาชน",
+      "votes": 34405,
+      "candidate_uuid": "64ec02ca-c2e0-4c7f-8d7f-dd0bbcefdc9f",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพงศกร ขวัญเมือง",
+      "party": "ประชาธิปัตย์",
+      "votes": 23594,
+      "candidate_uuid": "c31e9be2-2e39-495e-ac01-d1f3f3672877",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเขตรัฐ เหล่าธรรมทัศน์",
+      "party": "ภูมิใจไทย",
+      "votes": 10778,
+      "candidate_uuid": "3f84b23b-e370-4095-8bd8-fa563df5d4ec",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวบุณยกร ดำรงรัตน์",
+      "party": "เพื่อไทย",
+      "votes": 4343,
+      "candidate_uuid": "97b03a69-1f6f-4055-ba0e-ff963afecf10",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายสกลภัทร ประยูรรัตน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1050,
+      "candidate_uuid": "37061325-2d49-410f-a8e3-143d40e6b1a4",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายบุญเกียรติ วิศาลโกศล",
+      "party": "เศรษฐกิจ",
+      "votes": 857,
+      "candidate_uuid": "dce75dad-734a-4bea-b97a-4d38f3665c4e",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "ว่าที่ร้อยตรีหญิงปภัสราวรรณ ม่วงไหม",
+      "party": "กล้าธรรม",
+      "votes": 739,
+      "candidate_uuid": "65d499d9-dafb-4cae-8da8-3edc201240fc",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชยพงศ์ สายฟ้า",
+      "party": "ไทยก้าวใหม่",
+      "votes": 708,
+      "candidate_uuid": "d2456566-bd04-4dfe-931e-af48d02eb865",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายรุจิระ อัคราพิริยพงศ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 418,
+      "candidate_uuid": "c9780330-0342-42f1-95dc-abc86c85e635",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายสรยุทธ ลิขิตอาภากุล",
+      "party": "รักชาติ",
+      "votes": 364,
+      "candidate_uuid": "31fb6650-f4cb-442c-aa40-7bcdb7a47f02",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเรืองไกร ลีกิจวัฒนะ",
+      "party": "พลังประชารัฐ",
+      "votes": 337,
+      "candidate_uuid": "32db7ea5-0d94-4189-af75-c7432349464f",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอิทธิพัทธ์ โศภวัฒนาสิริ",
+      "party": "ปวงชนไทย",
+      "votes": 265,
+      "candidate_uuid": "cc2a9a16-c284-4d9f-8cbb-7f518392eaa2",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นางสาวพรพิมล ฉิมสวัสดิ์",
+      "party": "โอกาสใหม่",
+      "votes": 124,
+      "candidate_uuid": "18ba7132-629d-413f-9073-568ff558bc9f",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

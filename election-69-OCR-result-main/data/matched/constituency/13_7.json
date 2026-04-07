@@ -1,0 +1,167 @@
+{
+  "province_name": "ปทุมธานี",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 121843,
+    "1.2": 92139,
+    "2.1": 139400,
+    "2.2": 92139,
+    "2.3": 47261,
+    "3.1": 89261,
+    "3.2": 0,
+    "3.3": 2878,
+    "3.4": 92139,
+    "4.1": 86075,
+    "4.2": 2194,
+    "4.3": 3870
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายพิษณุ พลธี",
+      "party": "ภูมิใจไทย",
+      "votes": 46202
+    },
+    {
+      "number": 7,
+      "name": "นางสาวธันยนันท์ ไพบูลย์สุข",
+      "party": "ประชาชน",
+      "votes": 27814
+    },
+    {
+      "number": 6,
+      "name": "นายบุญเริ่ม อรชุน",
+      "party": "เพื่อไทย",
+      "votes": 5324
+    },
+    {
+      "number": 8,
+      "name": "ว่าที่ร้อยเอก ปัญญา ชัยรัตนพานิช",
+      "party": "เศรษฐกิจ",
+      "votes": 2488
+    },
+    {
+      "number": 5,
+      "name": "นางสาวดวงดารา นภาคเวช",
+      "party": "ประชาธิปัตย์",
+      "votes": 1538
+    },
+    {
+      "number": 3,
+      "name": "นางสาวปัญจรัศม์ ภคภณธนวัจน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 999
+    },
+    {
+      "number": 9,
+      "name": "นายเอกธนัช เจริญรูป",
+      "party": "ไทยก้าวใหม่",
+      "votes": 806
+    },
+    {
+      "number": 1,
+      "name": "นางสาวศวิตา แสนสวาท",
+      "party": "รักชาติ",
+      "votes": 489
+    },
+    {
+      "number": 2,
+      "name": "นางสิริกัญญา เสาะแสวง",
+      "party": "พลังประชารัฐ",
+      "votes": 415
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/29. ปทุมธานี เขต 7.json",
+  "_validation": {
+    "vote_sum": 86075,
+    "good_votes": 86075,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "13",
+  "province_name_normalized": "ปทุมธานี",
+  "summary": {
+    "eligible_voters": 121843,
+    "voters_came": 92139,
+    "ballots_received": 139400,
+    "ballots_used": 92139,
+    "good_votes": 86075,
+    "invalid_votes": 2194,
+    "no_votes": 3870
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายพิษณุ พลธี",
+      "party": "ภูมิใจไทย",
+      "votes": 46202,
+      "candidate_uuid": "8af84945-b50c-42a7-9185-474c3f3b1139",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวธันยนันท์ ไพบูลย์สุข",
+      "party": "ประชาชน",
+      "votes": 27814,
+      "candidate_uuid": "bce55e4a-ca74-477d-b249-417f467fd3b1",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายบุญเริ่ม อรชุน",
+      "party": "เพื่อไทย",
+      "votes": 5324,
+      "candidate_uuid": "67909083-2e15-4348-9fa7-1c4b0700d836",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ว่าที่ร้อยเอก ปัญญา ชัยรัตนพานิช",
+      "party": "เศรษฐกิจ",
+      "votes": 2488,
+      "candidate_uuid": "14b7ea8e-c66e-4085-9e0f-fb0279766ed4",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวดวงดารา นภาคเวช",
+      "party": "ประชาธิปัตย์",
+      "votes": 1538,
+      "candidate_uuid": "049f2159-08a3-43a7-8d41-eb7f0640067a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวปัญจรัศม์ ภคภณธนวัจน์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 999,
+      "candidate_uuid": "aea0bbe1-ef8e-4e9a-8b8c-a28ecd387d04",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายเอกธนัช เจริญรูป",
+      "party": "ไทยก้าวใหม่",
+      "votes": 806,
+      "candidate_uuid": "d0c42c6c-cb60-416b-9b8f-ef4c1bf5179e",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวศวิตา แสนสวาท",
+      "party": "รักชาติ",
+      "votes": 489,
+      "candidate_uuid": "947c2d34-6835-49af-890c-d48367f983f8",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสิริกัญญา เสาะแสวง",
+      "party": "พลังประชารัฐ",
+      "votes": 415,
+      "candidate_uuid": "83d6a842-b8d3-4247-948e-339434ce79f6",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

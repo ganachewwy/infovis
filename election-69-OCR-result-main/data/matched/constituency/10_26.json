@@ -1,0 +1,237 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 26,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139434,
+    "1.2": 97121,
+    "2.1": 143700,
+    "2.2": 97121,
+    "2.3": 46579,
+    "3.1": 93265,
+    "3.2": 19,
+    "3.3": 3837,
+    "3.4": 97121,
+    "4.1": 90037,
+    "4.2": 1820,
+    "4.3": 5264
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นาย พงษ์สรณัฐ ทองลี",
+      "party": "ประชาชน",
+      "votes": 44271
+    },
+    {
+      "number": 7,
+      "name": "นาย ศรัณยสัณฑ์ วีรกุลสุนทร",
+      "party": "เพื่อไทย",
+      "votes": 16727
+    },
+    {
+      "number": 10,
+      "name": "นาย โชติพิพัฒน์ เตชะโสภณมณี",
+      "party": "ภูมิใจไทย",
+      "votes": 11584
+    },
+    {
+      "number": 6,
+      "name": "นาย สาโรจน์ ซึ้งไพศาลกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 8425
+    },
+    {
+      "number": 4,
+      "name": "นาย ธวัชชัย ทองสิมา",
+      "party": "ไทยสร้างไทย",
+      "votes": 2506
+    },
+    {
+      "number": 5,
+      "name": "นาย ชัยณรงค์ ธีรการุณวงศ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1562
+    },
+    {
+      "number": 11,
+      "name": "พลตรี สุชิน บุญญานันท์",
+      "party": "เศรษฐกิจ",
+      "votes": 1422
+    },
+    {
+      "number": 9,
+      "name": "นาย เสฐียรพงษ์ สำแดงสุข",
+      "party": "กล้าธรรม",
+      "votes": 1359
+    },
+    {
+      "number": 8,
+      "name": "นาย วิเชียร กันทาทรัพย์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 810
+    },
+    {
+      "number": 2,
+      "name": "นาง สดใส โอมหานนท์",
+      "party": "ปวงชนไทย",
+      "votes": 486
+    },
+    {
+      "number": 3,
+      "name": "นางสาว นิศาชล ชาหอม",
+      "party": "พลวัต",
+      "votes": 421
+    },
+    {
+      "number": 12,
+      "name": "นาง ภัควรินทร์ อติธัญญารัศม์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 222
+    },
+    {
+      "number": 14,
+      "name": "นาย ณัฐกร มั่นจิตต์",
+      "party": "โอกาสใหม่",
+      "votes": 124
+    },
+    {
+      "number": 13,
+      "name": "นาง ธัญยรัตน์ วโรอัครวัฒน์",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 118
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 26.json",
+  "_validation": {
+    "vote_sum": 90037,
+    "good_votes": 90037,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 139434,
+    "voters_came": 97121,
+    "ballots_received": 143700,
+    "ballots_used": 97121,
+    "good_votes": 90037,
+    "invalid_votes": 1820,
+    "no_votes": 5264
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นาย พงษ์สรณัฐ ทองลี",
+      "party": "ประชาชน",
+      "votes": 44271,
+      "candidate_uuid": "7eed32dc-f9b9-4aa1-b9bf-ca3ac187161b",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นาย ศรัณยสัณฑ์ วีรกุลสุนทร",
+      "party": "เพื่อไทย",
+      "votes": 16727,
+      "candidate_uuid": "44ea9076-a545-425d-98f8-4595ff6dc0c6",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นาย โชติพิพัฒน์ เตชะโสภณมณี",
+      "party": "ภูมิใจไทย",
+      "votes": 11584,
+      "candidate_uuid": "63fe7db0-dbe0-4af4-95b7-3f2ca8f71681",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นาย สาโรจน์ ซึ้งไพศาลกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 8425,
+      "candidate_uuid": "3f487a35-68d3-41b5-b6bf-2eb2889785d0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นาย ธวัชชัย ทองสิมา",
+      "party": "ไทยสร้างไทย",
+      "votes": 2506,
+      "candidate_uuid": "f021f618-0f10-4a94-9870-afc2a4741e45",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นาย ชัยณรงค์ ธีรการุณวงศ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1562,
+      "candidate_uuid": "9e517095-7ffe-494e-a73d-b0374e4ef922",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "พลตรี สุชิน บุญญานันท์",
+      "party": "เศรษฐกิจ",
+      "votes": 1422,
+      "candidate_uuid": "58ade5e8-a4b0-4b4f-a321-71838b9131ed",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นาย เสฐียรพงษ์ สำแดงสุข",
+      "party": "กล้าธรรม",
+      "votes": 1359,
+      "candidate_uuid": "aa8005da-959a-4160-beb1-fcff6e52bc38",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นาย วิเชียร กันทาทรัพย์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 810,
+      "candidate_uuid": "3bfb9a30-065f-4b4a-8d42-a956a045ecb3",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นาง สดใส โอมหานนท์",
+      "party": "ปวงชนไทย",
+      "votes": 486,
+      "candidate_uuid": "c81d0159-0704-41d5-a820-2435c1ce6ff4",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาว นิศาชล ชาหอม",
+      "party": "พลวัต",
+      "votes": 421,
+      "candidate_uuid": "8aa90830-b56c-4a94-b1ff-e86fad93d22f",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นาง ภัควรินทร์ อติธัญญารัศม์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 222,
+      "candidate_uuid": "4e3849f1-cc1c-4473-a091-e13547a23c86",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นาย ณัฐกร มั่นจิตต์",
+      "party": "โอกาสใหม่",
+      "votes": 124,
+      "candidate_uuid": "1c517729-e928-457a-bb9d-1dd42755c0be",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นาง ธัญยรัตน์ วโรอัครวัฒน์",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 118,
+      "candidate_uuid": "fed502a3-773f-4548-9c49-3fc5a823ebb4",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

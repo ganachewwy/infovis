@@ -1,0 +1,139 @@
+{
+  "province_name": "ฉะเชิงเทรา",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 145910,
+    "1.2": 104600,
+    "2.1": 155660,
+    "2.2": 104600,
+    "2.3": 51060,
+    "3.1": 101434,
+    "3.2": 0,
+    "3.3": 3166,
+    "3.4": 104600,
+    "4.1": 93753,
+    "4.2": 5457,
+    "4.3": 5390
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายชัยวัฒน์ เป้าเปี่ยมทรัพย์",
+      "party": "กล้าธรรม",
+      "votes": 52758
+    },
+    {
+      "number": 2,
+      "name": "นายณัฐธพัฒน์ ธรรมทินนา",
+      "party": "ประชาชน",
+      "votes": 21616
+    },
+    {
+      "number": 1,
+      "name": "นายศักดิ์ชาย ตันเจริญ",
+      "party": "เพื่อไทย",
+      "votes": 14500
+    },
+    {
+      "number": 3,
+      "name": "นายภานุพงษ์ ไทเศรษฐวัฒน์กุล",
+      "party": "ภูมิใจไทย",
+      "votes": 2003
+    },
+    {
+      "number": 6,
+      "name": "นายสายัณห์ เกตุประยูร",
+      "party": "ประชาธิปัตย์",
+      "votes": 1377
+    },
+    {
+      "number": 5,
+      "name": "นางลอง ไผ่ล้อม",
+      "party": "ปวงชนไทย",
+      "votes": 929
+    },
+    {
+      "number": 8,
+      "name": "นายศักดิ์ชัย ณรงค์หนู",
+      "party": "พลังประชารัฐ",
+      "votes": 570
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/8. ฉะเชิงเทรา เขต 3.json",
+  "_validation": {
+    "vote_sum": 93753,
+    "good_votes": 93753,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "24",
+  "province_name_normalized": "ฉะเชิงเทรา",
+  "summary": {
+    "eligible_voters": 145910,
+    "voters_came": 104600,
+    "ballots_received": 155660,
+    "ballots_used": 104600,
+    "good_votes": 93753,
+    "invalid_votes": 5457,
+    "no_votes": 5390
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายชัยวัฒน์ เป้าเปี่ยมทรัพย์",
+      "party": "กล้าธรรม",
+      "votes": 52758,
+      "candidate_uuid": "6b88f30b-c48a-4ebf-b5aa-8468c2d4fb80",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายณัฐธพัฒน์ ธรรมทินนา",
+      "party": "ประชาชน",
+      "votes": 21616,
+      "candidate_uuid": "20661957-25c9-459c-83fd-947226c10782",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายศักดิ์ชาย ตันเจริญ",
+      "party": "เพื่อไทย",
+      "votes": 14500,
+      "candidate_uuid": "b8c1c14e-7fe4-4134-b4e3-05fa687d600f",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายภานุพงษ์ ไทเศรษฐวัฒน์กุล",
+      "party": "ภูมิใจไทย",
+      "votes": 2003,
+      "candidate_uuid": "6ea58c99-38d1-4a88-8d7a-0504d39142ea",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสายัณห์ เกตุประยูร",
+      "party": "ประชาธิปัตย์",
+      "votes": 1377,
+      "candidate_uuid": "27fc57e0-ddad-4b59-8395-06e8d8592d5c",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางลอง ไผ่ล้อม",
+      "party": "ปวงชนไทย",
+      "votes": 929,
+      "candidate_uuid": "28b3aa28-d5d5-4c7f-bc33-946a576f7ee8",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายศักดิ์ชัย ณรงค์หนู",
+      "party": "พลังประชารัฐ",
+      "votes": 570,
+      "candidate_uuid": "a3439435-aa48-49a9-97ad-abf51e97c318",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "อุบลราชธานี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132480,
+    "1.2": 99448,
+    "2.1": 142873,
+    "2.2": 99448,
+    "2.3": 43425,
+    "3.1": 91635,
+    "3.2": 5,
+    "3.3": 7808,
+    "3.4": 99448,
+    "4.1": 87991,
+    "4.2": 4184,
+    "4.3": 7273
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายวรสิทธิ์ กัลป์ตินันท์",
+      "party": "เพื่อไทย",
+      "votes": 32328
+    },
+    {
+      "number": 5,
+      "name": "นายธีระพล เพ็งจันทร์",
+      "party": "ประชาชน",
+      "votes": 27314
+    },
+    {
+      "number": 7,
+      "name": "นายธนพร สมศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 9184
+    },
+    {
+      "number": 4,
+      "name": "นายวิศรุต สวัสดิ์วร",
+      "party": "ไทยสร้างไทย",
+      "votes": 7869
+    },
+    {
+      "number": 1,
+      "name": "นายจเร ไขแสง",
+      "party": "ภูมิใจไทย",
+      "votes": 7327
+    },
+    {
+      "number": 3,
+      "name": "นายนิมิต จันทเวทย์ศิริ",
+      "party": "เศรษฐกิจ",
+      "votes": 2283
+    },
+    {
+      "number": 6,
+      "name": "นายพิษณุ อธิคมศาสตร์",
+      "party": "พลวัต",
+      "votes": 1098
+    },
+    {
+      "number": 8,
+      "name": "นายมีชัย ศรีคูณ",
+      "party": "พลังประชารัฐ",
+      "votes": 588
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/77. อุบลราชธานี เขต 1.json",
+  "_validation": {
+    "vote_sum": 87991,
+    "good_votes": 87991,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "34",
+  "province_name_normalized": "อุบลราชธานี",
+  "summary": {
+    "eligible_voters": 132480,
+    "voters_came": 99448,
+    "ballots_received": 142873,
+    "ballots_used": 99448,
+    "good_votes": 87991,
+    "invalid_votes": 4184,
+    "no_votes": 7273
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายวรสิทธิ์ กัลป์ตินันท์",
+      "party": "เพื่อไทย",
+      "votes": 32328,
+      "candidate_uuid": "f050b065-73ef-4ecd-891a-419d55198fc0",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายธีระพล เพ็งจันทร์",
+      "party": "ประชาชน",
+      "votes": 27314,
+      "candidate_uuid": "6591ca47-2380-4418-8e11-a10a4038bbf5",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายธนพร สมศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 9184,
+      "candidate_uuid": "7b34edeb-a0d1-4e48-8a9f-03b0ca728396",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิศรุต สวัสดิ์วร",
+      "party": "ไทยสร้างไทย",
+      "votes": 7869,
+      "candidate_uuid": "5fc838fe-bd23-4fff-b4ce-398f483d0088",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายจเร ไขแสง",
+      "party": "ภูมิใจไทย",
+      "votes": 7327,
+      "candidate_uuid": "6f9372dd-fbec-4e88-836a-03212b317ec5",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายนิมิต จันทเวทย์ศิริ",
+      "party": "เศรษฐกิจ",
+      "votes": 2283,
+      "candidate_uuid": "14fbe82f-4729-474c-a61b-76e9f8926bdd",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพิษณุ อธิคมศาสตร์",
+      "party": "พลวัต",
+      "votes": 1098,
+      "candidate_uuid": "72a5de0d-88d0-417c-94bf-3284586c00f8",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายมีชัย ศรีคูณ",
+      "party": "พลังประชารัฐ",
+      "votes": 588,
+      "candidate_uuid": "2a60491e-3136-4215-8089-a92861f662b7",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

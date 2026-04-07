@@ -1,0 +1,111 @@
+{
+  "province_name": "ระยอง",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 116650,
+    "1.2": 77741,
+    "2.1": 118162,
+    "2.2": 77741,
+    "2.3": 40421,
+    "3.1": 74625,
+    "3.2": 0,
+    "3.3": 3116,
+    "3.4": 77741,
+    "4.1": 68551,
+    "4.2": 3662,
+    "4.3": 5528
+  },
+  "results": [
+    {
+      "number": "A",
+      "name": "นายกฤช ศิลปชัย",
+      "party": "ประชาชน",
+      "votes": 33687
+    },
+    {
+      "number": 3,
+      "name": "นายวีรยุทธ อนุจิตรอนันต์",
+      "party": "ประชาธิปัตย์",
+      "votes": 26878
+    },
+    {
+      "number": 2,
+      "name": "นายภีมเดช อมรสุคนธ์",
+      "party": "เพื่อไทย",
+      "votes": 4268
+    },
+    {
+      "number": 4,
+      "name": "นางสาวจิดาภา เจริญผล",
+      "party": "ไทยสร้างไทย",
+      "votes": 1981
+    },
+    {
+      "number": 5,
+      "name": "ร้อยตำรวจตรีเรืองชัย สมบัติภูธร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1737
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/50. ระยอง เขต 2.json",
+  "_validation": {
+    "vote_sum": 68551,
+    "good_votes": 68551,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "21",
+  "province_name_normalized": "ระยอง",
+  "summary": {
+    "eligible_voters": 116650,
+    "voters_came": 77741,
+    "ballots_received": 118162,
+    "ballots_used": 77741,
+    "good_votes": 68551,
+    "invalid_votes": 3662,
+    "no_votes": 5528
+  },
+  "matched_candidates": [
+    {
+      "number": "A",
+      "name": "นายกฤช ศิลปชัย",
+      "party": "ประชาชน",
+      "votes": 33687,
+      "candidate_uuid": "204866f7-6c68-4d86-9ac5-7b0f752076de",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวีรยุทธ อนุจิตรอนันต์",
+      "party": "ประชาธิปัตย์",
+      "votes": 26878,
+      "candidate_uuid": "25882bd0-3d50-4e56-82e5-fd62b2fd4b12",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายภีมเดช อมรสุคนธ์",
+      "party": "เพื่อไทย",
+      "votes": 4268,
+      "candidate_uuid": "de4f20c9-c3a6-4096-b1f1-6ee9e6c0bb1f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวจิดาภา เจริญผล",
+      "party": "ไทยสร้างไทย",
+      "votes": 1981,
+      "candidate_uuid": "ac3446c0-a5ac-4842-8e8f-8f2193ad7fe1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "ร้อยตำรวจตรีเรืองชัย สมบัติภูธร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1737,
+      "candidate_uuid": "c975325f-7585-4fea-b6ac-4a3310c7fe79",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

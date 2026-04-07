@@ -1,0 +1,139 @@
+{
+  "province_name": "นราธิวาส",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129176,
+    "1.2": 99498,
+    "2.1": 127420,
+    "2.2": 99498,
+    "2.3": 27922,
+    "3.1": 94069,
+    "3.2": 26,
+    "3.3": 5403,
+    "3.4": 99498,
+    "4.1": 93825,
+    "4.2": 2822,
+    "4.3": 2851
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายลุตฟี หะยีอีแต",
+      "party": "กล้าธรรม",
+      "votes": 40637
+    },
+    {
+      "number": 3,
+      "name": "นายวัชระ ยาวอหะซัน",
+      "party": "ภูมิใจไทย",
+      "votes": 35026
+    },
+    {
+      "number": 6,
+      "name": "นางสาวอามีเน๊าะ อารง",
+      "party": "ประชาชน",
+      "votes": 10071
+    },
+    {
+      "number": 2,
+      "name": "นายอับดุลการีม อัสมะแอ",
+      "party": "ประชาชาติ",
+      "votes": 5260
+    },
+    {
+      "number": 1,
+      "name": "นายรุสลัน โต๊ะปาเก",
+      "party": "ประชาธิปัตย์",
+      "votes": 1382
+    },
+    {
+      "number": 5,
+      "name": "นายปารมี พิมานแมน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1030
+    },
+    {
+      "number": 7,
+      "name": "นายเจ๊ะอิสมาแอล เบญเจ๊ะอาลี",
+      "party": "เพื่อไทย",
+      "votes": 419
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/25. นราธิวาส เขต 1.json",
+  "_validation": {
+    "vote_sum": 93825,
+    "good_votes": 93825,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "96",
+  "province_name_normalized": "นราธิวาส",
+  "summary": {
+    "eligible_voters": 129176,
+    "voters_came": 99498,
+    "ballots_received": 127420,
+    "ballots_used": 99498,
+    "good_votes": 93825,
+    "invalid_votes": 2822,
+    "no_votes": 2851
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายลุตฟี หะยีอีแต",
+      "party": "กล้าธรรม",
+      "votes": 40637,
+      "candidate_uuid": "9a787f4b-7287-432e-9b80-ce389584b147",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวัชระ ยาวอหะซัน",
+      "party": "ภูมิใจไทย",
+      "votes": 35026,
+      "candidate_uuid": "0dd2dfd8-340a-4587-94a1-867aecf32d3f",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวอามีเน๊าะ อารง",
+      "party": "ประชาชน",
+      "votes": 10071,
+      "candidate_uuid": "f1ef9ec4-dddc-4b3a-b6cd-5ca6fa5be585",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอับดุลการีม อัสมะแอ",
+      "party": "ประชาชาติ",
+      "votes": 5260,
+      "candidate_uuid": "2d35f202-9776-4607-a809-b2b20cb08487",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายรุสลัน โต๊ะปาเก",
+      "party": "ประชาธิปัตย์",
+      "votes": 1382,
+      "candidate_uuid": "22187f0b-a9e7-44e4-9890-6e1d0a3595d1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายปารมี พิมานแมน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1030,
+      "candidate_uuid": "8d6b5dad-1660-460b-9246-f4c102735d83",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายเจ๊ะอิสมาแอล เบญเจ๊ะอาลี",
+      "party": "เพื่อไทย",
+      "votes": 419,
+      "candidate_uuid": "d48972f1-9d05-45d7-8580-184504709bfe",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

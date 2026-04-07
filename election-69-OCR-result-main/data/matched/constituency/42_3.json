@@ -1,0 +1,139 @@
+{
+  "province_name": "เลย",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126135,
+    "1.2": 91957,
+    "2.1": 125700,
+    "2.2": 87074,
+    "2.3": 38626,
+    "3.1": 87058,
+    "3.2": 16,
+    "3.3": 4883,
+    "3.4": 91957,
+    "4.1": 83065,
+    "4.2": 4484,
+    "4.3": 4408
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายธนยศ ทิมสุวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 51525
+    },
+    {
+      "number": 4,
+      "name": "นายเอกรินทร์ สีหาบุตร",
+      "party": "ประชาชน",
+      "votes": 17501
+    },
+    {
+      "number": 2,
+      "name": "นางอัชฌิมา แสงสุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 8158
+    },
+    {
+      "number": 5,
+      "name": "นายกิตติพันธ์ ปฐมชัยเกียรติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2273
+    },
+    {
+      "number": 1,
+      "name": "นายอดุลย์วิชญเดช ติยะบุตร",
+      "party": "กล้าธรรม",
+      "votes": 1744
+    },
+    {
+      "number": 7,
+      "name": "นายบุญโฮม ดวงคำจันทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 1032
+    },
+    {
+      "number": 6,
+      "name": "จ.ส.ต.ลำพูน มูลสุวรรณ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 832
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/55. เลย เขต 3.json",
+  "_validation": {
+    "vote_sum": 83065,
+    "good_votes": 83065,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "42",
+  "province_name_normalized": "เลย",
+  "summary": {
+    "eligible_voters": 126135,
+    "voters_came": 91957,
+    "ballots_received": 125700,
+    "ballots_used": 87074,
+    "good_votes": 83065,
+    "invalid_votes": 4484,
+    "no_votes": 4408
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายธนยศ ทิมสุวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 51525,
+      "candidate_uuid": "9a1a77c6-992a-4206-86b3-d9d7c36eaa97",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายเอกรินทร์ สีหาบุตร",
+      "party": "ประชาชน",
+      "votes": 17501,
+      "candidate_uuid": "916e9d1a-b919-4779-9108-64904244703b",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางอัชฌิมา แสงสุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 8158,
+      "candidate_uuid": "b79c9121-e845-4d35-b294-cf47dd0714f3",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายกิตติพันธ์ ปฐมชัยเกียรติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2273,
+      "candidate_uuid": "b4ad91a3-c49e-415d-869f-5ff012dfea9d",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอดุลย์วิชญเดช ติยะบุตร",
+      "party": "กล้าธรรม",
+      "votes": 1744,
+      "candidate_uuid": "d1e960fe-6b71-4636-a5ca-9059365eeab1",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายบุญโฮม ดวงคำจันทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 1032,
+      "candidate_uuid": "dcac1839-6422-4f64-b97d-fc68de331372",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "จ.ส.ต.ลำพูน มูลสุวรรณ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 832,
+      "candidate_uuid": "8eede24f-d7c5-47df-8b02-026ac98361de",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

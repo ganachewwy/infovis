@@ -1,0 +1,167 @@
+{
+  "province_name": "ขอนแก่น",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 138811,
+    "1.2": 105501,
+    "2.1": 139515,
+    "2.2": 105501,
+    "2.3": 34014,
+    "3.1": 98646,
+    "3.2": 14,
+    "3.3": 6841,
+    "3.4": 105501,
+    "4.1": 96299,
+    "4.2": 2789,
+    "4.3": 6413
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายอิทธิพล ชลธราศิริ",
+      "party": "ประชาชน",
+      "votes": 41012
+    },
+    {
+      "number": 3,
+      "name": "นายชัชวาล ธีรภานุ",
+      "party": "กล้าธรรม",
+      "votes": 26649
+    },
+    {
+      "number": 1,
+      "name": "นายโกเมศ ทีฆธนานนท์",
+      "party": "เพื่อไทย",
+      "votes": 16293
+    },
+    {
+      "number": 9,
+      "name": "นางสาวณัฏฐศศิ ประทีปะวณิช",
+      "party": "พลังประชารัฐ",
+      "votes": 3294
+    },
+    {
+      "number": 6,
+      "name": "นายพราหมณ์อิศรา อินทร์ยา",
+      "party": "เศรษฐกิจ",
+      "votes": 3788
+    },
+    {
+      "number": 4,
+      "name": "นายวสันต์ ศรีดรราช",
+      "party": "ประชาธิปัตย์",
+      "votes": 2172
+    },
+    {
+      "number": 2,
+      "name": "นายศุภกร สวรรค์ฑากร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1874
+    },
+    {
+      "number": 8,
+      "name": "นายอิศม์เดช ฤๅชา",
+      "party": "ไทยภักดี",
+      "votes": 742
+    },
+    {
+      "number": 7,
+      "name": "นายธีรพัฒน์ ศรีเมืองบุญ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 475
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/6. ขอนแก่น เขต 2.json",
+  "_validation": {
+    "vote_sum": 96299,
+    "good_votes": 96299,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "40",
+  "province_name_normalized": "ขอนแก่น",
+  "summary": {
+    "eligible_voters": 138811,
+    "voters_came": 105501,
+    "ballots_received": 139515,
+    "ballots_used": 105501,
+    "good_votes": 96299,
+    "invalid_votes": 2789,
+    "no_votes": 6413
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายอิทธิพล ชลธราศิริ",
+      "party": "ประชาชน",
+      "votes": 41012,
+      "candidate_uuid": "dcede9b5-cf0d-46d8-94fe-a310b017fd0f",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชัชวาล ธีรภานุ",
+      "party": "กล้าธรรม",
+      "votes": 26649,
+      "candidate_uuid": "72b5b6d4-599a-47f9-b92e-0c47a1a174b6",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายโกเมศ ทีฆธนานนท์",
+      "party": "เพื่อไทย",
+      "votes": 16293,
+      "candidate_uuid": "1a5b7368-689a-4b6f-a56e-bfd9e74f0298",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวณัฏฐศศิ ประทีปะวณิช",
+      "party": "พลังประชารัฐ",
+      "votes": 3294,
+      "candidate_uuid": "1ce0f2be-e029-4eb8-97a8-2888f6b5dafc",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพราหมณ์อิศรา อินทร์ยา",
+      "party": "เศรษฐกิจ",
+      "votes": 3788,
+      "candidate_uuid": "88184b68-aa00-4b5d-ad87-e36cd518347d",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวสันต์ ศรีดรราช",
+      "party": "ประชาธิปัตย์",
+      "votes": 2172,
+      "candidate_uuid": "d7084b8f-205f-4dc7-ad00-b7a8876aa24e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายศุภกร สวรรค์ฑากร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1874,
+      "candidate_uuid": "8ff8dc86-fba0-4546-a010-bcba21a8323e",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอิศม์เดช ฤๅชา",
+      "party": "ไทยภักดี",
+      "votes": 742,
+      "candidate_uuid": "ec4ec5e0-3ed7-4e65-89ab-6e29eb1e59d6",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายธีรพัฒน์ ศรีเมืองบุญ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 475,
+      "candidate_uuid": "767d92f4-b474-4b7c-a2b8-56066eed2b3d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

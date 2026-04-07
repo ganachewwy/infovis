@@ -1,0 +1,139 @@
+{
+  "province_name": "ฉะเชิงเทรา",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 154572,
+    "1.2": 122283,
+    "2.1": 156600,
+    "2.2": 122282,
+    "2.3": 34257,
+    "3.1": 119643,
+    "3.2": 72,
+    "3.3": 2567,
+    "3.4": 122282,
+    "4.1": 112107,
+    "4.2": 4490,
+    "4.3": 5685
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "จ่าเอก ยศสิงห์ เหลี่ยมเลิศ",
+      "party": "กล้าธรรม",
+      "votes": 47969
+    },
+    {
+      "number": 2,
+      "name": "นางแพรวนภัศร์ ทองสุวรรณ์",
+      "party": "ประชาชน",
+      "votes": 35257
+    },
+    {
+      "number": 5,
+      "name": "พลตำรวจโท พิทักษ์ จารุสมบัติ",
+      "party": "เพื่อไทย",
+      "votes": 19940
+    },
+    {
+      "number": 6,
+      "name": "นายเศรษฐชาญย์ วสิฐพัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 4399
+    },
+    {
+      "number": 7,
+      "name": "นางสาวอริยา บุญณัชญาณวุฒิ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2574
+    },
+    {
+      "number": 3,
+      "name": "นายเชษศักดิ์ดา นาน้ำเชี่ยว",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 1162
+    },
+    {
+      "number": 1,
+      "name": "นางสาวอรสา ชุมเกษียร",
+      "party": "ปวงชนไทย",
+      "votes": 806
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/8. ฉะเชิงเทรา เขต 4.json",
+  "_validation": {
+    "vote_sum": 112107,
+    "good_votes": 112107,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "24",
+  "province_name_normalized": "ฉะเชิงเทรา",
+  "summary": {
+    "eligible_voters": 154572,
+    "voters_came": 122283,
+    "ballots_received": 156600,
+    "ballots_used": 122282,
+    "good_votes": 112107,
+    "invalid_votes": 4490,
+    "no_votes": 5685
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "จ่าเอก ยศสิงห์ เหลี่ยมเลิศ",
+      "party": "กล้าธรรม",
+      "votes": 47969,
+      "candidate_uuid": "204f5207-cab9-4646-a868-ca8fd060596d",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางแพรวนภัศร์ ทองสุวรรณ์",
+      "party": "ประชาชน",
+      "votes": 35257,
+      "candidate_uuid": "be3f21f7-7f17-4241-bd69-47a5566b7fbd",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "พลตำรวจโท พิทักษ์ จารุสมบัติ",
+      "party": "เพื่อไทย",
+      "votes": 19940,
+      "candidate_uuid": "83575515-9a44-41b0-be32-179c7c289530",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเศรษฐชาญย์ วสิฐพัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 4399,
+      "candidate_uuid": "14fb2386-9edc-41b0-b5ce-5265a1c44eb9",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวอริยา บุญณัชญาณวุฒิ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2574,
+      "candidate_uuid": "0d0fee56-6c68-48e8-bd15-b103aaeb5172",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเชษศักดิ์ดา นาน้ำเชี่ยว",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 1162,
+      "candidate_uuid": "88769092-1b56-4f3e-ac7a-11cc4a6e8b38",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวอรสา ชุมเกษียร",
+      "party": "ปวงชนไทย",
+      "votes": 806,
+      "candidate_uuid": "92a8e629-b06a-480b-a670-f3251ae6e22d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

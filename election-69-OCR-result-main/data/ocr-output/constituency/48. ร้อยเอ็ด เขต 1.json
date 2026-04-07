@@ -1,0 +1,57 @@
+{
+  "province_name": "ร้อยเอ็ด",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126135,
+    "1.2": 94576,
+    "2.1": 126200,
+    "2.2": 94576,
+    "2.3": 31624,
+    "3.1": 87583,
+    "3.2": 11,
+    "3.3": 6982,
+    "3.4": 94576,
+    "4.1": 89385,
+    "4.2": 2687,
+    "4.3": 2504
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายอนุรักษ์ จุรีมาศ",
+      "party": "ภูมิใจไทย",
+      "votes": 50238
+    },
+    {
+      "number": 4,
+      "name": "นายสถาพร ว่องสัธนพงษ์",
+      "party": "เพื่อไทย",
+      "votes": 20122
+    },
+    {
+      "number": 1,
+      "name": "นายวีระธาร มาศเกษม",
+      "party": "ประชาชน",
+      "votes": 17557
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุดารัตน์ วรรณพัฒน์",
+      "party": "ประชาธิปปัตย์",
+      "votes": 827
+    },
+    {
+      "number": 3,
+      "name": "นางสาวเกตุวรินทร์ ไฮเนกเคอ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 641
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/48. ร้อยเอ็ด เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 89385,
+    "good_votes": 89385,
+    "sum_diff_pct": 0.0
+  }
+}

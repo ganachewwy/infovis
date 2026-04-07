@@ -1,0 +1,51 @@
+{
+  "province_name": "อุทัยธานี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127311,
+    "1.2": 84560,
+    "2.1": 127820,
+    "2.2": 84560,
+    "2.3": 43260,
+    "3.1": 79079,
+    "3.2": 24,
+    "3.3": 5457,
+    "3.4": 84560,
+    "4.1": 76524,
+    "4.2": 3381,
+    "4.3": 4655
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายเจเศรษฐ์ ไทยเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 56483
+    },
+    {
+      "number": 3,
+      "name": "นายเดชา คงคา",
+      "party": "ประชาชน",
+      "votes": 13059
+    },
+    {
+      "number": 1,
+      "name": "นายธนาคร อุนจะนำ",
+      "party": "เพื่อไทย",
+      "votes": 4515
+    },
+    {
+      "number": 4,
+      "name": "นายวิทยา จันทร์สม",
+      "party": "ประชาธิปัตย์",
+      "votes": 2467
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/76. อุทัยธานี เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 76524,
+    "good_votes": 76524,
+    "sum_diff_pct": 0.0
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "province_name": "ชลบุรี",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 140456,
+    "1.2": 94308,
+    "2.1": 138800,
+    "2.2": 94308,
+    "2.3": 44492,
+    "3.1": 91098,
+    "3.2": 185,
+    "3.3": 3025,
+    "3.4": 94308,
+    "4.1": 86994,
+    "4.2": 3052,
+    "4.3": 4262
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายเชาวลิตร แสงอุทัย",
+      "party": "ภูมิใจไทย",
+      "votes": 37623
+    },
+    {
+      "number": 1,
+      "name": "นางสาวมนัสวิน จันทร์เจริญ",
+      "party": "ประชาชน",
+      "votes": 34702
+    },
+    {
+      "number": 3,
+      "name": "นายชาญยุทธ เฮงตระกูล",
+      "party": "เพื่อไทย",
+      "votes": 4471
+    },
+    {
+      "number": 2,
+      "name": "นางพจนารถ แก้วผลึก",
+      "party": "ประชาธิปัตย์",
+      "votes": 3430
+    },
+    {
+      "number": 7,
+      "name": "นายรณเทพ อนุวัฒน์",
+      "party": "เศรษฐกิจ",
+      "votes": 2046
+    },
+    {
+      "number": 8,
+      "name": "นายชนะศักดิ์ รุ่งเสถียร",
+      "party": "เสรีรวมไทย",
+      "votes": 1181
+    },
+    {
+      "number": 6,
+      "name": "นายกำพล ตั้งเอกชัย",
+      "party": "พลังประชารัฐ",
+      "votes": 1086
+    },
+    {
+      "number": 9,
+      "name": "นายนิมิต ไมตรีวงค์",
+      "party": "ปวงชนไทย",
+      "votes": 1043
+    },
+    {
+      "number": 10,
+      "name": "นางสาวสุธาพร บำรุงยา",
+      "party": "ไทยสร้างไทย",
+      "votes": 722
+    },
+    {
+      "number": 4,
+      "name": "นายอมรฒิพัฒน์ ภูบาล",
+      "party": "ไทยภักดี",
+      "votes": 690
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/9. ชลบุรี เขต 8.json",
+  "_validation": {
+    "vote_sum": 86994,
+    "good_votes": 86994,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "20",
+  "province_name_normalized": "ชลบุรี",
+  "summary": {
+    "eligible_voters": 140456,
+    "voters_came": 94308,
+    "ballots_received": 138800,
+    "ballots_used": 94308,
+    "good_votes": 86994,
+    "invalid_votes": 3052,
+    "no_votes": 4262
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายเชาวลิตร แสงอุทัย",
+      "party": "ภูมิใจไทย",
+      "votes": 37623,
+      "candidate_uuid": "ef6c2ce2-28f6-445d-93e5-efe0181e89a2",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวมนัสวิน จันทร์เจริญ",
+      "party": "ประชาชน",
+      "votes": 34702,
+      "candidate_uuid": "1f6a2cc4-05e0-48e0-bdeb-986abe0f64fd",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชาญยุทธ เฮงตระกูล",
+      "party": "เพื่อไทย",
+      "votes": 4471,
+      "candidate_uuid": "bbf39b39-4a34-4356-b47a-ded10ad01452",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางพจนารถ แก้วผลึก",
+      "party": "ประชาธิปัตย์",
+      "votes": 3430,
+      "candidate_uuid": "7918319f-8cad-4918-8e9a-a4ec307dd7bf",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายรณเทพ อนุวัฒน์",
+      "party": "เศรษฐกิจ",
+      "votes": 2046,
+      "candidate_uuid": "f091850b-aed1-4f3b-98e8-21b1b9417323",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชนะศักดิ์ รุ่งเสถียร",
+      "party": "เสรีรวมไทย",
+      "votes": 1181,
+      "candidate_uuid": "9cef6120-b5d9-4e17-bec7-cd8a4f65469a",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายกำพล ตั้งเอกชัย",
+      "party": "พลังประชารัฐ",
+      "votes": 1086,
+      "candidate_uuid": "fec9df1f-965c-490d-8b89-dba04a82a397",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายนิมิต ไมตรีวงค์",
+      "party": "ปวงชนไทย",
+      "votes": 1043,
+      "candidate_uuid": "4c9dfda3-9b40-468d-984e-52c40ce716b7",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวสุธาพร บำรุงยา",
+      "party": "ไทยสร้างไทย",
+      "votes": 722,
+      "candidate_uuid": "b347650c-8307-45e5-a63f-9708a48cdec2",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอมรฒิพัฒน์ ภูบาล",
+      "party": "ไทยภักดี",
+      "votes": 690,
+      "candidate_uuid": "73dd2a22-c54f-49e9-890c-a6b711342674",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

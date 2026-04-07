@@ -1,0 +1,195 @@
+{
+  "province_name": "มหาสารคาม",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130076,
+    "1.2": 87676,
+    "2.1": 124620,
+    "2.2": 87676,
+    "2.3": 40944,
+    "3.1": 79793,
+    "3.2": 8,
+    "3.3": 7875,
+    "3.4": 87676,
+    "4.1": 84786,
+    "4.2": 2024,
+    "4.3": 866
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายลัทธชัย โชคชัยวัฒนากร",
+      "party": "ภูมิใจไทย",
+      "votes": 39612
+    },
+    {
+      "number": 5,
+      "name": "นายยุทธพงศ์ จรัสเสถียร",
+      "party": "เพื่อไทย",
+      "votes": 34638
+    },
+    {
+      "number": 1,
+      "name": "นายจักรกริช ด่านแก้ว",
+      "party": "ประชาชน",
+      "votes": 8115
+    },
+    {
+      "number": 9,
+      "name": "เรือตรีกุลธร แก้ววิเศษ",
+      "party": "เศรษฐกิจ",
+      "votes": 1307
+    },
+    {
+      "number": 2,
+      "name": "นายภาสกร โยธะไชยสาร",
+      "party": "ประชาธิปัตย์",
+      "votes": 255
+    },
+    {
+      "number": 4,
+      "name": "นายปัญญา ภูเฮืองแก้ว",
+      "party": "คลองไทย",
+      "votes": 227
+    },
+    {
+      "number": 8,
+      "name": "นางสาวบังอร มุมกลาง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 224
+    },
+    {
+      "number": 3,
+      "name": "นายประมวล พานมาตย์",
+      "party": "ประชากรไทย",
+      "votes": 177
+    },
+    {
+      "number": 7,
+      "name": "นางศิริพร หลิน",
+      "party": "กล้าธรรม",
+      "votes": 118
+    },
+    {
+      "number": 11,
+      "name": "นายธีราพัทธ์ พาณิชย์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 73
+    },
+    {
+      "number": 10,
+      "name": "นายกิตติศักดิ์ พิมดา",
+      "party": "ทางเลือกใหม่",
+      "votes": 40
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/43. มหาสารคาม เขต 3.json",
+  "_validation": {
+    "vote_sum": 84786,
+    "good_votes": 84786,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "44",
+  "province_name_normalized": "มหาสารคาม",
+  "summary": {
+    "eligible_voters": 130076,
+    "voters_came": 87676,
+    "ballots_received": 124620,
+    "ballots_used": 87676,
+    "good_votes": 84786,
+    "invalid_votes": 2024,
+    "no_votes": 866
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายลัทธชัย โชคชัยวัฒนากร",
+      "party": "ภูมิใจไทย",
+      "votes": 39612,
+      "candidate_uuid": "f962c820-d944-4212-aff0-fd8bd3d1fc95",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายยุทธพงศ์ จรัสเสถียร",
+      "party": "เพื่อไทย",
+      "votes": 34638,
+      "candidate_uuid": "5625d650-9dc2-4bfc-ae24-37aae2392e17",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายจักรกริช ด่านแก้ว",
+      "party": "ประชาชน",
+      "votes": 8115,
+      "candidate_uuid": "77d741fc-7208-45f4-8bf3-d29562d9ea68",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "เรือตรีกุลธร แก้ววิเศษ",
+      "party": "เศรษฐกิจ",
+      "votes": 1307,
+      "candidate_uuid": "6db1ff78-ddb3-4431-8f46-340d94f46bec",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายภาสกร โยธะไชยสาร",
+      "party": "ประชาธิปัตย์",
+      "votes": 255,
+      "candidate_uuid": "46925a92-6051-4961-bc2d-dc2cd9fcdf32",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายปัญญา ภูเฮืองแก้ว",
+      "party": "คลองไทย",
+      "votes": 227,
+      "candidate_uuid": "e8a4da05-6d07-4e80-ba5d-19a18e2af408",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวบังอร มุมกลาง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 224,
+      "candidate_uuid": "24c00822-60dd-43cb-a8ad-750f2aaf6940",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายประมวล พานมาตย์",
+      "party": "ประชากรไทย",
+      "votes": 177,
+      "candidate_uuid": "a1bfbdbb-55ac-4dd7-9b9a-b868a1a1c69a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางศิริพร หลิน",
+      "party": "กล้าธรรม",
+      "votes": 118,
+      "candidate_uuid": "bcdc9d7b-bd32-467a-9faa-448cd28f1dba",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายธีราพัทธ์ พาณิชย์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 73,
+      "candidate_uuid": "78ade168-c61a-44a4-9190-384730d1a91c",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายกิตติศักดิ์ พิมดา",
+      "party": "ทางเลือกใหม่",
+      "votes": 40,
+      "candidate_uuid": "39fe5032-70c0-4cda-bb7d-190be12199c1",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

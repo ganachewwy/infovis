@@ -1,0 +1,63 @@
+{
+  "province_name": "สงขลา",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129703,
+    "1.2": 104525,
+    "2.1": 131266,
+    "2.2": 104525,
+    "2.3": 26741,
+    "3.1": 100448,
+    "3.2": 2,
+    "3.3": 4075,
+    "3.4": 104525,
+    "4.1": 93808,
+    "4.2": 3913,
+    "4.3": 6804
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายวงศ์วชร ขาวทอง",
+      "party": "กล้าธรรม",
+      "votes": 51130
+    },
+    {
+      "number": 2,
+      "name": "นายปรีชา สุขเกษม",
+      "party": "ประชาธิปัตย์",
+      "votes": 25390
+    },
+    {
+      "number": 5,
+      "name": "นายสุวรรณ อ่อนรักษ์",
+      "party": "ประชาชน",
+      "votes": 11192
+    },
+    {
+      "number": 4,
+      "name": "นายอภิชาติ ลาพินี",
+      "party": "ภูมิใจไทย",
+      "votes": 2558
+    },
+    {
+      "number": 1,
+      "name": "นายสะหาก หมุดตะเหล็บ",
+      "party": "เพื่อไทย",
+      "votes": 2233
+    },
+    {
+      "number": 6,
+      "name": "นายวันอับดุลเลาะฮ์ หลัะติหมะ",
+      "party": "เศรษฐกิจ",
+      "votes": 1305
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/58. สงขลา เขต 5.pdf",
+  "_validation": {
+    "vote_sum": 93808,
+    "good_votes": 93808,
+    "sum_diff_pct": 0.0
+  }
+}

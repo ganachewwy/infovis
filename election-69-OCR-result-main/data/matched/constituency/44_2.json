@@ -1,0 +1,195 @@
+{
+  "province_name": "มหาสารคาม",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128380,
+    "1.2": 82745,
+    "2.1": 127600,
+    "2.2": 82745,
+    "2.3": 44855,
+    "3.1": 76151,
+    "3.2": 6,
+    "3.3": 6588,
+    "3.4": 82745,
+    "4.1": 78715,
+    "4.2": 2177,
+    "4.3": 1853
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายประวัติ ทองสมบูรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 32203
+    },
+    {
+      "number": 4,
+      "name": "นายไชยวัฒนา ติณรัตน์",
+      "party": "เพื่อไทย",
+      "votes": 20789
+    },
+    {
+      "number": 1,
+      "name": "นายธงชัย เบอร์ไธสง",
+      "party": "ประชาชน",
+      "votes": 13838
+    },
+    {
+      "number": 6,
+      "name": "นางสาวขวัญอิสรา ศรีสังข์",
+      "party": "พลังประชารัฐ",
+      "votes": 7793
+    },
+    {
+      "number": 3,
+      "name": "นายสุทธิ์สวัสดิ์ บัวบาน",
+      "party": "กล้าธรรม",
+      "votes": 1009
+    },
+    {
+      "number": 8,
+      "name": "นายทวีศักดิ์ ปะหุปะไพ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 901
+    },
+    {
+      "number": 9,
+      "name": "นายณัฐพัชร์ วงศ์พัฒนาธนเดช",
+      "party": "ประชาธิปัตย์",
+      "votes": 676
+    },
+    {
+      "number": 2,
+      "name": "นายสมพร คุ้มพงษ์พันธ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 464
+    },
+    {
+      "number": 10,
+      "name": "นายอำนาจธรรม ฮามคำไพ",
+      "party": "เศรษฐกิจ",
+      "votes": 414
+    },
+    {
+      "number": 11,
+      "name": "นายบัญชา บัณฑิตเสน",
+      "party": "ไทยพร้อม",
+      "votes": 364
+    },
+    {
+      "number": 7,
+      "name": "นายพิบูลย์ จันทศิลป์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 264
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/43. มหาสารคาม เขต 2.json",
+  "_validation": {
+    "vote_sum": 78715,
+    "good_votes": 78715,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "44",
+  "province_name_normalized": "มหาสารคาม",
+  "summary": {
+    "eligible_voters": 128380,
+    "voters_came": 82745,
+    "ballots_received": 127600,
+    "ballots_used": 82745,
+    "good_votes": 78715,
+    "invalid_votes": 2177,
+    "no_votes": 1853
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายประวัติ ทองสมบูรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 32203,
+      "candidate_uuid": "780c369f-86f3-42b2-a857-b7fdc7d62288",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายไชยวัฒนา ติณรัตน์",
+      "party": "เพื่อไทย",
+      "votes": 20789,
+      "candidate_uuid": "6446e96a-d9dc-4442-8efe-aa30b8dccee6",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายธงชัย เบอร์ไธสง",
+      "party": "ประชาชน",
+      "votes": 13838,
+      "candidate_uuid": "5dd0672d-ea45-4b8b-a03a-4d3a3c74b287",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวขวัญอิสรา ศรีสังข์",
+      "party": "พลังประชารัฐ",
+      "votes": 7793,
+      "candidate_uuid": "adc81283-ae66-4746-8d73-176c7101554a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสุทธิ์สวัสดิ์ บัวบาน",
+      "party": "กล้าธรรม",
+      "votes": 1009,
+      "candidate_uuid": "2df8949d-72bb-43db-b989-a2ce9ca1d721",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายทวีศักดิ์ ปะหุปะไพ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 901,
+      "candidate_uuid": "9a6e6402-e009-4305-a6dc-497e4f841434",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายณัฐพัชร์ วงศ์พัฒนาธนเดช",
+      "party": "ประชาธิปัตย์",
+      "votes": 676,
+      "candidate_uuid": "784b5392-e1ac-4834-820d-65bd1f5c8dc7",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสมพร คุ้มพงษ์พันธ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 464,
+      "candidate_uuid": "fc387ca8-88a5-4987-ba86-b773b7f79953",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายอำนาจธรรม ฮามคำไพ",
+      "party": "เศรษฐกิจ",
+      "votes": 414,
+      "candidate_uuid": "f28f41a0-5777-4e25-8241-07297116bc24",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายบัญชา บัณฑิตเสน",
+      "party": "ไทยพร้อม",
+      "votes": 364,
+      "candidate_uuid": "0fdbfa06-32e7-4caa-9f35-856d1002604f",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพิบูลย์ จันทศิลป์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 264,
+      "candidate_uuid": "498f9079-fa29-453d-ad4e-227410a2fcb0",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

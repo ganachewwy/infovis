@@ -1,0 +1,195 @@
+{
+  "province_name": "นนทบุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 135257,
+    "1.2": 101511,
+    "2.1": 140384,
+    "2.2": 101511,
+    "2.3": 38873,
+    "3.1": 96834,
+    "3.2": 74,
+    "3.3": 4603,
+    "3.4": 101511,
+    "4.1": 93883,
+    "4.2": 1731,
+    "4.3": 5897
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวุฒากร นุตยกุล",
+      "party": "ประชาชน",
+      "votes": 42123
+    },
+    {
+      "number": 3,
+      "name": "นางสาวกัญญาพร แก้วทิพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 19861
+    },
+    {
+      "number": 4,
+      "name": "นายวิรัตน์ เกียรติสันติกุล",
+      "party": "เพื่อไทย",
+      "votes": 9587
+    },
+    {
+      "number": 6,
+      "name": "นายธีรวงศ์ สรรค์พิพัฒน์",
+      "party": "กล้าธรรม",
+      "votes": 8706
+    },
+    {
+      "number": 10,
+      "name": "นายนันทิน พานิชกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 6573
+    },
+    {
+      "number": 5,
+      "name": "นายสหภาพ พ่อค้าทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 2230
+    },
+    {
+      "number": 7,
+      "name": "ร้อยโทภาคย์ธณิศ นุชน้อย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2034
+    },
+    {
+      "number": 8,
+      "name": "นายธนบดี อินทวีโร",
+      "party": "เสรีรวมไทย",
+      "votes": 1184
+    },
+    {
+      "number": 9,
+      "name": "นายสุรพันธ์ ไวยากรณ์",
+      "party": "พลวัต",
+      "votes": 791
+    },
+    {
+      "number": 11,
+      "name": "นายวิชยุตม์ รอดศิลป์",
+      "party": "ฟิวชัน",
+      "votes": 403
+    },
+    {
+      "number": 2,
+      "name": "นายศรราม ภูมิไชย",
+      "party": "พลังประชารัฐ",
+      "votes": 391
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/24. นนทบุรี เขต 1.json",
+  "_validation": {
+    "vote_sum": 93883,
+    "good_votes": 93883,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "12",
+  "province_name_normalized": "นนทบุรี",
+  "summary": {
+    "eligible_voters": 135257,
+    "voters_came": 101511,
+    "ballots_received": 140384,
+    "ballots_used": 101511,
+    "good_votes": 93883,
+    "invalid_votes": 1731,
+    "no_votes": 5897
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายวุฒากร นุตยกุล",
+      "party": "ประชาชน",
+      "votes": 42123,
+      "candidate_uuid": "34e50785-891e-4991-ad65-d09c11d12083",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวกัญญาพร แก้วทิพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 19861,
+      "candidate_uuid": "2708afdc-e02e-4fd4-b7da-b65f6313a281",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิรัตน์ เกียรติสันติกุล",
+      "party": "เพื่อไทย",
+      "votes": 9587,
+      "candidate_uuid": "51a29612-c36d-406e-a182-b2997814fbf5",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธีรวงศ์ สรรค์พิพัฒน์",
+      "party": "กล้าธรรม",
+      "votes": 8706,
+      "candidate_uuid": "3ca01f17-f222-4742-a4dd-c9dd5599e405",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายนันทิน พานิชกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 6573,
+      "candidate_uuid": "9fd27dd9-e502-439b-8eea-d626b9bd96cf",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสหภาพ พ่อค้าทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 2230,
+      "candidate_uuid": "55aaa2af-5fba-4a08-91e5-5c02af060fc9",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "ร้อยโทภาคย์ธณิศ นุชน้อย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2034,
+      "candidate_uuid": "864f914f-19f8-46b0-b5c8-897b0594ae75",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธนบดี อินทวีโร",
+      "party": "เสรีรวมไทย",
+      "votes": 1184,
+      "candidate_uuid": "d9030b3b-45d4-4248-83a4-472446117560",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสุรพันธ์ ไวยากรณ์",
+      "party": "พลวัต",
+      "votes": 791,
+      "candidate_uuid": "136b0aae-b2f4-4f9f-abdd-2a1d9dc31f36",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายวิชยุตม์ รอดศิลป์",
+      "party": "ฟิวชัน",
+      "votes": 403,
+      "candidate_uuid": "4a21f0d8-14ff-4047-bcbf-cb197507de5b",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายศรราม ภูมิไชย",
+      "party": "พลังประชารัฐ",
+      "votes": 391,
+      "candidate_uuid": "caef7179-df22-47b6-905a-5b501637724a",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "นครปฐม",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 120935,
+    "1.2": 96412,
+    "2.1": 122740,
+    "2.2": 96412,
+    "2.3": 26328,
+    "3.1": 93250,
+    "3.2": 40,
+    "3.3": 3122,
+    "3.4": 96412,
+    "4.1": 88517,
+    "4.2": 2543,
+    "4.3": 5352
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "พันโท สินธพ แก้วพิจิตร",
+      "party": "กล้าธรรม",
+      "votes": 44487
+    },
+    {
+      "number": 4,
+      "name": "นางสาวศศนันท์ รัตนบรรเทิง",
+      "party": "ประชาชน",
+      "votes": 31511
+    },
+    {
+      "number": 2,
+      "name": "นายโรจนินทร์ ศิรรัฐเมธากรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 4945
+    },
+    {
+      "number": 5,
+      "name": "นางสาวธนัญญา พันธุ์การรุ่ง",
+      "party": "เพื่อไทย",
+      "votes": 2896
+    },
+    {
+      "number": 6,
+      "name": "นายนุกูล ศิริสุวรรณ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2330
+    },
+    {
+      "number": 7,
+      "name": "พันตำรวจเอก วีรยศ ชื่นกลิ่นธูปศิริ",
+      "party": "เศรษฐกิจ",
+      "votes": 1573
+    },
+    {
+      "number": 8,
+      "name": "นายภาณุวิทย์ เอี้ยวโพธิเงิน",
+      "party": "โอกาสใหม่",
+      "votes": 406
+    },
+    {
+      "number": 9,
+      "name": "พันเอก ทองประมาณ จันทรอัมพร",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 369
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/19. นครปฐม เขต 2.json",
+  "_validation": {
+    "vote_sum": 88517,
+    "good_votes": 88517,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "73",
+  "province_name_normalized": "นครปฐม",
+  "summary": {
+    "eligible_voters": 120935,
+    "voters_came": 96412,
+    "ballots_received": 122740,
+    "ballots_used": 96412,
+    "good_votes": 88517,
+    "invalid_votes": 2543,
+    "no_votes": 5352
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "พันโท สินธพ แก้วพิจิตร",
+      "party": "กล้าธรรม",
+      "votes": 44487,
+      "candidate_uuid": "8e9bdd54-5f16-44fd-b942-bffc49a3b54b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวศศนันท์ รัตนบรรเทิง",
+      "party": "ประชาชน",
+      "votes": 31511,
+      "candidate_uuid": "1f9d70e0-fbd1-4188-94b2-d7da9dc09f58",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายโรจนินทร์ ศิรรัฐเมธากรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 4945,
+      "candidate_uuid": "3dfc97f7-d501-437a-9f0a-439337e9faa1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวธนัญญา พันธุ์การรุ่ง",
+      "party": "เพื่อไทย",
+      "votes": 2896,
+      "candidate_uuid": "4e936efe-d894-49ff-a438-94d98292f2e4",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายนุกูล ศิริสุวรรณ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2330,
+      "candidate_uuid": "4dae4fc8-ddd3-4708-bb8e-df669afcbb09",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "พันตำรวจเอก วีรยศ ชื่นกลิ่นธูปศิริ",
+      "party": "เศรษฐกิจ",
+      "votes": 1573,
+      "candidate_uuid": "92e613ae-32ec-4fe9-be09-d2d846041b8f",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายภาณุวิทย์ เอี้ยวโพธิเงิน",
+      "party": "โอกาสใหม่",
+      "votes": 406,
+      "candidate_uuid": "ec97f1a2-74da-4dfb-97fb-3c6b00573999",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "พันเอก ทองประมาณ จันทรอัมพร",
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 369,
+      "candidate_uuid": "87e6dad6-9f77-4bc3-929f-41f8bf1d3d1c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

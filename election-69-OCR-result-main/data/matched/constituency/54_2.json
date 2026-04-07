@@ -1,0 +1,111 @@
+{
+  "province_name": "แพร่",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 116303,
+    "1.2": 88953,
+    "2.1": 124928,
+    "2.2": 79831,
+    "2.3": 45097,
+    "3.1": 79831,
+    "3.2": 3,
+    "3.3": 9119,
+    "3.4": 88953,
+    "4.1": 83283,
+    "4.2": 3325,
+    "4.3": 2345
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายชนาธิป ศุภศิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 54734
+    },
+    {
+      "number": 2,
+      "name": "นายนิยม วิวรรธนดิฐกุล",
+      "party": "เพื่อไทย",
+      "votes": 13030
+    },
+    {
+      "number": 3,
+      "name": "นายธีรศักดิ์ มีสมศักดิ์",
+      "party": "กล้าธรรม",
+      "votes": 524
+    },
+    {
+      "number": 4,
+      "name": "นายวสันต์ จันทร์สอง",
+      "party": "ประชาชน",
+      "votes": 14577
+    },
+    {
+      "number": 5,
+      "name": "นายราชสิทธิ์ มิ่งปรีชา",
+      "party": "ประชาธิปัตย์",
+      "votes": 418
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/41. แพร่ เขต 2.json",
+  "_validation": {
+    "vote_sum": 83283,
+    "good_votes": 83283,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "54",
+  "province_name_normalized": "แพร่",
+  "summary": {
+    "eligible_voters": 116303,
+    "voters_came": 88953,
+    "ballots_received": 124928,
+    "ballots_used": 79831,
+    "good_votes": 83283,
+    "invalid_votes": 3325,
+    "no_votes": 2345
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายชนาธิป ศุภศิริ",
+      "party": "ภูมิใจไทย",
+      "votes": 54734,
+      "candidate_uuid": "106dca26-1f1c-45db-900a-6c732d349a3b",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนิยม วิวรรธนดิฐกุล",
+      "party": "เพื่อไทย",
+      "votes": 13030,
+      "candidate_uuid": "017da09a-6e99-44d9-9aa9-837ebee26529",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธีรศักดิ์ มีสมศักดิ์",
+      "party": "กล้าธรรม",
+      "votes": 524,
+      "candidate_uuid": "d5414227-ab3d-4cde-99bc-1cd88428e5c0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวสันต์ จันทร์สอง",
+      "party": "ประชาชน",
+      "votes": 14577,
+      "candidate_uuid": "a741132e-d150-466f-8637-aa8db77d6f39",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายราชสิทธิ์ มิ่งปรีชา",
+      "party": "ประชาธิปัตย์",
+      "votes": 418,
+      "candidate_uuid": "602a5a68-a320-4b05-b0eb-5f62a3feb9d5",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

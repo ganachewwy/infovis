@@ -1,0 +1,181 @@
+{
+  "province_name": "ลำพูน",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 162313,
+    "1.2": 131679,
+    "2.1": 166265,
+    "2.2": 131679,
+    "2.3": 34586,
+    "3.1": 124934,
+    "3.2": 4,
+    "3.3": 6741,
+    "3.4": 131679,
+    "4.1": 116879,
+    "4.2": 7568,
+    "4.3": 7232
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายชัชพีร์ วรรณาพิรัชย์",
+      "party": "ประชาชน",
+      "votes": 49316
+    },
+    {
+      "number": 6,
+      "name": "นายรังสรรค์ มณีรัตน์",
+      "party": "เพื่อไทย",
+      "votes": 34789
+    },
+    {
+      "number": 1,
+      "name": "นายศิรศักดิ์ ทองยอด",
+      "party": "ภูมิใจไทย",
+      "votes": 11016
+    },
+    {
+      "number": 7,
+      "name": "ว่าที่ร้อยตรีหญิง ชนิสรา ขว้างทา",
+      "party": "ประชาธิปัตย์",
+      "votes": 6259
+    },
+    {
+      "number": 4,
+      "name": "นาวาเอก ณัฐพงศ์ คชเสนี",
+      "party": "เศรษฐกิจ",
+      "votes": 5137
+    },
+    {
+      "number": 2,
+      "name": "นายประเสริฐ เอวจักร",
+      "party": "กล้าธรรม",
+      "votes": 2926
+    },
+    {
+      "number": 8,
+      "name": "ว่าที่ร้อยตรี อภิชาติ เนตรผาบ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2885
+    },
+    {
+      "number": 9,
+      "name": "นายชินชัย แก้วเรือน",
+      "party": "พลังประชารัฐ",
+      "votes": 2689
+    },
+    {
+      "number": 5,
+      "name": "นายอดิศร แก้วเล็ก",
+      "party": "โอกาสใหม่",
+      "votes": 1580
+    },
+    {
+      "number": 10,
+      "name": "นายณัฐวิน โฉมศรี",
+      "party": "วิชชั่นใหม่",
+      "votes": 282
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/54. ลำพูน เขต 2.json",
+  "_validation": {
+    "vote_sum": 116879,
+    "good_votes": 116879,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "51",
+  "province_name_normalized": "ลำพูน",
+  "summary": {
+    "eligible_voters": 162313,
+    "voters_came": 131679,
+    "ballots_received": 166265,
+    "ballots_used": 131679,
+    "good_votes": 116879,
+    "invalid_votes": 7568,
+    "no_votes": 7232
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายชัชพีร์ วรรณาพิรัชย์",
+      "party": "ประชาชน",
+      "votes": 49316,
+      "candidate_uuid": "a4ebb88b-d53c-4a10-b145-3d32f1949a37",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายรังสรรค์ มณีรัตน์",
+      "party": "เพื่อไทย",
+      "votes": 34789,
+      "candidate_uuid": "677548ae-97df-4857-a554-1704f82e50be",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายศิรศักดิ์ ทองยอด",
+      "party": "ภูมิใจไทย",
+      "votes": 11016,
+      "candidate_uuid": "fc4c5e62-5acd-4671-84d2-897dbae33372",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "ว่าที่ร้อยตรีหญิง ชนิสรา ขว้างทา",
+      "party": "ประชาธิปัตย์",
+      "votes": 6259,
+      "candidate_uuid": "13ce96a2-5887-4bad-bd23-d6e1debf431e",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นาวาเอก ณัฐพงศ์ คชเสนี",
+      "party": "เศรษฐกิจ",
+      "votes": 5137,
+      "candidate_uuid": "c964b42b-3511-4c1c-bef3-f67b6b6002b6",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายประเสริฐ เอวจักร",
+      "party": "กล้าธรรม",
+      "votes": 2926,
+      "candidate_uuid": "f762a0b5-dec2-4c89-a208-96559af07a18",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ว่าที่ร้อยตรี อภิชาติ เนตรผาบ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2885,
+      "candidate_uuid": "b416d1c7-109a-4ca9-b813-dc53c819541d",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายชินชัย แก้วเรือน",
+      "party": "พลังประชารัฐ",
+      "votes": 2689,
+      "candidate_uuid": "1fbf0b01-e6ac-4584-a59a-ddda02e35cca",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอดิศร แก้วเล็ก",
+      "party": "โอกาสใหม่",
+      "votes": 1580,
+      "candidate_uuid": "dbfb034b-4737-47b5-bea4-fd09cf66eecb",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายณัฐวิน โฉมศรี",
+      "party": "วิชชั่นใหม่",
+      "votes": 282,
+      "candidate_uuid": "aa04b169-ce16-4b9f-a5e4-edc188a881d9",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

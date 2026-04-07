@@ -1,0 +1,139 @@
+{
+  "province_name": "นราธิวาส",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 112278,
+    "1.2": 82910,
+    "2.1": 114024,
+    "2.2": 82910,
+    "2.3": 31114,
+    "3.1": 78968,
+    "3.2": 18,
+    "3.3": 3924,
+    "3.4": 82910,
+    "4.1": 79299,
+    "4.2": 2416,
+    "4.3": 1195
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายสัมพันธ์ มะยูโซะ",
+      "party": "กล้าธรรม",
+      "votes": 36480
+    },
+    {
+      "number": 1,
+      "name": "นายแวรุสลัน มะสาและ",
+      "party": "ภูมิใจไทย",
+      "votes": 36214
+    },
+    {
+      "number": 5,
+      "name": "นายมูฮัมหมัดอัสมัน โดยสมาน",
+      "party": "ประชาชน",
+      "votes": 4529
+    },
+    {
+      "number": 3,
+      "name": "นายสูเต็ง ตอเฮ",
+      "party": "ประชาชาติ",
+      "votes": 1329
+    },
+    {
+      "number": 4,
+      "name": "นายภูวเดช เจ๊ฮูเซ็ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 409
+    },
+    {
+      "number": 6,
+      "name": "นายประดิษฐ์ คลานุรักษ์",
+      "party": "เพื่อไทย",
+      "votes": 200
+    },
+    {
+      "number": 7,
+      "name": "นายคือรอนิง เจ๊ะเด๊ะ",
+      "party": "ประชากรไทย",
+      "votes": 138
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/25. นราธิวาส เขต 3.json",
+  "_validation": {
+    "vote_sum": 79299,
+    "good_votes": 79299,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "96",
+  "province_name_normalized": "นราธิวาส",
+  "summary": {
+    "eligible_voters": 112278,
+    "voters_came": 82910,
+    "ballots_received": 114024,
+    "ballots_used": 82910,
+    "good_votes": 79299,
+    "invalid_votes": 2416,
+    "no_votes": 1195
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายสัมพันธ์ มะยูโซะ",
+      "party": "กล้าธรรม",
+      "votes": 36480,
+      "candidate_uuid": "0055047c-2b57-42c4-849a-664db3bb8326",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายแวรุสลัน มะสาและ",
+      "party": "ภูมิใจไทย",
+      "votes": 36214,
+      "candidate_uuid": "8f8b954a-fffe-48f0-8ada-e60ee4beef26",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายมูฮัมหมัดอัสมัน โดยสมาน",
+      "party": "ประชาชน",
+      "votes": 4529,
+      "candidate_uuid": "5032459b-e083-435c-8ce9-9a16c974913d",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสูเต็ง ตอเฮ",
+      "party": "ประชาชาติ",
+      "votes": 1329,
+      "candidate_uuid": "00bd9ae8-bc87-4168-a7a2-82aebb1cc219",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายภูวเดช เจ๊ฮูเซ็ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 409,
+      "candidate_uuid": "90983e6e-81cd-4315-9d6d-b1dc22c506c4",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายประดิษฐ์ คลานุรักษ์",
+      "party": "เพื่อไทย",
+      "votes": 200,
+      "candidate_uuid": "294ecf1a-fe6d-4ad1-b104-99e594b1c489",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายคือรอนิง เจ๊ะเด๊ะ",
+      "party": "ประชากรไทย",
+      "votes": 138,
+      "candidate_uuid": "e1896205-f9df-40ba-8b1b-6700982e6b88",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

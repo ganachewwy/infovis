@@ -1,0 +1,111 @@
+{
+  "province_name": "นครราชสีมา",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133816,
+    "1.2": 88226,
+    "2.1": 131280,
+    "2.2": 88226,
+    "2.3": 43054,
+    "3.1": 82955,
+    "3.2": 2,
+    "3.3": 5269,
+    "3.4": 88226,
+    "4.1": 79521,
+    "4.2": 5126,
+    "4.3": 3579
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายนิกร โสมกลาง",
+      "party": "เพื่อไทย",
+      "votes": 51840
+    },
+    {
+      "number": 5,
+      "name": "นายศาสตรา นากระโทก",
+      "party": "ประชาชน",
+      "votes": 14747
+    },
+    {
+      "number": 4,
+      "name": "นายพีรกานต์ วิเศษจินดาวัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 10250
+    },
+    {
+      "number": 2,
+      "name": "นายสุระ เฉาะกระโทก",
+      "party": "เศรษฐกิจ",
+      "votes": 1490
+    },
+    {
+      "number": 3,
+      "name": "นายศราวุธ พิมละมาศ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1194
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/21. นครราชสีมา เขต 8.json",
+  "_validation": {
+    "vote_sum": 79521,
+    "good_votes": 79521,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "30",
+  "province_name_normalized": "นครราชสีมา",
+  "summary": {
+    "eligible_voters": 133816,
+    "voters_came": 88226,
+    "ballots_received": 131280,
+    "ballots_used": 88226,
+    "good_votes": 79521,
+    "invalid_votes": 5126,
+    "no_votes": 3579
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายนิกร โสมกลาง",
+      "party": "เพื่อไทย",
+      "votes": 51840,
+      "candidate_uuid": "b8fdb702-5535-4b74-8bac-7fddc5ce6eec",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายศาสตรา นากระโทก",
+      "party": "ประชาชน",
+      "votes": 14747,
+      "candidate_uuid": "64d1904d-a074-4923-b163-a3707b0d0ce9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพีรกานต์ วิเศษจินดาวัฒน์",
+      "party": "ภูมิใจไทย",
+      "votes": 10250,
+      "candidate_uuid": "f98febe1-80fe-4b9a-be55-a6e3c2f9a162",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสุระ เฉาะกระโทก",
+      "party": "เศรษฐกิจ",
+      "votes": 1490,
+      "candidate_uuid": "ded22138-cf06-4f42-ab8e-13e46cb9c3ad",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายศราวุธ พิมละมาศ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1194,
+      "candidate_uuid": "f6dfd19f-243c-4a65-b9bc-ce89c22a4551",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

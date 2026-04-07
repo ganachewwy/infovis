@@ -1,0 +1,139 @@
+{
+  "province_name": "นครศรีธรรมราช",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133600,
+    "1.2": 98207,
+    "2.1": 138902,
+    "2.2": 98207,
+    "2.3": 40695,
+    "3.1": 91225,
+    "3.2": 10,
+    "3.3": 6972,
+    "3.4": 98207,
+    "4.1": 93045,
+    "4.2": 2694,
+    "4.3": 2468
+  },
+  "results": [
+    {
+      "number": "G",
+      "name": "นายพิทักษ์เดช เดชเดโช",
+      "party": "ประชาธิปัตย์",
+      "votes": 47554
+    },
+    {
+      "number": 1,
+      "name": "นายมานะ ยวงทอง",
+      "party": "ภูมิใจไทย",
+      "votes": 35542
+    },
+    {
+      "number": 6,
+      "name": "นายชายประจักร์ ศิริพันธุ์",
+      "party": "ประชาชน",
+      "votes": 6731
+    },
+    {
+      "number": 5,
+      "name": "นายสัณหพจน์ สุขศรีเมือง",
+      "party": "โอกาสใหม่",
+      "votes": 1719
+    },
+    {
+      "number": 3,
+      "name": "นายอัศนัย แท่นแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 623
+    },
+    {
+      "number": 2,
+      "name": "นายทศภณ ศรีสุขช่วย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 588
+    },
+    {
+      "number": 7,
+      "name": "นายเกียรติศักดิ์ ภักดีเดโชชัย",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 288
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/22. นครศรีธรรมราช เขต 3.json",
+  "_validation": {
+    "vote_sum": 93045,
+    "good_votes": 93045,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "80",
+  "province_name_normalized": "นครศรีธรรมราช",
+  "summary": {
+    "eligible_voters": 133600,
+    "voters_came": 98207,
+    "ballots_received": 138902,
+    "ballots_used": 98207,
+    "good_votes": 93045,
+    "invalid_votes": 2694,
+    "no_votes": 2468
+  },
+  "matched_candidates": [
+    {
+      "number": "G",
+      "name": "นายพิทักษ์เดช เดชเดโช",
+      "party": "ประชาธิปัตย์",
+      "votes": 47554,
+      "candidate_uuid": "10dc9d98-2b3b-43a0-9ca0-ea9cc11bfea5",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายมานะ ยวงทอง",
+      "party": "ภูมิใจไทย",
+      "votes": 35542,
+      "candidate_uuid": "93f9f45e-28df-4570-808f-7addc7ace475",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายชายประจักร์ ศิริพันธุ์",
+      "party": "ประชาชน",
+      "votes": 6731,
+      "candidate_uuid": "aa17b5ff-f301-4991-9532-b7488316601d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสัณหพจน์ สุขศรีเมือง",
+      "party": "โอกาสใหม่",
+      "votes": 1719,
+      "candidate_uuid": "511b6cc2-2454-4687-b57b-52da255e3511",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอัศนัย แท่นแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 623,
+      "candidate_uuid": "333c12c5-0b95-4c3a-a37e-6a0d1f065225",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายทศภณ ศรีสุขช่วย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 588,
+      "candidate_uuid": "76e98f70-b256-4820-a990-fa6e83b25d81",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายเกียรติศักดิ์ ภักดีเดโชชัย",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 288,
+      "candidate_uuid": "89fd675c-43ee-407d-81e0-d2a0c9e0ca84",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,312 @@
+{
+  "province_name": "กาฬสินธุ์",
+  "constituency_number": 6,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 135642,
+    "1.2": 95811,
+    "2.1": 136930,
+    "2.2": 95811,
+    "2.3": 41119,
+    "3.1": 87936,
+    "3.2": 25,
+    "3.3": 7850,
+    "3.4": 95811,
+    "4.1": 89550,
+    "4.2": 4604,
+    "4.3": 1657
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 267
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 1452
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 2546
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 339
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 430
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1966
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 142
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 428
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 40190
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 293
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 2316
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 507
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 442
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 62
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 54
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 248
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 100
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 17
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 20
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 12
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 44
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 20
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 45
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 54
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 18
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 61
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 1128
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 129
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 206
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 68
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 183
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 222
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 96
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 110
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 141
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 157
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 12189
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 603
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 93
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 39
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 19
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 130
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 200
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 36
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 47
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 20741
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 110
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 333
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 153
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 3
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 80
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 19
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 3
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 157
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 23
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 40
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/4. กาฬสินธุ์ เขต 6 (บช).pdf",
+  "_validation": {
+    "vote_sum": 89550,
+    "good_votes": 89550,
+    "sum_diff_pct": 0.0
+  }
+}

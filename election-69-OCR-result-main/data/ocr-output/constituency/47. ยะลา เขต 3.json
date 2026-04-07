@@ -1,0 +1,69 @@
+{
+  "province_name": "ยะลา",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131474,
+    "1.2": 95519,
+    "2.1": 130680,
+    "2.2": 95519,
+    "2.3": 35161,
+    "3.1": 90806,
+    "3.2": 2,
+    "3.3": 4711,
+    "3.4": 95519,
+    "4.1": 86878,
+    "4.2": 4180,
+    "4.3": 4461
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายอับดุลอายี สาแม็ง",
+      "party": "ประชาชาติ",
+      "votes": 34910
+    },
+    {
+      "number": 2,
+      "name": "นายมูฮัมหมัดสุกกรี บุงา",
+      "party": "กล้าธรรม",
+      "votes": 26180
+    },
+    {
+      "number": 4,
+      "name": "นายณรงค์ อาแว",
+      "party": "ประชาชน",
+      "votes": 12123
+    },
+    {
+      "number": 6,
+      "name": "นายยุพราช เลิศลำยอง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 4781
+    },
+    {
+      "number": 5,
+      "name": "นายบดินทร์ กาโฮง",
+      "party": "ประชาธิปัตย์",
+      "votes": 4072
+    },
+    {
+      "number": 7,
+      "name": "นายกามิน มุชิ",
+      "party": "ภูมิใจไทย",
+      "votes": 3443
+    },
+    {
+      "number": 8,
+      "name": "นายซอและ มะสอลา",
+      "party": "เพื่อไทย",
+      "votes": 1369
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/47. ยะลา เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 86878,
+    "good_votes": 86878,
+    "sum_diff_pct": 0.0
+  }
+}

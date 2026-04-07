@@ -1,0 +1,63 @@
+{
+  "province_name": "ชัยนาท",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132320,
+    "1.2": 94469,
+    "2.1": 130820,
+    "2.2": 94469,
+    "2.3": 36351,
+    "3.1": 89799,
+    "3.2": 6,
+    "3.3": 4664,
+    "3.4": 94469,
+    "4.1": 80770,
+    "4.2": 5718,
+    "4.3": 7981
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายอนุชา นาคาศัย",
+      "party": "เพื่อไทย",
+      "votes": 36058
+    },
+    {
+      "number": 5,
+      "name": "นายทรงพล ภัทราภิรมย์",
+      "party": "ประชาชน",
+      "votes": 28737
+    },
+    {
+      "number": 4,
+      "name": "นายธนบดี คุ้มชนะ",
+      "party": "ประชาธิปัตย์",
+      "votes": 7271
+    },
+    {
+      "number": 2,
+      "name": "นางสาวณัฐธิดา เมืองช้าง",
+      "party": "ภูมิใจไทย",
+      "votes": 6221
+    },
+    {
+      "number": 3,
+      "name": "นายปริญญา สุโพธิ์",
+      "party": "กล้าธรรม",
+      "votes": 1284
+    },
+    {
+      "number": 6,
+      "name": "นายสนธยา ภูษิต",
+      "party": "พลังประชารัฐ",
+      "votes": 1199
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/10. ชัยนาท เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 80770,
+    "good_votes": 80770,
+    "sum_diff_pct": 0.0
+  }
+}

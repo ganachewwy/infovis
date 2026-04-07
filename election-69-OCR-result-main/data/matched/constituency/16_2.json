@@ -1,0 +1,167 @@
+{
+  "province_name": "ลพบุรี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 149672,
+    "1.2": 118851,
+    "2.1": 151542,
+    "2.2": 118851,
+    "2.3": 32691,
+    "3.1": 113425,
+    "3.2": 104,
+    "3.3": 5322,
+    "3.4": 118851,
+    "4.1": 110045,
+    "4.2": 4127,
+    "4.3": 4679
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นางสาวมัลลิกา จิระพันธุ์วานิช",
+      "party": "ภูมิใจไทย",
+      "votes": 58141
+    },
+    {
+      "number": 1,
+      "name": "นายณัฐดนัย ชนิตร์วัฒน์",
+      "party": "ประชาชน",
+      "votes": 24499
+    },
+    {
+      "number": 5,
+      "name": "นายสิทธิชัย หล่อประสงค์สุข",
+      "party": "เพื่อไทย",
+      "votes": 21604
+    },
+    {
+      "number": 6,
+      "name": "นายพีรพัฒน์ เกิดเอี่ยม",
+      "party": "ประชาธิปัตย์",
+      "votes": 1650
+    },
+    {
+      "number": 4,
+      "name": "นายณฐพงศ์ นรสิงห์",
+      "party": "เศรษฐกิจ",
+      "votes": 1216
+    },
+    {
+      "number": 7,
+      "name": "นายรุ่งวิทย์ แจ้งสว่าง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 962
+    },
+    {
+      "number": 8,
+      "name": "นายปัณณทัต มากผล",
+      "party": "พลังประชารัฐ",
+      "votes": 833
+    },
+    {
+      "number": 2,
+      "name": "นายธันว์ยากร คำวงษ์",
+      "party": "ไทยสร้างชาติ",
+      "votes": 823
+    },
+    {
+      "number": 9,
+      "name": "นายธนกฤต หงษ์ยนต์",
+      "party": "ปวงชนชาวไทย",
+      "votes": 317
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/52. ลพบุรี เขต 2.json",
+  "_validation": {
+    "vote_sum": 110045,
+    "good_votes": 110045,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "16",
+  "province_name_normalized": "ลพบุรี",
+  "summary": {
+    "eligible_voters": 149672,
+    "voters_came": 118851,
+    "ballots_received": 151542,
+    "ballots_used": 118851,
+    "good_votes": 110045,
+    "invalid_votes": 4127,
+    "no_votes": 4679
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นางสาวมัลลิกา จิระพันธุ์วานิช",
+      "party": "ภูมิใจไทย",
+      "votes": 58141,
+      "candidate_uuid": "86fc7fb2-fa05-4b32-93dd-4b7c5eee9fd0",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายณัฐดนัย ชนิตร์วัฒน์",
+      "party": "ประชาชน",
+      "votes": 24499,
+      "candidate_uuid": "76430db3-e1bc-4316-b07b-2620c6806426",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสิทธิชัย หล่อประสงค์สุข",
+      "party": "เพื่อไทย",
+      "votes": 21604,
+      "candidate_uuid": "8d4afa7e-64cb-42b9-93d1-b1f8443af6ea",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพีรพัฒน์ เกิดเอี่ยม",
+      "party": "ประชาธิปัตย์",
+      "votes": 1650,
+      "candidate_uuid": "6fb7009e-2794-481a-a713-c4adb297fd53",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายณฐพงศ์ นรสิงห์",
+      "party": "เศรษฐกิจ",
+      "votes": 1216,
+      "candidate_uuid": "57026330-5617-4ec8-ae9f-07c409414cc0",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายรุ่งวิทย์ แจ้งสว่าง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 962,
+      "candidate_uuid": "824b96f3-85aa-4d94-ad5a-06e4cd4a183e",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายปัณณทัต มากผล",
+      "party": "พลังประชารัฐ",
+      "votes": 833,
+      "candidate_uuid": "1c1a3bc3-7ca7-43cf-97cc-27c028d21932",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธันว์ยากร คำวงษ์",
+      "party": "ไทยสร้างชาติ",
+      "votes": 823,
+      "candidate_uuid": "e2437d29-bad0-464e-b7d4-9b8821a1bdd4",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธนกฤต หงษ์ยนต์",
+      "party": "ปวงชนชาวไทย",
+      "votes": 317,
+      "candidate_uuid": "417ee6f4-f6e6-4a2b-9126-ea956926cdfa",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,139 @@
+{
+  "province_name": "ตราด",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 176946,
+    "1.2": 125215,
+    "2.1": 179613,
+    "2.2": 125215,
+    "2.3": 54398,
+    "3.1": 118479,
+    "3.2": 83,
+    "3.3": 6653,
+    "3.4": 125215,
+    "4.1": 115576,
+    "4.2": 4562,
+    "4.3": 5077
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายพิชานนท์ อิงประสาร",
+      "party": "ภูมิใจไทย",
+      "votes": 66399
+    },
+    {
+      "number": 7,
+      "name": "นายพรรณเศรษฐ์ นุ่มหนู",
+      "party": "ประชาชน",
+      "votes": 27911
+    },
+    {
+      "number": 6,
+      "name": "นายปรีชาวิชญ์ ฉิมผกา",
+      "party": "ประชาธิปัตย์",
+      "votes": 7665
+    },
+    {
+      "number": 5,
+      "name": "นายสักเดช สว่างไสว",
+      "party": "เพื่อไทย",
+      "votes": 4716
+    },
+    {
+      "number": 4,
+      "name": "นายกิตติธัช ไชยอรรถ",
+      "party": "กล้าธรรม",
+      "votes": 4084
+    },
+    {
+      "number": 3,
+      "name": "นายทินวัฒน์ เจียมอุย",
+      "party": "พลังประชารัฐ",
+      "votes": 3857
+    },
+    {
+      "number": 2,
+      "name": "นายธีรภาพ ทิบุญมี",
+      "party": "ไทยสร้างไทย",
+      "votes": 944
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/16. ตราด เขต 1.json",
+  "_validation": {
+    "vote_sum": 115576,
+    "good_votes": 115576,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "23",
+  "province_name_normalized": "ตราด",
+  "summary": {
+    "eligible_voters": 176946,
+    "voters_came": 125215,
+    "ballots_received": 179613,
+    "ballots_used": 125215,
+    "good_votes": 115576,
+    "invalid_votes": 4562,
+    "no_votes": 5077
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายพิชานนท์ อิงประสาร",
+      "party": "ภูมิใจไทย",
+      "votes": 66399,
+      "candidate_uuid": "c529c0fc-ecd7-45c9-be5e-ac3e995ce350",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพรรณเศรษฐ์ นุ่มหนู",
+      "party": "ประชาชน",
+      "votes": 27911,
+      "candidate_uuid": "90bc25a1-5b95-4fb0-86cc-379d18d9e813",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปรีชาวิชญ์ ฉิมผกา",
+      "party": "ประชาธิปัตย์",
+      "votes": 7665,
+      "candidate_uuid": "ee139be1-11bb-4c62-8fdf-99a8fd084c70",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสักเดช สว่างไสว",
+      "party": "เพื่อไทย",
+      "votes": 4716,
+      "candidate_uuid": "d0157059-0a4e-4f03-b324-a55035ca3a48",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกิตติธัช ไชยอรรถ",
+      "party": "กล้าธรรม",
+      "votes": 4084,
+      "candidate_uuid": "40d799ad-38f7-4313-b310-74247dc4dcf0",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายทินวัฒน์ เจียมอุย",
+      "party": "พลังประชารัฐ",
+      "votes": 3857,
+      "candidate_uuid": "1e17f896-5670-4309-84e1-e93978ae5f3e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธีรภาพ ทิบุญมี",
+      "party": "ไทยสร้างไทย",
+      "votes": 944,
+      "candidate_uuid": "117a8589-3c9a-46cb-9310-0904dc4f73cf",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,75 @@
+{
+  "province_name": "สงขลา",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 120456,
+    "1.2": 99959,
+    "2.1": 120360,
+    "2.2": 99959,
+    "2.3": 20401,
+    "3.1": 96557,
+    "3.2": 8,
+    "3.3": 3394,
+    "3.4": 99959,
+    "4.1": 94569,
+    "4.2": 2563,
+    "4.3": 2827
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายฆอซาลี ดุสะเหม็ะ",
+      "party": "ภูมิใจไทย",
+      "votes": 36216
+    },
+    {
+      "number": 2,
+      "name": "นายปรีชา แดงหลี",
+      "party": "ประชาชาติ",
+      "votes": 995
+    },
+    {
+      "number": 3,
+      "name": "พล.ต.ต.สุรินทร์ ปาลาเร่",
+      "party": "กล้าธรรม",
+      "votes": 43540
+    },
+    {
+      "number": 4,
+      "name": "นายอธิวัตร ใบสะเม๊าะ",
+      "party": "เพื่อไทย",
+      "votes": 447
+    },
+    {
+      "number": 5,
+      "name": "นายธีรพงศ์ ดนสวี",
+      "party": "ประชาธิปัตย์",
+      "votes": 6217
+    },
+    {
+      "number": 6,
+      "name": "นายกรธัช พัชนี",
+      "party": "ประชาชน",
+      "votes": 6707
+    },
+    {
+      "number": 7,
+      "name": "นายเกษม ขวัญแก้ว",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 240
+    },
+    {
+      "number": 8,
+      "name": "นายอำนาจ คงเอียง",
+      "party": "ไทยภักดี",
+      "votes": 207
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/58. สงขลา เขต 8.pdf",
+  "_validation": {
+    "vote_sum": 94569,
+    "good_votes": 94569,
+    "sum_diff_pct": 0.0
+  }
+}

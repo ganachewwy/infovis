@@ -1,0 +1,312 @@
+{
+  "province_name": "กำแพงเพชร",
+  "constituency_number": 1,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 144685,
+    "1.2": 101442,
+    "2.1": 146632,
+    "2.2": 101439,
+    "2.3": 45191,
+    "3.1": 95025,
+    "3.2": 0,
+    "3.3": 6144,
+    "3.4": 101169,
+    "4.1": 91168,
+    "4.2": 6367,
+    "4.3": 3907
+  },
+  "results": [
+    {
+      "number": 2,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 481
+    },
+    {
+      "number": 4,
+      "party": "เพื่อชาติไทย",
+      "votes": 5967
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 935
+    },
+    {
+      "number": 6,
+      "party": "ใหม่",
+      "votes": 655
+    },
+    {
+      "number": 7,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2424
+    },
+    {
+      "number": 8,
+      "party": "มิติใหม่",
+      "votes": 1158
+    },
+    {
+      "number": 9,
+      "party": "พลวัต",
+      "votes": 217
+    },
+    {
+      "number": 10,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 632
+    },
+    {
+      "number": 11,
+      "party": "เพื่อไทย",
+      "votes": 7569
+    },
+    {
+      "number": 12,
+      "party": "ทางเลือกใหม่",
+      "votes": 458
+    },
+    {
+      "number": 13,
+      "party": "เศรษฐกิจ",
+      "votes": 3831
+    },
+    {
+      "number": 14,
+      "party": "เสรีรวมไทย",
+      "votes": 642
+    },
+    {
+      "number": 15,
+      "party": "รวมพลังประชาชน",
+      "votes": 779
+    },
+    {
+      "number": 16,
+      "party": "ท้องที่ไทย",
+      "votes": 193
+    },
+    {
+      "number": 17,
+      "party": "อนาคตไทย",
+      "votes": 87
+    },
+    {
+      "number": 18,
+      "party": "พลังเพื่อไทย",
+      "votes": 209
+    },
+    {
+      "number": 19,
+      "party": "ไทยชนะ",
+      "votes": 206
+    },
+    {
+      "number": 20,
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "number": 21,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 42
+    },
+    {
+      "number": 22,
+      "party": "ฟิวชัน",
+      "votes": 32
+    },
+    {
+      "number": 23,
+      "party": "ไทรวมพลัง",
+      "votes": 73
+    },
+    {
+      "number": 24,
+      "party": "ก้าวอิสระ",
+      "votes": 81
+    },
+    {
+      "number": 25,
+      "party": "ปวงชนไทย",
+      "votes": 56
+    },
+    {
+      "number": 26,
+      "party": "วิชชั่นใหม่",
+      "votes": 307
+    },
+    {
+      "number": 27,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 37
+    },
+    {
+      "number": 28,
+      "party": "คลองไทย",
+      "votes": 134
+    },
+    {
+      "number": 29,
+      "party": "ประชาธิปัตย์",
+      "votes": 8196
+    },
+    {
+      "number": 30,
+      "party": "ไทยก้าวหน้า",
+      "votes": 151
+    },
+    {
+      "number": 31,
+      "party": "ไทยภักดี",
+      "votes": 896
+    },
+    {
+      "number": 32,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 170
+    },
+    {
+      "number": 33,
+      "party": "ประชากรไทย",
+      "votes": 385
+    },
+    {
+      "number": 34,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 195
+    },
+    {
+      "number": 35,
+      "party": "ประชาชาติ",
+      "votes": 218
+    },
+    {
+      "number": 36,
+      "party": "สร้างอนาคตไทย",
+      "votes": 196
+    },
+    {
+      "number": 37,
+      "party": "รักชาติ",
+      "votes": 142
+    },
+    {
+      "number": 38,
+      "party": "ไทยพร้อม",
+      "votes": 168
+    },
+    {
+      "number": 39,
+      "party": "ภูมิใจไทย",
+      "votes": 13169
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 50
+    },
+    {
+      "number": 40,
+      "party": "พลังธรรมใหม่",
+      "votes": 249
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 87
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 60
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 5140
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 281
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 112
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 248
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 32891
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 191
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 285
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 199
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 68
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 51
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 22
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 30
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 74
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 79
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/5. กำแพงเพชร เขต 1 (บช).pdf",
+  "_validation": {
+    "vote_sum": 91264,
+    "good_votes": 91168,
+    "sum_diff_pct": 0.11
+  }
+}

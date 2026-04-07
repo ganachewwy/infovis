@@ -1,0 +1,139 @@
+{
+  "province_name": "เพชรบูรณ์",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137973,
+    "1.2": 87505,
+    "2.1": 136560,
+    "2.2": 87505,
+    "2.3": 49155,
+    "3.1": 81956,
+    "3.2": 0,
+    "3.3": 5449,
+    "3.4": 87505,
+    "4.1": 81129,
+    "4.2": 3705,
+    "4.3": 2571
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายอัคร ทองใจสด",
+      "party": "ภูมิใจไทย",
+      "votes": 59008
+    },
+    {
+      "number": 3,
+      "name": "นายอัครพงษ์ สิทธิ",
+      "party": "ประชาชน",
+      "votes": 14303
+    },
+    {
+      "number": 1,
+      "name": "นายเกรียงไกร ปานสีทอง",
+      "party": "เพื่อไทย",
+      "votes": 4610
+    },
+    {
+      "number": 7,
+      "name": "นายสรธร โฉมงาม",
+      "party": "เศรษฐกิจ",
+      "votes": 1286
+    },
+    {
+      "number": 2,
+      "name": "นายศุภกิตติ์ คำดี",
+      "party": "ประชาธิปัตย์",
+      "votes": 1077
+    },
+    {
+      "number": 6,
+      "name": "นายมนัส ทองคันทา",
+      "party": "ปวงชนไทย",
+      "votes": 544
+    },
+    {
+      "number": 5,
+      "name": "นายคฑาเพชร แก่นแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 301
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/40. เพชรบูรณ์ เขต 6.json",
+  "_validation": {
+    "vote_sum": 81129,
+    "good_votes": 81129,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "67",
+  "province_name_normalized": "เพชรบูรณ์",
+  "summary": {
+    "eligible_voters": 137973,
+    "voters_came": 87505,
+    "ballots_received": 136560,
+    "ballots_used": 87505,
+    "good_votes": 81129,
+    "invalid_votes": 3705,
+    "no_votes": 2571
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายอัคร ทองใจสด",
+      "party": "ภูมิใจไทย",
+      "votes": 59008,
+      "candidate_uuid": "6cef1eb9-f2a8-4e99-9e41-814f7624d623",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอัครพงษ์ สิทธิ",
+      "party": "ประชาชน",
+      "votes": 14303,
+      "candidate_uuid": "4ee2ac8c-4022-42a1-8012-055f93f28fdc",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเกรียงไกร ปานสีทอง",
+      "party": "เพื่อไทย",
+      "votes": 4610,
+      "candidate_uuid": "3d5b991e-947b-43fa-9438-a033be1a298c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสรธร โฉมงาม",
+      "party": "เศรษฐกิจ",
+      "votes": 1286,
+      "candidate_uuid": "df69fae4-9fc2-4569-ad33-3592e61eb4da",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายศุภกิตติ์ คำดี",
+      "party": "ประชาธิปัตย์",
+      "votes": 1077,
+      "candidate_uuid": "add7f904-0fca-49aa-91e1-95e587d83fba",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายมนัส ทองคันทา",
+      "party": "ปวงชนไทย",
+      "votes": 544,
+      "candidate_uuid": "32b7c182-6d54-42f8-9697-4b4ccb26101a",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายคฑาเพชร แก่นแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 301,
+      "candidate_uuid": "848f237e-f777-4cfe-b9bd-d5002096bb9f",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

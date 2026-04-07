@@ -1,0 +1,153 @@
+{
+  "province_name": "นครพนม",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 142454,
+    "1.2": 94066,
+    "2.1": 144151,
+    "2.2": 94066,
+    "2.3": 50085,
+    "3.1": 87705,
+    "3.2": 10,
+    "3.3": 6351,
+    "3.4": 94066,
+    "4.1": 88863,
+    "4.2": 2983,
+    "4.3": 2220
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายอลงกต มณีกาศ",
+      "party": "ภูมิใจไทย",
+      "votes": 37134
+    },
+    {
+      "number": 6,
+      "name": "นายธนากรณ์ ปราณีนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 35076
+    },
+    {
+      "number": 2,
+      "name": "นายวุฒิรัฐ ฐาปกรณ์ แก้วเขื่อง",
+      "party": "ประชาชน",
+      "votes": 12026
+    },
+    {
+      "number": 5,
+      "name": "นายกิตติศักดิ์ ชมจันทร์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1699
+    },
+    {
+      "number": 1,
+      "name": "นางเกศราพร พูลสวัสดิ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1136
+    },
+    {
+      "number": 3,
+      "name": "นายธงชัย พานิชดี",
+      "party": "ปวงชนไทย",
+      "votes": 865
+    },
+    {
+      "number": 8,
+      "name": "นายจักรพงษ์ ปทุมไกยะ",
+      "party": "กล้าธรรม",
+      "votes": 594
+    },
+    {
+      "number": 7,
+      "name": "นายศุภกิจ โพธิ์ศรีมีสุข",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 333
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/20. นครพนม เขต 3.json",
+  "_validation": {
+    "vote_sum": 88863,
+    "good_votes": 88863,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "48",
+  "province_name_normalized": "นครพนม",
+  "summary": {
+    "eligible_voters": 142454,
+    "voters_came": 94066,
+    "ballots_received": 144151,
+    "ballots_used": 94066,
+    "good_votes": 88863,
+    "invalid_votes": 2983,
+    "no_votes": 2220
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายอลงกต มณีกาศ",
+      "party": "ภูมิใจไทย",
+      "votes": 37134,
+      "candidate_uuid": "eb744fd4-09e2-40cb-a5ab-bedce426dd20",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธนากรณ์ ปราณีนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 35076,
+      "candidate_uuid": "76368e33-46ab-4d97-8ef6-fd33209bf042",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวุฒิรัฐ ฐาปกรณ์ แก้วเขื่อง",
+      "party": "ประชาชน",
+      "votes": 12026,
+      "candidate_uuid": "fdb9d9ba-6860-413d-9c8c-4827b1dd4c0e",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายกิตติศักดิ์ ชมจันทร์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1699,
+      "candidate_uuid": "f1f444b1-d35a-40ca-a77e-7fe1768d10f9",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางเกศราพร พูลสวัสดิ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1136,
+      "candidate_uuid": "dbf2464a-685b-4a46-9f8a-18258e5b3fe2",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธงชัย พานิชดี",
+      "party": "ปวงชนไทย",
+      "votes": 865,
+      "candidate_uuid": "229c4850-2e85-41dd-b0c0-3ab6eecbc806",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายจักรพงษ์ ปทุมไกยะ",
+      "party": "กล้าธรรม",
+      "votes": 594,
+      "candidate_uuid": "6e453ab5-bd8e-49ea-abad-ea9409eb7e13",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายศุภกิจ โพธิ์ศรีมีสุข",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 333,
+      "candidate_uuid": "3f4a3418-23cb-4921-95e1-2827325b49d5",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

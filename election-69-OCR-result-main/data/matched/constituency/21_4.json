@@ -1,0 +1,139 @@
+{
+  "province_name": "ระยอง",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129478,
+    "1.2": 94724,
+    "2.1": 139098,
+    "2.2": 94724,
+    "2.3": 36274,
+    "3.1": 92206,
+    "3.2": 0,
+    "3.3": 2518,
+    "3.4": 94724,
+    "4.1": 87526,
+    "4.2": 3425,
+    "4.3": 3773
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายฉัตรชัย ปิตุเตชะ",
+      "party": "ภูมิใจไทย",
+      "votes": 46134
+    },
+    {
+      "number": 1,
+      "name": "นายชุติพงศ์ พิภพภิญโญ",
+      "party": "ประชาชน",
+      "votes": 32496
+    },
+    {
+      "number": 6,
+      "name": "นายศราวุธ หลำเจริญ",
+      "party": "ประชาธิปัตย์",
+      "votes": 3744
+    },
+    {
+      "number": 3,
+      "name": "นายพิเชษฐ์ โพธิสาร",
+      "party": "เพื่อไทย",
+      "votes": 3433
+    },
+    {
+      "number": 5,
+      "name": "นายพิชิต วงศา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1036
+    },
+    {
+      "number": 8,
+      "name": "นางสาวสันต์นิสา รัตนโกเศศ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 366
+    },
+    {
+      "number": 7,
+      "name": "นายธนพงศ์พันธ์ ปิดกันภัย",
+      "party": "กล้าธรรม",
+      "votes": 317
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/50. ระยอง เขต 4.json",
+  "_validation": {
+    "vote_sum": 87526,
+    "good_votes": 87526,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "21",
+  "province_name_normalized": "ระยอง",
+  "summary": {
+    "eligible_voters": 129478,
+    "voters_came": 94724,
+    "ballots_received": 139098,
+    "ballots_used": 94724,
+    "good_votes": 87526,
+    "invalid_votes": 3425,
+    "no_votes": 3773
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายฉัตรชัย ปิตุเตชะ",
+      "party": "ภูมิใจไทย",
+      "votes": 46134,
+      "candidate_uuid": "fa94c18e-019e-47a6-8561-1bbf3618d6d0",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายชุติพงศ์ พิภพภิญโญ",
+      "party": "ประชาชน",
+      "votes": 32496,
+      "candidate_uuid": "e2ac3e24-55e4-4dda-a20f-69ed2af15dfc",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายศราวุธ หลำเจริญ",
+      "party": "ประชาธิปัตย์",
+      "votes": 3744,
+      "candidate_uuid": "78f6ca5a-d3b8-4974-979c-76098c52526b",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพิเชษฐ์ โพธิสาร",
+      "party": "เพื่อไทย",
+      "votes": 3433,
+      "candidate_uuid": "2eb31d4a-33b4-44d0-b00e-777bd44e9e5b",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายพิชิต วงศา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1036,
+      "candidate_uuid": "4e335260-28b2-4968-a8a7-1ce61a455b84",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวสันต์นิสา รัตนโกเศศ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 366,
+      "candidate_uuid": "c8f81b90-21a1-4d5d-9bcd-8dd4ef15c5b5",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายธนพงศ์พันธ์ ปิดกันภัย",
+      "party": "กล้าธรรม",
+      "votes": 317,
+      "candidate_uuid": "fc210f07-e3bb-47c0-b959-f280ccb2a12c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

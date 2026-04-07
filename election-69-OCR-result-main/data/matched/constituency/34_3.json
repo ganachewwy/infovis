@@ -1,0 +1,167 @@
+{
+  "province_name": "อุบลราชธานี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139753,
+    "1.2": 93751,
+    "2.1": 139300,
+    "2.2": 93751,
+    "2.3": 45549,
+    "3.1": 87686,
+    "3.2": 0,
+    "3.3": 6065,
+    "3.4": 93751,
+    "4.1": 86097,
+    "4.2": 3493,
+    "4.3": 4161
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางพิมพกาญจน์ พลสมัคร",
+      "party": "ไทรวมพลัง",
+      "votes": 43632
+    },
+    {
+      "number": 2,
+      "name": "นางสาวณัฐนันท์ รัตโน",
+      "party": "เพื่อไทย",
+      "votes": 22798
+    },
+    {
+      "number": 3,
+      "name": "นายปรเมธ ศรีหล้า",
+      "party": "ประชาชน",
+      "votes": 13634
+    },
+    {
+      "number": 5,
+      "name": "นายจิรศักดิ์ ขันอาสา",
+      "party": "ภูมิใจไทย",
+      "votes": 3409
+    },
+    {
+      "number": 6,
+      "name": "นายมิตร อนุวรรณ",
+      "party": "ทางเลือกใหม่",
+      "votes": 745
+    },
+    {
+      "number": 7,
+      "name": "นางสาวพรปนัดดา ทวีดี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 625
+    },
+    {
+      "number": 8,
+      "name": "นายตรัยรัตน์ สาละมุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 554
+    },
+    {
+      "number": 4,
+      "name": "นายอธิปไตย คุ้ย ศรีมงคล",
+      "party": "ไทยก้าวหน้า",
+      "votes": 441
+    },
+    {
+      "number": 9,
+      "name": "นายลำชี มะโนรัตน์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 259
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/77. อุบลราชธานี เขต 3.json",
+  "_validation": {
+    "vote_sum": 86097,
+    "good_votes": 86097,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "34",
+  "province_name_normalized": "อุบลราชธานี",
+  "summary": {
+    "eligible_voters": 139753,
+    "voters_came": 93751,
+    "ballots_received": 139300,
+    "ballots_used": 93751,
+    "good_votes": 86097,
+    "invalid_votes": 3493,
+    "no_votes": 4161
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางพิมพกาญจน์ พลสมัคร",
+      "party": "ไทรวมพลัง",
+      "votes": 43632,
+      "candidate_uuid": "c474d24b-3182-4aaf-984a-489fccddba9d",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวณัฐนันท์ รัตโน",
+      "party": "เพื่อไทย",
+      "votes": 22798,
+      "candidate_uuid": "107dc28f-a06e-4758-961a-bc5811e95bba",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายปรเมธ ศรีหล้า",
+      "party": "ประชาชน",
+      "votes": 13634,
+      "candidate_uuid": "8f05c9e9-e725-4751-914d-138b8989251a",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายจิรศักดิ์ ขันอาสา",
+      "party": "ภูมิใจไทย",
+      "votes": 3409,
+      "candidate_uuid": "7fb58edf-ae2b-49a7-8a9e-c06b196b68df",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายมิตร อนุวรรณ",
+      "party": "ทางเลือกใหม่",
+      "votes": 745,
+      "candidate_uuid": "64771261-ae85-47ca-8760-b3e7aa42ad52",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวพรปนัดดา ทวีดี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 625,
+      "candidate_uuid": "2f760bb8-4e0e-4b15-b560-483954cfb074",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายตรัยรัตน์ สาละมุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 554,
+      "candidate_uuid": "879d79cd-8097-4cae-9c9e-f835eb291710",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอธิปไตย คุ้ย ศรีมงคล",
+      "party": "ไทยก้าวหน้า",
+      "votes": 441,
+      "candidate_uuid": "18fd747f-9d66-4c5b-ade6-cec2fbcb2326",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายลำชี มะโนรัตน์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 259,
+      "candidate_uuid": "fcb9199a-b7b0-43a4-b713-9d47ef55ace5",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

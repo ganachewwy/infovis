@@ -1,0 +1,153 @@
+{
+  "province_name": "สระบุรี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 125851,
+    "1.2": 99297,
+    "2.1": 132100,
+    "2.2": 99297,
+    "2.3": 32803,
+    "3.1": 96533,
+    "3.2": 7,
+    "3.3": 2757,
+    "3.4": 99297,
+    "4.1": 91451,
+    "4.2": 3593,
+    "4.3": 4253
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายวัชรพงศ์ คูวิจิตรสุวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 53967
+    },
+    {
+      "number": 2,
+      "name": "นายอรรถสิทธิ์ มหิทธิ",
+      "party": "ประชาชน",
+      "votes": 28831
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสิริพัชระ จึงธีรพานิช",
+      "party": "เพื่อไทย",
+      "votes": 4647
+    },
+    {
+      "number": 1,
+      "name": "นายณัฐพล ศรีบุญจันทร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1247
+    },
+    {
+      "number": 4,
+      "name": "นายธนะชัย จรานุพันธ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1230
+    },
+    {
+      "number": 6,
+      "name": "นายสอน สุริยันต์",
+      "party": "ปวงชนไทย",
+      "votes": 643
+    },
+    {
+      "number": 7,
+      "name": "นายกฤษดา อินทร์พาเพียร",
+      "party": "กล้าธรรม",
+      "votes": 515
+    },
+    {
+      "number": 8,
+      "name": "นายวัชรพล รวมพล",
+      "party": "ประชากรไทย",
+      "votes": 371
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/64. สระบุรี เขต 3.json",
+  "_validation": {
+    "vote_sum": 91451,
+    "good_votes": 91451,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "19",
+  "province_name_normalized": "สระบุรี",
+  "summary": {
+    "eligible_voters": 125851,
+    "voters_came": 99297,
+    "ballots_received": 132100,
+    "ballots_used": 99297,
+    "good_votes": 91451,
+    "invalid_votes": 3593,
+    "no_votes": 4253
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายวัชรพงศ์ คูวิจิตรสุวรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 53967,
+      "candidate_uuid": "a3e27427-9c8a-4b4d-b310-a8f500ee46a8",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอรรถสิทธิ์ มหิทธิ",
+      "party": "ประชาชน",
+      "votes": 28831,
+      "candidate_uuid": "5d79ff45-731d-40bb-beac-e924887cb34a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสิริพัชระ จึงธีรพานิช",
+      "party": "เพื่อไทย",
+      "votes": 4647,
+      "candidate_uuid": "5e8219ea-67ef-41ff-9255-15305f0a4285",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายณัฐพล ศรีบุญจันทร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1247,
+      "candidate_uuid": "2f236af6-4d90-4233-876b-16ccc4967f46",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธนะชัย จรานุพันธ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1230,
+      "candidate_uuid": "b34ee00e-3e5f-47b4-a548-cfdc941367e6",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสอน สุริยันต์",
+      "party": "ปวงชนไทย",
+      "votes": 643,
+      "candidate_uuid": "8a425875-f3b6-4749-94fc-6eb3fd4d7756",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายกฤษดา อินทร์พาเพียร",
+      "party": "กล้าธรรม",
+      "votes": 515,
+      "candidate_uuid": "431474cf-1542-4f41-92c7-3959c6a3825e",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวัชรพล รวมพล",
+      "party": "ประชากรไทย",
+      "votes": 371,
+      "candidate_uuid": "b3f32c8e-9cb4-4f35-8f57-60db1f9e5403",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

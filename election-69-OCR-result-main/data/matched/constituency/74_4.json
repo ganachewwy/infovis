@@ -1,0 +1,181 @@
+{
+  "province_name": "สมุทรสาคร",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 112307,
+    "1.2": 84850,
+    "2.1": 115841,
+    "2.2": 84850,
+    "2.3": 30991,
+    "3.1": 83059,
+    "3.2": 10,
+    "3.3": 1781,
+    "3.4": 84850,
+    "4.1": 78327,
+    "4.2": 2625,
+    "4.3": 3898
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายปัญญา ซวนบุญ",
+      "party": "ภูมิใจไทย",
+      "votes": 42758
+    },
+    {
+      "number": 6,
+      "name": "นายอานนท์ งามดอกไม้",
+      "party": "ประชาชน",
+      "votes": 22826
+    },
+    {
+      "number": 4,
+      "name": "นายประยงค์ นอบน้อม",
+      "party": "เพื่อไทย",
+      "votes": 4776
+    },
+    {
+      "number": 7,
+      "name": "นางสาวณตฤณ สุริวงษ์",
+      "party": "กล้าธรรม",
+      "votes": 2709
+    },
+    {
+      "number": 5,
+      "name": "นายอภินันท์ หวันประวัติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1745
+    },
+    {
+      "number": 8,
+      "name": "ว่าที่ ร.อ.สุประเสริฐ ชาวบ้านเกาะ",
+      "party": "พรรคเศรษฐกิจ",
+      "votes": 1330
+    },
+    {
+      "number": 2,
+      "name": "นายอเนก กุลกรรณ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 655
+    },
+    {
+      "number": 9,
+      "name": "นายศรายุทธ ศรีนิเวศน์",
+      "party": "พลังประชารัฐ",
+      "votes": 642
+    },
+    {
+      "number": 3,
+      "name": "นายณัฐภัทร์ จุลสวัสดิ์",
+      "party": "โอกาสใหม่",
+      "votes": 543
+    },
+    {
+      "number": 10,
+      "name": "นายวัลลภ แป้นทอง",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 343
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/62. สมุทรสาคร เขต 4.json",
+  "_validation": {
+    "vote_sum": 78327,
+    "good_votes": 78327,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "74",
+  "province_name_normalized": "สมุทรสาคร",
+  "summary": {
+    "eligible_voters": 112307,
+    "voters_came": 84850,
+    "ballots_received": 115841,
+    "ballots_used": 84850,
+    "good_votes": 78327,
+    "invalid_votes": 2625,
+    "no_votes": 3898
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายปัญญา ซวนบุญ",
+      "party": "ภูมิใจไทย",
+      "votes": 42758,
+      "candidate_uuid": "8cd3587b-4124-4504-b771-81126fc9193f",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอานนท์ งามดอกไม้",
+      "party": "ประชาชน",
+      "votes": 22826,
+      "candidate_uuid": "e2cca212-33c9-4957-a78e-57f85dc334d8",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายประยงค์ นอบน้อม",
+      "party": "เพื่อไทย",
+      "votes": 4776,
+      "candidate_uuid": "321c4a32-393a-45d4-be12-ccc05255be48",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวณตฤณ สุริวงษ์",
+      "party": "กล้าธรรม",
+      "votes": 2709,
+      "candidate_uuid": "16c6eaaf-8587-4119-9dca-f8f9905c2569",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอภินันท์ หวันประวัติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1745,
+      "candidate_uuid": "d6af43c0-d293-4f2e-b298-3a261fdffca4",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ว่าที่ ร.อ.สุประเสริฐ ชาวบ้านเกาะ",
+      "party": "พรรคเศรษฐกิจ",
+      "votes": 1330,
+      "candidate_uuid": "0c3d7b68-7d75-4484-8c7e-4481a93e1132",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอเนก กุลกรรณ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 655,
+      "candidate_uuid": "e25f1515-a5d5-4343-9b97-f488c980006a",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายศรายุทธ ศรีนิเวศน์",
+      "party": "พลังประชารัฐ",
+      "votes": 642,
+      "candidate_uuid": "08338644-9cf4-4180-b6aa-f486d510aba5",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายณัฐภัทร์ จุลสวัสดิ์",
+      "party": "โอกาสใหม่",
+      "votes": 543,
+      "candidate_uuid": "03e62c32-16b9-46a2-b7e7-8f791d5a6949",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายวัลลภ แป้นทอง",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 343,
+      "candidate_uuid": "24e46ffd-49f1-4ddb-99b1-74bcf4ce34f9",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

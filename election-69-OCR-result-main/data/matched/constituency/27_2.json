@@ -1,0 +1,167 @@
+{
+  "province_name": "สระแก้ว",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 145146,
+    "1.2": 97464,
+    "2.1": 147495,
+    "2.2": 97464,
+    "2.3": 50031,
+    "3.1": 92423,
+    "3.2": 6,
+    "3.3": 5035,
+    "3.4": 97464,
+    "4.1": 89351,
+    "4.2": 3874,
+    "4.3": 4239
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นางสาวตรีนุช เทียนทอง",
+      "party": "พลังประชารัฐ",
+      "votes": 60370
+    },
+    {
+      "number": 5,
+      "name": "นายยุทธชัย รำไพวรรณ์",
+      "party": "ประชาชน",
+      "votes": 17343
+    },
+    {
+      "number": 3,
+      "name": "นายศิริพงศ์ ทวีวงศ์",
+      "party": "เศรษฐกิจ",
+      "votes": 3362
+    },
+    {
+      "number": 2,
+      "name": "พันตำรวจโท ยุทธพงศ์ ตัณฑิกุล",
+      "party": "เพื่อไทย",
+      "votes": 2986
+    },
+    {
+      "number": 1,
+      "name": "นางสาวอัคลีมา คลังเพชร",
+      "party": "ประชาธิปัตย์",
+      "votes": 1835
+    },
+    {
+      "number": 7,
+      "name": "นายยงยุทธ คมคาย",
+      "party": "ภูมิใจไทย",
+      "votes": 1823
+    },
+    {
+      "number": 8,
+      "name": "นายเกียรติศักดิ์ สุดแดน",
+      "party": "ไทยก้าวใหม่",
+      "votes": 647
+    },
+    {
+      "number": 4,
+      "name": "นางสาวศิราณี หมื่นจิตร",
+      "party": "กล้าธรรม",
+      "votes": 533
+    },
+    {
+      "number": 9,
+      "name": "นางสาวกิติชา วงษ์มั่น",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 452
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/63. สระแก้ว เขต 2.json",
+  "_validation": {
+    "vote_sum": 89351,
+    "good_votes": 89351,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "27",
+  "province_name_normalized": "สระแก้ว",
+  "summary": {
+    "eligible_voters": 145146,
+    "voters_came": 97464,
+    "ballots_received": 147495,
+    "ballots_used": 97464,
+    "good_votes": 89351,
+    "invalid_votes": 3874,
+    "no_votes": 4239
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นางสาวตรีนุช เทียนทอง",
+      "party": "พลังประชารัฐ",
+      "votes": 60370,
+      "candidate_uuid": "38e239ee-d9d2-49bc-915c-b065412c8500",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายยุทธชัย รำไพวรรณ์",
+      "party": "ประชาชน",
+      "votes": 17343,
+      "candidate_uuid": "7334e703-5d43-4eaa-ab5a-6989061362f9",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายศิริพงศ์ ทวีวงศ์",
+      "party": "เศรษฐกิจ",
+      "votes": 3362,
+      "candidate_uuid": "70135ba9-9b72-413c-8653-f3d147e21e8a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "พันตำรวจโท ยุทธพงศ์ ตัณฑิกุล",
+      "party": "เพื่อไทย",
+      "votes": 2986,
+      "candidate_uuid": "a828b86d-3899-4916-879b-8db5c25552a4",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวอัคลีมา คลังเพชร",
+      "party": "ประชาธิปัตย์",
+      "votes": 1835,
+      "candidate_uuid": "ca29a31a-61c7-4eaf-b6d5-f4755458ecc0",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายยงยุทธ คมคาย",
+      "party": "ภูมิใจไทย",
+      "votes": 1823,
+      "candidate_uuid": "7e1a9eaf-4d89-4f0a-a385-1b269dcaf4cb",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายเกียรติศักดิ์ สุดแดน",
+      "party": "ไทยก้าวใหม่",
+      "votes": 647,
+      "candidate_uuid": "ac9ff0ba-e381-4ab9-8330-44e4949be80f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวศิราณี หมื่นจิตร",
+      "party": "กล้าธรรม",
+      "votes": 533,
+      "candidate_uuid": "39253aad-75f0-40b7-ac9c-8226e2cc445b",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวกิติชา วงษ์มั่น",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 452,
+      "candidate_uuid": "53478b05-0442-4713-8f24-f71c344705e9",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,97 @@
+{
+  "province_name": "เพชรบุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 125465,
+    "1.2": 99383,
+    "2.1": 127406,
+    "2.2": 99383,
+    "2.3": 28023,
+    "3.1": 95297,
+    "3.2": 79,
+    "3.3": 4007,
+    "3.4": 99383,
+    "4.1": 89618,
+    "4.2": 3957,
+    "4.3": 5808
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นางธิวัลรัตน์ อังกินันทน์",
+      "party": "ภูมิใจไทย",
+      "votes": 61734
+    },
+    {
+      "number": 2,
+      "name": "น.ส.ปินดา บุโรทกานนท์",
+      "party": "ประชาชน",
+      "votes": 20431
+    },
+    {
+      "number": 1,
+      "name": "นายฐานันดร์ ขันธ์แก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 5699
+    },
+    {
+      "number": 4,
+      "name": "นายประพัฒน์ ปานยิ้ม",
+      "party": "เพื่อไทย",
+      "votes": 1754
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/39. เพชรบุรี เขต 1.json",
+  "_validation": {
+    "vote_sum": 89618,
+    "good_votes": 89618,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "76",
+  "province_name_normalized": "เพชรบุรี",
+  "summary": {
+    "eligible_voters": 125465,
+    "voters_came": 99383,
+    "ballots_received": 127406,
+    "ballots_used": 99383,
+    "good_votes": 89618,
+    "invalid_votes": 3957,
+    "no_votes": 5808
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นางธิวัลรัตน์ อังกินันทน์",
+      "party": "ภูมิใจไทย",
+      "votes": 61734,
+      "candidate_uuid": "d7c7d242-a5f7-47a6-8222-ec6e701106a0",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "น.ส.ปินดา บุโรทกานนท์",
+      "party": "ประชาชน",
+      "votes": 20431,
+      "candidate_uuid": "94a4d228-2838-4e4d-aac0-f50892efd8d4",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายฐานันดร์ ขันธ์แก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 5699,
+      "candidate_uuid": "d8d3a550-2b91-4a34-9792-bcebea3e80c1",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายประพัฒน์ ปานยิ้ม",
+      "party": "เพื่อไทย",
+      "votes": 1754,
+      "candidate_uuid": "4b0a8e65-9f7c-44c7-b17e-c33c34538d4d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

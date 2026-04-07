@@ -1,0 +1,181 @@
+{
+  "province_name": "สมุทรปราการ",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 141094,
+    "1.2": 96436,
+    "2.1": 142958,
+    "2.2": 96436,
+    "2.3": 46522,
+    "3.1": 92738,
+    "3.2": 5,
+    "3.3": 3693,
+    "3.4": 96436,
+    "4.1": 88488,
+    "4.2": 2383,
+    "4.3": 5565
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายพิชัย แจ้งจรรยาวงศ์",
+      "party": "ประชาชน",
+      "votes": 45335
+    },
+    {
+      "number": 6,
+      "name": "นางสาวสรชา วีรชาติวัฒนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 13276
+    },
+    {
+      "number": 2,
+      "name": "นางอภัสนันท์ ภัคนราธนเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 11651
+    },
+    {
+      "number": 3,
+      "name": "นายภิญโญ กิจเลิศไพโรจน์",
+      "party": "เพื่อไทย",
+      "votes": 11151
+    },
+    {
+      "number": 7,
+      "name": "นายประเสริฐ ชัยกิจเด่นนภาลัย",
+      "party": "กล้าธรรม",
+      "votes": 1755
+    },
+    {
+      "number": 5,
+      "name": "นายนัฏทีธร จักรแก้ว",
+      "party": "เศรษฐกิจ",
+      "votes": 1565
+    },
+    {
+      "number": 8,
+      "name": "นายชิตพล เชี่ยวอุดมทรัพย์",
+      "party": "พลังประชารัฐ",
+      "votes": 1328
+    },
+    {
+      "number": 10,
+      "name": "นางสาวเปมิกา หงส์อาจ",
+      "party": "ไทยภักดี",
+      "votes": 870
+    },
+    {
+      "number": 9,
+      "name": "นายธนพัต ธนัตเจริญ",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 849
+    },
+    {
+      "number": 1,
+      "name": "ว่าที่ร้อยตรีธเนศ พุ่มโพธิ์",
+      "party": "ปวงชนไทย",
+      "votes": 708
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/60. สมุทรปราการ เขต 3.json",
+  "_validation": {
+    "vote_sum": 88488,
+    "good_votes": 88488,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "11",
+  "province_name_normalized": "สมุทรปราการ",
+  "summary": {
+    "eligible_voters": 141094,
+    "voters_came": 96436,
+    "ballots_received": 142958,
+    "ballots_used": 96436,
+    "good_votes": 88488,
+    "invalid_votes": 2383,
+    "no_votes": 5565
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายพิชัย แจ้งจรรยาวงศ์",
+      "party": "ประชาชน",
+      "votes": 45335,
+      "candidate_uuid": "59261d86-fbe4-4261-9e9e-ffebcd60208f",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวสรชา วีรชาติวัฒนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 13276,
+      "candidate_uuid": "c2711d17-d6c8-4d33-ba6c-429e0889248d",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางอภัสนันท์ ภัคนราธนเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 11651,
+      "candidate_uuid": "9a09b2a6-6478-4dbc-9126-879066aadca7",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายภิญโญ กิจเลิศไพโรจน์",
+      "party": "เพื่อไทย",
+      "votes": 11151,
+      "candidate_uuid": "d284e93a-49e6-42ed-975c-4611a675eb6e",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายประเสริฐ ชัยกิจเด่นนภาลัย",
+      "party": "กล้าธรรม",
+      "votes": 1755,
+      "candidate_uuid": "3d3cf49f-d60e-40ed-a804-ca26a5dc179d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนัฏทีธร จักรแก้ว",
+      "party": "เศรษฐกิจ",
+      "votes": 1565,
+      "candidate_uuid": "e2ebc827-948d-4507-bea0-66883379265f",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชิตพล เชี่ยวอุดมทรัพย์",
+      "party": "พลังประชารัฐ",
+      "votes": 1328,
+      "candidate_uuid": "5b546fba-c8d3-4b03-8e4d-540db901e386",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวเปมิกา หงส์อาจ",
+      "party": "ไทยภักดี",
+      "votes": 870,
+      "candidate_uuid": "1e9b29d5-3343-462a-aade-c508990601c5",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธนพัต ธนัตเจริญ",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 849,
+      "candidate_uuid": "2c94d8d6-6b0a-4873-8b85-aab95679bccd",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "ว่าที่ร้อยตรีธเนศ พุ่มโพธิ์",
+      "party": "ปวงชนไทย",
+      "votes": 708,
+      "candidate_uuid": "69dbb931-7923-4ef9-a4be-03f302e4b8c7",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

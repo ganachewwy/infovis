@@ -1,0 +1,312 @@
+{
+  "province_name": "อุตรดิตถ์",
+  "constituency_number": 2,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 125051,
+    "1.2": 83114,
+    "2.1": 128889,
+    "2.2": 83114,
+    "2.3": 45775,
+    "3.1": 76235,
+    "3.2": 6,
+    "3.3": 6873,
+    "3.4": 83114,
+    "4.1": 74563,
+    "4.2": 5243,
+    "4.3": 3308
+  },
+  "results": [
+    {
+      "number": 2,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 756
+    },
+    {
+      "number": 3,
+      "party": "เพื่อชาติไทย",
+      "votes": 1335
+    },
+    {
+      "number": 4,
+      "party": "ใหม่",
+      "votes": 526
+    },
+    {
+      "number": 5,
+      "party": "มิติใหม่",
+      "votes": 2979
+    },
+    {
+      "number": 6,
+      "party": "รวมใจไทย",
+      "votes": 1776
+    },
+    {
+      "number": 7,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1356
+    },
+    {
+      "number": 8,
+      "party": "พลวัต",
+      "votes": 129
+    },
+    {
+      "number": 9,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 366
+    },
+    {
+      "number": 10,
+      "party": "เพื่อไทย",
+      "votes": 15685
+    },
+    {
+      "number": 11,
+      "party": "ทางเลือกใหม่",
+      "votes": 554
+    },
+    {
+      "number": 12,
+      "party": "เศรษฐกิจ",
+      "votes": 3088
+    },
+    {
+      "number": 13,
+      "party": "เสรีรวมไทย",
+      "votes": 402
+    },
+    {
+      "number": 14,
+      "party": "รวมพลังประชาชน",
+      "votes": 578
+    },
+    {
+      "number": 15,
+      "party": "ท้องที่ไทย",
+      "votes": 274
+    },
+    {
+      "number": 16,
+      "party": "อนาคตไทย",
+      "votes": 250
+    },
+    {
+      "number": 17,
+      "party": "พลังเพื่อไทย",
+      "votes": 256
+    },
+    {
+      "number": 18,
+      "party": "ไทยชนะ",
+      "votes": 184
+    },
+    {
+      "number": 19,
+      "party": "พลังสังคมใหม่",
+      "votes": 35
+    },
+    {
+      "number": 20,
+      "party": "สังคมประชาธิปไตย",
+      "votes": 47
+    },
+    {
+      "number": 21,
+      "party": "ฟิวชัน",
+      "votes": 57
+    },
+    {
+      "number": 22,
+      "party": "ไทรวมพลัง",
+      "votes": 47
+    },
+    {
+      "number": 23,
+      "party": "ก้าวอิสระ",
+      "votes": 30
+    },
+    {
+      "number": 24,
+      "party": "ปวงชนไทย",
+      "votes": 79
+    },
+    {
+      "number": 25,
+      "party": "วิชชั่นใหม่",
+      "votes": 164
+    },
+    {
+      "number": 26,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 44
+    },
+    {
+      "number": 27,
+      "party": "คลองไทย",
+      "votes": 106
+    },
+    {
+      "number": 28,
+      "party": "ประชาธิปัตย์",
+      "votes": 3671
+    },
+    {
+      "number": 29,
+      "party": "ไทยก้าวหน้า",
+      "votes": 110
+    },
+    {
+      "number": 30,
+      "party": "ไทยภักดี",
+      "votes": 309
+    },
+    {
+      "number": 31,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 142
+    },
+    {
+      "number": 32,
+      "party": "ประชากรไทย",
+      "votes": 157
+    },
+    {
+      "number": 33,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 150
+    },
+    {
+      "number": 34,
+      "party": "ประชาชาติ",
+      "votes": 283
+    },
+    {
+      "number": 35,
+      "party": "สร้างอนาคตไทย",
+      "votes": 251
+    },
+    {
+      "number": 36,
+      "party": "รักชาติ",
+      "votes": 116
+    },
+    {
+      "number": 37,
+      "party": "ไทยพร้อม",
+      "votes": 120
+    },
+    {
+      "number": 38,
+      "party": "ภูมิใจไทย",
+      "votes": 7442
+    },
+    {
+      "number": 39,
+      "party": "พลังธรรมใหม่",
+      "votes": 278
+    },
+    {
+      "number": 40,
+      "party": "กรีน",
+      "votes": 55
+    },
+    {
+      "number": 41,
+      "party": "ไทยธรรม",
+      "votes": 89
+    },
+    {
+      "number": 42,
+      "party": "แผ่นดินธรรม",
+      "votes": 50
+    },
+    {
+      "number": 43,
+      "party": "กล้าธรรม",
+      "votes": 280
+    },
+    {
+      "number": 44,
+      "party": "พลังประชารัฐ",
+      "votes": 174
+    },
+    {
+      "number": 45,
+      "party": "โอกาสใหม่",
+      "votes": 7524
+    },
+    {
+      "number": 46,
+      "party": "เป็นธรรม",
+      "votes": 93
+    },
+    {
+      "number": 47,
+      "party": "ประชาชน",
+      "votes": 21232
+    },
+    {
+      "number": 48,
+      "party": "ประชาไทย",
+      "votes": 132
+    },
+    {
+      "number": 49,
+      "party": "ไทยสร้างไทย",
+      "votes": 294
+    },
+    {
+      "number": 50,
+      "party": "ไทยก้าวใหม่",
+      "votes": 192
+    },
+    {
+      "number": 51,
+      "party": "ประชาอาสาชาติ",
+      "votes": 11
+    },
+    {
+      "number": 52,
+      "party": "พร้อม",
+      "votes": 45
+    },
+    {
+      "number": 53,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 15
+    },
+    {
+      "number": 54,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 24
+    },
+    {
+      "number": 55,
+      "party": "ความหวังใหม่",
+      "votes": 69
+    },
+    {
+      "number": 56,
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "number": 57,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 59
+    },
+    {
+      "number": 58,
+      "party": "พลังไทยรักชาติ",
+      "votes": 71
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/75. อุตรดิตถ์ เขต 2 (บช).pdf",
+  "_validation": {
+    "vote_sum": 74563,
+    "good_votes": 74563,
+    "sum_diff_pct": 0.0
+  }
+}

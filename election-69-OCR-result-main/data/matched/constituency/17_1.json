@@ -1,0 +1,125 @@
+{
+  "province_name": "สิงห์บุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 167134,
+    "1.2": 127309,
+    "2.1": 170975,
+    "2.2": 127309,
+    "2.3": 43666,
+    "3.1": 122074,
+    "3.2": 51,
+    "3.3": 5184,
+    "3.4": 127309,
+    "4.1": 114708,
+    "4.2": 5450,
+    "4.3": 7151
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายโชติวุฒิ ธนาคมานุสรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 65555
+    },
+    {
+      "number": 4,
+      "name": "นายธีรเศรษฐ พัฒน์วราพงษ์",
+      "party": "ประชาชน",
+      "votes": 31864
+    },
+    {
+      "number": 3,
+      "name": "นายนัฐยุทธ ภู่สุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 13763
+    },
+    {
+      "number": 2,
+      "name": "นายวันเฉลิม แสงสว่าง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1523
+    },
+    {
+      "number": 6,
+      "name": "นายสุรสาล ผาสุข",
+      "party": "พลังประชารัฐ",
+      "votes": 1037
+    },
+    {
+      "number": 1,
+      "name": "นายสิทธิชัย ผู้พัฒน์",
+      "party": "กล้าธรรม",
+      "votes": 966
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/65. สิงห์บุรี เขต 1.json",
+  "_validation": {
+    "vote_sum": 114708,
+    "good_votes": 114708,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "17",
+  "province_name_normalized": "สิงห์บุรี",
+  "summary": {
+    "eligible_voters": 167134,
+    "voters_came": 127309,
+    "ballots_received": 170975,
+    "ballots_used": 127309,
+    "good_votes": 114708,
+    "invalid_votes": 5450,
+    "no_votes": 7151
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายโชติวุฒิ ธนาคมานุสรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 65555,
+      "candidate_uuid": "01ed0ae9-139b-4c73-8c76-08f268c4ddae",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธีรเศรษฐ พัฒน์วราพงษ์",
+      "party": "ประชาชน",
+      "votes": 31864,
+      "candidate_uuid": "4969c4e5-d9ec-4377-9c6f-3265850380fc",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายนัฐยุทธ ภู่สุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 13763,
+      "candidate_uuid": "f8666ffe-e20b-4a15-8ecb-9a71ce75e141",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวันเฉลิม แสงสว่าง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1523,
+      "candidate_uuid": "ad8df4b6-4ba6-4122-9108-c9fc2960866d",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสุรสาล ผาสุข",
+      "party": "พลังประชารัฐ",
+      "votes": 1037,
+      "candidate_uuid": "8b414a29-0931-4860-b984-447e0d7e6392",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสิทธิชัย ผู้พัฒน์",
+      "party": "กล้าธรรม",
+      "votes": 966,
+      "candidate_uuid": "43a50900-c261-4403-a69e-767f3e9e619e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

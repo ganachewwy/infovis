@@ -1,0 +1,63 @@
+{
+  "province_name": "สุราษฎร์ธานี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 120055,
+    "1.2": 94207,
+    "2.1": 123133,
+    "2.2": 94207,
+    "2.3": 28926,
+    "3.1": 90094,
+    "3.2": 5,
+    "3.3": 4108,
+    "3.4": 94207,
+    "4.1": 88689,
+    "4.2": 2218,
+    "4.3": 3300
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นางสาววชิราภรณ์ กาญจนะ",
+      "party": "ไทรวมพลัง",
+      "votes": 39958
+    },
+    {
+      "number": 4,
+      "name": "นายกฤษพณ หวานแก้ว",
+      "party": "กล้าธรรม",
+      "votes": 24524
+    },
+    {
+      "number": 6,
+      "name": "นายปิยะรัฐ จิรัตน์ฐิกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 13684
+    },
+    {
+      "number": 2,
+      "name": "นายสิทธิภร จันทบูรณ์",
+      "party": "ประชาชน",
+      "votes": 8099
+    },
+    {
+      "number": 1,
+      "name": "นายวัชรพล ประกายแก้วสกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 1469
+    },
+    {
+      "number": 3,
+      "name": "นายสิทธิกร เกษมณี",
+      "party": "เพื่อไทย",
+      "votes": 955
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/68. สุราษฎร์ธานี เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 88689,
+    "good_votes": 88689,
+    "sum_diff_pct": 0.0
+  }
+}

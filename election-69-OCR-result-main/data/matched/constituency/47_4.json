@@ -1,0 +1,167 @@
+{
+  "province_name": "สกลนคร",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132760,
+    "1.2": 83327,
+    "2.1": 132760,
+    "2.2": 83327,
+    "2.3": 49433,
+    "3.1": 78889,
+    "3.2": 11,
+    "3.3": 4427,
+    "3.4": 83327,
+    "4.1": 75903,
+    "4.2": 3434,
+    "4.3": 3990
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายพัฒนา สัพโส",
+      "party": "เพื่อไทย",
+      "votes": 29887
+    },
+    {
+      "number": 5,
+      "name": "นายอครเดช ยังแสนภูม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 16643
+    },
+    {
+      "number": 7,
+      "name": "นางปรานี วัฒนาประดิษฐ์ชัย",
+      "party": "ประชาชน",
+      "votes": 15488
+    },
+    {
+      "number": 3,
+      "name": "นายวีรศักดิ์ พรหมภักดี",
+      "party": "กล้าธรรม",
+      "votes": 5463
+    },
+    {
+      "number": 2,
+      "name": "ส.อ.ชัยวัน ราชชมภู",
+      "party": "เศรษฐกิจ",
+      "votes": 3412
+    },
+    {
+      "number": 4,
+      "name": "นายปริยัติ วงศ์ธิเบศร์",
+      "party": "ภูมิใจไทย",
+      "votes": 2615
+    },
+    {
+      "number": 1,
+      "name": "นายไพบูลย์ มาตยาคุณ",
+      "party": "ปวงชนไทย",
+      "votes": 1414
+    },
+    {
+      "number": 12,
+      "name": "นายสุวิทย์ สุดพุด",
+      "party": "ประชาธิปัตย์",
+      "votes": 830
+    },
+    {
+      "number": 8,
+      "name": "นายประยง บุญยอด",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 151
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/57. สกลนคร เขต 4.json",
+  "_validation": {
+    "vote_sum": 75903,
+    "good_votes": 75903,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "47",
+  "province_name_normalized": "สกลนคร",
+  "summary": {
+    "eligible_voters": 132760,
+    "voters_came": 83327,
+    "ballots_received": 132760,
+    "ballots_used": 83327,
+    "good_votes": 75903,
+    "invalid_votes": 3434,
+    "no_votes": 3990
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายพัฒนา สัพโส",
+      "party": "เพื่อไทย",
+      "votes": 29887,
+      "candidate_uuid": "73259577-be59-4b7e-89ed-5ebac10719a1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอครเดช ยังแสนภูม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 16643,
+      "candidate_uuid": "921caa53-6d3e-4fb4-8f52-2612c2663a5c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางปรานี วัฒนาประดิษฐ์ชัย",
+      "party": "ประชาชน",
+      "votes": 15488,
+      "candidate_uuid": "687888ee-b975-43d3-ab0c-74f91766d99a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวีรศักดิ์ พรหมภักดี",
+      "party": "กล้าธรรม",
+      "votes": 5463,
+      "candidate_uuid": "e7cdbd89-b114-4baa-a49c-e29ce6a32ac1",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "ส.อ.ชัยวัน ราชชมภู",
+      "party": "เศรษฐกิจ",
+      "votes": 3412,
+      "candidate_uuid": "8bc3cd8f-6a06-4cab-858a-c0475178ab21",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายปริยัติ วงศ์ธิเบศร์",
+      "party": "ภูมิใจไทย",
+      "votes": 2615,
+      "candidate_uuid": "bbd6f8fa-229e-4f02-9ad4-4d6d6f906ce5",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายไพบูลย์ มาตยาคุณ",
+      "party": "ปวงชนไทย",
+      "votes": 1414,
+      "candidate_uuid": "bb3e4422-ab70-4a21-8eb5-7e7ad3b4546a",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายสุวิทย์ สุดพุด",
+      "party": "ประชาธิปัตย์",
+      "votes": 830,
+      "candidate_uuid": "c9a536e0-0cc9-4a74-b487-260597853b70",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายประยง บุญยอด",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 151,
+      "candidate_uuid": "92b9cdd3-b76b-4ea7-b61a-802f06ef5fab",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

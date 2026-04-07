@@ -1,0 +1,139 @@
+{
+  "province_name": "สุโขทัย",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 120495,
+    "1.2": 83731,
+    "2.1": 121828,
+    "2.2": 83731,
+    "2.3": 38097,
+    "3.1": 77643,
+    "3.2": 19,
+    "3.3": 6069,
+    "3.4": 83731,
+    "4.1": 73310,
+    "4.2": 4615,
+    "4.3": 5806
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวประภาพร ทองปากน้ำ",
+      "party": "เพื่อไทย",
+      "votes": 47516
+    },
+    {
+      "number": 4,
+      "name": "นายนราธิป ภูมิถาวร",
+      "party": "ประชาชน",
+      "votes": 15027
+    },
+    {
+      "number": 5,
+      "name": "นายปรีชา จันทร์นุช",
+      "party": "ภูมิใจไทย",
+      "votes": 4303
+    },
+    {
+      "number": 2,
+      "name": "นายชรินทร์ ชูบุญ",
+      "party": "กล้าธรรม",
+      "votes": 2455
+    },
+    {
+      "number": 7,
+      "name": "นางชาลิสา กันเพ็ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1572
+    },
+    {
+      "number": 3,
+      "name": "นายจำปา พลอยกระจ่าง",
+      "party": "เศรษฐกิจ",
+      "votes": 1425
+    },
+    {
+      "number": 6,
+      "name": "นายวิโรจน์ มากมูล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1112
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/66. สุโขทัย เขต 3.json",
+  "_validation": {
+    "vote_sum": 73410,
+    "good_votes": 73310,
+    "sum_diff_pct": 0.14
+  },
+  "province_code": "64",
+  "province_name_normalized": "สุโขทัย",
+  "summary": {
+    "eligible_voters": 120495,
+    "voters_came": 83731,
+    "ballots_received": 121828,
+    "ballots_used": 83731,
+    "good_votes": 73310,
+    "invalid_votes": 4615,
+    "no_votes": 5806
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวประภาพร ทองปากน้ำ",
+      "party": "เพื่อไทย",
+      "votes": 47516,
+      "candidate_uuid": "5f629f51-6d68-48fe-a3fa-e15c8673cbee",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายนราธิป ภูมิถาวร",
+      "party": "ประชาชน",
+      "votes": 15027,
+      "candidate_uuid": "35324e8f-d2ef-4932-b6ec-aa977842a300",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายปรีชา จันทร์นุช",
+      "party": "ภูมิใจไทย",
+      "votes": 4303,
+      "candidate_uuid": "1a5ab788-bbeb-4622-b202-28bcbacca5c5",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายชรินทร์ ชูบุญ",
+      "party": "กล้าธรรม",
+      "votes": 2455,
+      "candidate_uuid": "37f4761f-b5d9-465c-8f1d-1e18b26b6355",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางชาลิสา กันเพ็ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1572,
+      "candidate_uuid": "98b41a98-d490-4862-91c3-3488473085fe",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายจำปา พลอยกระจ่าง",
+      "party": "เศรษฐกิจ",
+      "votes": 1425,
+      "candidate_uuid": "c80e78f9-9f63-46fc-99d2-a80276437f28",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายวิโรจน์ มากมูล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1112,
+      "candidate_uuid": "2a714a08-7ab1-4a94-95f3-0a78787fb5ee",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

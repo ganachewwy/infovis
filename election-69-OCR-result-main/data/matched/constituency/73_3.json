@@ -1,0 +1,167 @@
+{
+  "province_name": "นครปฐม",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 119354,
+    "1.2": 91278,
+    "2.1": 121360,
+    "2.2": 91278,
+    "2.3": 30082,
+    "3.1": 89234,
+    "3.2": 12,
+    "3.3": 2032,
+    "3.4": 91278,
+    "4.1": 83624,
+    "4.2": 3137,
+    "4.3": 4517
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายพาณุวัฒณ์ สะสมทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 48099
+    },
+    {
+      "number": 4,
+      "name": "นายวันชนะ วงษ์พรพันธุ์",
+      "party": "ประชาชน",
+      "votes": 21739
+    },
+    {
+      "number": 1,
+      "name": "นายทรงพล ชูศิลป์กุล",
+      "party": "เพื่อไทย",
+      "votes": 6807
+    },
+    {
+      "number": 2,
+      "name": "นายอาทิตย์ ว่องวสุสมวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2362
+    },
+    {
+      "number": 3,
+      "name": "ว่าที่ร้อยตรีวัยวัฒน์ อินทร์ณรงค์",
+      "party": "พลวัต",
+      "votes": 1303
+    },
+    {
+      "number": 7,
+      "name": "นายปกร มหาโยธา",
+      "party": "เศรษฐกิจ",
+      "votes": 1230
+    },
+    {
+      "number": 8,
+      "name": "นางสาวฐิตารีย์ ภรณ์ปรียากูล",
+      "party": "โอกาสใหม่",
+      "votes": 764
+    },
+    {
+      "number": 9,
+      "name": "นายสาโรช เบญจาสินสวัสดิ์",
+      "party": "พลังไทยรักชาติ",
+      "votes": 667
+    },
+    {
+      "number": 5,
+      "name": "นายอัษฎาวุธ จิตตคุตตานนท์",
+      "party": "กล้าธรรม",
+      "votes": 653
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/19. นครปฐม เขต 3.json",
+  "_validation": {
+    "vote_sum": 83624,
+    "good_votes": 83624,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "73",
+  "province_name_normalized": "นครปฐม",
+  "summary": {
+    "eligible_voters": 119354,
+    "voters_came": 91278,
+    "ballots_received": 121360,
+    "ballots_used": 91278,
+    "good_votes": 83624,
+    "invalid_votes": 3137,
+    "no_votes": 4517
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายพาณุวัฒณ์ สะสมทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 48099,
+      "candidate_uuid": "9b2e8400-1547-4139-83e2-bd00d66605ad",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวันชนะ วงษ์พรพันธุ์",
+      "party": "ประชาชน",
+      "votes": 21739,
+      "candidate_uuid": "7f35bfc9-bc82-4056-b858-570781624598",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายทรงพล ชูศิลป์กุล",
+      "party": "เพื่อไทย",
+      "votes": 6807,
+      "candidate_uuid": "5058859e-ee63-4229-a054-de3010f8c538",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอาทิตย์ ว่องวสุสมวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 2362,
+      "candidate_uuid": "3871d88f-a3f6-4117-87e0-0dd51d863d22",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ว่าที่ร้อยตรีวัยวัฒน์ อินทร์ณรงค์",
+      "party": "พลวัต",
+      "votes": 1303,
+      "candidate_uuid": "12fe2201-a938-4c6b-b9c7-6bbf4628e9ad",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายปกร มหาโยธา",
+      "party": "เศรษฐกิจ",
+      "votes": 1230,
+      "candidate_uuid": "d369cf2d-95ff-4fac-9414-ffed19e77f59",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวฐิตารีย์ ภรณ์ปรียากูล",
+      "party": "โอกาสใหม่",
+      "votes": 764,
+      "candidate_uuid": "51586a95-145b-46a3-ab1b-bd671b8b0de9",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสาโรช เบญจาสินสวัสดิ์",
+      "party": "พลังไทยรักชาติ",
+      "votes": 667,
+      "candidate_uuid": "faa103d1-beba-4e27-b8b8-44f17e097f91",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอัษฎาวุธ จิตตคุตตานนท์",
+      "party": "กล้าธรรม",
+      "votes": 653,
+      "candidate_uuid": "d09fe1d5-2710-46ad-9baf-632d91d38b6b",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

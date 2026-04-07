@@ -1,0 +1,195 @@
+{
+  "province_name": "มุกดาหาร",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 141889,
+    "1.2": 104804,
+    "2.1": 146717,
+    "2.2": 104804,
+    "2.3": 41913,
+    "3.1": 99022,
+    "3.2": 45,
+    "3.3": 5737,
+    "3.4": 104804,
+    "4.1": 98985,
+    "4.2": 3140,
+    "4.3": 2679
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายวิริยะ ทองผา",
+      "party": "ภูมิใจไทย",
+      "votes": 31342
+    },
+    {
+      "number": 2,
+      "name": "นายนนทภูมิ ตั้งปณิธานนท์",
+      "party": "เพื่อไทย",
+      "votes": 23583
+    },
+    {
+      "number": 3,
+      "name": "นายชายสิทธิ์ สุวรรณโชติ",
+      "party": "ประชาชน",
+      "votes": 21369
+    },
+    {
+      "number": 5,
+      "name": "นายพนมชัย พันธุ์พุทธ",
+      "party": "กล้าธรรม",
+      "votes": 18053
+    },
+    {
+      "number": 8,
+      "name": "ร.ต.ต.สมบูรณ์ ยงยุทธ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1149
+    },
+    {
+      "number": 9,
+      "name": "นางราตรี เจริญศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 927
+    },
+    {
+      "number": 7,
+      "name": "ร.ต.ต.สุเทียน ทองโสม",
+      "party": "เสรีรวมไทย",
+      "votes": 720
+    },
+    {
+      "number": 6,
+      "name": "พ.ต.ท.จิตต์ ศรีโยหะ มุกดาธนพงศ์",
+      "party": "พลังประชารัฐ",
+      "votes": 660
+    },
+    {
+      "number": 10,
+      "name": "นายชินกร ขวัญเมือง",
+      "party": "เศรษฐกิจ",
+      "votes": 575
+    },
+    {
+      "number": 11,
+      "name": "นายณัฐพล พรมวิชา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 462
+    },
+    {
+      "number": 12,
+      "name": "นายสุนทร มีสิทธิ์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 145
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/44. มุกดาหาร เขต 1.json",
+  "_validation": {
+    "vote_sum": 98985,
+    "good_votes": 98985,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "49",
+  "province_name_normalized": "มุกดาหาร",
+  "summary": {
+    "eligible_voters": 141889,
+    "voters_came": 104804,
+    "ballots_received": 146717,
+    "ballots_used": 104804,
+    "good_votes": 98985,
+    "invalid_votes": 3140,
+    "no_votes": 2679
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายวิริยะ ทองผา",
+      "party": "ภูมิใจไทย",
+      "votes": 31342,
+      "candidate_uuid": "e56520fc-abaa-4c0c-9a76-79f4c67ce4d9",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนนทภูมิ ตั้งปณิธานนท์",
+      "party": "เพื่อไทย",
+      "votes": 23583,
+      "candidate_uuid": "5087ac87-44bd-440a-a2e5-24a05a1c9037",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชายสิทธิ์ สุวรรณโชติ",
+      "party": "ประชาชน",
+      "votes": 21369,
+      "candidate_uuid": "45d780b1-ebe7-466c-b3e9-1d04b055db51",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายพนมชัย พันธุ์พุทธ",
+      "party": "กล้าธรรม",
+      "votes": 18053,
+      "candidate_uuid": "fcde9f85-17be-4385-a1dd-471e781f7dca",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ร.ต.ต.สมบูรณ์ ยงยุทธ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1149,
+      "candidate_uuid": "b54c9fe6-8c2b-4ee0-80c5-d9f0218b4da9",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางราตรี เจริญศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 927,
+      "candidate_uuid": "3cb75c9f-3d66-468c-b28f-e620f1ea9ceb",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "ร.ต.ต.สุเทียน ทองโสม",
+      "party": "เสรีรวมไทย",
+      "votes": 720,
+      "candidate_uuid": "abd3b38c-6e54-4fc9-be1f-0e7d46788c4b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "พ.ต.ท.จิตต์ ศรีโยหะ มุกดาธนพงศ์",
+      "party": "พลังประชารัฐ",
+      "votes": 660,
+      "candidate_uuid": "eabaaab4-d2ed-4713-82b1-2dc6fc24eff4",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายชินกร ขวัญเมือง",
+      "party": "เศรษฐกิจ",
+      "votes": 575,
+      "candidate_uuid": "d1602b2b-f96f-4e15-ac8f-8fb7000e5e08",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายณัฐพล พรมวิชา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 462,
+      "candidate_uuid": "9b20e8ac-dfbf-45f2-aff2-9ac83ca838e6",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายสุนทร มีสิทธิ์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 145,
+      "candidate_uuid": "02e23bc2-78f4-43bd-b2e4-57c0c1cf1658",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

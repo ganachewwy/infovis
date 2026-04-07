@@ -1,0 +1,181 @@
+{
+  "province_name": "นครราชสีมา",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131759,
+    "1.2": 93980,
+    "2.1": 133540,
+    "2.2": 93980,
+    "2.3": 39560,
+    "3.1": 89614,
+    "3.2": 3,
+    "3.3": 4363,
+    "3.4": 93980,
+    "4.1": 84302,
+    "4.2": 4030,
+    "4.3": 5648
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นางสาวณัฐจิรา อิ่มวิเศษ",
+      "party": "เพื่อไทย",
+      "votes": 34719
+    },
+    {
+      "number": 1,
+      "name": "นายภาคภูมิ ประชญาภูมิวงศ์",
+      "party": "ประชาชน",
+      "votes": 26339
+    },
+    {
+      "number": 5,
+      "name": "นายรักชาติ กิริวัฒนศักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 15649
+    },
+    {
+      "number": 3,
+      "name": "นายอมร แก้วสุข",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1605
+    },
+    {
+      "number": 10,
+      "name": "นายโสภา พลดงนอก",
+      "party": "เศรษฐกิจ",
+      "votes": 1551
+    },
+    {
+      "number": 2,
+      "name": "นายไผทเทพ ถาวรชาติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1550
+    },
+    {
+      "number": 8,
+      "name": "นายจีระศักดิ์ โอนสันเทียะ",
+      "party": "ไทยก้าวหน้า",
+      "votes": 1271
+    },
+    {
+      "number": 6,
+      "name": "นายอุทัย มิ่งขวัญ",
+      "party": "กล้าธรรม",
+      "votes": 745
+    },
+    {
+      "number": 7,
+      "name": "นายเชิงชาย รัตน์พลแสนย์",
+      "party": "ปวงชนไทย",
+      "votes": 691
+    },
+    {
+      "number": 9,
+      "name": "นายเดชรักษา ทัพทวี",
+      "party": "ไทยพร้อม",
+      "votes": 182
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/21. นครราชสีมา เขต 4.json",
+  "_validation": {
+    "vote_sum": 84302,
+    "good_votes": 84302,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "30",
+  "province_name_normalized": "นครราชสีมา",
+  "summary": {
+    "eligible_voters": 131759,
+    "voters_came": 93980,
+    "ballots_received": 133540,
+    "ballots_used": 93980,
+    "good_votes": 84302,
+    "invalid_votes": 4030,
+    "no_votes": 5648
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นางสาวณัฐจิรา อิ่มวิเศษ",
+      "party": "เพื่อไทย",
+      "votes": 34719,
+      "candidate_uuid": "761ccba1-cc29-47d0-8b41-818310e993fd",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายภาคภูมิ ประชญาภูมิวงศ์",
+      "party": "ประชาชน",
+      "votes": 26339,
+      "candidate_uuid": "601c852c-6095-4dc0-8b4a-4b8e61044aef",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายรักชาติ กิริวัฒนศักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 15649,
+      "candidate_uuid": "ae8dc5aa-6825-4a9f-8874-9b323df7fffe",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอมร แก้วสุข",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1605,
+      "candidate_uuid": "cb41b00d-1e4e-4987-9ec8-4a52db9854a7",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายโสภา พลดงนอก",
+      "party": "เศรษฐกิจ",
+      "votes": 1551,
+      "candidate_uuid": "69c0faec-0ba4-4888-9bc2-69f34e1e2910",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายไผทเทพ ถาวรชาติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1550,
+      "candidate_uuid": "3410a4fb-38ee-4931-8b06-c46901c8e564",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายจีระศักดิ์ โอนสันเทียะ",
+      "party": "ไทยก้าวหน้า",
+      "votes": 1271,
+      "candidate_uuid": "da7a8bdd-2f2d-4a2e-baef-6b2a73392f41",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอุทัย มิ่งขวัญ",
+      "party": "กล้าธรรม",
+      "votes": 745,
+      "candidate_uuid": "ac3c6141-5d80-4b9e-8e78-8d0bb0edbe0c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายเชิงชาย รัตน์พลแสนย์",
+      "party": "ปวงชนไทย",
+      "votes": 691,
+      "candidate_uuid": "84002df9-cb26-468b-9a5c-f05af3f5c419",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายเดชรักษา ทัพทวี",
+      "party": "ไทยพร้อม",
+      "votes": 182,
+      "candidate_uuid": "66ef1ef4-cdb9-4ec9-97fe-510ffdf99653",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

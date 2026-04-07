@@ -1,0 +1,63 @@
+{
+  "province_name": "นครศรีธรรมราช",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132977,
+    "1.2": 99799,
+    "2.1": 136217,
+    "2.2": 99799,
+    "2.3": 36418,
+    "3.1": 92061,
+    "3.2": 33,
+    "3.3": 7704,
+    "3.4": 99798,
+    "4.1": 91623,
+    "4.2": 3036,
+    "4.3": 5139
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายทรงศักดิ์ มุสิกอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 39225
+    },
+    {
+      "number": 5,
+      "name": "นายราชิต สุดพุ่ม",
+      "party": "ภูมิใจไทย",
+      "votes": 29583
+    },
+    {
+      "number": 4,
+      "name": "นายปกรณ์ อารีกุล",
+      "party": "ประชาชน",
+      "votes": 18768
+    },
+    {
+      "number": 1,
+      "name": "นายมนตรี เฉียบแหลม",
+      "party": "เพื่อไทย",
+      "votes": 1617
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสุวรรณี ว่องชล",
+      "party": "ไทยภักดี",
+      "votes": 1324
+    },
+    {
+      "number": 6,
+      "name": "นางสุภาพ ขุนศรี",
+      "party": "พลังประชารัฐ",
+      "votes": 1106
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/22. นครศรีธรรมราช เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 91623,
+    "good_votes": 91623,
+    "sum_diff_pct": 0.0
+  }
+}

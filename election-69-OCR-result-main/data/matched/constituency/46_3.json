@@ -1,0 +1,209 @@
+{
+  "province_name": "กาฬสินธุ์",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 124253,
+    "1.2": 82445,
+    "2.1": 123780,
+    "2.2": 82445,
+    "2.3": 41335,
+    "3.1": 77675,
+    "3.2": 2,
+    "3.3": 4768,
+    "3.4": 82445,
+    "4.1": 78033,
+    "4.2": 2518,
+    "4.3": 1894
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายจำลอง ภูนวนทา",
+      "party": "กล้าธรรม",
+      "votes": 27385
+    },
+    {
+      "number": 2,
+      "name": "นางสาวศิรินันท์ ภูมิเหล่าแจ้ง",
+      "party": "เพื่อไทย",
+      "votes": 15030
+    },
+    {
+      "number": 6,
+      "name": "นายศุภสิทธิ์ เฮงไพบูลย์",
+      "party": "พลังประชารัฐ",
+      "votes": 14358
+    },
+    {
+      "number": 3,
+      "name": "นายวีรภัทร ราชชมภู",
+      "party": "ประชาชน",
+      "votes": 11568
+    },
+    {
+      "number": 1,
+      "name": "นายเดชบดินทร์ พยุงแสนกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 4942
+    },
+    {
+      "number": 8,
+      "name": "นายปราการ อุตส่าห์",
+      "party": "เศรษฐกิจ",
+      "votes": 1847
+    },
+    {
+      "number": 9,
+      "name": "นายสัมพันธ์ ภูแป้ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1285
+    },
+    {
+      "number": 5,
+      "name": "นางบงกช ผิวคำ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 524
+    },
+    {
+      "number": 11,
+      "name": "นางสาวจินตนา ภูหญ้าแพรด",
+      "party": "ไทยก้าวใหม่",
+      "votes": 414
+    },
+    {
+      "number": 7,
+      "name": "นายณพงษ์ชัย เชี่ยวรุ่งโรจน์",
+      "party": "ทางเลือกใหม่",
+      "votes": 388
+    },
+    {
+      "number": 12,
+      "name": "นางสาวรุ่งรุจี สารครศรี",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 159
+    },
+    {
+      "number": 10,
+      "name": "นางคำพันธ์ เม็นไธสง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 133
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/4. กาฬสินธุ์ เขต 3.json",
+  "_validation": {
+    "vote_sum": 78033,
+    "good_votes": 78033,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "46",
+  "province_name_normalized": "กาฬสินธุ์",
+  "summary": {
+    "eligible_voters": 124253,
+    "voters_came": 82445,
+    "ballots_received": 123780,
+    "ballots_used": 82445,
+    "good_votes": 78033,
+    "invalid_votes": 2518,
+    "no_votes": 1894
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายจำลอง ภูนวนทา",
+      "party": "กล้าธรรม",
+      "votes": 27385,
+      "candidate_uuid": "13ce5d18-b316-416f-bc8c-821bacc99ec9",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวศิรินันท์ ภูมิเหล่าแจ้ง",
+      "party": "เพื่อไทย",
+      "votes": 15030,
+      "candidate_uuid": "7b362a5d-01f1-4400-b1e2-ead6893edf2e",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายศุภสิทธิ์ เฮงไพบูลย์",
+      "party": "พลังประชารัฐ",
+      "votes": 14358,
+      "candidate_uuid": "00da31ae-e77b-48b8-9da2-a3180027a033",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวีรภัทร ราชชมภู",
+      "party": "ประชาชน",
+      "votes": 11568,
+      "candidate_uuid": "5481f0f8-372c-49eb-98cc-ee2bc5eb980c",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเดชบดินทร์ พยุงแสนกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 4942,
+      "candidate_uuid": "e7049962-edef-4a45-b52a-56623f614525",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายปราการ อุตส่าห์",
+      "party": "เศรษฐกิจ",
+      "votes": 1847,
+      "candidate_uuid": "806b80e1-e368-4e00-9d38-5d29002ffdcf",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสัมพันธ์ ภูแป้ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1285,
+      "candidate_uuid": "fa373afa-670a-43d7-9772-aefdade2063a",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางบงกช ผิวคำ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 524,
+      "candidate_uuid": "118b9f63-ef03-4b54-91e0-dcb768d13034",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางสาวจินตนา ภูหญ้าแพรด",
+      "party": "ไทยก้าวใหม่",
+      "votes": 414,
+      "candidate_uuid": "a2e8ea3f-7cd9-4216-bb1f-7c38336ca809",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายณพงษ์ชัย เชี่ยวรุ่งโรจน์",
+      "party": "ทางเลือกใหม่",
+      "votes": 388,
+      "candidate_uuid": "b5491072-33c8-4ee3-a8dd-ee99985ac8dc",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นางสาวรุ่งรุจี สารครศรี",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 159,
+      "candidate_uuid": "91d7aede-bf2a-4921-9b95-180898a5a3b9",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางคำพันธ์ เม็นไธสง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 133,
+      "candidate_uuid": "af3ebe58-e5de-4b41-b70d-936d0613f635",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

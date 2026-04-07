@@ -1,0 +1,69 @@
+{
+  "province_name": "สุโขทัย",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 120495,
+    "1.2": 83731,
+    "2.1": 121828,
+    "2.2": 83731,
+    "2.3": 38097,
+    "3.1": 77643,
+    "3.2": 19,
+    "3.3": 6069,
+    "3.4": 83731,
+    "4.1": 73310,
+    "4.2": 4615,
+    "4.3": 5806
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวประภาพร ทองปากน้ำ",
+      "party": "เพื่อไทย",
+      "votes": 47516
+    },
+    {
+      "number": 4,
+      "name": "นายนราธิป ภูมิถาวร",
+      "party": "ประชาชน",
+      "votes": 15027
+    },
+    {
+      "number": 5,
+      "name": "นายปรีชา จันทร์นุช",
+      "party": "ภูมิใจไทย",
+      "votes": 4303
+    },
+    {
+      "number": 2,
+      "name": "นายชรินทร์ ชูบุญ",
+      "party": "กล้าธรรม",
+      "votes": 2455
+    },
+    {
+      "number": 7,
+      "name": "นางชาลิสา กันเพ็ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1572
+    },
+    {
+      "number": 3,
+      "name": "นายจำปา พลอยกระจ่าง",
+      "party": "เศรษฐกิจ",
+      "votes": 1425
+    },
+    {
+      "number": 6,
+      "name": "นายวิโรจน์ มากมูล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1112
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/66. สุโขทัย เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 73410,
+    "good_votes": 73310,
+    "sum_diff_pct": 0.14
+  }
+}

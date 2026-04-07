@@ -1,0 +1,125 @@
+{
+  "province_name": "กำแพงเพชร",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144685,
+    "1.2": 101442,
+    "2.1": 146632,
+    "2.2": 101439,
+    "2.3": 45191,
+    "3.1": 95025,
+    "3.2": 2,
+    "3.3": 6412,
+    "3.4": 101439,
+    "4.1": 90911,
+    "4.2": 5247,
+    "4.3": 5281
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายไผ่ ลิกค์",
+      "party": "กล้าธรรม",
+      "votes": 45347
+    },
+    {
+      "number": 4,
+      "name": "นายปริญวัฒน์ ทวีกิจศิรพงษ์",
+      "party": "ประชาชน",
+      "votes": 33203
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนันทิตา โต๊ะดอนทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 4465
+    },
+    {
+      "number": 7,
+      "name": "นายศรสิน อินทะชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 3498
+    },
+    {
+      "number": 5,
+      "name": "นายชัยพันธ์ ศรีคชไกร",
+      "party": "เพื่อไทย",
+      "votes": 2650
+    },
+    {
+      "number": 3,
+      "name": "นายพิบูลย์ รื่นสันต์ ทรายทองวัฒนา",
+      "party": "เศรษฐกิจ",
+      "votes": 1748
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/5. กำแพงเพชร เขต 1.json",
+  "_validation": {
+    "vote_sum": 90911,
+    "good_votes": 90911,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "62",
+  "province_name_normalized": "กำแพงเพชร",
+  "summary": {
+    "eligible_voters": 144685,
+    "voters_came": 101442,
+    "ballots_received": 146632,
+    "ballots_used": 101439,
+    "good_votes": 90911,
+    "invalid_votes": 5247,
+    "no_votes": 5281
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายไผ่ ลิกค์",
+      "party": "กล้าธรรม",
+      "votes": 45347,
+      "candidate_uuid": "a0f8b3a1-448f-465e-bb22-13b6392bbf41",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายปริญวัฒน์ ทวีกิจศิรพงษ์",
+      "party": "ประชาชน",
+      "votes": 33203,
+      "candidate_uuid": "5fabc1e4-a410-4eca-9cef-b6f5be692e13",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนันทิตา โต๊ะดอนทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 4465,
+      "candidate_uuid": "27869c15-61f8-4975-946c-5aeec439831a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายศรสิน อินทะชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 3498,
+      "candidate_uuid": "fbfe63d0-fc2c-4bc7-a8b7-e0b18e4ee710",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชัยพันธ์ ศรีคชไกร",
+      "party": "เพื่อไทย",
+      "votes": 2650,
+      "candidate_uuid": "388a4c29-b6e6-4a07-8cb8-bc87e1f7a1cb",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพิบูลย์ รื่นสันต์ ทรายทองวัฒนา",
+      "party": "เศรษฐกิจ",
+      "votes": 1748,
+      "candidate_uuid": "99d697c9-6e3e-43bc-99f5-88e7a72b778f",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

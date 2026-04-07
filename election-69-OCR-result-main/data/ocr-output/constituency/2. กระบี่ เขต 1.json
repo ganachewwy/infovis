@@ -1,0 +1,63 @@
+{
+  "province_name": "กระบี่",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128645,
+    "1.2": 97431,
+    "2.1": 127320,
+    "2.2": 97431,
+    "2.3": 29889,
+    "3.1": 92519,
+    "3.2": 35,
+    "3.3": 4877,
+    "3.4": 97431,
+    "4.1": 90061,
+    "4.2": 2723,
+    "4.3": 4647
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายกิตติ กิตติธรกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 50493
+    },
+    {
+      "number": 3,
+      "name": "นายธนวัช ภูเก้าล้วน",
+      "party": "ประชาชน",
+      "votes": 20554
+    },
+    {
+      "number": 4,
+      "name": "นายวศิน สิริเกียรติกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 15466
+    },
+    {
+      "number": 1,
+      "name": "นายสุวรรณ อินพรหม",
+      "party": "เพื่อไทย",
+      "votes": 2308
+    },
+    {
+      "number": 5,
+      "name": "นายพิทักษ์ ภารา",
+      "party": "เศรษฐกิจ",
+      "votes": 840
+    },
+    {
+      "number": 6,
+      "name": "นายพงไพร บุตรเลี่ยม",
+      "party": "พลังประชารัฐ",
+      "votes": 400
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/2. กระบี่ เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 90061,
+    "good_votes": 90061,
+    "sum_diff_pct": 0.0
+  }
+}

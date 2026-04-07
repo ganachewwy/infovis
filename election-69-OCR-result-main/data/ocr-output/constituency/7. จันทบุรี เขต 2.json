@@ -1,0 +1,63 @@
+{
+  "province_name": "จันทบุรี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 142477,
+    "1.2": 102880,
+    "2.1": 146504,
+    "2.2": 102880,
+    "2.3": 43624,
+    "3.1": 99644,
+    "3.2": 32,
+    "3.3": 3204,
+    "3.4": 102880,
+    "4.1": 91807,
+    "4.2": 5014,
+    "4.3": 6059
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายคัมภีร์ ชื่นบาน",
+      "party": "ภูมิใจไทย",
+      "votes": 39979
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปรัชญาวรรณ ไชยสืบ",
+      "party": "ประชาชน",
+      "votes": 29466
+    },
+    {
+      "number": 2,
+      "name": "นายจารึก ศรีอ่อน",
+      "party": "เพื่อไทย",
+      "votes": 9940
+    },
+    {
+      "number": 1,
+      "name": "นายสิรวิชญ์ กิตติวงศา",
+      "party": "ประชาธิปัตย์",
+      "votes": 6708
+    },
+    {
+      "number": 6,
+      "name": "นายจตุพร นิยมพฤกษ์",
+      "party": "เศรษฐกิจ",
+      "votes": 4672
+    },
+    {
+      "number": 5,
+      "name": "นายบุญธรรม เจริญกล้า",
+      "party": "กล้าธรรม",
+      "votes": 1042
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/7. จันทบุรี เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 91807,
+    "good_votes": 91807,
+    "sum_diff_pct": 0.0
+  }
+}

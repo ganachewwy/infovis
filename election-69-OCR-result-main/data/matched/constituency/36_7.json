@@ -1,0 +1,195 @@
+{
+  "province_name": "ชัยภูมิ",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126889,
+    "1.2": 84732,
+    "2.1": 129000,
+    "2.2": 84732,
+    "2.3": 44268,
+    "3.1": 79503,
+    "3.2": 6,
+    "3.3": 5223,
+    "3.4": 84732,
+    "4.1": 81542,
+    "4.2": 2097,
+    "4.3": 1093
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายกิตติธัช คำวงษ์",
+      "party": "ประชาชน",
+      "votes": 12570
+    },
+    {
+      "number": 2,
+      "name": "นายกิติพร เศรษฐภูมิภักดี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 402
+    },
+    {
+      "number": 3,
+      "name": "นายชานนท์ ต่อสกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 830
+    },
+    {
+      "number": 4,
+      "name": "นายอัครแสนคีรี โล่ห์วีระ",
+      "party": "กล้าธรรม",
+      "votes": 40833
+    },
+    {
+      "number": 5,
+      "name": "นางสาวปัญชลีย์ วัฒนชัยศาสตร์",
+      "party": "พลังประชารัฐ",
+      "votes": 886
+    },
+    {
+      "number": 6,
+      "name": "นายจอมจักรภพ วัชระจินดาวัฒนะ",
+      "party": "เพื่อไทย",
+      "votes": 23818
+    },
+    {
+      "number": 7,
+      "name": "นายพลากร ภูมินอก",
+      "party": "ประชาธิปัตย์",
+      "votes": 341
+    },
+    {
+      "number": 8,
+      "name": "นายอดิเรก ดวงจันนี",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 867
+    },
+    {
+      "number": 9,
+      "name": "นายธีรวุฒิ พงษ์จันทร์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 295
+    },
+    {
+      "number": 10,
+      "name": "นางสุชามนต์ เครือเครา",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 91
+    },
+    {
+      "number": 11,
+      "name": "นางอรุณณี งามจิตสุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 609
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/11. ชัยภูมิ เขต 7.json",
+  "_validation": {
+    "vote_sum": 81542,
+    "good_votes": 81542,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "36",
+  "province_name_normalized": "ชัยภูมิ",
+  "summary": {
+    "eligible_voters": 126889,
+    "voters_came": 84732,
+    "ballots_received": 129000,
+    "ballots_used": 84732,
+    "good_votes": 81542,
+    "invalid_votes": 2097,
+    "no_votes": 1093
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายกิตติธัช คำวงษ์",
+      "party": "ประชาชน",
+      "votes": 12570,
+      "candidate_uuid": "6c08fd8d-db5f-4cb1-a7fc-b5a2773b29fb",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายกิติพร เศรษฐภูมิภักดี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 402,
+      "candidate_uuid": "6152b357-0c26-40e4-b4fa-ba5dd03b43fd",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชานนท์ ต่อสกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 830,
+      "candidate_uuid": "b3f58955-a686-4001-a9e7-0eb3d46c21fb",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอัครแสนคีรี โล่ห์วีระ",
+      "party": "กล้าธรรม",
+      "votes": 40833,
+      "candidate_uuid": "3c51b522-4c4a-45d6-9a27-a6699df05692",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวปัญชลีย์ วัฒนชัยศาสตร์",
+      "party": "พลังประชารัฐ",
+      "votes": 886,
+      "candidate_uuid": "548066c9-5884-4db1-9dba-4fd35bd34b57",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายจอมจักรภพ วัชระจินดาวัฒนะ",
+      "party": "เพื่อไทย",
+      "votes": 23818,
+      "candidate_uuid": "16d788c2-99b1-4aa8-9a60-a79c6aad510c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพลากร ภูมินอก",
+      "party": "ประชาธิปัตย์",
+      "votes": 341,
+      "candidate_uuid": "eafb5ca6-8444-445b-aea6-71adddff51ac",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอดิเรก ดวงจันนี",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 867,
+      "candidate_uuid": "7a454b69-0c1b-434b-aa65-1ff8ff8e5d4f",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธีรวุฒิ พงษ์จันทร์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 295,
+      "candidate_uuid": "9379312f-0944-4bcc-823f-48bfd72d6eee",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสุชามนต์ เครือเครา",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 91,
+      "candidate_uuid": "33f70825-69a4-403a-8515-a46ebf13bd40",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางอรุณณี งามจิตสุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 609,
+      "candidate_uuid": "1944e9f6-110f-43fb-b0b9-87bf676128ff",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

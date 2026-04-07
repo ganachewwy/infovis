@@ -1,0 +1,75 @@
+{
+  "province_name": "Sakon Nakhon",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131918,
+    "1.2": 88996,
+    "2.1": 131640,
+    "2.2": 88996,
+    "2.3": 42644,
+    "3.1": 84450,
+    "3.2": 6,
+    "3.3": 4540,
+    "3.4": 88996,
+    "4.1": 83880,
+    "4.2": 3317,
+    "4.3": 1799
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายชาตรี หล้าพรหม",
+      "party": "กล้าธรรม",
+      "votes": 25737
+    },
+    {
+      "number": 5,
+      "name": "นางสาวณภัชชา ศิลปะรายะ",
+      "party": "ภูมิใจไทย",
+      "votes": 20809
+    },
+    {
+      "number": 1,
+      "name": "นายอภิชาติ ตีรสวัสดิชัย",
+      "party": "เพื่อไทย",
+      "votes": 19074
+    },
+    {
+      "number": 2,
+      "name": "นายภาสพล อุฬารกุล",
+      "party": "ประชาชน",
+      "votes": 15466
+    },
+    {
+      "number": 6,
+      "name": "นายนิยม เวชกามา",
+      "party": "โอกาสใหม่",
+      "votes": 1298
+    },
+    {
+      "number": 8,
+      "name": "นายวิชิต ม่อมพะเนาว์",
+      "party": "เศรษฐกิจ",
+      "votes": 633
+    },
+    {
+      "number": 3,
+      "name": "นางสาวเพชรา อัคราชศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 584
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนัฐภรณ์ วงค์ขาชม",
+      "party": "ประชาธิปัตย์",
+      "votes": 279
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/57. สกลนคร เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 83880,
+    "good_votes": 83880,
+    "sum_diff_pct": 0.0
+  }
+}

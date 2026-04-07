@@ -1,0 +1,63 @@
+{
+  "province_name": "ฉะเชิงเทรา",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 146676,
+    "1.2": 110016,
+    "2.1": 149580,
+    "2.2": 110016,
+    "2.3": 39564,
+    "3.1": 106844,
+    "3.2": 37,
+    "3.3": 3135,
+    "3.4": 110016,
+    "4.1": 96004,
+    "4.2": 4999,
+    "4.3": 9013
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นางฐิติมา ฉายแสง",
+      "party": "เพื่อไทย",
+      "votes": 38717
+    },
+    {
+      "number": 1,
+      "name": "นายชานน อันไชยะ",
+      "party": "ประชาชน",
+      "votes": 34889
+    },
+    {
+      "number": 3,
+      "name": "นายกิตติชัย เรืองสวัสดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 13705
+    },
+    {
+      "number": 5,
+      "name": "นางสาวอรกฤติย์ แววคล้ายหงษ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 5677
+    },
+    {
+      "number": 6,
+      "name": "นายฐาปกรณ์ เกิดพิทักษ์",
+      "party": "กล้าธรรม",
+      "votes": 1889
+    },
+    {
+      "number": 4,
+      "name": "นายวิรัตน์ เนียงมงคล",
+      "party": "ปวงชนไทย",
+      "votes": 1127
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/8. ฉะเชิงเทรา เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 96004,
+    "good_votes": 96004,
+    "sum_diff_pct": 0.0
+  }
+}

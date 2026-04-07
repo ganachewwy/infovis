@@ -1,0 +1,153 @@
+{
+  "province_name": "ร้อยเอ็ด",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136681,
+    "1.2": 91762,
+    "2.1": 143691,
+    "2.2": 91762,
+    "2.3": 51929,
+    "3.1": 84731,
+    "3.2": 0,
+    "3.3": 7031,
+    "3.4": 91762,
+    "4.1": 86974,
+    "4.2": 2981,
+    "4.3": 1807
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายเอกรัฐ พลชื่อ",
+      "party": "กล้าธรรม",
+      "votes": 43764
+    },
+    {
+      "number": 4,
+      "name": "นายฉลาด ขามช่วง",
+      "party": "เพื่อไทย",
+      "votes": 23207
+    },
+    {
+      "number": 3,
+      "name": "นางสาวนริศรา ประเสริฐสังข์",
+      "party": "ประชาชน",
+      "votes": 11879
+    },
+    {
+      "number": 1,
+      "name": "นายทินกร อ่อนประทุม",
+      "party": "ภูมิใจไทย",
+      "votes": 7073
+    },
+    {
+      "number": 5,
+      "name": "นางสาวบุญยรัตน์ อาษาศึก",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 467
+    },
+    {
+      "number": 7,
+      "name": "นายวิชัย เบ็ญชูสิทธิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 228
+    },
+    {
+      "number": 6,
+      "name": "นางสาวสุรัสวดี ดวงสมศรี",
+      "party": "พลวัต",
+      "votes": 227
+    },
+    {
+      "number": 8,
+      "name": "นางสาวจุฑามาศ ธานีวรรณ์",
+      "party": "ประชาธิปัตย์ใหม่",
+      "votes": 129
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/48. ร้อยเอ็ด เขต 2.json",
+  "_validation": {
+    "vote_sum": 86974,
+    "good_votes": 86974,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "45",
+  "province_name_normalized": "ร้อยเอ็ด",
+  "summary": {
+    "eligible_voters": 136681,
+    "voters_came": 91762,
+    "ballots_received": 143691,
+    "ballots_used": 91762,
+    "good_votes": 86974,
+    "invalid_votes": 2981,
+    "no_votes": 1807
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายเอกรัฐ พลชื่อ",
+      "party": "กล้าธรรม",
+      "votes": 43764,
+      "candidate_uuid": "ca8ede92-953b-43ad-ab56-1fe742fb0bfc",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายฉลาด ขามช่วง",
+      "party": "เพื่อไทย",
+      "votes": 23207,
+      "candidate_uuid": "557bf4a5-b709-47cf-a9dd-a2f7c47691f4",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวนริศรา ประเสริฐสังข์",
+      "party": "ประชาชน",
+      "votes": 11879,
+      "candidate_uuid": "dc407f0e-8b2d-448f-80a0-2da4d83ebda7",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายทินกร อ่อนประทุม",
+      "party": "ภูมิใจไทย",
+      "votes": 7073,
+      "candidate_uuid": "7040e95e-ee26-4cdb-a8a6-9f44d97f7b37",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวบุญยรัตน์ อาษาศึก",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 467,
+      "candidate_uuid": "e61f8e3c-e8ac-4b11-8888-4b3eea9a78af",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวิชัย เบ็ญชูสิทธิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 228,
+      "candidate_uuid": "d2dd6475-1770-4250-ac08-104b7f410687",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวสุรัสวดี ดวงสมศรี",
+      "party": "พลวัต",
+      "votes": 227,
+      "candidate_uuid": "c575b186-452c-47b4-a179-0172e51df0e6",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวจุฑามาศ ธานีวรรณ์",
+      "party": "ประชาธิปัตย์ใหม่",
+      "votes": 129,
+      "candidate_uuid": "32ddeb1d-76c2-4b41-a6dc-a8f53c4a4485",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

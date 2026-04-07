@@ -1,0 +1,125 @@
+{
+  "province_name": "สุพรรณบุรี",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144799,
+    "1.2": 108630,
+    "2.1": 143780,
+    "2.2": 104712,
+    "2.3": 39068,
+    "3.1": 104712,
+    "3.2": 3,
+    "3.3": 3915,
+    "3.4": 108630,
+    "4.1": 98539,
+    "4.2": 4594,
+    "4.3": 5497
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายประภัตร โพธสุธน",
+      "party": "ภูมิใจไทย",
+      "votes": 60036
+    },
+    {
+      "number": 4,
+      "name": "นายสมเกียรติ กู้เกียรติภูมิ",
+      "party": "ประชาชน",
+      "votes": 24816
+    },
+    {
+      "number": 3,
+      "name": "นายภานรินทร์ อินสกุล",
+      "party": "เพื่อไทย",
+      "votes": 10849
+    },
+    {
+      "number": 2,
+      "name": "นายสมศักดิ์ เฟื่องฟูลอย",
+      "party": "ประชาธิปัตย์",
+      "votes": 1103
+    },
+    {
+      "number": 6,
+      "name": "นางพัสพร แก้วเขียว",
+      "party": "ไทยสร้างไทย",
+      "votes": 976
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนุชวรา ยังนึก",
+      "party": "พลวัต",
+      "votes": 759
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/67. สุพรรณบุรี เขต 5.json",
+  "_validation": {
+    "vote_sum": 98539,
+    "good_votes": 98539,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "72",
+  "province_name_normalized": "สุพรรณบุรี",
+  "summary": {
+    "eligible_voters": 144799,
+    "voters_came": 108630,
+    "ballots_received": 143780,
+    "ballots_used": 104712,
+    "good_votes": 98539,
+    "invalid_votes": 4594,
+    "no_votes": 5497
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายประภัตร โพธสุธน",
+      "party": "ภูมิใจไทย",
+      "votes": 60036,
+      "candidate_uuid": "3d9c353e-92c8-4a25-8f40-349898ab476e",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสมเกียรติ กู้เกียรติภูมิ",
+      "party": "ประชาชน",
+      "votes": 24816,
+      "candidate_uuid": "93b77b0d-40f6-4ec5-aa9f-6a77d4b4cfc2",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายภานรินทร์ อินสกุล",
+      "party": "เพื่อไทย",
+      "votes": 10849,
+      "candidate_uuid": "7dd64392-ddef-4e42-929d-23835d254a95",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสมศักดิ์ เฟื่องฟูลอย",
+      "party": "ประชาธิปัตย์",
+      "votes": 1103,
+      "candidate_uuid": "f35a5f23-069d-4453-bd4a-a1896fd36f36",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางพัสพร แก้วเขียว",
+      "party": "ไทยสร้างไทย",
+      "votes": 976,
+      "candidate_uuid": "c9a1a858-8900-46a8-b885-837c2c0762e9",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนุชวรา ยังนึก",
+      "party": "พลวัต",
+      "votes": 759,
+      "candidate_uuid": "ae7c384e-7fc8-4b82-a16a-2bec6915308a",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

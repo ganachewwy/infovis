@@ -1,0 +1,111 @@
+{
+  "province_name": "ระนอง",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 143308,
+    "1.2": 96299,
+    "2.1": 144448,
+    "2.2": 96299,
+    "2.3": 48149,
+    "3.1": 90091,
+    "3.2": 40,
+    "3.3": 6168,
+    "3.4": 96299,
+    "4.1": 83719,
+    "4.2": 4782,
+    "4.3": 7798
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายคงกฤษ ฉัตรมาลีรัตน์",
+      "party": "ภูมิใจไทย",
+      "votes": 59363
+    },
+    {
+      "number": 1,
+      "name": "นายสมพงษ์ สีหามาตร",
+      "party": "ประชาชน",
+      "votes": 14434
+    },
+    {
+      "number": 2,
+      "name": "นายวิรัช ร่มเย็น",
+      "party": "ประชาธิปัตย์",
+      "votes": 7436
+    },
+    {
+      "number": 3,
+      "name": "นายพิทยา แท่นแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 1573
+    },
+    {
+      "number": 5,
+      "name": "นายวรวุฒิ ขนอม",
+      "party": "กล้าธรรม",
+      "votes": 913
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/49. ระนอง เขต 1.json",
+  "_validation": {
+    "vote_sum": 83719,
+    "good_votes": 83719,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "85",
+  "province_name_normalized": "ระนอง",
+  "summary": {
+    "eligible_voters": 143308,
+    "voters_came": 96299,
+    "ballots_received": 144448,
+    "ballots_used": 96299,
+    "good_votes": 83719,
+    "invalid_votes": 4782,
+    "no_votes": 7798
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายคงกฤษ ฉัตรมาลีรัตน์",
+      "party": "ภูมิใจไทย",
+      "votes": 59363,
+      "candidate_uuid": "bed7a6b7-6670-4fb3-95e7-b1a54bcfb3ef",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสมพงษ์ สีหามาตร",
+      "party": "ประชาชน",
+      "votes": 14434,
+      "candidate_uuid": "7d334269-307e-47d9-97db-ffb9a977301c",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวิรัช ร่มเย็น",
+      "party": "ประชาธิปัตย์",
+      "votes": 7436,
+      "candidate_uuid": "7e539eb6-8d9e-4c41-ad0a-95feceab3da3",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพิทยา แท่นแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 1573,
+      "candidate_uuid": "0c83b161-538d-455e-a17d-7a0ce424215a",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวรวุฒิ ขนอม",
+      "party": "กล้าธรรม",
+      "votes": 913,
+      "candidate_uuid": "57d81b85-747d-4e64-8bd9-0507fe143453",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

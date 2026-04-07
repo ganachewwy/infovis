@@ -1,0 +1,125 @@
+{
+  "province_name": "สงขลา",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133682,
+    "1.2": 105979,
+    "2.1": 135875,
+    "2.2": 105979,
+    "2.3": 29896,
+    "3.1": 99024,
+    "3.2": 18,
+    "3.3": 6937,
+    "3.4": 105979,
+    "4.1": 93176,
+    "4.2": 3394,
+    "4.3": 9408
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายสมยศ พลายด้วง",
+      "party": "ภูมิใจไทย",
+      "votes": 36656
+    },
+    {
+      "number": 2,
+      "name": "นายทนายอาร์ม สุวรรณรักษา",
+      "party": "ประชาธิปัตย์",
+      "votes": 27002
+    },
+    {
+      "number": 3,
+      "name": "นายนวมินทร์ ปิ่นปฐมรัฐ",
+      "party": "ประชาชน",
+      "votes": 25124
+    },
+    {
+      "number": 1,
+      "name": "นายสุภณัฏฐ์ ชุมภูทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2500
+    },
+    {
+      "number": 4,
+      "name": "นายจิรันธนิน ตาลทรัพย์คุณ",
+      "party": "เพื่อไทย",
+      "votes": 973
+    },
+    {
+      "number": 6,
+      "name": "พลตรีนิพนธ์ รองสวัสดิ์",
+      "party": "กล้าธรรม",
+      "votes": 921
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/58. สงขลา เขต 3.json",
+  "_validation": {
+    "vote_sum": 93176,
+    "good_votes": 93176,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "90",
+  "province_name_normalized": "สงขลา",
+  "summary": {
+    "eligible_voters": 133682,
+    "voters_came": 105979,
+    "ballots_received": 135875,
+    "ballots_used": 105979,
+    "good_votes": 93176,
+    "invalid_votes": 3394,
+    "no_votes": 9408
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายสมยศ พลายด้วง",
+      "party": "ภูมิใจไทย",
+      "votes": 36656,
+      "candidate_uuid": "765e43c1-6663-4669-85a3-4c8327ed1ac4",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายทนายอาร์ม สุวรรณรักษา",
+      "party": "ประชาธิปัตย์",
+      "votes": 27002,
+      "candidate_uuid": "d1eefc0f-77ef-4841-b1b7-9221559e227d",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายนวมินทร์ ปิ่นปฐมรัฐ",
+      "party": "ประชาชน",
+      "votes": 25124,
+      "candidate_uuid": "1244952c-33b2-4d11-8146-242f16d5ef4f",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุภณัฏฐ์ ชุมภูทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2500,
+      "candidate_uuid": "76d849e3-b37e-4d99-83f9-8f3dc2151824",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายจิรันธนิน ตาลทรัพย์คุณ",
+      "party": "เพื่อไทย",
+      "votes": 973,
+      "candidate_uuid": "cf9920e3-61d8-43ac-b65d-fd4b9ee54015",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "พลตรีนิพนธ์ รองสวัสดิ์",
+      "party": "กล้าธรรม",
+      "votes": 921,
+      "candidate_uuid": "1ac01dc2-e3e9-4976-8081-f32f5b1142b1",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

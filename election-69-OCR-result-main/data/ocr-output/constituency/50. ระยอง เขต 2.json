@@ -1,0 +1,57 @@
+{
+  "province_name": "ระยอง",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 116650,
+    "1.2": 77741,
+    "2.1": 118162,
+    "2.2": 77741,
+    "2.3": 40421,
+    "3.1": 74625,
+    "3.2": 0,
+    "3.3": 3116,
+    "3.4": 77741,
+    "4.1": 68551,
+    "4.2": 3662,
+    "4.3": 5528
+  },
+  "results": [
+    {
+      "number": "A",
+      "name": "นายกฤช ศิลปชัย",
+      "party": "ประชาชน",
+      "votes": 33687
+    },
+    {
+      "number": 3,
+      "name": "นายวีรยุทธ อนุจิตรอนันต์",
+      "party": "ประชาธิปัตย์",
+      "votes": 26878
+    },
+    {
+      "number": 2,
+      "name": "นายภีมเดช อมรสุคนธ์",
+      "party": "เพื่อไทย",
+      "votes": 4268
+    },
+    {
+      "number": 4,
+      "name": "นางสาวจิดาภา เจริญผล",
+      "party": "ไทยสร้างไทย",
+      "votes": 1981
+    },
+    {
+      "number": 5,
+      "name": "ร้อยตำรวจตรีเรืองชัย สมบัติภูธร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1737
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/50. ระยอง เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 68551,
+    "good_votes": 68551,
+    "sum_diff_pct": 0.0
+  }
+}

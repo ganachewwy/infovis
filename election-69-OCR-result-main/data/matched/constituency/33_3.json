@@ -1,0 +1,181 @@
+{
+  "province_name": "ศรีสะเกษ",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128022,
+    "1.2": 82061,
+    "2.1": 132637,
+    "2.2": 82061,
+    "2.3": 50576,
+    "3.1": 69777,
+    "3.2": 0,
+    "3.3": 5757,
+    "3.4": 82061,
+    "4.1": 76586,
+    "4.2": 3190,
+    "4.3": 2285
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายธนา กิจไพบูลย์ชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 51942
+    },
+    {
+      "number": 7,
+      "name": "นายจำลอง บุญชม",
+      "party": "ประชาชน",
+      "votes": 9196
+    },
+    {
+      "number": 8,
+      "name": "นายภีรวุฒิ บุญสุข",
+      "party": "เพื่อไทย",
+      "votes": 8230
+    },
+    {
+      "number": 2,
+      "name": "นายปัณณวิชญ์ โหตระไวศยะ",
+      "party": "พลังประชารัฐ",
+      "votes": 2931
+    },
+    {
+      "number": 9,
+      "name": "นายสมจิตร ช่วยพันธ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1611
+    },
+    {
+      "number": 1,
+      "name": "นายสุรณัฐ แนบเนียม",
+      "party": "กล้าธรรม",
+      "votes": 1059
+    },
+    {
+      "number": 3,
+      "name": "นายธีรวัฒน์ คำศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 1041
+    },
+    {
+      "number": 6,
+      "name": "นายโดม ศรีศรุติกุล",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 341
+    },
+    {
+      "number": 10,
+      "name": "นายนครชัย โพธิ์ขาว",
+      "party": "ประชากรไทย",
+      "votes": 122
+    },
+    {
+      "number": 5,
+      "name": "นายนิพนธ์ บุษราคัมวงศ์",
+      "party": "รวมพลัง",
+      "votes": 113
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/56. ศรีสะเกษ เขต 3.json",
+  "_validation": {
+    "vote_sum": 76586,
+    "good_votes": 76586,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "33",
+  "province_name_normalized": "ศรีสะเกษ",
+  "summary": {
+    "eligible_voters": 128022,
+    "voters_came": 82061,
+    "ballots_received": 132637,
+    "ballots_used": 82061,
+    "good_votes": 76586,
+    "invalid_votes": 3190,
+    "no_votes": 2285
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายธนา กิจไพบูลย์ชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 51942,
+      "candidate_uuid": "4cafcd6d-03c6-4dca-889c-8cd24d1cdb16",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายจำลอง บุญชม",
+      "party": "ประชาชน",
+      "votes": 9196,
+      "candidate_uuid": "d9d0fdea-d033-4888-a7e2-e1bb611613ad",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายภีรวุฒิ บุญสุข",
+      "party": "เพื่อไทย",
+      "votes": 8230,
+      "candidate_uuid": "2f1c308e-79a8-45ec-a096-8959a9da8a5a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายปัณณวิชญ์ โหตระไวศยะ",
+      "party": "พลังประชารัฐ",
+      "votes": 2931,
+      "candidate_uuid": "51dc5eab-5e57-4f8b-87ff-4f6b7d331515",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสมจิตร ช่วยพันธ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1611,
+      "candidate_uuid": "d606c2ac-9435-4089-a763-9ce70cb10b13",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุรณัฐ แนบเนียม",
+      "party": "กล้าธรรม",
+      "votes": 1059,
+      "candidate_uuid": "0f2cb945-738e-4b06-9e9a-383376cbe127",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธีรวัฒน์ คำศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 1041,
+      "candidate_uuid": "ccbf11d3-77f2-48d3-99fa-d461927300df",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายโดม ศรีศรุติกุล",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 341,
+      "candidate_uuid": "065291dc-ee1b-4b4c-944d-6e0b4b998d77",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายนครชัย โพธิ์ขาว",
+      "party": "ประชากรไทย",
+      "votes": 122,
+      "candidate_uuid": "18285a73-37f4-4ebb-a984-c8c7b1394d9a",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนิพนธ์ บุษราคัมวงศ์",
+      "party": "รวมพลัง",
+      "votes": 113,
+      "candidate_uuid": "14878a66-9922-4d0e-becd-a812d76bdbbe",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

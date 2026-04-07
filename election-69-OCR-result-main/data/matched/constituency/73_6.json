@@ -1,0 +1,181 @@
+{
+  "province_name": "นครปฐม",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126887,
+    "1.2": 97368,
+    "2.1": 140400,
+    "2.2": 97368,
+    "2.3": 43032,
+    "3.1": 92850,
+    "3.2": 952,
+    "3.3": 3566,
+    "3.4": 97368,
+    "4.1": 89774,
+    "4.2": 2391,
+    "4.3": 5203
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายชลพฤกษ วงศ์อรุณนิยม",
+      "party": "ประชาชน",
+      "votes": 38535
+    },
+    {
+      "number": 9,
+      "name": "นายกองโท พเยาว์ เนียะแก้ว",
+      "party": "ภูมิใจไทย",
+      "votes": 36970
+    },
+    {
+      "number": 4,
+      "name": "นายศิรวริศ สวนแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 4630
+    },
+    {
+      "number": 8,
+      "name": "นายธนบดี จุติโสภณชัย",
+      "party": "ประชาธิปัตย์",
+      "votes": 3781
+    },
+    {
+      "number": 2,
+      "name": "นายลลิต กิจสมัคร",
+      "party": "เศรษฐกิจ",
+      "votes": 1818
+    },
+    {
+      "number": 6,
+      "name": "นายเสรี สุขถาวร",
+      "party": "กล้าธรรม",
+      "votes": 1328
+    },
+    {
+      "number": 3,
+      "name": "นายพรชัย วุ่นยรรยงค์",
+      "party": "ไทยภักดี",
+      "votes": 893
+    },
+    {
+      "number": 5,
+      "name": "นายระวัง เนตรโพธิ์แก้ว",
+      "party": "พลังประชารัฐ",
+      "votes": 797
+    },
+    {
+      "number": 7,
+      "name": "นายกฤษณะพัชร์ อชโชติพงษ์",
+      "party": "เสรีรวมไทย",
+      "votes": 784
+    },
+    {
+      "number": 10,
+      "name": "นายณัชธพงศ์ ชมเชย",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 238
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/19. นครปฐม เขต 6.json",
+  "_validation": {
+    "vote_sum": 89774,
+    "good_votes": 89774,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "73",
+  "province_name_normalized": "นครปฐม",
+  "summary": {
+    "eligible_voters": 126887,
+    "voters_came": 97368,
+    "ballots_received": 140400,
+    "ballots_used": 97368,
+    "good_votes": 89774,
+    "invalid_votes": 2391,
+    "no_votes": 5203
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายชลพฤกษ วงศ์อรุณนิยม",
+      "party": "ประชาชน",
+      "votes": 38535,
+      "candidate_uuid": "100f32b1-5372-4f53-acf2-249e16b47b6e",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายกองโท พเยาว์ เนียะแก้ว",
+      "party": "ภูมิใจไทย",
+      "votes": 36970,
+      "candidate_uuid": "b4def11a-e6b8-494f-ae59-54575cc51a6f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายศิรวริศ สวนแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 4630,
+      "candidate_uuid": "a2d94c70-4105-4b88-815b-b75440e716ae",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธนบดี จุติโสภณชัย",
+      "party": "ประชาธิปัตย์",
+      "votes": 3781,
+      "candidate_uuid": "417af9fc-4b25-492e-8922-ea63923274f3",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายลลิต กิจสมัคร",
+      "party": "เศรษฐกิจ",
+      "votes": 1818,
+      "candidate_uuid": "1afd56f0-48a0-42a5-8feb-31453ce26e68",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเสรี สุขถาวร",
+      "party": "กล้าธรรม",
+      "votes": 1328,
+      "candidate_uuid": "b21e3d65-0abf-48ef-96cd-cf22cbe4f934",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพรชัย วุ่นยรรยงค์",
+      "party": "ไทยภักดี",
+      "votes": 893,
+      "candidate_uuid": "56e70506-2343-4171-9614-89187aa73c2e",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายระวัง เนตรโพธิ์แก้ว",
+      "party": "พลังประชารัฐ",
+      "votes": 797,
+      "candidate_uuid": "724f8d22-4de7-4584-9bf2-cf8f03f160bf",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายกฤษณะพัชร์ อชโชติพงษ์",
+      "party": "เสรีรวมไทย",
+      "votes": 784,
+      "candidate_uuid": "7ddce024-efd4-4843-8809-7d236ecd32a7",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายณัชธพงศ์ ชมเชย",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 238,
+      "candidate_uuid": "69f4f61e-2487-49a3-af54-c0bb5dafdd12",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

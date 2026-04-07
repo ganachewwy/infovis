@@ -1,0 +1,499 @@
+{
+  "constituency": [
+    {
+      "area": "30-13",
+      "province": "นครราชสีมา",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "name": "ถูกถอนชื่อ",
+          "party": "กล้าธรรม",
+          "votes": 0,
+          "candidate_uuid": null,
+          "is_active": null
+        }
+      ]
+    },
+    {
+      "area": "56-1",
+      "province": "พะเยา",
+      "issues": [
+        "Ballot total (98625) > voters_came (94639)"
+      ],
+      "unmatched": []
+    },
+    {
+      "area": "33-8",
+      "province": "ศรีสะเกษ",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 3,
+          "name": "บุญเทวี",
+          "party": "เศรษฐกิจ",
+          "votes": 503,
+          "candidate_uuid": null,
+          "is_active": null
+        }
+      ]
+    }
+  ],
+  "party_list": [
+    {
+      "area": "10-3",
+      "province": "กรุงเทพมหานคร",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        },
+        {
+          "number": 3,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "10-5",
+      "province": "กรุงเทพมหานคร",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "UNKNOWN",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "36-1",
+      "province": "ชัยภูมิ",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 18,
+          "party": "ไทยชนะ",
+          "votes": 20,
+          "party_uuid": null,
+          "party_code": null
+        },
+        {
+          "number": 36,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "50-5",
+      "province": "เชียงใหม่",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "73-2",
+      "province": "นครปฐม",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "ไม่ระบุ",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "73-3",
+      "province": "นครปฐม",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "73-6",
+      "province": "นครปฐม",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "Party 1 (Not Listed in Document)",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "30-13",
+      "province": "นครราชสีมา",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 36,
+          "party": "พลังธรรมใหม่",
+          "votes": 264,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "30-15",
+      "province": "นครราชสีมา",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "ชาติพัฒนา",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "30-4",
+      "province": "นครราชสีมา",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "Unknown Party",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "80-5",
+      "province": "นครศรีธรรมราช",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 41,
+          "party": "Unknown Party 41",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "80-9",
+      "province": "นครศรีธรรมราช",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 39,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "60-6",
+      "province": "นครสวรรค์",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "Unknown Party",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "55-3",
+      "province": "น่าน",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "Unknown",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "13-3",
+      "province": "ปทุมธานี",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "พรรคที่ 1",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "25-1",
+      "province": "ปราจีนบุรี",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        },
+        {
+          "number": 3,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "94-3",
+      "province": "ปัตตานี",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        },
+        {
+          "number": 13,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "44-3",
+      "province": "มหาสารคาม",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "44-4",
+      "province": "มหาสารคาม",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "95-2",
+      "province": "ยะลา",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "ไม่ระบุ",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        },
+        {
+          "number": 3,
+          "party": "ไม่ระบุ",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "62-3",
+      "province": "กำแพงเพชร",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "21-4",
+      "province": "ระยอง",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "พรรคที่ 1 (ไม่ระบุชื่อ)",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "70-2",
+      "province": "ราชบุรี",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "พรรคที่ 1",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "33-2",
+      "province": "ศรีสะเกษ",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "33-7",
+      "province": "ศรีสะเกษ",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "พรรคที่ 1",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "74-2",
+      "province": "สมุทรสาคร",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "ไม่ระบุ",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "27-3",
+      "province": "สระแก้ว",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "ไม่ระบุ",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "61-1",
+      "province": "อุทัยธานี",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "61-2",
+      "province": "อุทัยธานี",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 1,
+          "party": "N/A",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    },
+    {
+      "area": "24-2",
+      "province": "ฉะเชิงเทรา",
+      "issues": [],
+      "unmatched": [
+        {
+          "number": 33,
+          "party": "N/A",
+          "votes": 0,
+          "party_uuid": null,
+          "party_code": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "province_name": "ชัยภูมิ",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127154,
+    "1.2": 80751,
+    "2.1": 129026,
+    "2.2": 80751,
+    "2.3": 48275,
+    "3.1": 76345,
+    "3.2": 0,
+    "3.3": 4406,
+    "3.4": 80751,
+    "4.1": 75289,
+    "4.2": 3742,
+    "4.3": 1720
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายสัมฤทธิ์ แทนทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 48116
+    },
+    {
+      "number": 5,
+      "name": "นายสนั่น พัชรเตชโสภณ",
+      "party": "เพื่อไทย",
+      "votes": 15311
+    },
+    {
+      "number": 3,
+      "name": "นายกฤษณ์ คูนรัตนศิริ",
+      "party": "ประชาชน",
+      "votes": 9366
+    },
+    {
+      "number": 6,
+      "name": "พันโท สุเทพ บุญทะเล",
+      "party": "เศรษฐกิจ",
+      "votes": 1072
+    },
+    {
+      "number": 2,
+      "name": "นายวีระ ถนอมธรรม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 769
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพิศมัย สร้อยสุวรรณ",
+      "party": "ประชาธิปัตย์",
+      "votes": 655
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/11. ชัยภูมิ เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 75289,
+    "good_votes": 75289,
+    "sum_diff_pct": 0.0
+  }
+}

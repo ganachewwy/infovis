@@ -1,0 +1,195 @@
+{
+  "province_name": "นนทบุรี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 140970,
+    "1.2": 106780,
+    "2.1": 143619,
+    "2.2": 106780,
+    "2.3": 36839,
+    "3.1": 102285,
+    "3.2": 16,
+    "3.3": 4479,
+    "3.4": 106780,
+    "4.1": 96521,
+    "4.2": 2416,
+    "4.3": 7843
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายอนุสรณ์ แก้ววิเชียร",
+      "party": "ประชาชน",
+      "votes": 47505
+    },
+    {
+      "number": 2,
+      "name": "นาวสาวดาราวรรณ อัจฉริยะประสิทธิ์",
+      "party": "เพื่อไทย",
+      "votes": 17748
+    },
+    {
+      "number": 5,
+      "name": "ผศ.สิริภิญญ์ อินทรประเสริฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 15854
+    },
+    {
+      "number": 8,
+      "name": "นายเอิบ พงบุหงอ",
+      "party": "ประชาธิปัตย์",
+      "votes": 7291
+    },
+    {
+      "number": 3,
+      "name": "นายเอกชัย แสงวิจิตร",
+      "party": "เศรษฐกิจ",
+      "votes": 2207
+    },
+    {
+      "number": 4,
+      "name": "นายประชา มีเหม็ง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1873
+    },
+    {
+      "number": 9,
+      "name": "นายวุฒิบูรณ์ วิ่งวน",
+      "party": "กล้าธรรม",
+      "votes": 1160
+    },
+    {
+      "number": 6,
+      "name": "นายปัญญา สุขขจีธำรง",
+      "party": "ทางเลือกใหม่",
+      "votes": 957
+    },
+    {
+      "number": 11,
+      "name": "นายศุภวัฒน์ กุลสังคหะ",
+      "party": "เสรีรวมไทย",
+      "votes": 778
+    },
+    {
+      "number": 1,
+      "name": "นางสาวสิรินาถ พิณประไพวงศ์",
+      "party": "พลวัต",
+      "votes": 774
+    },
+    {
+      "number": 10,
+      "name": "นายอิทธิพล คงพสิษฐ์พร",
+      "party": "พลังประชารัฐ",
+      "votes": 474
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/24. นนทบุรี เขต 3.json",
+  "_validation": {
+    "vote_sum": 96621,
+    "good_votes": 96521,
+    "sum_diff_pct": 0.1
+  },
+  "province_code": "12",
+  "province_name_normalized": "นนทบุรี",
+  "summary": {
+    "eligible_voters": 140970,
+    "voters_came": 106780,
+    "ballots_received": 143619,
+    "ballots_used": 106780,
+    "good_votes": 96521,
+    "invalid_votes": 2416,
+    "no_votes": 7843
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นายอนุสรณ์ แก้ววิเชียร",
+      "party": "ประชาชน",
+      "votes": 47505,
+      "candidate_uuid": "bc52c96c-3aff-4ce2-a642-51de39fa5072",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นาวสาวดาราวรรณ อัจฉริยะประสิทธิ์",
+      "party": "เพื่อไทย",
+      "votes": 17748,
+      "candidate_uuid": "cb498677-a106-4fba-917c-b205e80ad53c",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "ผศ.สิริภิญญ์ อินทรประเสริฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 15854,
+      "candidate_uuid": "43558971-98bf-4867-9f34-6da3130cffe6",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายเอิบ พงบุหงอ",
+      "party": "ประชาธิปัตย์",
+      "votes": 7291,
+      "candidate_uuid": "1cc627f9-3720-4838-b79b-075c200d0fa1",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเอกชัย แสงวิจิตร",
+      "party": "เศรษฐกิจ",
+      "votes": 2207,
+      "candidate_uuid": "ae69539e-86d5-4c51-83b7-e6eb62927b30",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายประชา มีเหม็ง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1873,
+      "candidate_uuid": "58af20f8-bb1e-47f5-a40e-f3ef00bd3c0c",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายวุฒิบูรณ์ วิ่งวน",
+      "party": "กล้าธรรม",
+      "votes": 1160,
+      "candidate_uuid": "6bfb30be-b7c7-4dfc-9c90-f8db6e571134",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปัญญา สุขขจีธำรง",
+      "party": "ทางเลือกใหม่",
+      "votes": 957,
+      "candidate_uuid": "580ea693-7d71-4c47-9e2d-47f764bc98b5",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายศุภวัฒน์ กุลสังคหะ",
+      "party": "เสรีรวมไทย",
+      "votes": 778,
+      "candidate_uuid": "16b2eb51-b5bc-421c-8d54-9d847fc393be",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวสิรินาถ พิณประไพวงศ์",
+      "party": "พลวัต",
+      "votes": 774,
+      "candidate_uuid": "9a2b6ebe-0d53-4946-9f5c-28c46496c826",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายอิทธิพล คงพสิษฐ์พร",
+      "party": "พลังประชารัฐ",
+      "votes": 474,
+      "candidate_uuid": "3a27bf09-c664-4322-a29a-e9ad6983e964",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

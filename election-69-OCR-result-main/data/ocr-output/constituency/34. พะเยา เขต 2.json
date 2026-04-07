@@ -1,0 +1,63 @@
+{
+  "province_name": "พะเยา",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127935,
+    "1.2": 96038,
+    "2.1": 128163,
+    "2.2": 96038,
+    "2.3": 32125,
+    "3.1": 87215,
+    "3.2": 0,
+    "3.3": 8823,
+    "3.4": 96038,
+    "4.1": 88518,
+    "4.2": 4097,
+    "4.3": 3423
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายอนุรัตน์ ตันบรรจง",
+      "party": "กล้าธรรม",
+      "votes": 55400
+    },
+    {
+      "number": 2,
+      "name": "นายวิทวัส รัชตาจ้าย",
+      "party": "ประชาชน",
+      "votes": 20496
+    },
+    {
+      "number": 3,
+      "name": "นายเกษียร ศรีจันทร์",
+      "party": "เพื่อไทย",
+      "votes": 10843
+    },
+    {
+      "number": 4,
+      "name": "นายเสมอ วงค์พุฒ",
+      "party": "ภูมิใจไทย",
+      "votes": 1054
+    },
+    {
+      "number": 5,
+      "name": "นายคมสันต์ เมืองอินทร์",
+      "party": "ประชาธิปัตย์",
+      "votes": 466
+    },
+    {
+      "number": 6,
+      "name": "นายอนุชา มุสิกะ",
+      "party": "พลังประชารัฐ",
+      "votes": 259
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/34. พะเยา เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 88518,
+    "good_votes": 88518,
+    "sum_diff_pct": 0.0
+  }
+}

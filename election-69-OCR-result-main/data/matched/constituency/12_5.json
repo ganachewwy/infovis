@@ -1,0 +1,181 @@
+{
+  "province_name": "นนทบุรี",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137863,
+    "1.2": 104631,
+    "2.1": 135403,
+    "2.2": 104631,
+    "2.3": 30772,
+    "3.1": 100708,
+    "3.2": 9,
+    "3.3": 3914,
+    "3.4": 104631,
+    "4.1": 96107,
+    "4.2": 2233,
+    "4.3": 6291
+  },
+  "results": [
+    {
+      "number": null,
+      "name": "นายปรีติ เจริญศิลป์",
+      "party": "ประชาชน",
+      "votes": 41888
+    },
+    {
+      "number": 5,
+      "name": "นายประยูร อรัญญิก",
+      "party": "ภูมิใจไทย",
+      "votes": 31985
+    },
+    {
+      "number": 7,
+      "name": "นายวัชธนันท์ อัศวนิโครธร",
+      "party": "เพื่อไทย",
+      "votes": 8802
+    },
+    {
+      "number": 6,
+      "name": "นายธนินท์ธร ภูมราช",
+      "party": "ประชาธิปัตย์",
+      "votes": 5854
+    },
+    {
+      "number": 9,
+      "name": "นายสุวิศิษฎ์ พงศ์ภรณ์ปภาณ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2424
+    },
+    {
+      "number": 8,
+      "name": "นายประสงค์ เต็งทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 1689
+    },
+    {
+      "number": 2,
+      "name": "นายพลวัตร บรรดาศักดิ์",
+      "party": "พลังประชารัฐ",
+      "votes": 1507
+    },
+    {
+      "number": 4,
+      "name": "นายอภิษิต งามบุษบงโสภี",
+      "party": "กล้าธรรม",
+      "votes": 1237
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสุจจาธินี ลักษมน์ศิริชาต",
+      "party": "ทางเลือกใหม่",
+      "votes": 520
+    },
+    {
+      "number": 10,
+      "name": "นายทวีชัย พงศาทองโฉม",
+      "party": "ฟิวชัน",
+      "votes": 201
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/24. นนทบุรี เขต 5.json",
+  "_validation": {
+    "vote_sum": 96107,
+    "good_votes": 96107,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "12",
+  "province_name_normalized": "นนทบุรี",
+  "summary": {
+    "eligible_voters": 137863,
+    "voters_came": 104631,
+    "ballots_received": 135403,
+    "ballots_used": 104631,
+    "good_votes": 96107,
+    "invalid_votes": 2233,
+    "no_votes": 6291
+  },
+  "matched_candidates": [
+    {
+      "number": null,
+      "name": "นายปรีติ เจริญศิลป์",
+      "party": "ประชาชน",
+      "votes": 41888,
+      "candidate_uuid": "a3b8533a-7bd1-49bd-9575-1a72d6c10391",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายประยูร อรัญญิก",
+      "party": "ภูมิใจไทย",
+      "votes": 31985,
+      "candidate_uuid": "df9e6fae-c89f-4bcd-a8c7-89d1fe280d91",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวัชธนันท์ อัศวนิโครธร",
+      "party": "เพื่อไทย",
+      "votes": 8802,
+      "candidate_uuid": "41915d9b-6377-4e69-aaa2-006634fb154d",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธนินท์ธร ภูมราช",
+      "party": "ประชาธิปัตย์",
+      "votes": 5854,
+      "candidate_uuid": "22c76b34-3339-43db-a9da-5cadae70acf8",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสุวิศิษฎ์ พงศ์ภรณ์ปภาณ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2424,
+      "candidate_uuid": "ca16b1f6-63ef-4aa6-b9a5-921f440990e4",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายประสงค์ เต็งทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 1689,
+      "candidate_uuid": "dc91bfb9-2bf1-4dbb-9872-4c1db5fcb9fc",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพลวัตร บรรดาศักดิ์",
+      "party": "พลังประชารัฐ",
+      "votes": 1507,
+      "candidate_uuid": "9ac553b0-cf1d-4e13-a408-179b86669a59",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอภิษิต งามบุษบงโสภี",
+      "party": "กล้าธรรม",
+      "votes": 1237,
+      "candidate_uuid": "e3c72032-7755-4143-acde-fc320e1de871",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสุจจาธินี ลักษมน์ศิริชาต",
+      "party": "ทางเลือกใหม่",
+      "votes": 520,
+      "candidate_uuid": "a1daeac3-34fd-4adc-b33a-f456916ae2bb",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายทวีชัย พงศาทองโฉม",
+      "party": "ฟิวชัน",
+      "votes": 201,
+      "candidate_uuid": "4e6ffe65-e883-437a-beab-7661a8d58119",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

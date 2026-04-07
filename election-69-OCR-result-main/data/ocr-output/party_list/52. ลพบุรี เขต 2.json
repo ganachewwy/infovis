@@ -1,0 +1,312 @@
+{
+  "province_name": "ลพบุรี",
+  "constituency_number": 2,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 149672,
+    "1.2": 118851,
+    "2.1": 151542,
+    "2.2": 118851,
+    "2.3": 32691,
+    "3.1": 113425,
+    "3.2": 104,
+    "3.3": 5322,
+    "3.4": 118851,
+    "4.1": 107859,
+    "4.2": 6589,
+    "4.3": 4403
+  },
+  "results": [
+    {
+      "number": 2,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 573
+    },
+    {
+      "number": 3,
+      "party": "เพื่อชาติไทย",
+      "votes": 1611
+    },
+    {
+      "number": 4,
+      "party": "ใหม่",
+      "votes": 3447
+    },
+    {
+      "number": 5,
+      "party": "มิติใหม่",
+      "votes": 254
+    },
+    {
+      "number": 6,
+      "party": "รวมใจไทย",
+      "votes": 2562
+    },
+    {
+      "number": 7,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2614
+    },
+    {
+      "number": 8,
+      "party": "พลวัต",
+      "votes": 156
+    },
+    {
+      "number": 9,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 687
+    },
+    {
+      "number": 10,
+      "party": "เพื่อไทย",
+      "votes": 15317
+    },
+    {
+      "number": 11,
+      "party": "ทางเลือกใหม่",
+      "votes": 661
+    },
+    {
+      "number": 12,
+      "party": "เศรษฐกิจ",
+      "votes": 4069
+    },
+    {
+      "number": 13,
+      "party": "เสรีรวมไทย",
+      "votes": 372
+    },
+    {
+      "number": 14,
+      "party": "รวมพลังประชาชน",
+      "votes": 577
+    },
+    {
+      "number": 15,
+      "party": "ท้องที่ไทย",
+      "votes": 176
+    },
+    {
+      "number": 16,
+      "party": "อนาคตไทย",
+      "votes": 92
+    },
+    {
+      "number": 17,
+      "party": "พลังเพื่อไทย",
+      "votes": 238
+    },
+    {
+      "number": 18,
+      "party": "ไทยชนะ",
+      "votes": 139
+    },
+    {
+      "number": 19,
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "number": 20,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 48
+    },
+    {
+      "number": 21,
+      "party": "ฟิวชัน",
+      "votes": 42
+    },
+    {
+      "number": 22,
+      "party": "ไทรวมพลัง",
+      "votes": 69
+    },
+    {
+      "number": 23,
+      "party": "ก้าวอิสระ",
+      "votes": 29
+    },
+    {
+      "number": 24,
+      "party": "ปวงชนไทย",
+      "votes": 136
+    },
+    {
+      "number": 25,
+      "party": "วิชชั่นใหม่",
+      "votes": 48
+    },
+    {
+      "number": 26,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 29
+    },
+    {
+      "number": 27,
+      "party": "คลองไทย",
+      "votes": 81
+    },
+    {
+      "number": 28,
+      "party": "ประชาธิปัตย์",
+      "votes": 5174
+    },
+    {
+      "number": 29,
+      "party": "ไทยก้าวหน้า",
+      "votes": 147
+    },
+    {
+      "number": 30,
+      "party": "ไทยภักดี",
+      "votes": 767
+    },
+    {
+      "number": 31,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 108
+    },
+    {
+      "number": 32,
+      "party": "ประชากรไทย",
+      "votes": 162
+    },
+    {
+      "number": 33,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 266
+    },
+    {
+      "number": 34,
+      "party": "ประชาชาติ",
+      "votes": 208
+    },
+    {
+      "number": 35,
+      "party": "สร้างอนาคตไทย",
+      "votes": 209
+    },
+    {
+      "number": 36,
+      "party": "รักชาติ",
+      "votes": 250
+    },
+    {
+      "number": 37,
+      "party": "ไทยพร้อม",
+      "votes": 173
+    },
+    {
+      "number": 38,
+      "party": "ภูมิใจไทย",
+      "votes": 30490
+    },
+    {
+      "number": 39,
+      "party": "พลังธรรมใหม่",
+      "votes": 222
+    },
+    {
+      "number": 40,
+      "party": "กรีน",
+      "votes": 133
+    },
+    {
+      "number": 41,
+      "party": "ไทยธรรม",
+      "votes": 40
+    },
+    {
+      "number": 42,
+      "party": "แผ่นดินธรรม",
+      "votes": 32
+    },
+    {
+      "number": 43,
+      "party": "กล้าธรรม",
+      "votes": 127
+    },
+    {
+      "number": 44,
+      "party": "พลังประชารัฐ",
+      "votes": 442
+    },
+    {
+      "number": 45,
+      "party": "โอกาสใหม่",
+      "votes": 300
+    },
+    {
+      "number": 46,
+      "party": "เป็นธรรม",
+      "votes": 150
+    },
+    {
+      "number": 47,
+      "party": "ประชาชน",
+      "votes": 33148
+    },
+    {
+      "number": 48,
+      "party": "ประชาไทย",
+      "votes": 184
+    },
+    {
+      "number": 49,
+      "party": "ไทยสร้างไทย",
+      "votes": 464
+    },
+    {
+      "number": 50,
+      "party": "ไทยก้าวใหม่",
+      "votes": 294
+    },
+    {
+      "number": 51,
+      "party": "ประชาอาสาชาติ",
+      "votes": 14
+    },
+    {
+      "number": 52,
+      "party": "พร้อม",
+      "votes": 94
+    },
+    {
+      "number": 53,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 21
+    },
+    {
+      "number": 54,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "number": 55,
+      "party": "ความหวังใหม่",
+      "votes": 23
+    },
+    {
+      "number": 56,
+      "party": "ไทยรวมไทย",
+      "votes": 29
+    },
+    {
+      "number": 57,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 49
+    },
+    {
+      "number": 58,
+      "party": "พลังไทยรักชาติ",
+      "votes": 69
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/52. ลพบุรี เขต 2 (บช).pdf",
+  "_validation": {
+    "vote_sum": 107859,
+    "good_votes": 107859,
+    "sum_diff_pct": 0.0
+  }
+}

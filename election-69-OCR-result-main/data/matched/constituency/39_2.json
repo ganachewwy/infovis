@@ -1,0 +1,195 @@
+{
+  "province_name": "หนองบัวลำภู",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 135971,
+    "1.2": 83652,
+    "2.1": 136992,
+    "2.2": 83652,
+    "2.3": 53340,
+    "3.1": 78460,
+    "3.2": 2,
+    "3.3": 5190,
+    "3.4": 83652,
+    "4.1": 79482,
+    "4.2": 2456,
+    "4.3": 1714
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายรุ่งเพชร ศรีกาญจนา",
+      "party": "เพื่อไทย",
+      "votes": 36663
+    },
+    {
+      "number": 7,
+      "name": "นายไชยา พรหมา",
+      "party": "กล้าธรรม",
+      "votes": 16062
+    },
+    {
+      "number": 4,
+      "name": "นายนิติภูมิ ติวทอง",
+      "party": "ประชาชน",
+      "votes": 14496
+    },
+    {
+      "number": 9,
+      "name": "นางชญาน์นันท์ พิมพ์กิรติ",
+      "party": "ภูมิใจไทย",
+      "votes": 7705
+    },
+    {
+      "number": 8,
+      "name": "นางสาวณัฐนันท์ พรมนิล",
+      "party": "เศรษฐกิจ",
+      "votes": 1823
+    },
+    {
+      "number": 6,
+      "name": "นายทรงศักดิ์ ศิริสถิตย์",
+      "party": "พลังประชารัฐ",
+      "votes": 832
+    },
+    {
+      "number": 2,
+      "name": "นายสยามรัฐ ศรีบัวเผื่อน",
+      "party": "ประชาธิปัตย์",
+      "votes": 795
+    },
+    {
+      "number": 11,
+      "name": "นายวุฒิพงษ์ ราชโยธา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 420
+    },
+    {
+      "number": 1,
+      "name": "นายประสิทธิ์ พลศักดิ์ขวา",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 249
+    },
+    {
+      "number": 5,
+      "name": "นายชัยวัฒน์ มูลแก้ว",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 246
+    },
+    {
+      "number": 10,
+      "name": "นางวาสนา ดอกเข็ม",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 191
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/71. หนองบัวลำภู เขต 2.json",
+  "_validation": {
+    "vote_sum": 79482,
+    "good_votes": 79482,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "39",
+  "province_name_normalized": "หนองบัวลำภู",
+  "summary": {
+    "eligible_voters": 135971,
+    "voters_came": 83652,
+    "ballots_received": 136992,
+    "ballots_used": 83652,
+    "good_votes": 79482,
+    "invalid_votes": 2456,
+    "no_votes": 1714
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายรุ่งเพชร ศรีกาญจนา",
+      "party": "เพื่อไทย",
+      "votes": 36663,
+      "candidate_uuid": "74e6e415-0373-4065-af35-4258f9b6aa73",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายไชยา พรหมา",
+      "party": "กล้าธรรม",
+      "votes": 16062,
+      "candidate_uuid": "c41934b9-406a-46be-b6ed-e5094ade2920",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายนิติภูมิ ติวทอง",
+      "party": "ประชาชน",
+      "votes": 14496,
+      "candidate_uuid": "9a4a0054-1c46-42f3-bbc8-d88ccf7205b4",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางชญาน์นันท์ พิมพ์กิรติ",
+      "party": "ภูมิใจไทย",
+      "votes": 7705,
+      "candidate_uuid": "b0d22b8d-4b8f-4d78-a583-16219e5c5bc3",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวณัฐนันท์ พรมนิล",
+      "party": "เศรษฐกิจ",
+      "votes": 1823,
+      "candidate_uuid": "fae7dbec-7689-40c6-afda-7fef37779b65",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายทรงศักดิ์ ศิริสถิตย์",
+      "party": "พลังประชารัฐ",
+      "votes": 832,
+      "candidate_uuid": "ddc2e065-871f-4f65-bec9-0262c3a29246",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสยามรัฐ ศรีบัวเผื่อน",
+      "party": "ประชาธิปัตย์",
+      "votes": 795,
+      "candidate_uuid": "8d7ff492-6260-4779-bcc1-11ea2eb355f8",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายวุฒิพงษ์ ราชโยธา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 420,
+      "candidate_uuid": "5436c13d-9b16-42b0-8d59-c8a6cfe1e2ed",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายประสิทธิ์ พลศักดิ์ขวา",
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 249,
+      "candidate_uuid": "9c43b89a-96d7-48ca-99fc-833211349fa5",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชัยวัฒน์ มูลแก้ว",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 246,
+      "candidate_uuid": "d80c6155-0923-4a3d-a864-f28d37005fdf",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางวาสนา ดอกเข็ม",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 191,
+      "candidate_uuid": "d38cf19c-1e13-4427-9714-c2c02d260247",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

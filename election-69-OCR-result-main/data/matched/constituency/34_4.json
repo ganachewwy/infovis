@@ -1,0 +1,153 @@
+{
+  "province_name": "อุบลราชธานี",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 150321,
+    "1.2": 112955,
+    "2.1": 152140,
+    "2.2": 112955,
+    "2.3": 39185,
+    "3.1": 106018,
+    "3.2": 0,
+    "3.3": 6937,
+    "3.4": 112955,
+    "4.1": 100779,
+    "4.2": 5245,
+    "4.3": 6931
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวกิตติ์ธัญญา วาจาดี",
+      "party": "เพื่อไทย",
+      "votes": 37794
+    },
+    {
+      "number": 6,
+      "name": "นายสุพล ฟองงาม",
+      "party": "กล้าธรรม",
+      "votes": 28643
+    },
+    {
+      "number": 3,
+      "name": "นางสาวพุทธชาด จินตะเวช",
+      "party": "ประชาชน",
+      "votes": 27899
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐพงศ์ บุญทวี",
+      "party": "ประชาธิปัตย์",
+      "votes": 2051
+    },
+    {
+      "number": 4,
+      "name": "นายรินไท มุ่งมาจน",
+      "party": "สัมมาธิปไตย",
+      "votes": 1504
+    },
+    {
+      "number": 7,
+      "name": "นายอภิชาต วรโชติวิวรรธน์",
+      "party": "ไทยสร้างไทย",
+      "votes": 1276
+    },
+    {
+      "number": 2,
+      "name": "นายเข็มทอง แก้วเนตร",
+      "party": "พลังประชารัฐ",
+      "votes": 1195
+    },
+    {
+      "number": 8,
+      "name": "นางสุพัฒน์ นามมุงคุณ",
+      "party": "ทางเลือกใหม่",
+      "votes": 417
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/77. อุบลราชธานี เขต 4.json",
+  "_validation": {
+    "vote_sum": 100779,
+    "good_votes": 100779,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "34",
+  "province_name_normalized": "อุบลราชธานี",
+  "summary": {
+    "eligible_voters": 150321,
+    "voters_came": 112955,
+    "ballots_received": 152140,
+    "ballots_used": 112955,
+    "good_votes": 100779,
+    "invalid_votes": 5245,
+    "no_votes": 6931
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวกิตติ์ธัญญา วาจาดี",
+      "party": "เพื่อไทย",
+      "votes": 37794,
+      "candidate_uuid": "6a447854-1c82-409a-9116-9005d5950935",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสุพล ฟองงาม",
+      "party": "กล้าธรรม",
+      "votes": 28643,
+      "candidate_uuid": "1194abef-e772-4bb9-be2a-2527cc932fcb",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวพุทธชาด จินตะเวช",
+      "party": "ประชาชน",
+      "votes": 27899,
+      "candidate_uuid": "5e6fb484-c643-4abd-9e98-bded7ece1127",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐพงศ์ บุญทวี",
+      "party": "ประชาธิปัตย์",
+      "votes": 2051,
+      "candidate_uuid": "1649d52e-042d-4b88-891c-53f894dfb746",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายรินไท มุ่งมาจน",
+      "party": "สัมมาธิปไตย",
+      "votes": 1504,
+      "candidate_uuid": "6cce8dac-ba9f-4e2e-8214-03a3ded4c420",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอภิชาต วรโชติวิวรรธน์",
+      "party": "ไทยสร้างไทย",
+      "votes": 1276,
+      "candidate_uuid": "cd56a4b2-c168-4271-89f7-e30de1d0d85e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายเข็มทอง แก้วเนตร",
+      "party": "พลังประชารัฐ",
+      "votes": 1195,
+      "candidate_uuid": "2263268a-e954-4380-8831-e6bb2902aa3c",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสุพัฒน์ นามมุงคุณ",
+      "party": "ทางเลือกใหม่",
+      "votes": 417,
+      "candidate_uuid": "76037d2c-947c-4a5d-8c94-b0a333f2fbc5",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

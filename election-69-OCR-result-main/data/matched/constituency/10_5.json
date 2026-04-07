@@ -1,0 +1,265 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133983,
+    "1.2": 96561,
+    "2.1": 130040,
+    "2.2": 96561,
+    "2.3": 33479,
+    "3.1": 91001,
+    "3.2": 89,
+    "3.3": 5471,
+    "3.4": 96561,
+    "4.1": 90792,
+    "4.2": 1289,
+    "4.3": 4480
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายปิติกรณ์ บรรณเภสัช",
+      "party": "ประชาชน",
+      "votes": 45269
+    },
+    {
+      "number": 4,
+      "name": "นายประเดิมชัย บุญช่วยเหลือ",
+      "party": "ภูมิใจไทย",
+      "votes": 22252
+    },
+    {
+      "number": 12,
+      "name": "นายนนธนัตถ์ บุนนาค",
+      "party": "ประชาธิปัตย์",
+      "votes": 10035
+    },
+    {
+      "number": 13,
+      "name": "นายขจรศักดิ์ ประดิษฐาน",
+      "party": "เพื่อไทย",
+      "votes": 6474
+    },
+    {
+      "number": 8,
+      "name": "นางสาวสุภกฤตา ธงไชย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1741
+    },
+    {
+      "number": 2,
+      "name": "นายศุข ศักด์ณรงค์เดช",
+      "party": "กล้าธรรม",
+      "votes": 1056
+    },
+    {
+      "number": 9,
+      "name": "นายมานิตย์ ทองประชาญ",
+      "party": "เศรษฐกิจ",
+      "votes": 987
+    },
+    {
+      "number": 3,
+      "name": "นายประสพ โกมลมาศ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 526
+    },
+    {
+      "number": 5,
+      "name": "นายปณิธิ บวรวนิชยกูร",
+      "party": "รักชาติ",
+      "votes": 569
+    },
+    {
+      "number": 7,
+      "name": "นายปฏิวัติ ตรองจิตต์",
+      "party": "ไทยสร้างไทย",
+      "votes": 507
+    },
+    {
+      "number": 14,
+      "name": "นางสาวเฌอมินทร์ สถิตโอฬารโรจน์",
+      "party": "ปวงชนไทย",
+      "votes": 409
+    },
+    {
+      "number": 11,
+      "name": "นายทนัฏฐ์ ปานโสภณ",
+      "party": "พลวัต",
+      "votes": 245
+    },
+    {
+      "number": 10,
+      "name": "นางสาวบุณยนุช ปทิตหิรัณยา",
+      "party": "พลังประชารัฐ",
+      "votes": 231
+    },
+    {
+      "number": 1,
+      "name": "นายถวิล รัตตะมณี",
+      "party": "โอกาสใหม่",
+      "votes": 220
+    },
+    {
+      "number": 16,
+      "name": "นายวศิน รัตตะรังสี",
+      "party": "วิชชั่นใหม่",
+      "votes": 159
+    },
+    {
+      "number": 15,
+      "name": "นายณัฐสุรัช หงษ์วิจิตปรีชา",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 112
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 5.json",
+  "_validation": {
+    "vote_sum": 90792,
+    "good_votes": 90792,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 133983,
+    "voters_came": 96561,
+    "ballots_received": 130040,
+    "ballots_used": 96561,
+    "good_votes": 90792,
+    "invalid_votes": 1289,
+    "no_votes": 4480
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายปิติกรณ์ บรรณเภสัช",
+      "party": "ประชาชน",
+      "votes": 45269,
+      "candidate_uuid": "db8ce7ea-49fc-4dc4-85d2-387b39a12ea0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายประเดิมชัย บุญช่วยเหลือ",
+      "party": "ภูมิใจไทย",
+      "votes": 22252,
+      "candidate_uuid": "17449a8e-741d-4ad8-9870-17c8431ac0ca",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายนนธนัตถ์ บุนนาค",
+      "party": "ประชาธิปัตย์",
+      "votes": 10035,
+      "candidate_uuid": "2daa71bc-21dc-4676-b9a9-3f82209b6e17",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายขจรศักดิ์ ประดิษฐาน",
+      "party": "เพื่อไทย",
+      "votes": 6474,
+      "candidate_uuid": "401a7b03-03f6-401d-8ef3-e595820d3e4b",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวสุภกฤตา ธงไชย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1741,
+      "candidate_uuid": "e0ed80b0-e47a-4d93-9826-38fd5dbeb2b8",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายศุข ศักด์ณรงค์เดช",
+      "party": "กล้าธรรม",
+      "votes": 1056,
+      "candidate_uuid": "1411e7f7-f717-4282-86a3-694382a664c2",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายมานิตย์ ทองประชาญ",
+      "party": "เศรษฐกิจ",
+      "votes": 987,
+      "candidate_uuid": "36401578-e190-49ad-8404-f0005ab61726",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายประสพ โกมลมาศ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 526,
+      "candidate_uuid": "f09a9406-5772-422c-ae19-0b5584ec704d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายปณิธิ บวรวนิชยกูร",
+      "party": "รักชาติ",
+      "votes": 569,
+      "candidate_uuid": "e5db20d8-c0bd-4832-b025-d47caf4eed5e",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายปฏิวัติ ตรองจิตต์",
+      "party": "ไทยสร้างไทย",
+      "votes": 507,
+      "candidate_uuid": "b7b7239d-5485-416c-91b1-f9e6a8832f28",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นางสาวเฌอมินทร์ สถิตโอฬารโรจน์",
+      "party": "ปวงชนไทย",
+      "votes": 409,
+      "candidate_uuid": "6c84dec2-e7d0-4449-b154-271df6f28786",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายทนัฏฐ์ ปานโสภณ",
+      "party": "พลวัต",
+      "votes": 245,
+      "candidate_uuid": "51e8edc5-dd71-425b-972a-3094debf4df3",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวบุณยนุช ปทิตหิรัณยา",
+      "party": "พลังประชารัฐ",
+      "votes": 231,
+      "candidate_uuid": "e4558bd5-c755-4302-b27b-f2b8a8f86c57",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายถวิล รัตตะมณี",
+      "party": "โอกาสใหม่",
+      "votes": 220,
+      "candidate_uuid": "c3f45d50-5a84-4bd2-abae-f24a496471ed",
+      "is_active": true
+    },
+    {
+      "number": 16,
+      "name": "นายวศิน รัตตะรังสี",
+      "party": "วิชชั่นใหม่",
+      "votes": 159,
+      "candidate_uuid": "b2c5636f-d59d-40e8-b970-2dfb890fd2ee",
+      "is_active": true
+    },
+    {
+      "number": 15,
+      "name": "นายณัฐสุรัช หงษ์วิจิตปรีชา",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 112,
+      "candidate_uuid": "b247ed8b-42ec-45cb-91bb-560f20621576",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,195 @@
+{
+  "province_name": "นนทบุรี",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 121283,
+    "1.2": 96509,
+    "2.1": 131778,
+    "2.2": 96509,
+    "2.3": 35269,
+    "3.1": 92651,
+    "3.2": 8,
+    "3.3": 3850,
+    "3.4": 96509,
+    "4.1": 88860,
+    "4.2": 2063,
+    "4.3": 5586
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายสุธี ทองสวัสดิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2172
+    },
+    {
+      "number": 2,
+      "name": "นายจำลอง ขำสา",
+      "party": "เพื่อไทย",
+      "votes": 9038
+    },
+    {
+      "number": 3,
+      "name": "นายนนท์ ไพศาลลิ้มเจริญกิจ",
+      "party": "ประชาชน",
+      "votes": 36631
+    },
+    {
+      "number": 4,
+      "name": "นายวัชรพล เจริญนนทสิทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 5349
+    },
+    {
+      "number": 5,
+      "name": "นายเดชาวัจน์ รดีฉัตรภิรมย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 4255
+    },
+    {
+      "number": 6,
+      "name": "นายณัฐชโนดม แห่งวงศ์งาม",
+      "party": "ประชากรไทย",
+      "votes": 969
+    },
+    {
+      "number": 7,
+      "name": "นายอดุล จันทร์แก้ว",
+      "party": "ภูมิใจไทย",
+      "votes": 26846
+    },
+    {
+      "number": 8,
+      "name": "พ.ต.อ. ประเสริฐ พ่วงสุด",
+      "party": "เศรษฐกิจ",
+      "votes": 1957
+    },
+    {
+      "number": 9,
+      "name": "นายมนูญ พรหมลักษณ์",
+      "party": "พลังประชารัฐ",
+      "votes": 852
+    },
+    {
+      "number": 10,
+      "name": "นางสาวสุธาพร จีนสุข",
+      "party": "ทางเลือกใหม่",
+      "votes": 331
+    },
+    {
+      "number": 11,
+      "name": "นายธีร์วริศ ธรรมนารักษ์",
+      "party": "ฟิวชัน",
+      "votes": 460
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/24. นนทบุรี เขต 8.json",
+  "_validation": {
+    "vote_sum": 88860,
+    "good_votes": 88860,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "12",
+  "province_name_normalized": "นนทบุรี",
+  "summary": {
+    "eligible_voters": 121283,
+    "voters_came": 96509,
+    "ballots_received": 131778,
+    "ballots_used": 96509,
+    "good_votes": 88860,
+    "invalid_votes": 2063,
+    "no_votes": 5586
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายสุธี ทองสวัสดิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2172,
+      "candidate_uuid": "f12ae76d-5400-46e6-98b7-0373de274363",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายจำลอง ขำสา",
+      "party": "เพื่อไทย",
+      "votes": 9038,
+      "candidate_uuid": "8ccaf207-9198-4865-953a-7b9681000407",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายนนท์ ไพศาลลิ้มเจริญกิจ",
+      "party": "ประชาชน",
+      "votes": 36631,
+      "candidate_uuid": "5e033095-7581-490f-a4f6-ff738d12e114",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวัชรพล เจริญนนทสิทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 5349,
+      "candidate_uuid": "1c0b4730-9b63-423f-bd7e-04e3293ce5a4",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเดชาวัจน์ รดีฉัตรภิรมย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 4255,
+      "candidate_uuid": "02fb07ea-49ae-4be9-991d-9120aa1e95d4",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายณัฐชโนดม แห่งวงศ์งาม",
+      "party": "ประชากรไทย",
+      "votes": 969,
+      "candidate_uuid": "e9a654c5-fae3-4670-8fd0-65a657a1ca44",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอดุล จันทร์แก้ว",
+      "party": "ภูมิใจไทย",
+      "votes": 26846,
+      "candidate_uuid": "17eed332-2d49-4d18-80c5-f5fc894a9ef9",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "พ.ต.อ. ประเสริฐ พ่วงสุด",
+      "party": "เศรษฐกิจ",
+      "votes": 1957,
+      "candidate_uuid": "9dc8a849-f54d-49e7-87f5-ca2086eaf46b",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายมนูญ พรหมลักษณ์",
+      "party": "พลังประชารัฐ",
+      "votes": 852,
+      "candidate_uuid": "3a23a521-7354-4f30-9bc8-02ef71b862ea",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวสุธาพร จีนสุข",
+      "party": "ทางเลือกใหม่",
+      "votes": 331,
+      "candidate_uuid": "c8862d1e-d983-417c-a235-70cbdfc840a9",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายธีร์วริศ ธรรมนารักษ์",
+      "party": "ฟิวชัน",
+      "votes": 460,
+      "candidate_uuid": "8e0f90f9-da31-4732-9815-81d835b5bcd9",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,167 @@
+{
+  "province_name": "สุรินทร์",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137349,
+    "1.2": 84655,
+    "2.1": 139802,
+    "2.2": 84655,
+    "2.3": 55147,
+    "3.1": 75687,
+    "3.2": 6,
+    "3.3": 8962,
+    "3.4": 84655,
+    "4.1": 79639,
+    "4.2": 2774,
+    "4.3": 2242
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นางสาวผกามาศ เจริญพันธ์",
+      "party": "ภูมิใจไทย",
+      "votes": 50333
+    },
+    {
+      "number": 1,
+      "name": "นายกันตภณ มิตรปราสาท",
+      "party": "ประชาชน",
+      "votes": 14826
+    },
+    {
+      "number": 7,
+      "name": "นายคุณากร ปรีชาชนะชัย",
+      "party": "เพื่อไทย",
+      "votes": 10467
+    },
+    {
+      "number": 3,
+      "name": "นายกวิน เตียวเจริญโสภา",
+      "party": "พลังประชารัฐ",
+      "votes": 1002
+    },
+    {
+      "number": 5,
+      "name": "นางกานดาพร พิเลิศ",
+      "party": "ปวงชนไทย",
+      "votes": 993
+    },
+    {
+      "number": 2,
+      "name": "นายไพรยวน พันธ์สีดา",
+      "party": "เศรษฐกิจ",
+      "votes": 971
+    },
+    {
+      "number": 8,
+      "name": "นายสุริยะ บัวบาน",
+      "party": "ประชาธิปัตย์",
+      "votes": 413
+    },
+    {
+      "number": 9,
+      "name": "นายทันสมัย สุขบรรเทิง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 326
+    },
+    {
+      "number": 6,
+      "name": "นายเกียรติภูมิ กำลังหาญ",
+      "party": "กล้าธรรม",
+      "votes": 308
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/69. สุรินทร์ เขต 3.json",
+  "_validation": {
+    "vote_sum": 79639,
+    "good_votes": 79639,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "32",
+  "province_name_normalized": "สุรินทร์",
+  "summary": {
+    "eligible_voters": 137349,
+    "voters_came": 84655,
+    "ballots_received": 139802,
+    "ballots_used": 84655,
+    "good_votes": 79639,
+    "invalid_votes": 2774,
+    "no_votes": 2242
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นางสาวผกามาศ เจริญพันธ์",
+      "party": "ภูมิใจไทย",
+      "votes": 50333,
+      "candidate_uuid": "663800fa-3981-4514-9730-4f12e868299a",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายกันตภณ มิตรปราสาท",
+      "party": "ประชาชน",
+      "votes": 14826,
+      "candidate_uuid": "fd7c3035-7b53-4ea5-be10-995ec287d764",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายคุณากร ปรีชาชนะชัย",
+      "party": "เพื่อไทย",
+      "votes": 10467,
+      "candidate_uuid": "92d06e36-61cf-48ef-a7c0-9f3c4d418869",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกวิน เตียวเจริญโสภา",
+      "party": "พลังประชารัฐ",
+      "votes": 1002,
+      "candidate_uuid": "a4bb140c-05fb-43dd-89e7-c15e0c397600",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางกานดาพร พิเลิศ",
+      "party": "ปวงชนไทย",
+      "votes": 993,
+      "candidate_uuid": "01d35d03-f3fb-4025-9b21-322b10733434",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายไพรยวน พันธ์สีดา",
+      "party": "เศรษฐกิจ",
+      "votes": 971,
+      "candidate_uuid": "1c451c52-3f8d-4062-9bbd-a4aa6620741a",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุริยะ บัวบาน",
+      "party": "ประชาธิปัตย์",
+      "votes": 413,
+      "candidate_uuid": "4c71f9e8-e5cd-4d77-b819-ac8280bbc95f",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายทันสมัย สุขบรรเทิง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 326,
+      "candidate_uuid": "d57ef8c6-6ed3-4cad-982a-5a387986d2e4",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเกียรติภูมิ กำลังหาญ",
+      "party": "กล้าธรรม",
+      "votes": 308,
+      "candidate_uuid": "5487d1e0-8b26-4d80-bfdc-5f71d1d5c36b",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

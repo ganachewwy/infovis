@@ -1,0 +1,167 @@
+{
+  "province_name": "ร้อยเอ็ด",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132880,
+    "1.2": 85667,
+    "2.1": 121625,
+    "2.2": 85667,
+    "2.3": 35958,
+    "3.1": 79075,
+    "3.2": 7,
+    "3.3": 6585,
+    "3.4": 85667,
+    "4.1": 81733,
+    "4.2": 2196,
+    "4.3": 1738
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางรัชนี พลชื่อ",
+      "party": "กล้าธรรม",
+      "votes": 35999
+    },
+    {
+      "number": 5,
+      "name": "นายแทนรัฐ สุจารี",
+      "party": "เพื่อไทย",
+      "votes": 30119
+    },
+    {
+      "number": 6,
+      "name": "นายกษิเดช แก้วภูมิแห่",
+      "party": "ประชาชน",
+      "votes": 11133
+    },
+    {
+      "number": 3,
+      "name": "นางสาววาสินีพร พลเยี่ยม",
+      "party": "ภูมิใจไทย",
+      "votes": 1488
+    },
+    {
+      "number": 8,
+      "name": "นายธนาภัทร แก้วอรุณ",
+      "party": "เศรษฐกิจ",
+      "votes": 1345
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสิวินีย์ ปากชำนิ",
+      "party": "ประชาธิปัตย์",
+      "votes": 706
+    },
+    {
+      "number": 4,
+      "name": "นายร่วมภูมิศักดิ์ พลเยี่ยม",
+      "party": "พลังประชารัฐ",
+      "votes": 620
+    },
+    {
+      "number": 9,
+      "name": "นางสาวสนัฏฐา ขัติยนนท์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 237
+    },
+    {
+      "number": 7,
+      "name": "นายพงษ์ศักดิ์ เสียงใส",
+      "party": "พลังธรรมใหม่",
+      "votes": 86
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/48. ร้อยเอ็ด เขต 3.json",
+  "_validation": {
+    "vote_sum": 81733,
+    "good_votes": 81733,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "45",
+  "province_name_normalized": "ร้อยเอ็ด",
+  "summary": {
+    "eligible_voters": 132880,
+    "voters_came": 85667,
+    "ballots_received": 121625,
+    "ballots_used": 85667,
+    "good_votes": 81733,
+    "invalid_votes": 2196,
+    "no_votes": 1738
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางรัชนี พลชื่อ",
+      "party": "กล้าธรรม",
+      "votes": 35999,
+      "candidate_uuid": "361cdb3b-3197-4262-a1dd-60fee6d3ca3a",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายแทนรัฐ สุจารี",
+      "party": "เพื่อไทย",
+      "votes": 30119,
+      "candidate_uuid": "8570d823-d614-43f7-a2b5-2741845c5de9",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายกษิเดช แก้วภูมิแห่",
+      "party": "ประชาชน",
+      "votes": 11133,
+      "candidate_uuid": "9482f20b-8351-4f36-8a6e-1152534bc804",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาววาสินีพร พลเยี่ยม",
+      "party": "ภูมิใจไทย",
+      "votes": 1488,
+      "candidate_uuid": "bd841030-23fc-4d09-b5ae-b2287d82325d",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธนาภัทร แก้วอรุณ",
+      "party": "เศรษฐกิจ",
+      "votes": 1345,
+      "candidate_uuid": "3fa221b6-9efa-4543-bb69-a4a7a519fc41",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสิวินีย์ ปากชำนิ",
+      "party": "ประชาธิปัตย์",
+      "votes": 706,
+      "candidate_uuid": "8844cb93-46ec-4365-8913-decd6847e553",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายร่วมภูมิศักดิ์ พลเยี่ยม",
+      "party": "พลังประชารัฐ",
+      "votes": 620,
+      "candidate_uuid": "51c1e527-7eca-42d3-9e59-a86e530dc91d",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวสนัฏฐา ขัติยนนท์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 237,
+      "candidate_uuid": "855b43cf-5f1c-44e0-b5cc-8f9c93203c73",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพงษ์ศักดิ์ เสียงใส",
+      "party": "พลังธรรมใหม่",
+      "votes": 86,
+      "candidate_uuid": "9d9ad428-d692-4b4b-93cd-29dab220d2c9",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

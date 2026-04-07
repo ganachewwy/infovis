@@ -1,0 +1,153 @@
+{
+  "province_name": "สระแก้ว",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 151072,
+    "1.2": 101937,
+    "2.1": 153343,
+    "2.2": 101937,
+    "2.3": 51406,
+    "3.1": 96018,
+    "3.2": 17,
+    "3.3": 5902,
+    "3.4": 101937,
+    "4.1": 92868,
+    "4.2": 5224,
+    "4.3": 3845
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายสุรศักดิ์ ชิงนวรรณ์",
+      "party": "กล้าธรรม",
+      "votes": 38812
+    },
+    {
+      "number": 2,
+      "name": "นายสรวงศ์ เทียนทอง",
+      "party": "เพื่อไทย",
+      "votes": 32848
+    },
+    {
+      "number": 3,
+      "name": "พันตำรวจเอก ศตพัฒน์ พิมพ์คำ",
+      "party": "ประชาชน",
+      "votes": 13842
+    },
+    {
+      "number": 4,
+      "name": "นายศรีศักดิ์ ศูนย์โศรก",
+      "party": "เศรษฐกิจ",
+      "votes": 2378
+    },
+    {
+      "number": 5,
+      "name": "นายประสิทธิ์ แก้วประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 2324
+    },
+    {
+      "number": 6,
+      "name": "นายพรพล เอกอรรถพร",
+      "party": "ประชาธิปัตย์",
+      "votes": 1937
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนงรัตน์ จันทะมา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 484
+    },
+    {
+      "number": 8,
+      "name": "นายพูลศักดิ์ เย็นประสพ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 243
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/63. สระแก้ว เขต 3.json",
+  "_validation": {
+    "vote_sum": 92868,
+    "good_votes": 92868,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "27",
+  "province_name_normalized": "สระแก้ว",
+  "summary": {
+    "eligible_voters": 151072,
+    "voters_came": 101937,
+    "ballots_received": 153343,
+    "ballots_used": 101937,
+    "good_votes": 92868,
+    "invalid_votes": 5224,
+    "no_votes": 3845
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายสุรศักดิ์ ชิงนวรรณ์",
+      "party": "กล้าธรรม",
+      "votes": 38812,
+      "candidate_uuid": "9357a2c1-a153-48b7-8785-2e64e995cd56",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสรวงศ์ เทียนทอง",
+      "party": "เพื่อไทย",
+      "votes": 32848,
+      "candidate_uuid": "ebc66ecf-ddfb-494f-babe-a23e85535c04",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "พันตำรวจเอก ศตพัฒน์ พิมพ์คำ",
+      "party": "ประชาชน",
+      "votes": 13842,
+      "candidate_uuid": "71833fe4-c4d2-47e6-af9f-471d77c673d5",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายศรีศักดิ์ ศูนย์โศรก",
+      "party": "เศรษฐกิจ",
+      "votes": 2378,
+      "candidate_uuid": "3b661edc-e966-4832-9fd7-732e7a4f6c50",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายประสิทธิ์ แก้วประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 2324,
+      "candidate_uuid": "e48d063f-da1e-43df-9c6c-2f77424c8f67",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพรพล เอกอรรถพร",
+      "party": "ประชาธิปัตย์",
+      "votes": 1937,
+      "candidate_uuid": "3cd13a1b-fc7f-410b-b44f-aa93ae5ee359",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนงรัตน์ จันทะมา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 484,
+      "candidate_uuid": "c9c7f535-ea48-49e3-9dff-2744e6780b90",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายพูลศักดิ์ เย็นประสพ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 243,
+      "candidate_uuid": "fab63202-b65f-405d-b401-5fc2fbca6161",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

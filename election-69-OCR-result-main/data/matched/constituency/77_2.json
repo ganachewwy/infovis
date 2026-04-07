@@ -1,0 +1,167 @@
+{
+  "province_name": "ประจวบคีรีขันธ์",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 146320,
+    "1.2": 103565,
+    "2.1": 147550,
+    "2.2": 103565,
+    "2.3": 43985,
+    "3.1": 98625,
+    "3.2": 45,
+    "3.3": 4895,
+    "3.4": 103565,
+    "4.1": 96454,
+    "4.2": 2709,
+    "4.3": 4402
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายจักพันธ์ ปิยพรไพบูลย์",
+      "party": "กล้าธรรม",
+      "votes": 43420
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนักษา กาญจนคีรีรัตน์",
+      "party": "ประชาชน",
+      "votes": 22778
+    },
+    {
+      "number": 3,
+      "name": "นายอำนวย สุดกระแสร์",
+      "party": "ภูมิใจไทย",
+      "votes": 16535
+    },
+    {
+      "number": 2,
+      "name": "นายศิรพันธ์ กมลปราโมทย์",
+      "party": "โอกาสใหม่",
+      "votes": 5335
+    },
+    {
+      "number": 9,
+      "name": "นายเอกธิปป์ ตนประเสริฐ",
+      "party": "ประชาธิปัตย์",
+      "votes": 4627
+    },
+    {
+      "number": 4,
+      "name": "นายกฤษณะ พุกดำ",
+      "party": "เพื่อไทย",
+      "votes": 2240
+    },
+    {
+      "number": 6,
+      "name": "นายจรูญ เจริญศักดิ์",
+      "party": "มิติใหม่",
+      "votes": 617
+    },
+    {
+      "number": 5,
+      "name": "นางสาวมิ่งขวัญ น่วมทอง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 580
+    },
+    {
+      "number": 8,
+      "name": "นายสายันต์ รักเมือง",
+      "party": "ไทยสร้างไทย",
+      "votes": 322
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/30. ประจวบคีรีขันธ์ เขต 2.json",
+  "_validation": {
+    "vote_sum": 96454,
+    "good_votes": 96454,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "77",
+  "province_name_normalized": "ประจวบคีรีขันธ์",
+  "summary": {
+    "eligible_voters": 146320,
+    "voters_came": 103565,
+    "ballots_received": 147550,
+    "ballots_used": 103565,
+    "good_votes": 96454,
+    "invalid_votes": 2709,
+    "no_votes": 4402
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายจักพันธ์ ปิยพรไพบูลย์",
+      "party": "กล้าธรรม",
+      "votes": 43420,
+      "candidate_uuid": "02a67334-32cc-4aa9-8472-b9d480450fdf",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนักษา กาญจนคีรีรัตน์",
+      "party": "ประชาชน",
+      "votes": 22778,
+      "candidate_uuid": "5c3dcf93-a9b5-4928-943b-e609e52cd369",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอำนวย สุดกระแสร์",
+      "party": "ภูมิใจไทย",
+      "votes": 16535,
+      "candidate_uuid": "15812863-87cc-446b-b1b8-630344ad58e7",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายศิรพันธ์ กมลปราโมทย์",
+      "party": "โอกาสใหม่",
+      "votes": 5335,
+      "candidate_uuid": "eb826b96-e822-44a4-94e6-8707a9bbfcf2",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายเอกธิปป์ ตนประเสริฐ",
+      "party": "ประชาธิปัตย์",
+      "votes": 4627,
+      "candidate_uuid": "4f2e042d-b74e-451b-8304-751a84f82870",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกฤษณะ พุกดำ",
+      "party": "เพื่อไทย",
+      "votes": 2240,
+      "candidate_uuid": "953530d0-7650-4f2c-9d92-d3cafebeace2",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายจรูญ เจริญศักดิ์",
+      "party": "มิติใหม่",
+      "votes": 617,
+      "candidate_uuid": "54c392aa-0da1-45a4-931c-fceae5be7f11",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวมิ่งขวัญ น่วมทอง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 580,
+      "candidate_uuid": "887a749c-9d60-4c30-9ca3-e24c4dfd5920",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสายันต์ รักเมือง",
+      "party": "ไทยสร้างไทย",
+      "votes": 322,
+      "candidate_uuid": "415e0b53-319b-4010-83fa-0ad96461508f",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

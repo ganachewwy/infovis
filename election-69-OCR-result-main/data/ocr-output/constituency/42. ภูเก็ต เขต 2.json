@@ -1,0 +1,57 @@
+{
+  "province_name": "ภูเก็ต",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 107981,
+    "1.2": 71865,
+    "2.1": 110721,
+    "2.2": 71865,
+    "2.3": 38856,
+    "3.1": 67524,
+    "3.2": 0,
+    "3.3": 4441,
+    "3.4": 71865,
+    "4.1": 63459,
+    "4.2": 3012,
+    "4.3": 5394
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายเฉลิมพงศ์ แสงดี",
+      "party": "ประชาชน",
+      "votes": 24877
+    },
+    {
+      "number": 3,
+      "name": "นายษณกร กี่สิ้น",
+      "party": "ภูมิใจไทย",
+      "votes": 20405
+    },
+    {
+      "number": 5,
+      "name": "นายสมชาติ สมนาม",
+      "party": "ประชาธิปัตย์",
+      "votes": 13576
+    },
+    {
+      "number": 4,
+      "name": "นางณัฐพร ผาณิตพิเชฐวงศ์",
+      "party": "เพื่อไทย",
+      "votes": 2431
+    },
+    {
+      "number": 2,
+      "name": "นายอินทร์ เพชรหิน",
+      "party": "เศรษฐกิจ",
+      "votes": 2170
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/42. ภูเก็ต เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 63459,
+    "good_votes": 63459,
+    "sum_diff_pct": 0.0
+  }
+}

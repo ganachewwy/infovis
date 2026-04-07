@@ -1,0 +1,69 @@
+{
+  "province_name": "พัทลุง",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144343,
+    "1.2": 122372,
+    "2.1": 146284,
+    "2.2": 122372,
+    "2.3": 23912,
+    "3.1": 114959,
+    "3.2": 9,
+    "3.3": 7404,
+    "3.4": 122372,
+    "4.1": 117079,
+    "4.2": 2430,
+    "4.3": 2863
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวรท เทอดวีระพงศ์",
+      "party": "ภูมิใจไทย",
+      "votes": 58926
+    },
+    {
+      "number": 7,
+      "name": "นายนิติศักดิ์ ธรรมเพชร",
+      "party": "เพื่อไทย",
+      "votes": 35813
+    },
+    {
+      "number": 5,
+      "name": "นายภพเอกอัคร อินทรโม",
+      "party": "ประชาธิปัตย์",
+      "votes": 11831
+    },
+    {
+      "number": 2,
+      "name": "นายศุภกร ขุนชิต",
+      "party": "ประชาชน",
+      "votes": 8752
+    },
+    {
+      "number": 3,
+      "name": "พ.ต.อ.พงศ์พสิษฐ์ ทองด้วง",
+      "party": "กล้าธรรม",
+      "votes": 995
+    },
+    {
+      "number": 4,
+      "name": "นายอธิคม ขุนแก้ว",
+      "party": "ไทยก้าวใหม่",
+      "votes": 465
+    },
+    {
+      "number": 6,
+      "name": "นายสมเสริม ชูรักษ์",
+      "party": "พลวัต",
+      "votes": 297
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/36. พัทลุง เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 117079,
+    "good_votes": 117079,
+    "sum_diff_pct": 0.0
+  }
+}

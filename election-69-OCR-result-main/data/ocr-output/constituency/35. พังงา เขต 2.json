@@ -1,0 +1,57 @@
+{
+  "province_name": "พังงา",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 110773,
+    "1.2": 83093,
+    "2.1": 113035,
+    "2.2": 83093,
+    "2.3": 29942,
+    "3.1": 79238,
+    "3.2": 0,
+    "3.3": 3855,
+    "3.4": 83093,
+    "4.1": 75502,
+    "4.2": 2845,
+    "4.3": 4746
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายฉกาจ พัฒนกิจวิบูลย์",
+      "party": "ภูมิใจไทย",
+      "votes": 26513
+    },
+    {
+      "number": 2,
+      "name": "นายสมควร จันทร์แดง",
+      "party": "กล้าธรรม",
+      "votes": 23308
+    },
+    {
+      "number": 4,
+      "name": "นายกุศล ทนังผล",
+      "party": "ประชาธิปัตย์",
+      "votes": 12604
+    },
+    {
+      "number": 5,
+      "name": "นายธีรุตม์ สันหวัง",
+      "party": "ประชาชน",
+      "votes": 11249
+    },
+    {
+      "number": 6,
+      "name": "นางสาวพิจิกา อุราวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 1828
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/35. พังงา เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 75502,
+    "good_votes": 75502,
+    "sum_diff_pct": 0.0
+  }
+}

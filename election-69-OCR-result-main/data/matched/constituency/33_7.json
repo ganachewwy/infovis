@@ -1,0 +1,153 @@
+{
+  "province_name": "ศรีสะเกษ",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126857,
+    "1.2": 84203,
+    "2.1": 128820,
+    "2.2": 84203,
+    "2.3": 44617,
+    "3.1": 75882,
+    "3.2": 0,
+    "3.3": 8321,
+    "3.4": 84203,
+    "4.1": 78631,
+    "4.2": 4351,
+    "4.3": 1221
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นางสาววิลดา อินฉัตร",
+      "party": "เพื่อไทย",
+      "votes": 36190
+    },
+    {
+      "number": 1,
+      "name": "นายวิสุทธิ์ชาติ ปัญญาทรงรุจิ",
+      "party": "ภูมิใจไทย",
+      "votes": 31642
+    },
+    {
+      "number": 2,
+      "name": "พันตรีสราวุธ ศรีวัง",
+      "party": "ประชาชน",
+      "votes": 9181
+    },
+    {
+      "number": 4,
+      "name": "นายวิวัฒน์ชัย โหตระไวศยะ",
+      "party": "พลังประชารัฐ",
+      "votes": 544
+    },
+    {
+      "number": 5,
+      "name": "นายบุญคง วิลัยเลิศ",
+      "party": "ประชาธิปัตย์",
+      "votes": 441
+    },
+    {
+      "number": 3,
+      "name": "นายเจนอนันต์ คำศรี",
+      "party": "กล้าธรรม",
+      "votes": 263
+    },
+    {
+      "number": 7,
+      "name": "นายสมชัย ค่องอ้อย",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 278
+    },
+    {
+      "number": 8,
+      "name": "นายชัยณรงค์ ทรงงาม",
+      "party": "ประชากรไทย",
+      "votes": 92
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/56. ศรีสะเกษ เขต 7.json",
+  "_validation": {
+    "vote_sum": 78631,
+    "good_votes": 78631,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "33",
+  "province_name_normalized": "ศรีสะเกษ",
+  "summary": {
+    "eligible_voters": 126857,
+    "voters_came": 84203,
+    "ballots_received": 128820,
+    "ballots_used": 84203,
+    "good_votes": 78631,
+    "invalid_votes": 4351,
+    "no_votes": 1221
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นางสาววิลดา อินฉัตร",
+      "party": "เพื่อไทย",
+      "votes": 36190,
+      "candidate_uuid": "5c9dc757-950d-4908-ad80-c54c041ec9a0",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวิสุทธิ์ชาติ ปัญญาทรงรุจิ",
+      "party": "ภูมิใจไทย",
+      "votes": 31642,
+      "candidate_uuid": "04ffa3d9-df02-4a34-86bb-2452f6e7e2f5",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "พันตรีสราวุธ ศรีวัง",
+      "party": "ประชาชน",
+      "votes": 9181,
+      "candidate_uuid": "1988c0f0-4f7a-4852-9cea-c388ed93762b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิวัฒน์ชัย โหตระไวศยะ",
+      "party": "พลังประชารัฐ",
+      "votes": 544,
+      "candidate_uuid": "ef140c53-1be4-4512-ac16-235a4f83e605",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายบุญคง วิลัยเลิศ",
+      "party": "ประชาธิปัตย์",
+      "votes": 441,
+      "candidate_uuid": "322d4e01-5dba-467c-80ca-77512c552ed9",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเจนอนันต์ คำศรี",
+      "party": "กล้าธรรม",
+      "votes": 263,
+      "candidate_uuid": "11f43273-1641-4cff-b051-ee270c0e6ab8",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสมชัย ค่องอ้อย",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 278,
+      "candidate_uuid": "bfd05cc7-5810-4805-a9be-3682040c3b95",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชัยณรงค์ ทรงงาม",
+      "party": "ประชากรไทย",
+      "votes": 92,
+      "candidate_uuid": "70dc6200-d771-46f2-aaac-d36a8a6d617e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

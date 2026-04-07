@@ -1,0 +1,125 @@
+{
+  "province_name": "แพร่",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 121732,
+    "1.2": 84246,
+    "2.1": 115015,
+    "2.2": 84246,
+    "2.3": 30769,
+    "3.1": 76474,
+    "3.2": 0,
+    "3.3": 7772,
+    "3.4": 84246,
+    "4.1": 73590,
+    "4.2": 6065,
+    "4.3": 4591
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นางสาวลักษณารีย์ ดวงตาดำ",
+      "party": "ประชาชน",
+      "votes": 23987
+    },
+    {
+      "number": 2,
+      "name": "นายวรวัจน์ เอื้ออภิญญกุล",
+      "party": "เพื่อไทย",
+      "votes": 21539
+    },
+    {
+      "number": 1,
+      "name": "นายประสงค์ ซุ่มเชย",
+      "party": "ภูมิใจไทย",
+      "votes": 16448
+    },
+    {
+      "number": 3,
+      "name": "นายกฤติเดช สันติวชิระกุล",
+      "party": "กล้าธรรม",
+      "votes": 9327
+    },
+    {
+      "number": 6,
+      "name": "นายชูชาติ คำมา",
+      "party": "พลังประชารัฐ",
+      "votes": 1515
+    },
+    {
+      "number": 5,
+      "name": "นางพรรณพร สีใหม่",
+      "party": "ประชาธิปัตย์",
+      "votes": 774
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/41. แพร่ เขต 3.json",
+  "_validation": {
+    "vote_sum": 73590,
+    "good_votes": 73590,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "54",
+  "province_name_normalized": "แพร่",
+  "summary": {
+    "eligible_voters": 121732,
+    "voters_came": 84246,
+    "ballots_received": 115015,
+    "ballots_used": 84246,
+    "good_votes": 73590,
+    "invalid_votes": 6065,
+    "no_votes": 4591
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นางสาวลักษณารีย์ ดวงตาดำ",
+      "party": "ประชาชน",
+      "votes": 23987,
+      "candidate_uuid": "b5259b01-af49-4d3d-ad64-16a179abd89b",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวรวัจน์ เอื้ออภิญญกุล",
+      "party": "เพื่อไทย",
+      "votes": 21539,
+      "candidate_uuid": "71a22799-74b6-4215-bcd1-fa7555c47efc",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายประสงค์ ซุ่มเชย",
+      "party": "ภูมิใจไทย",
+      "votes": 16448,
+      "candidate_uuid": "4b439f2a-073d-4954-8659-34854cb6b6c4",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกฤติเดช สันติวชิระกุล",
+      "party": "กล้าธรรม",
+      "votes": 9327,
+      "candidate_uuid": "4256be6d-c559-4c91-a59a-713c1b090a52",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายชูชาติ คำมา",
+      "party": "พลังประชารัฐ",
+      "votes": 1515,
+      "candidate_uuid": "7669ce4b-2cb3-4e23-9717-8965d56c502d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางพรรณพร สีใหม่",
+      "party": "ประชาธิปัตย์",
+      "votes": 774,
+      "candidate_uuid": "bc27a95b-cf2d-454b-a5ca-e6d906a0d485",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

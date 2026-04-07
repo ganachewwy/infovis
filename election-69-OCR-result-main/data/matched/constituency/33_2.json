@@ -1,0 +1,195 @@
+{
+  "province_name": "ศรีสะเกษ",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128729,
+    "1.2": 85060,
+    "2.1": 133278,
+    "2.2": 85060,
+    "2.3": 48218,
+    "3.1": 78573,
+    "3.2": 8,
+    "3.3": 6479,
+    "3.4": 85060,
+    "4.1": 80721,
+    "4.2": 2485,
+    "4.3": 1854
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายศุภกิจ สีหาภาค",
+      "party": "ภูมิใจไทย",
+      "votes": 35712
+    },
+    {
+      "number": 2,
+      "name": "นายสุรชาติ ชาญประดิษฐ์",
+      "party": "เพื่อไทย",
+      "votes": 30103
+    },
+    {
+      "number": 1,
+      "name": "นายสุทธิรักษ์ บุญศักดิ์",
+      "party": "ประชาชน",
+      "votes": 10448
+    },
+    {
+      "number": 3,
+      "name": "นายสายชล เคหะธรรม",
+      "party": "รวมพลังประชาชน",
+      "votes": 1392
+    },
+    {
+      "number": 5,
+      "name": "นายพิทยา บุญเฉลียว",
+      "party": "กล้าธรรม",
+      "votes": 1166
+    },
+    {
+      "number": 6,
+      "name": "นางพิสมัย กุลบุตร",
+      "party": "เศรษฐกิจ",
+      "votes": 868
+    },
+    {
+      "number": 11,
+      "name": "นายอภิสิทธิ์ ธานี",
+      "party": "ทางเลือกใหม่",
+      "votes": 310
+    },
+    {
+      "number": 7,
+      "name": "นายวันชัย บุญเสนอ",
+      "party": "ประชาธิปัตย์",
+      "votes": 287
+    },
+    {
+      "number": 8,
+      "name": "นายสุรมิตร ศรีสุรักษ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 201
+    },
+    {
+      "number": 10,
+      "name": "นางสาวขวัญชนก เจริญธนาธิป",
+      "party": "ไทยก้าวใหม่",
+      "votes": 153
+    },
+    {
+      "number": 9,
+      "name": "นายสมยศ อำไพ",
+      "party": "ปวงชนไทย",
+      "votes": 81
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/56. ศรีสะเกษ เขต 2.json",
+  "_validation": {
+    "vote_sum": 80721,
+    "good_votes": 80721,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "33",
+  "province_name_normalized": "ศรีสะเกษ",
+  "summary": {
+    "eligible_voters": 128729,
+    "voters_came": 85060,
+    "ballots_received": 133278,
+    "ballots_used": 85060,
+    "good_votes": 80721,
+    "invalid_votes": 2485,
+    "no_votes": 1854
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายศุภกิจ สีหาภาค",
+      "party": "ภูมิใจไทย",
+      "votes": 35712,
+      "candidate_uuid": "389dc263-ecd0-486c-9e02-7fa51963d544",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสุรชาติ ชาญประดิษฐ์",
+      "party": "เพื่อไทย",
+      "votes": 30103,
+      "candidate_uuid": "8414988d-ec04-4386-a389-bf3ad685e404",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุทธิรักษ์ บุญศักดิ์",
+      "party": "ประชาชน",
+      "votes": 10448,
+      "candidate_uuid": "01af3d11-da40-4301-b00e-54ee73580ec5",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสายชล เคหะธรรม",
+      "party": "รวมพลังประชาชน",
+      "votes": 1392,
+      "candidate_uuid": "7d3fb549-d175-40fd-ba42-d4fc58b4c218",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายพิทยา บุญเฉลียว",
+      "party": "กล้าธรรม",
+      "votes": 1166,
+      "candidate_uuid": "aadc2ccd-ed5a-4123-8489-0f1fa15f597f",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางพิสมัย กุลบุตร",
+      "party": "เศรษฐกิจ",
+      "votes": 868,
+      "candidate_uuid": "9cd8574c-e81e-444f-bda6-584f89f64499",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายอภิสิทธิ์ ธานี",
+      "party": "ทางเลือกใหม่",
+      "votes": 310,
+      "candidate_uuid": "6d360197-b25f-44ab-8ab2-9e67897bd17a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวันชัย บุญเสนอ",
+      "party": "ประชาธิปัตย์",
+      "votes": 287,
+      "candidate_uuid": "cd6e1382-8aa3-4bb8-a0e8-eeafb5606d13",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุรมิตร ศรีสุรักษ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 201,
+      "candidate_uuid": "44ce0b6c-afd9-4e8f-856d-740051dad6e6",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวขวัญชนก เจริญธนาธิป",
+      "party": "ไทยก้าวใหม่",
+      "votes": 153,
+      "candidate_uuid": "7851493e-4688-43dd-855a-b0eb80bb3c7a",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสมยศ อำไพ",
+      "party": "ปวงชนไทย",
+      "votes": 81,
+      "candidate_uuid": "3048f816-c615-4094-ae7f-7a2e22a6547d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

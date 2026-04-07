@@ -1,0 +1,181 @@
+{
+  "province_name": "นนทบุรี",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127371,
+    "1.2": 92680,
+    "2.1": 131603,
+    "2.2": 92680,
+    "2.3": 38923,
+    "3.1": 88337,
+    "3.2": 5,
+    "3.3": 4338,
+    "3.4": 92680,
+    "4.1": 85203,
+    "4.2": 2198,
+    "4.3": 5279
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายกรณ์ มีดี",
+      "party": "ประชาชน",
+      "votes": 33461
+    },
+    {
+      "number": 7,
+      "name": "ว่าที่ร้อยตรีภาณุพงศ์ บรรดาศักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 27997
+    },
+    {
+      "number": 5,
+      "name": "นายมนตรี ตั้งเจริญถาวร",
+      "party": "เพื่อไทย",
+      "votes": 14692
+    },
+    {
+      "number": 6,
+      "name": "นายธิติธร เลิศเกียรติมงคล",
+      "party": "ประชาธิปัตย์",
+      "votes": 4054
+    },
+    {
+      "number": 1,
+      "name": "นายนนทพันธ์ อัครเจริญรัตน์",
+      "party": "เศรษฐกิจ",
+      "votes": 1501
+    },
+    {
+      "number": 10,
+      "name": "นางสาวณัฐปัณฑ์ ดาวเรือง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1279
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปุญชรัสมิ์ บุญมา",
+      "party": "พลวัต",
+      "votes": 868
+    },
+    {
+      "number": 8,
+      "name": "นายติณณ์ ธณกรณ์",
+      "party": "ทางเลือกใหม่",
+      "votes": 646
+    },
+    {
+      "number": 11,
+      "name": "นางดุษฎี เจริญสุข",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 359
+    },
+    {
+      "number": 3,
+      "name": "นายสุรเชษฐ ทองคำ",
+      "party": "กล้าธรรม",
+      "votes": 346
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/24. นนทบุรี เขต 4.json",
+  "_validation": {
+    "vote_sum": 85203,
+    "good_votes": 85203,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "12",
+  "province_name_normalized": "นนทบุรี",
+  "summary": {
+    "eligible_voters": 127371,
+    "voters_came": 92680,
+    "ballots_received": 131603,
+    "ballots_used": 92680,
+    "good_votes": 85203,
+    "invalid_votes": 2198,
+    "no_votes": 5279
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายกรณ์ มีดี",
+      "party": "ประชาชน",
+      "votes": 33461,
+      "candidate_uuid": "3b6d2b40-e459-45d6-ac7d-341bdf15f8b7",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "ว่าที่ร้อยตรีภาณุพงศ์ บรรดาศักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 27997,
+      "candidate_uuid": "193ca2da-d516-41ac-90d3-63eb49cc7655",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายมนตรี ตั้งเจริญถาวร",
+      "party": "เพื่อไทย",
+      "votes": 14692,
+      "candidate_uuid": "b1653da1-eab1-4a7b-bd3c-2a7e58cfe2fb",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธิติธร เลิศเกียรติมงคล",
+      "party": "ประชาธิปัตย์",
+      "votes": 4054,
+      "candidate_uuid": "6712deb9-6417-400e-bcd3-e4f6848a857d",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายนนทพันธ์ อัครเจริญรัตน์",
+      "party": "เศรษฐกิจ",
+      "votes": 1501,
+      "candidate_uuid": "5c4bc756-23cd-4a6a-bd00-e0f26f47c6d1",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวณัฐปัณฑ์ ดาวเรือง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1279,
+      "candidate_uuid": "64e10a37-f387-4e37-8fbe-c1d56b33fce0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวปุญชรัสมิ์ บุญมา",
+      "party": "พลวัต",
+      "votes": 868,
+      "candidate_uuid": "b9f2dd67-6e6a-4330-bf32-23c0aa8d3365",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายติณณ์ ธณกรณ์",
+      "party": "ทางเลือกใหม่",
+      "votes": 646,
+      "candidate_uuid": "83d8b71b-b1a5-4b66-ad42-45cde626c2de",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางดุษฎี เจริญสุข",
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 359,
+      "candidate_uuid": "069c0068-033a-4c66-84a3-0fcc875115b6",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสุรเชษฐ ทองคำ",
+      "party": "กล้าธรรม",
+      "votes": 346,
+      "candidate_uuid": "90c884a8-4402-47f9-a030-97c488f5dbe1",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

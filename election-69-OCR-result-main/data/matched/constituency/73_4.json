@@ -1,0 +1,153 @@
+{
+  "province_name": "นครปฐม",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128771,
+    "1.2": 105127,
+    "2.1": 132940,
+    "2.2": 105127,
+    "2.3": 27813,
+    "3.1": 102986,
+    "3.2": 2,
+    "3.3": 2139,
+    "3.4": 105127,
+    "4.1": 97930,
+    "4.2": 3676,
+    "4.3": 3521
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "พันเอก สุขชาต สะสมทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 50336
+    },
+    {
+      "number": 2,
+      "name": "นายกิตติภณ ปานพรหมมาศ",
+      "party": "ประชาชน",
+      "votes": 25879
+    },
+    {
+      "number": 4,
+      "name": "นายธนเดช สงวนพันธุ์",
+      "party": "กล้าธรรม",
+      "votes": 12206
+    },
+    {
+      "number": 5,
+      "name": "นายวินัย วิจิตรโสภณ",
+      "party": "เพื่อไทย",
+      "votes": 3798
+    },
+    {
+      "number": 6,
+      "name": "นายวิทิต เปี่ยมคล้า",
+      "party": "ประชาธิปัตย์",
+      "votes": 2304
+    },
+    {
+      "number": 7,
+      "name": "นางสาวศศิรัตน์ สุขแก้วฟ้า",
+      "party": "เศรษฐกิจ",
+      "votes": 1977
+    },
+    {
+      "number": 8,
+      "name": "นายยุทธ เสือบางพระ",
+      "party": "พลวัต",
+      "votes": 1067
+    },
+    {
+      "number": 9,
+      "name": "นายอนุชิต ปฐมพงศ์พิทักษ์",
+      "party": "รวมพลังสร้างชาติ",
+      "votes": 363
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/19. นครปฐม เขต 4.json",
+  "_validation": {
+    "vote_sum": 97930,
+    "good_votes": 97930,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "73",
+  "province_name_normalized": "นครปฐม",
+  "summary": {
+    "eligible_voters": 128771,
+    "voters_came": 105127,
+    "ballots_received": 132940,
+    "ballots_used": 105127,
+    "good_votes": 97930,
+    "invalid_votes": 3676,
+    "no_votes": 3521
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "พันเอก สุขชาต สะสมทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 50336,
+      "candidate_uuid": "a4c490ed-5231-469e-a808-679f46c56a4e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายกิตติภณ ปานพรหมมาศ",
+      "party": "ประชาชน",
+      "votes": 25879,
+      "candidate_uuid": "e3253b1c-9fe5-4d4e-ae83-2f5e7eb8fb47",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธนเดช สงวนพันธุ์",
+      "party": "กล้าธรรม",
+      "votes": 12206,
+      "candidate_uuid": "43e75dcc-d5fa-427a-94a1-fb6308890f58",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวินัย วิจิตรโสภณ",
+      "party": "เพื่อไทย",
+      "votes": 3798,
+      "candidate_uuid": "b1f35541-cde5-4245-8b37-27ef650d94ed",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายวิทิต เปี่ยมคล้า",
+      "party": "ประชาธิปัตย์",
+      "votes": 2304,
+      "candidate_uuid": "f148a543-f2a6-47be-aa60-81833dbb6096",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวศศิรัตน์ สุขแก้วฟ้า",
+      "party": "เศรษฐกิจ",
+      "votes": 1977,
+      "candidate_uuid": "667f751a-4f8b-4ad3-ad8b-4cf9a25659ea",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายยุทธ เสือบางพระ",
+      "party": "พลวัต",
+      "votes": 1067,
+      "candidate_uuid": "43888962-7c1f-49b5-845a-e086d746e8c6",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายอนุชิต ปฐมพงศ์พิทักษ์",
+      "party": "รวมพลังสร้างชาติ",
+      "votes": 363,
+      "candidate_uuid": "2ad03833-0a93-4092-a105-0251067a335f",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

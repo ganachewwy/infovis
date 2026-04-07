@@ -1,0 +1,63 @@
+{
+  "province_name": "สงขลา",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128135,
+    "1.2": 97311,
+    "2.1": 129603,
+    "2.2": 97311,
+    "2.3": 32292,
+    "3.1": 90458,
+    "3.2": 62,
+    "3.3": 6791,
+    "3.4": 97311,
+    "4.1": 86955,
+    "4.2": 2926,
+    "4.3": 7430
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายสรรเพชญ บุญญามณี",
+      "party": "ภูมิใจไทย",
+      "votes": 44252
+    },
+    {
+      "number": 4,
+      "name": "นายพิเชฎฐ พัฒนโชติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 21201
+    },
+    {
+      "number": 1,
+      "name": "นายสักกพันธุ์ อนันต์พงค์",
+      "party": "ประชาชน",
+      "votes": 19158
+    },
+    {
+      "number": 3,
+      "name": "นายสำราญ บุญเส้ง",
+      "party": "เพื่อไทย",
+      "votes": 1072
+    },
+    {
+      "number": 6,
+      "name": "นายเทพมณตรี พรมเมือง",
+      "party": "เศรษฐกิจ",
+      "votes": 921
+    },
+    {
+      "number": 5,
+      "name": "ร.ต.อ.สมศักดิ์ แสงประดับ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 351
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/58. สงขลา เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 86955,
+    "good_votes": 86955,
+    "sum_diff_pct": 0.0
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "province_name": "กาฬสินธุ์",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137299,
+    "1.2": 93903,
+    "2.1": 138741,
+    "2.2": 93903,
+    "2.3": 44838,
+    "3.1": 87274,
+    "3.2": 8,
+    "3.3": 6621,
+    "3.4": 93903,
+    "4.1": 89758,
+    "4.2": 2305,
+    "4.3": 1840
+  },
+  "results": [
+    {
+      "number": "&",
+      "name": "นางสาวบุญญาภา นาชัยเวียง ปุณณนิฏฐา",
+      "party": "ภูมิใจไทย",
+      "votes": 48271
+    },
+    {
+      "number": 1,
+      "name": "นายทินพล ศรีธเรศ",
+      "party": "เพื่อไทย",
+      "votes": 22785
+    },
+    {
+      "number": 8,
+      "name": "นายทวี ขาวผ่อง",
+      "party": "ประชาชน",
+      "votes": 12077
+    },
+    {
+      "number": 4,
+      "name": "นางวิไลพร นิพัฒน์",
+      "party": "โอกาสใหม่",
+      "votes": 4019
+    },
+    {
+      "number": 5,
+      "name": "นางรัศมี โพธะศรี",
+      "party": "เศรษฐกิจ",
+      "votes": 824
+    },
+    {
+      "number": 13,
+      "name": "นายวรพรต สมบัติมล",
+      "party": "ทางเลือกใหม่",
+      "votes": 457
+    },
+    {
+      "number": 2,
+      "name": "นายเริงชาติ ศรีขจรวงศ์",
+      "party": "กล้าธรรม",
+      "votes": 417
+    },
+    {
+      "number": 6,
+      "name": "นายทองหลอม ถิตย์สิทธิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 391
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตรีสินธร ไร่สงวน",
+      "party": "ประชากรไทย",
+      "votes": 250
+    },
+    {
+      "number": 7,
+      "name": "นายสุวิทย์ นันอำไพ",
+      "party": "ประชาธิปัตย์",
+      "votes": 204
+    },
+    {
+      "number": 10,
+      "name": "นายทวีคิด อุปกา",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 63
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/4. กาฬสินธุ์ เขต 5.json",
+  "_validation": {
+    "vote_sum": 89758,
+    "good_votes": 89758,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "46",
+  "province_name_normalized": "กาฬสินธุ์",
+  "summary": {
+    "eligible_voters": 137299,
+    "voters_came": 93903,
+    "ballots_received": 138741,
+    "ballots_used": 93903,
+    "good_votes": 89758,
+    "invalid_votes": 2305,
+    "no_votes": 1840
+  },
+  "matched_candidates": [
+    {
+      "number": "&",
+      "name": "นางสาวบุญญาภา นาชัยเวียง ปุณณนิฏฐา",
+      "party": "ภูมิใจไทย",
+      "votes": 48271,
+      "candidate_uuid": "51545b5c-67e8-4498-a730-8ce639de63fd",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายทินพล ศรีธเรศ",
+      "party": "เพื่อไทย",
+      "votes": 22785,
+      "candidate_uuid": "dcce3995-1470-47c9-9f54-0886b44e07b9",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายทวี ขาวผ่อง",
+      "party": "ประชาชน",
+      "votes": 12077,
+      "candidate_uuid": "d0b27443-6f5c-4a17-9add-d07d30ac967c",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางวิไลพร นิพัฒน์",
+      "party": "โอกาสใหม่",
+      "votes": 4019,
+      "candidate_uuid": "e488474f-4026-45c1-9c1e-96a579e08709",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางรัศมี โพธะศรี",
+      "party": "เศรษฐกิจ",
+      "votes": 824,
+      "candidate_uuid": "deaa4d00-14f4-4048-8a24-b141305a243e",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายวรพรต สมบัติมล",
+      "party": "ทางเลือกใหม่",
+      "votes": 457,
+      "candidate_uuid": "08bc0546-45b0-4505-8961-78b0a71ddac0",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายเริงชาติ ศรีขจรวงศ์",
+      "party": "กล้าธรรม",
+      "votes": 417,
+      "candidate_uuid": "41cd72fb-d9ce-4c0b-b0fd-be748331c57b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายทองหลอม ถิตย์สิทธิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 391,
+      "candidate_uuid": "8ca7921f-c107-4247-9c30-61baba3c55ed",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตรีสินธร ไร่สงวน",
+      "party": "ประชากรไทย",
+      "votes": 250,
+      "candidate_uuid": "17ddcffb-931d-4bde-9dda-b1cc1b9c72e5",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุวิทย์ นันอำไพ",
+      "party": "ประชาธิปัตย์",
+      "votes": 204,
+      "candidate_uuid": "03223b65-61ee-4a31-b7af-97fe06ad1b4b",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายทวีคิด อุปกา",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 63,
+      "candidate_uuid": "d3ce9045-8603-4af2-bf4c-dc7e9ae0a2ac",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

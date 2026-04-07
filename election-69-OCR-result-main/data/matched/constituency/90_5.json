@@ -1,0 +1,125 @@
+{
+  "province_name": "สงขลา",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129703,
+    "1.2": 104525,
+    "2.1": 131266,
+    "2.2": 104525,
+    "2.3": 26741,
+    "3.1": 100448,
+    "3.2": 2,
+    "3.3": 4075,
+    "3.4": 104525,
+    "4.1": 93808,
+    "4.2": 3913,
+    "4.3": 6804
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายวงศ์วชร ขาวทอง",
+      "party": "กล้าธรรม",
+      "votes": 51130
+    },
+    {
+      "number": 2,
+      "name": "นายปรีชา สุขเกษม",
+      "party": "ประชาธิปัตย์",
+      "votes": 25390
+    },
+    {
+      "number": 5,
+      "name": "นายสุวรรณ อ่อนรักษ์",
+      "party": "ประชาชน",
+      "votes": 11192
+    },
+    {
+      "number": 4,
+      "name": "นายอภิชาติ ลาพินี",
+      "party": "ภูมิใจไทย",
+      "votes": 2558
+    },
+    {
+      "number": 1,
+      "name": "นายสะหาก หมุดตะเหล็บ",
+      "party": "เพื่อไทย",
+      "votes": 2233
+    },
+    {
+      "number": 6,
+      "name": "นายวันอับดุลเลาะฮ์ หลัะติหมะ",
+      "party": "เศรษฐกิจ",
+      "votes": 1305
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/58. สงขลา เขต 5.json",
+  "_validation": {
+    "vote_sum": 93808,
+    "good_votes": 93808,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "90",
+  "province_name_normalized": "สงขลา",
+  "summary": {
+    "eligible_voters": 129703,
+    "voters_came": 104525,
+    "ballots_received": 131266,
+    "ballots_used": 104525,
+    "good_votes": 93808,
+    "invalid_votes": 3913,
+    "no_votes": 6804
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายวงศ์วชร ขาวทอง",
+      "party": "กล้าธรรม",
+      "votes": 51130,
+      "candidate_uuid": "2f081e31-6790-44fa-ac66-18c366d55591",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายปรีชา สุขเกษม",
+      "party": "ประชาธิปัตย์",
+      "votes": 25390,
+      "candidate_uuid": "646306fb-eb2b-47dd-809e-59d50df9bc00",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสุวรรณ อ่อนรักษ์",
+      "party": "ประชาชน",
+      "votes": 11192,
+      "candidate_uuid": "2ccd9db1-5d57-426b-803a-4b6088dbd9d0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอภิชาติ ลาพินี",
+      "party": "ภูมิใจไทย",
+      "votes": 2558,
+      "candidate_uuid": "ee2d869a-2129-4f7c-b0d5-f90805e34f7b",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสะหาก หมุดตะเหล็บ",
+      "party": "เพื่อไทย",
+      "votes": 2233,
+      "candidate_uuid": "141335e3-5bf5-48f9-b0df-62918c723f5c",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายวันอับดุลเลาะฮ์ หลัะติหมะ",
+      "party": "เศรษฐกิจ",
+      "votes": 1305,
+      "candidate_uuid": "e1c75f66-6377-4c6c-8c0a-f975e82591b8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

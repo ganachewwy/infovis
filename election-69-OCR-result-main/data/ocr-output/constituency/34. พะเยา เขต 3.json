@@ -1,0 +1,57 @@
+{
+  "province_name": "พะเยา",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130337,
+    "1.2": 97854,
+    "2.1": 135206,
+    "2.2": 97854,
+    "2.3": 37352,
+    "3.1": 89448,
+    "3.2": 0,
+    "3.3": 8406,
+    "3.4": 97854,
+    "4.1": 89651,
+    "4.2": 4715,
+    "4.3": 3488
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายจีรเดช ศรีวิราช",
+      "party": "กล้าธรรม",
+      "votes": 59470
+    },
+    {
+      "number": 2,
+      "name": "นายรุ่งวิกรัย ครุฑธิยัง",
+      "party": "ประชาชน",
+      "votes": 16950
+    },
+    {
+      "number": 3,
+      "name": "นายอำนาจ วิชัย",
+      "party": "เพื่อไทย",
+      "votes": 11518
+    },
+    {
+      "number": 4,
+      "name": "นายศรายุทธ หน่อแก้ว",
+      "party": "ภูมิใจไทย",
+      "votes": 979
+    },
+    {
+      "number": 5,
+      "name": "นายสุรพล เต็มสวัสดิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 734
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/34. พะเยา เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 89651,
+    "good_votes": 89651,
+    "sum_diff_pct": 0.0
+  }
+}

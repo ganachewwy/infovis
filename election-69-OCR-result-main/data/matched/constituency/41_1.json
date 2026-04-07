@@ -1,0 +1,167 @@
+{
+  "province_name": "อุดรธานี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 127011,
+    "1.2": 84507,
+    "2.1": 128544,
+    "2.2": 84507,
+    "2.3": 44037,
+    "3.1": 76767,
+    "3.2": 46,
+    "3.3": 7694,
+    "3.4": 84507,
+    "4.1": 76456,
+    "4.2": 2420,
+    "4.3": 5631
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายอานันท์ อมรินทร์",
+      "party": "ประชาชน",
+      "votes": 30558
+    },
+    {
+      "number": 2,
+      "name": "นายโกเมนทร์ ทีฆธนานนท์",
+      "party": "เพื่อไทย",
+      "votes": 29040
+    },
+    {
+      "number": 4,
+      "name": "นายรัชพล พุทธรักษา",
+      "party": "ภูมิใจไทย",
+      "votes": 8196
+    },
+    {
+      "number": 6,
+      "name": "นายสุรพล อนันตโสภณ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2035
+    },
+    {
+      "number": 7,
+      "name": "นายสถาพร โคตบุตร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1949
+    },
+    {
+      "number": 1,
+      "name": "นายเพชรสยาม เจนหัตถ์นามเสนา",
+      "party": "เศรษฐกิจ",
+      "votes": 1877
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตรี สง่า เหลืองอร่าม",
+      "party": "ประชากรไทย",
+      "votes": 1648
+    },
+    {
+      "number": 8,
+      "name": "นายวิฑูรย์ นามคุณ",
+      "party": "กล้าธรรม",
+      "votes": 869
+    },
+    {
+      "number": 9,
+      "name": "พันตำรวจเอก พินทุรัตน์ ศิริขันธ์ เสนาไชย",
+      "party": "พลังประชารัฐ",
+      "votes": 284
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/74. อุดรธานี เขต 1.json",
+  "_validation": {
+    "vote_sum": 76456,
+    "good_votes": 76456,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "41",
+  "province_name_normalized": "อุดรธานี",
+  "summary": {
+    "eligible_voters": 127011,
+    "voters_came": 84507,
+    "ballots_received": 128544,
+    "ballots_used": 84507,
+    "good_votes": 76456,
+    "invalid_votes": 2420,
+    "no_votes": 5631
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายอานันท์ อมรินทร์",
+      "party": "ประชาชน",
+      "votes": 30558,
+      "candidate_uuid": "2c0db14f-82e0-41f6-9819-35018842ad8f",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายโกเมนทร์ ทีฆธนานนท์",
+      "party": "เพื่อไทย",
+      "votes": 29040,
+      "candidate_uuid": "a4949b7d-ebf6-4b95-912e-07d122627004",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายรัชพล พุทธรักษา",
+      "party": "ภูมิใจไทย",
+      "votes": 8196,
+      "candidate_uuid": "6f18db40-fdf3-48af-95ae-676499289b56",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสุรพล อนันตโสภณ",
+      "party": "ประชาธิปัตย์",
+      "votes": 2035,
+      "candidate_uuid": "5e254dcf-513d-45d4-8470-a635c29d8a06",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสถาพร โคตบุตร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1949,
+      "candidate_uuid": "8b7d9b3d-7b4f-4d4b-b834-2b9b72cf44e6",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเพชรสยาม เจนหัตถ์นามเสนา",
+      "party": "เศรษฐกิจ",
+      "votes": 1877,
+      "candidate_uuid": "0e31ba57-7e1b-4c0d-9bba-c85f2daa9763",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตรี สง่า เหลืองอร่าม",
+      "party": "ประชากรไทย",
+      "votes": 1648,
+      "candidate_uuid": "074e04cf-f8cf-4146-b45b-7b9ac2124374",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวิฑูรย์ นามคุณ",
+      "party": "กล้าธรรม",
+      "votes": 869,
+      "candidate_uuid": "34fe33bd-7306-4805-929a-acbbbb25efe5",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "พันตำรวจเอก พินทุรัตน์ ศิริขันธ์ เสนาไชย",
+      "party": "พลังประชารัฐ",
+      "votes": 284,
+      "candidate_uuid": "5da91693-a009-4696-ad4f-f77054f2440e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

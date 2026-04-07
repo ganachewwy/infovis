@@ -1,0 +1,125 @@
+{
+  "province_name": "อำนาจเจริญ",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 157168,
+    "1.2": 103473,
+    "2.1": 157080,
+    "2.2": 103473,
+    "2.3": 53607,
+    "3.1": 96119,
+    "3.2": 0,
+    "3.3": 7354,
+    "3.4": 103473,
+    "4.1": 93862,
+    "4.2": 5715,
+    "4.3": 3896
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นางญาญีนาถ เข็มนาค",
+      "party": "ภูมิใจไทย",
+      "votes": 43016
+    },
+    {
+      "number": 3,
+      "name": "นางสาววรัดดา ประเสริฐศรี",
+      "party": "เพื่อไทย",
+      "votes": 19048
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่ร้อยตรี กริช กีฬา",
+      "party": "ประชาชน",
+      "votes": 17340
+    },
+    {
+      "number": 6,
+      "name": "นายมฆวาน บัวบุตร",
+      "party": "กล้าธรรม",
+      "votes": 12398
+    },
+    {
+      "number": 4,
+      "name": "นายเตชินท์ชัย ผาริบุตร",
+      "party": "ประชาธิปัตย์",
+      "votes": 1671
+    },
+    {
+      "number": 7,
+      "name": "ร้อยตรี เนย ชารีพันธ์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 389
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/73. อำนาจเจริญ เขต 2.json",
+  "_validation": {
+    "vote_sum": 93862,
+    "good_votes": 93862,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "37",
+  "province_name_normalized": "อำนาจเจริญ",
+  "summary": {
+    "eligible_voters": 157168,
+    "voters_came": 103473,
+    "ballots_received": 157080,
+    "ballots_used": 103473,
+    "good_votes": 93862,
+    "invalid_votes": 5715,
+    "no_votes": 3896
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นางญาญีนาถ เข็มนาค",
+      "party": "ภูมิใจไทย",
+      "votes": 43016,
+      "candidate_uuid": "c11c8911-c04a-4aa0-8491-a7a4b952cb84",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาววรัดดา ประเสริฐศรี",
+      "party": "เพื่อไทย",
+      "votes": 19048,
+      "candidate_uuid": "dd12847a-863a-4cc4-b8ab-85aba8b5536c",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่ร้อยตรี กริช กีฬา",
+      "party": "ประชาชน",
+      "votes": 17340,
+      "candidate_uuid": "ed6adaed-dfb0-41c1-a915-0dafe2e6aa1c",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายมฆวาน บัวบุตร",
+      "party": "กล้าธรรม",
+      "votes": 12398,
+      "candidate_uuid": "40fb2f2a-9d94-435e-9428-2daedd8acf94",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายเตชินท์ชัย ผาริบุตร",
+      "party": "ประชาธิปัตย์",
+      "votes": 1671,
+      "candidate_uuid": "f5a5632f-8822-45b7-8307-e1d72bfb2266",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "ร้อยตรี เนย ชารีพันธ์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 389,
+      "candidate_uuid": "ab05673d-803d-45b5-8e90-11fa0584844e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

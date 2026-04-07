@@ -1,0 +1,153 @@
+{
+  "province_name": "ขอนแก่น",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132197,
+    "1.2": 90629,
+    "2.1": 132760,
+    "2.2": 90629,
+    "2.3": 42131,
+    "3.1": 85713,
+    "3.2": 0,
+    "3.3": 4916,
+    "3.4": 90629,
+    "4.1": 84748,
+    "4.2": 3972,
+    "4.3": 1909
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายเอกชัย สืบสารคาม",
+      "party": "กล้าธรรม",
+      "votes": 30645
+    },
+    {
+      "number": 4,
+      "name": "นายชัชวาล อภิรักษ์มั่นคง",
+      "party": "ประชาชน",
+      "votes": 29282
+    },
+    {
+      "number": 3,
+      "name": "พันตำรวจเอกประศาสตร์ แน่นอุดร",
+      "party": "เพื่อไทย",
+      "votes": 21030
+    },
+    {
+      "number": 6,
+      "name": "นายปัญญา ศรีปัญญา",
+      "party": "เศรษฐกิจ",
+      "votes": 1171
+    },
+    {
+      "number": 7,
+      "name": "นายสมหวัง อ่อนราษฎร์",
+      "party": "ภูมิใจไทย",
+      "votes": 987
+    },
+    {
+      "number": 2,
+      "name": "นายสถาพร ระวิสิทธิ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 687
+    },
+    {
+      "number": 5,
+      "name": "นายนิเวศ จักร์นารายณ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 482
+    },
+    {
+      "number": 8,
+      "name": "นายพลชัย พิพิธวรกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 464
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/6. ขอนแก่น เขต 3.json",
+  "_validation": {
+    "vote_sum": 84748,
+    "good_votes": 84748,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "40",
+  "province_name_normalized": "ขอนแก่น",
+  "summary": {
+    "eligible_voters": 132197,
+    "voters_came": 90629,
+    "ballots_received": 132760,
+    "ballots_used": 90629,
+    "good_votes": 84748,
+    "invalid_votes": 3972,
+    "no_votes": 1909
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายเอกชัย สืบสารคาม",
+      "party": "กล้าธรรม",
+      "votes": 30645,
+      "candidate_uuid": "466aa39d-8ace-46c1-a76b-fba07dd14af1",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายชัชวาล อภิรักษ์มั่นคง",
+      "party": "ประชาชน",
+      "votes": 29282,
+      "candidate_uuid": "9cf87778-c2aa-4b80-8435-ea0e5e6287ca",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "พันตำรวจเอกประศาสตร์ แน่นอุดร",
+      "party": "เพื่อไทย",
+      "votes": 21030,
+      "candidate_uuid": "a4cf1688-f1ec-4db7-8c33-610e5842dfc7",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปัญญา ศรีปัญญา",
+      "party": "เศรษฐกิจ",
+      "votes": 1171,
+      "candidate_uuid": "8a90cb09-d38c-4c2b-b772-130fb176cf9a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสมหวัง อ่อนราษฎร์",
+      "party": "ภูมิใจไทย",
+      "votes": 987,
+      "candidate_uuid": "449af8e6-4cf4-4637-a26a-47192a49a6f8",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสถาพร ระวิสิทธิ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 687,
+      "candidate_uuid": "2aff1dbf-6bf3-4f9f-b31e-a8b8c3ec62c1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนิเวศ จักร์นารายณ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 482,
+      "candidate_uuid": "8d036201-cca7-4ec6-b85d-d395535e6cce",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายพลชัย พิพิธวรกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 464,
+      "candidate_uuid": "3eae9d4b-5baa-43d7-988d-b80986f0a41c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

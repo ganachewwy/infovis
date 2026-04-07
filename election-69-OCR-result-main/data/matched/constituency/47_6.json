@@ -1,0 +1,153 @@
+{
+  "province_name": "สกลนคร",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130058,
+    "1.2": 80511,
+    "2.1": 133826,
+    "2.2": 80511,
+    "2.3": 53315,
+    "3.1": 75245,
+    "3.2": 0,
+    "3.3": 5266,
+    "3.4": 80511,
+    "4.1": 75062,
+    "4.2": 3189,
+    "4.3": 2260
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายบรม เอ่งฉ้วน",
+      "party": "ภูมิใจไทย",
+      "votes": 34892
+    },
+    {
+      "number": 4,
+      "name": "นางสาวสกุณา สาระนันท์",
+      "party": "เพื่อไทย",
+      "votes": 23101
+    },
+    {
+      "number": 6,
+      "name": "นายธนชาติ ไชยทองพันธ์",
+      "party": "ประชาชน",
+      "votes": 14243
+    },
+    {
+      "number": 8,
+      "name": "นายธนัฐ จันทร์มาลา",
+      "party": "เศรษฐกิจ",
+      "votes": 884
+    },
+    {
+      "number": 2,
+      "name": "นางสาวธัญญ์ลภัสส์ โสรินทร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 824
+    },
+    {
+      "number": 1,
+      "name": "นายสุรศักดิ์ เดชโฮม",
+      "party": "ประชาธิปัตย์",
+      "votes": 534
+    },
+    {
+      "number": 3,
+      "name": "นายฉลอง สุวรรณโคตร",
+      "party": "กล้าธรรม",
+      "votes": 353
+    },
+    {
+      "number": 7,
+      "name": "นายรุ่งเรืองชัย โสภา",
+      "party": "พลังประชารัฐ",
+      "votes": 231
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/57. สกลนคร เขต 6.json",
+  "_validation": {
+    "vote_sum": 75062,
+    "good_votes": 75062,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "47",
+  "province_name_normalized": "สกลนคร",
+  "summary": {
+    "eligible_voters": 130058,
+    "voters_came": 80511,
+    "ballots_received": 133826,
+    "ballots_used": 80511,
+    "good_votes": 75062,
+    "invalid_votes": 3189,
+    "no_votes": 2260
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายบรม เอ่งฉ้วน",
+      "party": "ภูมิใจไทย",
+      "votes": 34892,
+      "candidate_uuid": "e26ca2e3-173c-480e-816d-693b37bd8e95",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวสกุณา สาระนันท์",
+      "party": "เพื่อไทย",
+      "votes": 23101,
+      "candidate_uuid": "af8928c4-367d-4a93-ad40-ed21e5faf8bf",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธนชาติ ไชยทองพันธ์",
+      "party": "ประชาชน",
+      "votes": 14243,
+      "candidate_uuid": "c127bf1e-c992-48ce-8fa9-84217031e570",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธนัฐ จันทร์มาลา",
+      "party": "เศรษฐกิจ",
+      "votes": 884,
+      "candidate_uuid": "ea39b89b-f2bf-4616-a9ba-d99fa9cac505",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวธัญญ์ลภัสส์ โสรินทร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 824,
+      "candidate_uuid": "1dca4ca4-73d8-4192-acb5-35f34630dbee",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุรศักดิ์ เดชโฮม",
+      "party": "ประชาธิปัตย์",
+      "votes": 534,
+      "candidate_uuid": "ee6a7afc-307d-4d06-b24f-91263d29e29f",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายฉลอง สุวรรณโคตร",
+      "party": "กล้าธรรม",
+      "votes": 353,
+      "candidate_uuid": "80080793-6bdf-42ca-9a85-756c607f77de",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายรุ่งเรืองชัย โสภา",
+      "party": "พลังประชารัฐ",
+      "votes": 231,
+      "candidate_uuid": "c9ca7418-f5a1-44e5-b49c-db47d9d04db2",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

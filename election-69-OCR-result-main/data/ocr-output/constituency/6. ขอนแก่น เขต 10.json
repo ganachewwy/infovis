@@ -1,0 +1,63 @@
+{
+  "province_name": "ขอนแก่น",
+  "constituency_number": 10,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 135110,
+    "1.2": 89102,
+    "2.1": 132800,
+    "2.2": 89102,
+    "2.3": 43698,
+    "3.1": 82955,
+    "3.2": 11,
+    "3.3": 6136,
+    "3.4": 89102,
+    "4.1": 83757,
+    "4.2": 3964,
+    "4.3": 1381
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายพชรกร อรรณนพพร",
+      "party": "ภูมิใจไทย",
+      "votes": 39396
+    },
+    {
+      "number": 0,
+      "name": "นายวันนิวัติ สมบูรณ์",
+      "party": "เพื่อไทย",
+      "votes": 32727
+    },
+    {
+      "number": 3,
+      "name": "นายนิวัตร สระพรม",
+      "party": "ประชาชน",
+      "votes": 10229
+    },
+    {
+      "number": 2,
+      "name": "ร.ต.ท.สงวน คมขาว",
+      "party": "ไทยก้าวใหม่",
+      "votes": 604
+    },
+    {
+      "number": 4,
+      "name": "นายวิระศักดิ์ สายทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 475
+    },
+    {
+      "number": 6,
+      "name": "นายประยูร เทียมทะนง",
+      "party": "กล้าธรรม",
+      "votes": 326
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/6. ขอนแก่น เขต 10.pdf",
+  "_validation": {
+    "vote_sum": 83757,
+    "good_votes": 83757,
+    "sum_diff_pct": 0.0
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 10,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137980,
+    "1.2": 99657,
+    "2.1": 137000,
+    "2.2": 99657,
+    "2.3": 37343,
+    "3.1": 94839,
+    "3.2": 0,
+    "3.3": 4818,
+    "3.4": 99657,
+    "4.1": 91913,
+    "4.2": 1521,
+    "4.3": 6223
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายเอกราช อุดมอำนวย",
+      "party": "ประชาชน",
+      "votes": 41804
+    },
+    {
+      "number": 5,
+      "name": "นายภูมิพัฒน์ โหสกุล",
+      "party": "เพื่อไทย",
+      "votes": 19047
+    },
+    {
+      "number": 9,
+      "name": "นางกนกนุช กลิ่นสังข์",
+      "party": "โอกาสใหม่",
+      "votes": 9440
+    },
+    {
+      "number": 13,
+      "name": "นายรณกร เชียรวิชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 7925
+    },
+    {
+      "number": 2,
+      "name": "นายชัยพร แก้ววาตะ",
+      "party": "ประชาธิปัตย์",
+      "votes": 6372
+    },
+    {
+      "number": 8,
+      "name": "นายภูพิพัฒน์ สาวพัฒนะธาดา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2012
+    },
+    {
+      "number": 1,
+      "name": "นายชณธัศน์ เหลืองวัฒนะวุฒิ",
+      "party": "เศรษฐกิจ",
+      "votes": 1437
+    },
+    {
+      "number": 14,
+      "name": "นายไกรศักดิ์ เสาเวียง",
+      "party": "ไทยสร้างไทย",
+      "votes": 636
+    },
+    {
+      "number": 12,
+      "name": "นายรนภัทร นิธิโชติการ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 583
+    },
+    {
+      "number": 11,
+      "name": "นายดิษยะฤทธิ์ รู้ดี",
+      "party": "กล้าธรรม",
+      "votes": 545
+    },
+    {
+      "number": 4,
+      "name": "นายอนุวัตร เผือกเกษม",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 503
+    },
+    {
+      "number": 7,
+      "name": "นายวรัชณ์กิตต์ วิศาลมนัส",
+      "party": "รักชาติ",
+      "votes": 495
+    },
+    {
+      "number": 10,
+      "name": "ว่าที่ร้อยตรีหญิงภัทราวดี นาคงาม",
+      "party": "พลวัต",
+      "votes": 461
+    },
+    {
+      "number": 3,
+      "name": "พลตำรวจตรีทินกร ณัฏฐมั่งคั่ง",
+      "party": "ประชากรไทย",
+      "votes": 282
+    },
+    {
+      "number": 15,
+      "name": "พลอากาศตรีธงชัย เพ็งเดือน",
+      "party": "ความหวังใหม่",
+      "votes": 203
+    },
+    {
+      "number": 16,
+      "name": "นายสาธิต นีระวงศ์",
+      "party": "วิชชั่นใหม่",
+      "votes": 168
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 10.json",
+  "_validation": {
+    "vote_sum": 91913,
+    "good_votes": 91913,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 137980,
+    "voters_came": 99657,
+    "ballots_received": 137000,
+    "ballots_used": 99657,
+    "good_votes": 91913,
+    "invalid_votes": 1521,
+    "no_votes": 6223
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายเอกราช อุดมอำนวย",
+      "party": "ประชาชน",
+      "votes": 41804,
+      "candidate_uuid": "78fb3552-df9c-45dc-bdeb-0b174fb2edba",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายภูมิพัฒน์ โหสกุล",
+      "party": "เพื่อไทย",
+      "votes": 19047,
+      "candidate_uuid": "44fe193c-47b6-44d2-97f5-313a5c98c0e0",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางกนกนุช กลิ่นสังข์",
+      "party": "โอกาสใหม่",
+      "votes": 9440,
+      "candidate_uuid": "46076bed-4e2c-4495-bc22-ae8f37ecf7bf",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายรณกร เชียรวิชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 7925,
+      "candidate_uuid": "f7ba2a09-5afa-4578-8962-11cd32c0efd5",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายชัยพร แก้ววาตะ",
+      "party": "ประชาธิปัตย์",
+      "votes": 6372,
+      "candidate_uuid": "332fc498-7d46-4493-b25f-700cde7000df",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายภูพิพัฒน์ สาวพัฒนะธาดา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2012,
+      "candidate_uuid": "ef4161c1-94e7-4fa3-b024-ce6904a11029",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายชณธัศน์ เหลืองวัฒนะวุฒิ",
+      "party": "เศรษฐกิจ",
+      "votes": 1437,
+      "candidate_uuid": "38f4a6d6-98f6-43a3-a5e6-6a9435c18478",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายไกรศักดิ์ เสาเวียง",
+      "party": "ไทยสร้างไทย",
+      "votes": 636,
+      "candidate_uuid": "43e3b87a-1859-48b5-ad92-b266ae6c6665",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายรนภัทร นิธิโชติการ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 583,
+      "candidate_uuid": "0334527f-ef13-4476-839b-042448d19e3e",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายดิษยะฤทธิ์ รู้ดี",
+      "party": "กล้าธรรม",
+      "votes": 545,
+      "candidate_uuid": "b9248a52-d38a-4cc6-bcaa-1dc90a6424f6",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอนุวัตร เผือกเกษม",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 503,
+      "candidate_uuid": "b0adbb06-df8e-415b-8757-31cd7be7ced8",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวรัชณ์กิตต์ วิศาลมนัส",
+      "party": "รักชาติ",
+      "votes": 495,
+      "candidate_uuid": "b5a31bd7-1ff3-4256-a372-7e8cccb0db24",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "ว่าที่ร้อยตรีหญิงภัทราวดี นาคงาม",
+      "party": "พลวัต",
+      "votes": 461,
+      "candidate_uuid": "b4313207-33e9-4e85-b739-dd27a31df1c6",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "พลตำรวจตรีทินกร ณัฏฐมั่งคั่ง",
+      "party": "ประชากรไทย",
+      "votes": 282,
+      "candidate_uuid": "917c9cc0-3fc2-43c3-92e5-bd17546c66a4",
+      "is_active": true
+    },
+    {
+      "number": 15,
+      "name": "พลอากาศตรีธงชัย เพ็งเดือน",
+      "party": "ความหวังใหม่",
+      "votes": 203,
+      "candidate_uuid": "46694c74-ba7f-4edf-978c-43609546bc94",
+      "is_active": true
+    },
+    {
+      "number": 16,
+      "name": "นายสาธิต นีระวงศ์",
+      "party": "วิชชั่นใหม่",
+      "votes": 168,
+      "candidate_uuid": "b7f1d8f5-b6fe-4718-8c57-e11029d9bb79",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

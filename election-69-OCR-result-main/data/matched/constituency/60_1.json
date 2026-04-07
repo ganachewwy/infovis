@@ -1,0 +1,125 @@
+{
+  "province_name": "นครสวรรค์",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 138722,
+    "1.2": 99113,
+    "2.1": 135300,
+    "2.2": 99113,
+    "2.3": 36187,
+    "3.1": 91935,
+    "3.2": 89,
+    "3.3": 7089,
+    "3.4": 99113,
+    "4.1": 90110,
+    "4.2": 3488,
+    "4.3": 5515
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นางสาวภัทราวดี นิโรจน์",
+      "party": "ภูมิใจไทย",
+      "votes": 48861
+    },
+    {
+      "number": 4,
+      "name": "นายกฤษฐ์หิรัญ เลิศอุฤทธิ์ภักดี",
+      "party": "ประชาชน",
+      "votes": 30685
+    },
+    {
+      "number": 5,
+      "name": "นายกานตพงศ์ ใจแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 4072
+    },
+    {
+      "number": 2,
+      "name": "นางสาวอรุณี ไพรสิงห์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3896
+    },
+    {
+      "number": 6,
+      "name": "นางสาวเพ็ญแข คงเพชรศักดิ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1812
+    },
+    {
+      "number": 1,
+      "name": "นางอาทิตย์ติญาภรณ์ จันทรตัน",
+      "party": "กล้าธรรม",
+      "votes": 784
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/23. นครสวรรค์ เขต 1.json",
+  "_validation": {
+    "vote_sum": 90110,
+    "good_votes": 90110,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "60",
+  "province_name_normalized": "นครสวรรค์",
+  "summary": {
+    "eligible_voters": 138722,
+    "voters_came": 99113,
+    "ballots_received": 135300,
+    "ballots_used": 99113,
+    "good_votes": 90110,
+    "invalid_votes": 3488,
+    "no_votes": 5515
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นางสาวภัทราวดี นิโรจน์",
+      "party": "ภูมิใจไทย",
+      "votes": 48861,
+      "candidate_uuid": "2094185a-e7d4-4499-bf3d-5e6ba19c9758",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกฤษฐ์หิรัญ เลิศอุฤทธิ์ภักดี",
+      "party": "ประชาชน",
+      "votes": 30685,
+      "candidate_uuid": "fb33b1b8-59e9-4e77-a15e-d5505757624b",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายกานตพงศ์ ใจแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 4072,
+      "candidate_uuid": "75595fa4-1690-45c4-a633-39151e2cbca4",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวอรุณี ไพรสิงห์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3896,
+      "candidate_uuid": "24667bcc-ef46-40e4-a113-44218f4a1db9",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวเพ็ญแข คงเพชรศักดิ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1812,
+      "candidate_uuid": "27807d41-918d-43bf-b00a-d9674c08f19b",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางอาทิตย์ติญาภรณ์ จันทรตัน",
+      "party": "กล้าธรรม",
+      "votes": 784,
+      "candidate_uuid": "3a1d7dc1-cfc4-490c-902e-6e446ca1608a",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

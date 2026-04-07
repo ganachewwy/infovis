@@ -1,0 +1,139 @@
+{
+  "province_name": "ปราจีนบุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129363,
+    "1.2": 94811,
+    "2.1": 132748,
+    "2.2": 94811,
+    "2.3": 37937,
+    "3.1": 90423,
+    "3.2": 54,
+    "3.3": 4334,
+    "3.4": 94811,
+    "4.1": 82923,
+    "4.2": 3687,
+    "4.3": 8201
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายอำนาจ วิลาวัลย์",
+      "party": "ภูมิใจไทย",
+      "votes": 42309
+    },
+    {
+      "number": 2,
+      "name": "นายชนกานต์ ศรีเอียด",
+      "party": "ประชาชน",
+      "votes": 28549
+    },
+    {
+      "number": 4,
+      "name": "นายจิตร์จา สังข์สี",
+      "party": "เพื่อไทย",
+      "votes": 6144
+    },
+    {
+      "number": 5,
+      "name": "นายไพทูรย์ นาคหิรัญ",
+      "party": "กล้าธรรม",
+      "votes": 2124
+    },
+    {
+      "number": 6,
+      "name": "นางพรจรัส สงวนศิลป์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1661
+    },
+    {
+      "number": 3,
+      "name": "พันตำรวจเอกสมศักดิ์ นารอด",
+      "party": "โอกาสใหม่",
+      "votes": 1413
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนิภาพร บุญช่วยนางเดี่ยว",
+      "party": "ไทยภักดี",
+      "votes": 723
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/31. ปราจีนบุรี เขต 1.json",
+  "_validation": {
+    "vote_sum": 82923,
+    "good_votes": 82923,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "25",
+  "province_name_normalized": "ปราจีนบุรี",
+  "summary": {
+    "eligible_voters": 129363,
+    "voters_came": 94811,
+    "ballots_received": 132748,
+    "ballots_used": 94811,
+    "good_votes": 82923,
+    "invalid_votes": 3687,
+    "no_votes": 8201
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายอำนาจ วิลาวัลย์",
+      "party": "ภูมิใจไทย",
+      "votes": 42309,
+      "candidate_uuid": "d152dd50-b4cb-4d71-98fd-434de0045286",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายชนกานต์ ศรีเอียด",
+      "party": "ประชาชน",
+      "votes": 28549,
+      "candidate_uuid": "c40146a2-e0ec-4c98-b1c2-6794f37a1d17",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายจิตร์จา สังข์สี",
+      "party": "เพื่อไทย",
+      "votes": 6144,
+      "candidate_uuid": "5a5eca51-f596-4524-b31e-8713f1ed8554",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายไพทูรย์ นาคหิรัญ",
+      "party": "กล้าธรรม",
+      "votes": 2124,
+      "candidate_uuid": "05244944-4059-40d1-a69f-c7ad5d3f825f",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางพรจรัส สงวนศิลป์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1661,
+      "candidate_uuid": "8fd58e3d-526d-4aed-9fd3-2ff3be36bef2",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "พันตำรวจเอกสมศักดิ์ นารอด",
+      "party": "โอกาสใหม่",
+      "votes": 1413,
+      "candidate_uuid": "821a1606-602b-481d-9bb7-26c54404d766",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนิภาพร บุญช่วยนางเดี่ยว",
+      "party": "ไทยภักดี",
+      "votes": 723,
+      "candidate_uuid": "4ba968d0-860c-4f08-a444-19df959d81d8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

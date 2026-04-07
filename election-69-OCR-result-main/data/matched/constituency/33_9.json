@@ -1,0 +1,181 @@
+{
+  "province_name": "ศรีสะเกษ",
+  "constituency_number": 9,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139255,
+    "1.2": 93002,
+    "2.1": 144376,
+    "2.2": 93002,
+    "2.3": 51374,
+    "3.1": 84772,
+    "3.2": 14,
+    "3.3": 8216,
+    "3.4": 93002,
+    "4.1": 88566,
+    "4.2": 2757,
+    "4.3": 1679
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายวิทวัส ไตรสรณกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 39667
+    },
+    {
+      "number": 10,
+      "name": "นายนฤชิต จารุรัชกุล",
+      "party": "เพื่อไทย",
+      "votes": 19391
+    },
+    {
+      "number": 1,
+      "name": "นายพงษ์เดช เดชกล้า",
+      "party": "ประชาชน",
+      "votes": 14525
+    },
+    {
+      "number": 3,
+      "name": "นางนุชนาถ จารุวงษ์เสถียร",
+      "party": "กล้าธรรม",
+      "votes": 12281
+    },
+    {
+      "number": 4,
+      "name": "นายพงศ์ภัค มงคลชัยพาณิชย์",
+      "party": "พลังประชารัฐ",
+      "votes": 1069
+    },
+    {
+      "number": 5,
+      "name": "นายคัมภีรพจน์ สายเพ็ชร",
+      "party": "เศรษฐกิจ",
+      "votes": 555
+    },
+    {
+      "number": 6,
+      "name": "นายรัตน์วิโรจน์ พรมขันธ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 368
+    },
+    {
+      "number": 7,
+      "name": "นายอภิชาติ ศิริบุญญกาล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 359
+    },
+    {
+      "number": 8,
+      "name": "นายวรวิทย์ ต๊ะกาบโค",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 214
+    },
+    {
+      "number": 9,
+      "name": "นางสาวเกศรา แซ่จิว",
+      "party": "ปวงชนไทย",
+      "votes": 137
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/56. ศรีสะเกษ เขต 9.json",
+  "_validation": {
+    "vote_sum": 88566,
+    "good_votes": 88566,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "33",
+  "province_name_normalized": "ศรีสะเกษ",
+  "summary": {
+    "eligible_voters": 139255,
+    "voters_came": 93002,
+    "ballots_received": 144376,
+    "ballots_used": 93002,
+    "good_votes": 88566,
+    "invalid_votes": 2757,
+    "no_votes": 1679
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายวิทวัส ไตรสรณกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 39667,
+      "candidate_uuid": "465c4dab-794c-4e72-8822-f87ab0b7bec7",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายนฤชิต จารุรัชกุล",
+      "party": "เพื่อไทย",
+      "votes": 19391,
+      "candidate_uuid": "92d9ade5-1b20-49e4-b20a-72c7741b363c",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพงษ์เดช เดชกล้า",
+      "party": "ประชาชน",
+      "votes": 14525,
+      "candidate_uuid": "ae998f9f-1cc2-4d64-ac8d-910e1f311717",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางนุชนาถ จารุวงษ์เสถียร",
+      "party": "กล้าธรรม",
+      "votes": 12281,
+      "candidate_uuid": "f2db106b-0215-4413-9500-db260e2051c7",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพงศ์ภัค มงคลชัยพาณิชย์",
+      "party": "พลังประชารัฐ",
+      "votes": 1069,
+      "candidate_uuid": "8390c8e7-85ed-480e-9b82-476146a787d1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายคัมภีรพจน์ สายเพ็ชร",
+      "party": "เศรษฐกิจ",
+      "votes": 555,
+      "candidate_uuid": "633a6fb1-d94a-4a83-9de9-cb15e548cc8e",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายรัตน์วิโรจน์ พรมขันธ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 368,
+      "candidate_uuid": "28723f39-3d7f-417d-a804-16de7945d996",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอภิชาติ ศิริบุญญกาล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 359,
+      "candidate_uuid": "e7983d78-6bbd-4c12-aeb6-e6c619ad0bae",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวรวิทย์ ต๊ะกาบโค",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 214,
+      "candidate_uuid": "cb374b3c-71fe-48e2-9cce-e4a2647dc1c0",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวเกศรา แซ่จิว",
+      "party": "ปวงชนไทย",
+      "votes": 137,
+      "candidate_uuid": "fe5cd400-4578-43fc-aeb1-9492238f9ea1",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

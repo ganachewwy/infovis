@@ -1,0 +1,312 @@
+{
+  "province_name": "สมุทรสาคร",
+  "constituency_number": 4,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 112307,
+    "1.2": 84850,
+    "2.1": 115841,
+    "2.2": 84850,
+    "2.3": 30991,
+    "3.1": 83059,
+    "3.2": 10,
+    "3.3": 1781,
+    "3.4": 84850,
+    "4.1": 77338,
+    "4.2": 4189,
+    "4.3": 3323
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 3184
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 1233
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 284
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 305
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 614
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2196
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 183
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 588
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 6236
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 522
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 2894
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 568
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 570
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 60
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 62
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 131
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 110
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 28
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 34
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 43
+    },
+    {
+      "number": 21,
+      "party": "ไทยรวมพลัง",
+      "votes": 42
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 35
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 40
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 57
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 17
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 98
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 7840
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 148
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 522
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 214
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 128
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 56
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 123
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 89
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 116
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 143
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 16769
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 88
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 45
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 28
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 14
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 392
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 193
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 73
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 54
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 29167
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 122
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 337
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 205
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 50
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 120
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 14
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 25
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 11
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 52
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 60
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/62. สมุทรสาคร เขต 4 (บช).pdf",
+  "_validation": {
+    "vote_sum": 77338,
+    "good_votes": 77338,
+    "sum_diff_pct": 0.0
+  }
+}

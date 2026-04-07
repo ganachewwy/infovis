@@ -1,0 +1,139 @@
+{
+  "province_name": "พระนครศรีอยุธยา",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133055,
+    "1.2": 105917,
+    "2.1": 137466,
+    "2.2": 105917,
+    "2.3": 31549,
+    "3.1": 103530,
+    "3.2": 7,
+    "3.3": 2379,
+    "3.4": 105916,
+    "4.1": 98383,
+    "4.2": 4482,
+    "4.3": 3051
+  },
+  "results": [
+    {
+      "number": 76,
+      "name": "นายปะดิธ สังขจาย",
+      "party": "ภูมิใจไทย",
+      "votes": 46623
+    },
+    {
+      "number": 6,
+      "name": "นายจิรทัศ ไกรเดชา",
+      "party": "เพื่อไทย",
+      "votes": 27374
+    },
+    {
+      "number": 4,
+      "name": "นางสาวภิญญาพัชญ์ ภิญเดช เสน่ห์สังคม",
+      "party": "ประชาชน",
+      "votes": 21135
+    },
+    {
+      "number": 9,
+      "name": "นายเอกธำรง ธนะเมธีวิทย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1048
+    },
+    {
+      "number": 2,
+      "name": "นางสาวฐิติฉัตร รูปสว่างกุลพงษ์",
+      "party": "ไทยสร้างชาติ",
+      "votes": 905
+    },
+    {
+      "number": 8,
+      "name": "นายธนฤกษ์ โคตรประทุม",
+      "party": "เศรษฐกิจ",
+      "votes": 795
+    },
+    {
+      "number": 5,
+      "name": "นายเสรภณ การสมพรต",
+      "party": "ไทยสร้างไทย",
+      "votes": 503
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/33. พระนครศรีอยุธยา เขต 5.json",
+  "_validation": {
+    "vote_sum": 98383,
+    "good_votes": 98383,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "14",
+  "province_name_normalized": "พระนครศรีอยุธยา",
+  "summary": {
+    "eligible_voters": 133055,
+    "voters_came": 105917,
+    "ballots_received": 137466,
+    "ballots_used": 105917,
+    "good_votes": 98383,
+    "invalid_votes": 4482,
+    "no_votes": 3051
+  },
+  "matched_candidates": [
+    {
+      "number": 76,
+      "name": "นายปะดิธ สังขจาย",
+      "party": "ภูมิใจไทย",
+      "votes": 46623,
+      "candidate_uuid": "92ef6949-dc2e-40e9-9743-7c018a56ed7b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายจิรทัศ ไกรเดชา",
+      "party": "เพื่อไทย",
+      "votes": 27374,
+      "candidate_uuid": "e3a3fb9e-21de-47da-991b-6c4c58b2592e",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวภิญญาพัชญ์ ภิญเดช เสน่ห์สังคม",
+      "party": "ประชาชน",
+      "votes": 21135,
+      "candidate_uuid": "f03b004b-b0bf-47b8-98db-9405c1c4eea6",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายเอกธำรง ธนะเมธีวิทย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1048,
+      "candidate_uuid": "c3d1e685-6796-47d8-a80d-8c6ef6d5aa3a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวฐิติฉัตร รูปสว่างกุลพงษ์",
+      "party": "ไทยสร้างชาติ",
+      "votes": 905,
+      "candidate_uuid": "d078d98b-4c72-4fd0-9277-8356fec8f6ea",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธนฤกษ์ โคตรประทุม",
+      "party": "เศรษฐกิจ",
+      "votes": 795,
+      "candidate_uuid": "a6cd64bb-4d32-4c01-a6d5-821907f380da",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเสรภณ การสมพรต",
+      "party": "ไทยสร้างไทย",
+      "votes": 503,
+      "candidate_uuid": "b4c1c364-7816-47b0-a755-8efae9e23dc9",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,167 @@
+{
+  "province_name": "อำนาจเจริญ",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 145524,
+    "1.2": 97677,
+    "2.1": 143780,
+    "2.2": 97677,
+    "2.3": 46103,
+    "3.1": 90517,
+    "3.2": 6,
+    "3.3": 7154,
+    "3.4": 97677,
+    "4.1": 91024,
+    "4.2": 2940,
+    "4.3": 3713
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายศักดิ์ดา จันเทวา",
+      "party": "พลังประชารัฐ",
+      "votes": 1072
+    },
+    {
+      "number": 2,
+      "name": "นางสาวจุฑาทิพย์ ศิริขันธ์",
+      "party": "ประชาชน",
+      "votes": 18851
+    },
+    {
+      "number": 3,
+      "name": "นางสาวพิมพ์วิภา บัวบุตร",
+      "party": "เพื่อไทย",
+      "votes": 21040
+    },
+    {
+      "number": 4,
+      "name": "นายพลชัย โสภากันต์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1938
+    },
+    {
+      "number": 5,
+      "name": "นางสุขสมรวย วันทนียกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 44199
+    },
+    {
+      "number": 6,
+      "name": "สิบเอกวีระยุทธ ผาริวงค์",
+      "party": "เพื่อชาติไทย",
+      "votes": 538
+    },
+    {
+      "number": 7,
+      "name": "นางสาวณัฐยกัญ ทองยศ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 305
+    },
+    {
+      "number": 8,
+      "name": "นายทศพร คุ้มผล",
+      "party": "เศรษฐกิจ",
+      "votes": 1927
+    },
+    {
+      "number": 9,
+      "name": "นายโสนิ สุวรรณี",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 1154
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/73. อำนาจเจริญ เขต 1.json",
+  "_validation": {
+    "vote_sum": 91024,
+    "good_votes": 91024,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "37",
+  "province_name_normalized": "อำนาจเจริญ",
+  "summary": {
+    "eligible_voters": 145524,
+    "voters_came": 97677,
+    "ballots_received": 143780,
+    "ballots_used": 97677,
+    "good_votes": 91024,
+    "invalid_votes": 2940,
+    "no_votes": 3713
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายศักดิ์ดา จันเทวา",
+      "party": "พลังประชารัฐ",
+      "votes": 1072,
+      "candidate_uuid": "316d7038-8ff4-46b7-97e6-5f648b26943d",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวจุฑาทิพย์ ศิริขันธ์",
+      "party": "ประชาชน",
+      "votes": 18851,
+      "candidate_uuid": "fac6882b-18f8-4669-b2ac-ac756dd9e7d4",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวพิมพ์วิภา บัวบุตร",
+      "party": "เพื่อไทย",
+      "votes": 21040,
+      "candidate_uuid": "3affd98d-b6f3-4609-8075-8f7b21d59792",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพลชัย โสภากันต์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1938,
+      "candidate_uuid": "660fff24-573b-4e5f-842e-b54d281ce273",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสุขสมรวย วันทนียกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 44199,
+      "candidate_uuid": "6c291109-577d-45f7-ae83-0edbafeaa181",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "สิบเอกวีระยุทธ ผาริวงค์",
+      "party": "เพื่อชาติไทย",
+      "votes": 538,
+      "candidate_uuid": "a5a5a10f-2728-4f65-b16a-8737bb814f3b",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวณัฐยกัญ ทองยศ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 305,
+      "candidate_uuid": "2b650f95-7332-4194-968e-64bbd70c550c",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายทศพร คุ้มผล",
+      "party": "เศรษฐกิจ",
+      "votes": 1927,
+      "candidate_uuid": "8fe4c5d9-30cf-4273-8621-bb320e8a5955",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายโสนิ สุวรรณี",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 1154,
+      "candidate_uuid": "1bf578e7-bf10-4e0b-a70c-200ec77f797b",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

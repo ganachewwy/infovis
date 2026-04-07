@@ -1,0 +1,167 @@
+{
+  "province_name": "นครราชสีมา",
+  "constituency_number": 15,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 138615,
+    "1.2": 99862,
+    "2.1": 139780,
+    "2.2": 99862,
+    "2.3": 39918,
+    "3.1": 95290,
+    "3.2": 5,
+    "3.3": 4567,
+    "3.4": 99862,
+    "4.1": 95199,
+    "4.2": 2835,
+    "4.3": 1828
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายรชตะ ด่านกุล",
+      "party": "เพื่อไทย",
+      "votes": 37242
+    },
+    {
+      "number": 2,
+      "name": "นายเจษฎา พิทยาภรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 26946
+    },
+    {
+      "number": 1,
+      "name": "นายมารุต ชุ่มขุนทด",
+      "party": "กล้าธรรม",
+      "votes": 15641
+    },
+    {
+      "number": 4,
+      "name": "นายบรรดูลย์ พูนรัตนบัณฑิตย์",
+      "party": "ประชาชน",
+      "votes": 12635
+    },
+    {
+      "number": 9,
+      "name": "นายชมภู โสมกูล",
+      "party": "เศรษฐกิจ",
+      "votes": 1283
+    },
+    {
+      "number": 3,
+      "name": "นายพจน์ เจริญสันเทียะ",
+      "party": "พลังประชารัฐ",
+      "votes": 549
+    },
+    {
+      "number": 7,
+      "name": "นายประมวล หาดรักษกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 491
+    },
+    {
+      "number": 6,
+      "name": "นายชัยวัฒน์ บุญเอก",
+      "party": "ไทยก้าวใหม่",
+      "votes": 286
+    },
+    {
+      "number": 8,
+      "name": "จ่าสิบตำรวจเฉลิม เทียนขุนทด",
+      "party": "ทางเลือกใหม่",
+      "votes": 126
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/21. นครราชสีมา เขต 15.json",
+  "_validation": {
+    "vote_sum": 95199,
+    "good_votes": 95199,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "30",
+  "province_name_normalized": "นครราชสีมา",
+  "summary": {
+    "eligible_voters": 138615,
+    "voters_came": 99862,
+    "ballots_received": 139780,
+    "ballots_used": 99862,
+    "good_votes": 95199,
+    "invalid_votes": 2835,
+    "no_votes": 1828
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายรชตะ ด่านกุล",
+      "party": "เพื่อไทย",
+      "votes": 37242,
+      "candidate_uuid": "684b0c77-0041-4e4b-880a-00a4fbfed664",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายเจษฎา พิทยาภรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 26946,
+      "candidate_uuid": "f88cabdd-d10a-47bf-a904-5cb4d6f2cbd2",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายมารุต ชุ่มขุนทด",
+      "party": "กล้าธรรม",
+      "votes": 15641,
+      "candidate_uuid": "afb039e2-7c26-4635-a0e3-a4c308d80c7b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายบรรดูลย์ พูนรัตนบัณฑิตย์",
+      "party": "ประชาชน",
+      "votes": 12635,
+      "candidate_uuid": "e344f5c8-b5d6-42c6-951f-19d51c611c46",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายชมภู โสมกูล",
+      "party": "เศรษฐกิจ",
+      "votes": 1283,
+      "candidate_uuid": "cc0295f6-451a-4614-bef5-857ee325c79a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพจน์ เจริญสันเทียะ",
+      "party": "พลังประชารัฐ",
+      "votes": 549,
+      "candidate_uuid": "97059b97-aa85-4c03-bb9e-75ba0830fe2a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายประมวล หาดรักษกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 491,
+      "candidate_uuid": "3ced9479-eeba-42ba-a21d-5153c35b1f8f",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายชัยวัฒน์ บุญเอก",
+      "party": "ไทยก้าวใหม่",
+      "votes": 286,
+      "candidate_uuid": "8f120469-af6d-40f0-ad52-4ace4642c04a",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "จ่าสิบตำรวจเฉลิม เทียนขุนทด",
+      "party": "ทางเลือกใหม่",
+      "votes": 126,
+      "candidate_uuid": "04432fb3-2218-497f-ba17-107799c626b5",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

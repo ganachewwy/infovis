@@ -1,0 +1,63 @@
+{
+  "province_name": "อุดรธานี",
+  "constituency_number": 10,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 122907,
+    "1.2": 79295,
+    "2.1": 127036,
+    "2.2": 79295,
+    "2.3": 47741,
+    "3.1": 75357,
+    "3.2": 2,
+    "3.3": 3936,
+    "3.4": 79295,
+    "4.1": 72317,
+    "4.2": 4832,
+    "4.3": 2146
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นางเทียบจุฑา ขาวขำ",
+      "party": "เพื่อไทย",
+      "votes": 31589
+    },
+    {
+      "number": 3,
+      "name": "นายทัชภูมิ ทองทิพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 19691
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุภาวดี วงษ์คำ",
+      "party": "ประชาชน",
+      "votes": 17920
+    },
+    {
+      "number": 1,
+      "name": "นายกิตติพัทธ์ ปราบพาล",
+      "party": "เศรษฐกิจ",
+      "votes": 2277
+    },
+    {
+      "number": 4,
+      "name": "นายอภิวัฒน์ โรมเมือง",
+      "party": "ไทยสร้างชาติ",
+      "votes": 564
+    },
+    {
+      "number": 7,
+      "name": "นายจักรภัทร ชื่นชมกุล",
+      "party": "กล้าธรรม",
+      "votes": 276
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/74. อุดรธานี เขต 10.pdf",
+  "_validation": {
+    "vote_sum": 72317,
+    "good_votes": 72317,
+    "sum_diff_pct": 0.0
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "หนองคาย",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139496,
+    "1.2": 95511,
+    "2.1": 135320,
+    "2.2": 95511,
+    "2.3": 39809,
+    "3.1": 89282,
+    "3.2": 38,
+    "3.3": 6191,
+    "3.4": 95511,
+    "4.1": 88967,
+    "4.2": 3879,
+    "4.3": 2665
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายกระแสร์ ตระกูลพรพงศ์",
+      "party": "พลังประชารัฐ",
+      "votes": 30866
+    },
+    {
+      "number": 5,
+      "name": "พลตำรวจโท ไพศาล ลือสมบูรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 24598
+    },
+    {
+      "number": 2,
+      "name": "นางสาวอภิญญา บุญจันทร์",
+      "party": "ประชาชน",
+      "votes": 18311
+    },
+    {
+      "number": 3,
+      "name": "นายกฤษฎา ตันเทอดทิตย์",
+      "party": "เพื่อไทย",
+      "votes": 12381
+    },
+    {
+      "number": 7,
+      "name": "พันเอก ธนัทเมศร์ ภัทรณรงค์รัศม์",
+      "party": "เศรษฐกิจ",
+      "votes": 1768
+    },
+    {
+      "number": 1,
+      "name": "นายรพิพงศ์ ปุณยจารุศิริ",
+      "party": "ประชาธิปัตย์",
+      "votes": 505
+    },
+    {
+      "number": 6,
+      "name": "นายพิชชาวุธ เหล่าศิริวิจิตร",
+      "party": "กล้าธรรม",
+      "votes": 362
+    },
+    {
+      "number": 8,
+      "name": "นางวริยา พรหมนา",
+      "party": "ประชาอาสาชาติ",
+      "votes": 176
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/70. หนองคาย เขต 1.json",
+  "_validation": {
+    "vote_sum": 88967,
+    "good_votes": 88967,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "43",
+  "province_name_normalized": "หนองคาย",
+  "summary": {
+    "eligible_voters": 139496,
+    "voters_came": 95511,
+    "ballots_received": 135320,
+    "ballots_used": 95511,
+    "good_votes": 88967,
+    "invalid_votes": 3879,
+    "no_votes": 2665
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายกระแสร์ ตระกูลพรพงศ์",
+      "party": "พลังประชารัฐ",
+      "votes": 30866,
+      "candidate_uuid": "5533ea6e-f4ff-47b9-91b6-a5f78c30b8a6",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "พลตำรวจโท ไพศาล ลือสมบูรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 24598,
+      "candidate_uuid": "f55572fb-f4b9-406c-84ae-d9898cc37391",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวอภิญญา บุญจันทร์",
+      "party": "ประชาชน",
+      "votes": 18311,
+      "candidate_uuid": "d399c9f7-92b2-4c46-8c30-e786d7a30a9b",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกฤษฎา ตันเทอดทิตย์",
+      "party": "เพื่อไทย",
+      "votes": 12381,
+      "candidate_uuid": "53db97c9-ef0a-4f63-93fe-123acb81e9bf",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "พันเอก ธนัทเมศร์ ภัทรณรงค์รัศม์",
+      "party": "เศรษฐกิจ",
+      "votes": 1768,
+      "candidate_uuid": "7e49728e-8bf8-4be8-a4ac-1f6f3e31a9c7",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายรพิพงศ์ ปุณยจารุศิริ",
+      "party": "ประชาธิปัตย์",
+      "votes": 505,
+      "candidate_uuid": "57e0f323-178f-4925-87cd-b0c7c889f144",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพิชชาวุธ เหล่าศิริวิจิตร",
+      "party": "กล้าธรรม",
+      "votes": 362,
+      "candidate_uuid": "27a793bd-ad0f-4249-ad7a-e04601010c34",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางวริยา พรหมนา",
+      "party": "ประชาอาสาชาติ",
+      "votes": 176,
+      "candidate_uuid": "db4634be-09f9-4d52-918c-246807d06663",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

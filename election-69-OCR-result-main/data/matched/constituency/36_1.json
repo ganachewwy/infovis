@@ -1,0 +1,181 @@
+{
+  "province_name": "ชัยภูมิ",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129541,
+    "1.2": 88777,
+    "2.1": 131010,
+    "2.2": 88777,
+    "2.3": 42233,
+    "3.1": 82498,
+    "3.2": 49,
+    "3.3": 6230,
+    "3.4": 88777,
+    "4.1": 81673,
+    "4.2": 2894,
+    "4.3": 4210
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายโอซิษฐ์ เกียรติก้องชูชัย",
+      "party": "เพื่อไทย",
+      "votes": 40748
+    },
+    {
+      "number": 9,
+      "name": "นางสาวนัฏฐิกา โล่ห์วีระ",
+      "party": "ประชาชน",
+      "votes": 24738
+    },
+    {
+      "number": 1,
+      "name": "นายวรวุฒิ จอดนอก",
+      "party": "ภูมิใจไทย",
+      "votes": 6739
+    },
+    {
+      "number": 4,
+      "name": "นางสาวเกวลิน ชัยวัฒนกุลวานิช",
+      "party": "กล้าธรรม",
+      "votes": 4421
+    },
+    {
+      "number": 3,
+      "name": "นายวรพล พรมเมืองเก่า",
+      "party": "ประชาธิปัตย์",
+      "votes": 1155
+    },
+    {
+      "number": 6,
+      "name": "นายอาวุธ ปะเมโท",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1067
+    },
+    {
+      "number": 10,
+      "name": "นายวันชัย ลือมงคล",
+      "party": "เศรษฐกิจ",
+      "votes": 908
+    },
+    {
+      "number": 8,
+      "name": "นายเกษมศักดิ์ อัครเพศ",
+      "party": "ทางเลือกใหม่",
+      "votes": 894
+    },
+    {
+      "number": 5,
+      "name": "นายอนุชา เจริญรักษ์",
+      "party": "ก้าวอิสระ",
+      "votes": 632
+    },
+    {
+      "number": 7,
+      "name": "นายดิเรก ผาสุขมูล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 371
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/11. ชัยภูมิ เขต 1.json",
+  "_validation": {
+    "vote_sum": 81673,
+    "good_votes": 81673,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "36",
+  "province_name_normalized": "ชัยภูมิ",
+  "summary": {
+    "eligible_voters": 129541,
+    "voters_came": 88777,
+    "ballots_received": 131010,
+    "ballots_used": 88777,
+    "good_votes": 81673,
+    "invalid_votes": 2894,
+    "no_votes": 4210
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายโอซิษฐ์ เกียรติก้องชูชัย",
+      "party": "เพื่อไทย",
+      "votes": 40748,
+      "candidate_uuid": "243ebeac-2800-4e4b-bf5d-94e9e4cee58e",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวนัฏฐิกา โล่ห์วีระ",
+      "party": "ประชาชน",
+      "votes": 24738,
+      "candidate_uuid": "b4568daa-ec95-44c1-89ba-6e1a54866be4",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวรวุฒิ จอดนอก",
+      "party": "ภูมิใจไทย",
+      "votes": 6739,
+      "candidate_uuid": "3f1e68b5-d6eb-4a96-b412-73dfea3147e1",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวเกวลิน ชัยวัฒนกุลวานิช",
+      "party": "กล้าธรรม",
+      "votes": 4421,
+      "candidate_uuid": "b25ab107-2f77-4e0d-b6a1-75ad3d1cb61c",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวรพล พรมเมืองเก่า",
+      "party": "ประชาธิปัตย์",
+      "votes": 1155,
+      "candidate_uuid": "3a438637-aea5-49ed-bcce-528c76ed3892",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอาวุธ ปะเมโท",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1067,
+      "candidate_uuid": "7c55e712-f382-48ac-8399-5807fdba1255",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายวันชัย ลือมงคล",
+      "party": "เศรษฐกิจ",
+      "votes": 908,
+      "candidate_uuid": "d77f12fd-ad5a-449a-80de-d9735a7b9757",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายเกษมศักดิ์ อัครเพศ",
+      "party": "ทางเลือกใหม่",
+      "votes": 894,
+      "candidate_uuid": "614fef78-33b9-4017-aa1c-61e3435caf66",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอนุชา เจริญรักษ์",
+      "party": "ก้าวอิสระ",
+      "votes": 632,
+      "candidate_uuid": "e3fa51d8-09e2-4623-b2f8-75e83390a72e",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายดิเรก ผาสุขมูล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 371,
+      "candidate_uuid": "a0dc74ca-52cf-435e-8041-2f4fc977a5c4",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

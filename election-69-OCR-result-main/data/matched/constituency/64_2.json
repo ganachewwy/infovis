@@ -1,0 +1,153 @@
+{
+  "province_name": "สุโขทัย",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 118270,
+    "1.2": 78246,
+    "2.1": 119891,
+    "2.2": 78246,
+    "2.3": 41645,
+    "3.1": 73595,
+    "3.2": 0,
+    "3.3": 4651,
+    "3.4": 78246,
+    "4.1": 71207,
+    "4.2": 3646,
+    "4.3": 3393
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายชูศักดิ์ คีรีมาศทอง",
+      "party": "เพื่อไทย",
+      "votes": 32650
+    },
+    {
+      "number": 3,
+      "name": "นายณรัฐพงศ์ พรหมมี",
+      "party": "ประชาชน",
+      "votes": 19265
+    },
+    {
+      "number": 1,
+      "name": "นายพัฒ ตั้งเบญจผล",
+      "party": "ประชาธิปัตย์",
+      "votes": 13824
+    },
+    {
+      "number": 5,
+      "name": "นายวศินภัทร์ กิตตินันท์พาณิช",
+      "party": "กล้าธรรม",
+      "votes": 2282
+    },
+    {
+      "number": 4,
+      "name": "นายจักรกฤษ เวชยางกูร",
+      "party": "ภูมิใจไทย",
+      "votes": 1574
+    },
+    {
+      "number": 8,
+      "name": "นายหอม เอี่ยมสนิท",
+      "party": "เศรษฐกิจ",
+      "votes": 873
+    },
+    {
+      "number": 7,
+      "name": "นายอนันต์ เข็มทองคำ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 516
+    },
+    {
+      "number": 6,
+      "name": "นายอำนวย รักฉาย",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 223
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/66. สุโขทัย เขต 2.json",
+  "_validation": {
+    "vote_sum": 71207,
+    "good_votes": 71207,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "64",
+  "province_name_normalized": "สุโขทัย",
+  "summary": {
+    "eligible_voters": 118270,
+    "voters_came": 78246,
+    "ballots_received": 119891,
+    "ballots_used": 78246,
+    "good_votes": 71207,
+    "invalid_votes": 3646,
+    "no_votes": 3393
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายชูศักดิ์ คีรีมาศทอง",
+      "party": "เพื่อไทย",
+      "votes": 32650,
+      "candidate_uuid": "fc920f75-2929-44e6-a3be-881ed6af3daf",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายณรัฐพงศ์ พรหมมี",
+      "party": "ประชาชน",
+      "votes": 19265,
+      "candidate_uuid": "0b530ad8-2a9b-476d-a920-03ee08a9c9ba",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพัฒ ตั้งเบญจผล",
+      "party": "ประชาธิปัตย์",
+      "votes": 13824,
+      "candidate_uuid": "af522460-d894-48e7-87a3-4f3ba9c218e8",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวศินภัทร์ กิตตินันท์พาณิช",
+      "party": "กล้าธรรม",
+      "votes": 2282,
+      "candidate_uuid": "5ca529d7-4ae4-4a33-976a-4dd0d5ca7585",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายจักรกฤษ เวชยางกูร",
+      "party": "ภูมิใจไทย",
+      "votes": 1574,
+      "candidate_uuid": "eb0c938c-e121-4c63-adfb-65bebb2c6452",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายหอม เอี่ยมสนิท",
+      "party": "เศรษฐกิจ",
+      "votes": 873,
+      "candidate_uuid": "03207f4b-dbbf-4de1-9620-c507cd522ef8",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอนันต์ เข็มทองคำ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 516,
+      "candidate_uuid": "131c60a8-f09d-4043-a8c5-bb3b6e6a5f37",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอำนวย รักฉาย",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 223,
+      "candidate_uuid": "052ea2aa-5c36-4b00-b574-430ab437c57c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

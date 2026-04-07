@@ -1,0 +1,181 @@
+{
+  "province_name": "สงขลา",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 108624,
+    "1.2": 82759,
+    "2.1": 103680,
+    "2.2": 82759,
+    "2.3": 20921,
+    "3.1": 75072,
+    "3.2": 57,
+    "3.3": 7630,
+    "3.4": 82759,
+    "4.1": 78663,
+    "4.2": 1411,
+    "4.3": 2685
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายจูรี นุ่มแก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 32205
+    },
+    {
+      "number": 5,
+      "name": "นายสุภัทร ฮาสุวรรณกิจ",
+      "party": "ประชาชน",
+      "votes": 22288
+    },
+    {
+      "number": 3,
+      "name": "นายศาสตรา ศรีปาน",
+      "party": "ภูมิใจไทย",
+      "votes": 18935
+    },
+    {
+      "number": 2,
+      "name": "พลตำรวจโทพัฒนวุธ อังคะนาวิน",
+      "party": "เศรษฐกิจ",
+      "votes": 3133
+    },
+    {
+      "number": 4,
+      "name": "นายอรรถชาญ เชาวน์วานิชย์",
+      "party": "เพื่อไทย",
+      "votes": 695
+    },
+    {
+      "number": 6,
+      "name": "นายมานพ เพ็งชุม",
+      "party": "กล้าธรรม",
+      "votes": 545
+    },
+    {
+      "number": 7,
+      "name": "นายประกอบ ปลอด",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 450
+    },
+    {
+      "number": 8,
+      "name": "นายธนพล มะโน",
+      "party": "ไทยภักดี",
+      "votes": 233
+    },
+    {
+      "number": 10,
+      "name": "พ.ต.อ.วิชัย วิชยานฤพล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 96
+    },
+    {
+      "number": 9,
+      "name": "นายธาราดร พรหมสุทธิ์",
+      "party": "พลังประชารัฐ",
+      "votes": 83
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/58. สงขลา เขต 2.json",
+  "_validation": {
+    "vote_sum": 78663,
+    "good_votes": 78663,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "90",
+  "province_name_normalized": "สงขลา",
+  "summary": {
+    "eligible_voters": 108624,
+    "voters_came": 82759,
+    "ballots_received": 103680,
+    "ballots_used": 82759,
+    "good_votes": 78663,
+    "invalid_votes": 1411,
+    "no_votes": 2685
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายจูรี นุ่มแก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 32205,
+      "candidate_uuid": "ceb54843-cf41-415b-a5ac-c55626e5fda2",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสุภัทร ฮาสุวรรณกิจ",
+      "party": "ประชาชน",
+      "votes": 22288,
+      "candidate_uuid": "7136f2d5-b575-457f-bccd-c555c6c90e30",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายศาสตรา ศรีปาน",
+      "party": "ภูมิใจไทย",
+      "votes": 18935,
+      "candidate_uuid": "132c27d7-038b-4de5-9513-239032d321f4",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "พลตำรวจโทพัฒนวุธ อังคะนาวิน",
+      "party": "เศรษฐกิจ",
+      "votes": 3133,
+      "candidate_uuid": "afee192e-36a7-4470-abff-61b45f9ed8d5",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอรรถชาญ เชาวน์วานิชย์",
+      "party": "เพื่อไทย",
+      "votes": 695,
+      "candidate_uuid": "cf43e98f-d3ef-468e-b4bd-4f00ac8e6ef7",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายมานพ เพ็งชุม",
+      "party": "กล้าธรรม",
+      "votes": 545,
+      "candidate_uuid": "0df10527-d765-42bb-b01b-be8470598843",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายประกอบ ปลอด",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 450,
+      "candidate_uuid": "df43b9a3-da02-4537-a927-37de5491ee1f",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธนพล มะโน",
+      "party": "ไทยภักดี",
+      "votes": 233,
+      "candidate_uuid": "788e5dbb-edd7-484e-be00-4db8a9aea4a2",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "พ.ต.อ.วิชัย วิชยานฤพล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 96,
+      "candidate_uuid": "75e9aeff-b3e6-4113-876b-6f9f81e19fbf",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธาราดร พรหมสุทธิ์",
+      "party": "พลังประชารัฐ",
+      "votes": 83,
+      "candidate_uuid": "25ee6e58-2d1f-4bde-96e4-895002d9f564",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

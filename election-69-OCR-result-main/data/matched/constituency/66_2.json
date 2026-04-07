@@ -1,0 +1,139 @@
+{
+  "province_name": "พิจิตร",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 140325,
+    "1.2": 91079,
+    "2.1": 142456,
+    "2.2": 91078,
+    "2.3": 51378,
+    "3.1": 84352,
+    "3.2": 10,
+    "3.3": 6716,
+    "3.4": 91078,
+    "4.1": 83178,
+    "4.2": 4341,
+    "4.3": 3559
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายวินัย ภัทรประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 46639
+    },
+    {
+      "number": 6,
+      "name": "นายชัยณรงค์ คล้ายเนียม",
+      "party": "ประชาชน",
+      "votes": 20167
+    },
+    {
+      "number": 3,
+      "name": "นายภูดิท อินสุวรรณ์",
+      "party": "เพื่อไทย",
+      "votes": 12757
+    },
+    {
+      "number": 5,
+      "name": "นายวัชรินทร์ แทนจำรัส",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1240
+    },
+    {
+      "number": 8,
+      "name": "นางบัวลอย โพธิ์หลาย",
+      "party": "ประชาธิปัตย์",
+      "votes": 991
+    },
+    {
+      "number": 7,
+      "name": "นายนิทัศน์ จันทเดช",
+      "party": "เศรษฐกิจ",
+      "votes": 921
+    },
+    {
+      "number": 9,
+      "name": "นายวชรพล เดชอ่อน",
+      "party": "กล้าธรรม",
+      "votes": 463
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/37. พิจิตร เขต 2.json",
+  "_validation": {
+    "vote_sum": 83178,
+    "good_votes": 83178,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "66",
+  "province_name_normalized": "พิจิตร",
+  "summary": {
+    "eligible_voters": 140325,
+    "voters_came": 91079,
+    "ballots_received": 142456,
+    "ballots_used": 91078,
+    "good_votes": 83178,
+    "invalid_votes": 4341,
+    "no_votes": 3559
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายวินัย ภัทรประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 46639,
+      "candidate_uuid": "0a587b08-7939-4c05-b32c-35c6f955919e",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายชัยณรงค์ คล้ายเนียม",
+      "party": "ประชาชน",
+      "votes": 20167,
+      "candidate_uuid": "f7e412d5-dc71-4762-b2df-e7e12b273661",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายภูดิท อินสุวรรณ์",
+      "party": "เพื่อไทย",
+      "votes": 12757,
+      "candidate_uuid": "289c65f7-101c-497a-b790-90074212114b",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวัชรินทร์ แทนจำรัส",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1240,
+      "candidate_uuid": "693b2f66-369b-4b85-8d31-02b0b13c1ef8",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางบัวลอย โพธิ์หลาย",
+      "party": "ประชาธิปัตย์",
+      "votes": 991,
+      "candidate_uuid": "86a10e7f-e6f2-4d6d-9a9e-41d6df68525d",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายนิทัศน์ จันทเดช",
+      "party": "เศรษฐกิจ",
+      "votes": 921,
+      "candidate_uuid": "a790dfc0-4aee-468f-be85-c445e3322a40",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายวชรพล เดชอ่อน",
+      "party": "กล้าธรรม",
+      "votes": 463,
+      "candidate_uuid": "c559d1ad-c7b0-4362-b55a-fe3f096a3166",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

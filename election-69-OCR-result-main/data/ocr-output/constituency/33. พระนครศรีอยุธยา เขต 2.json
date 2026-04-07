@@ -1,0 +1,129 @@
+{
+  "province_name": "พระนครศรีอยุธยา",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128589,
+    "1.2": 102658,
+    "2.1": 130584,
+    "2.2": 102658,
+    "2.3": 27926,
+    "3.1": 100133,
+    "3.2": 5,
+    "3.3": 2520,
+    "3.4": 102658,
+    "4.1": 94398,
+    "4.2": 3577,
+    "4.3": 4683
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายนพ ชีวานันท์",
+      "party": "ภูมิใจไทย",
+      "votes": 53474
+    },
+    {
+      "number": 1,
+      "name": "นายชริน วงศ์พันธ์เที่ยง",
+      "party": "ประชาชน",
+      "votes": 25836
+    },
+    {
+      "number": 6,
+      "name": "นายวุฒิพงษ์ พวงทอง",
+      "party": "เพื่อไทย",
+      "votes": 9030
+    },
+    {
+      "number": 2,
+      "name": "นายปฐมรัตน์ ขวนขวายทรัพย์",
+      "party": "เศรษฐกิจ",
+      "votes": 1953
+    },
+    {
+      "number": 3,
+      "name": "นายทรงศักดิ์ อยู่ยืน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1356
+    },
+    {
+      "number": 8,
+      "name": "นางสาวฉวี พงษ์พนัศ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1144
+    },
+    {
+      "number": 4,
+      "name": "นายภาสพล โตหอมบุตร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 699
+    },
+    {
+      "number": 9,
+      "name": "นายปัญญา พุกราชวงศ์",
+      "party": "กล้าธรรม",
+      "votes": 662
+    },
+    {
+      "number": 10,
+      "name": "นางสาวธนภรณ์ ผลยาม",
+      "party": "พลังประชารัฐ",
+      "votes": 244
+    },
+    {
+      "number": 11,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 12,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 13,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 14,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 15,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 16,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 17,
+      "name": "",
+      "party": "",
+      "votes": 0
+    },
+    {
+      "number": 18,
+      "name": "",
+      "party": "",
+      "votes": 0
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/33. พระนครศรีอยุธยา เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 94398,
+    "good_votes": 94398,
+    "sum_diff_pct": 0.0
+  }
+}

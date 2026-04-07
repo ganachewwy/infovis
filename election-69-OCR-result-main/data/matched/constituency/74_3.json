@@ -1,0 +1,125 @@
+{
+  "province_name": "สมุทรสาคร",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 111970,
+    "1.2": 81870,
+    "2.1": 110440,
+    "2.2": 81870,
+    "2.3": 28570,
+    "3.1": 78985,
+    "3.2": 4,
+    "3.3": 2881,
+    "3.4": 81870,
+    "4.1": 74704,
+    "4.2": 3218,
+    "4.3": 3948
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายศิริโรจน์ ธนิกกุล",
+      "party": "ประชาชน",
+      "votes": 30787
+    },
+    {
+      "number": 4,
+      "name": "นายบุญมี นิลถนอม",
+      "party": "กล้าธรรม",
+      "votes": 26064
+    },
+    {
+      "number": 2,
+      "name": "นายธนวัฒน์ ทองโต",
+      "party": "ภูมิใจไทย",
+      "votes": 7342
+    },
+    {
+      "number": 3,
+      "name": "นายพลภวัฒน์ ชำนาญวาด",
+      "party": "เพื่อไทย",
+      "votes": 6123
+    },
+    {
+      "number": 6,
+      "name": "นางสาวแพญาริณธ์ เจียอัครเตชานน",
+      "party": "ประชาธิปัตย์",
+      "votes": 2839
+    },
+    {
+      "number": 5,
+      "name": "นายวีร์ธนากฤต โพธิ์สุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 1549
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/62. สมุทรสาคร เขต 3.json",
+  "_validation": {
+    "vote_sum": 74704,
+    "good_votes": 74704,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "74",
+  "province_name_normalized": "สมุทรสาคร",
+  "summary": {
+    "eligible_voters": 111970,
+    "voters_came": 81870,
+    "ballots_received": 110440,
+    "ballots_used": 81870,
+    "good_votes": 74704,
+    "invalid_votes": 3218,
+    "no_votes": 3948
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายศิริโรจน์ ธนิกกุล",
+      "party": "ประชาชน",
+      "votes": 30787,
+      "candidate_uuid": "d0bb1818-6dee-4a39-b860-ad978228f6fd",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายบุญมี นิลถนอม",
+      "party": "กล้าธรรม",
+      "votes": 26064,
+      "candidate_uuid": "8b7f5476-e1bd-4be5-828a-544da4ec1ce1",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธนวัฒน์ ทองโต",
+      "party": "ภูมิใจไทย",
+      "votes": 7342,
+      "candidate_uuid": "251ae78e-74de-488a-b269-8a292c4f75d2",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพลภวัฒน์ ชำนาญวาด",
+      "party": "เพื่อไทย",
+      "votes": 6123,
+      "candidate_uuid": "ecd21e08-81c0-4e9d-8b2c-b19657218121",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวแพญาริณธ์ เจียอัครเตชานน",
+      "party": "ประชาธิปัตย์",
+      "votes": 2839,
+      "candidate_uuid": "cebbb759-ea89-47a8-bee3-acf03c335705",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวีร์ธนากฤต โพธิ์สุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 1549,
+      "candidate_uuid": "d9b8182c-e0fa-4fea-94c9-4294540db9e1",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

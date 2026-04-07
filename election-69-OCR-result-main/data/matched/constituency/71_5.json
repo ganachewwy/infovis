@@ -1,0 +1,139 @@
+{
+  "province_name": "กาญจนบุรี",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 122645,
+    "1.2": 89052,
+    "2.1": 125628,
+    "2.2": 89052,
+    "2.3": 36576,
+    "3.1": 83964,
+    "3.2": 0,
+    "3.3": 5088,
+    "3.4": 89052,
+    "4.1": 82962,
+    "4.2": 4176,
+    "4.3": 1914
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายพนม โพธิ์แก้ว",
+      "party": "เพื่อไทย",
+      "votes": 39023
+    },
+    {
+      "number": 3,
+      "name": "นายศักดิ์ดา วิเชียรศิลป์",
+      "party": "ภูมิใจไทย",
+      "votes": 27305
+    },
+    {
+      "number": 1,
+      "name": "นางสาวเพชรมณี โตเอี่ยม",
+      "party": "ประชาชน",
+      "votes": 13925
+    },
+    {
+      "number": 4,
+      "name": "นายกิตติพงศ์ ศรีกิตติกาญจน์",
+      "party": "เศรษฐกิจ",
+      "votes": 800
+    },
+    {
+      "number": 5,
+      "name": "นายไสว บัวบาน",
+      "party": "ประชาธิปัตย์",
+      "votes": 773
+    },
+    {
+      "number": 7,
+      "name": "นายวันชัย สินประเสริฐ",
+      "party": "พลังประชารัฐ",
+      "votes": 713
+    },
+    {
+      "number": 6,
+      "name": "นายอุตดม สง่างาม",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 423
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/3. กาญจนบุรี เขต 5.json",
+  "_validation": {
+    "vote_sum": 82962,
+    "good_votes": 82962,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "71",
+  "province_name_normalized": "กาญจนบุรี",
+  "summary": {
+    "eligible_voters": 122645,
+    "voters_came": 89052,
+    "ballots_received": 125628,
+    "ballots_used": 89052,
+    "good_votes": 82962,
+    "invalid_votes": 4176,
+    "no_votes": 1914
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายพนม โพธิ์แก้ว",
+      "party": "เพื่อไทย",
+      "votes": 39023,
+      "candidate_uuid": "17724f83-24fc-46ca-bfbc-a88ff8406daf",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายศักดิ์ดา วิเชียรศิลป์",
+      "party": "ภูมิใจไทย",
+      "votes": 27305,
+      "candidate_uuid": "71f05674-d498-457f-90ee-2707cd157af5",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวเพชรมณี โตเอี่ยม",
+      "party": "ประชาชน",
+      "votes": 13925,
+      "candidate_uuid": "1d7df47b-7eeb-4417-9dd5-9f0972c3dc0b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกิตติพงศ์ ศรีกิตติกาญจน์",
+      "party": "เศรษฐกิจ",
+      "votes": 800,
+      "candidate_uuid": "cd21e0e4-8fff-43cd-85e4-b2a7564c5233",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายไสว บัวบาน",
+      "party": "ประชาธิปัตย์",
+      "votes": 773,
+      "candidate_uuid": "80380f1e-64a4-4f52-a0fa-a3d97044742f",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวันชัย สินประเสริฐ",
+      "party": "พลังประชารัฐ",
+      "votes": 713,
+      "candidate_uuid": "9c375ef9-dc05-45c1-ba86-1b0c3d91bcb0",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอุตดม สง่างาม",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 423,
+      "candidate_uuid": "b3e2ff2e-0e01-47f0-b3b3-252fa62cd8ef",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

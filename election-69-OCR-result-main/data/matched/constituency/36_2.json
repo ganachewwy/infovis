@@ -1,0 +1,139 @@
+{
+  "province_name": "ชัยภูมิ",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133561,
+    "1.2": 87136,
+    "2.1": 136036,
+    "2.2": 87136,
+    "2.3": 48900,
+    "3.1": 81661,
+    "3.2": 18,
+    "3.3": 5457,
+    "3.4": 87136,
+    "4.1": 79326,
+    "4.2": 4464,
+    "4.3": 3346
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายเชิงชาย ชาลีรินทร์",
+      "party": "เพื่อไทย",
+      "votes": 54996
+    },
+    {
+      "number": 2,
+      "name": "นางสาววาสนา อยู่ภักดี",
+      "party": "ประชาชน",
+      "votes": 14658
+    },
+    {
+      "number": 5,
+      "name": "นายทัศนัย สุขประสาร",
+      "party": "ภูมิใจไทย",
+      "votes": 3538
+    },
+    {
+      "number": 6,
+      "name": "นายโสโชค สู้โนนตาด",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1879
+    },
+    {
+      "number": 7,
+      "name": "นายถวัลย์ หงษ์ไทย",
+      "party": "เศรษฐกิจ",
+      "votes": 1687
+    },
+    {
+      "number": 8,
+      "name": "ณรงค์ แขนอก",
+      "party": "ประชาธิปัตย์",
+      "votes": 1314
+    },
+    {
+      "number": 9,
+      "name": "นายประเสริฐศักดิ์ ขำหินตั้ง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1254
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/11. ชัยภูมิ เขต 2.json",
+  "_validation": {
+    "vote_sum": 79326,
+    "good_votes": 79326,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "36",
+  "province_name_normalized": "ชัยภูมิ",
+  "summary": {
+    "eligible_voters": 133561,
+    "voters_came": 87136,
+    "ballots_received": 136036,
+    "ballots_used": 87136,
+    "good_votes": 79326,
+    "invalid_votes": 4464,
+    "no_votes": 3346
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายเชิงชาย ชาลีรินทร์",
+      "party": "เพื่อไทย",
+      "votes": 54996,
+      "candidate_uuid": "3840ee72-f59f-4a67-b738-08e11fe4f988",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาววาสนา อยู่ภักดี",
+      "party": "ประชาชน",
+      "votes": 14658,
+      "candidate_uuid": "25f6ae74-135d-4a35-8fdb-5198ef463ccf",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายทัศนัย สุขประสาร",
+      "party": "ภูมิใจไทย",
+      "votes": 3538,
+      "candidate_uuid": "2acddc2c-2fcb-44fd-8de8-72fef8ad8140",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายโสโชค สู้โนนตาด",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1879,
+      "candidate_uuid": "c8ec6639-3a09-467f-8c42-bd5aaa2312a1",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายถวัลย์ หงษ์ไทย",
+      "party": "เศรษฐกิจ",
+      "votes": 1687,
+      "candidate_uuid": "0d2180dc-37ef-43e9-84dd-3831b6330350",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ณรงค์ แขนอก",
+      "party": "ประชาธิปัตย์",
+      "votes": 1314,
+      "candidate_uuid": "7b1d9770-d852-4795-9e52-e8b15c9f024e",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายประเสริฐศักดิ์ ขำหินตั้ง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1254,
+      "candidate_uuid": "0954aca2-3c9f-44e0-9b89-b1000fe175b9",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

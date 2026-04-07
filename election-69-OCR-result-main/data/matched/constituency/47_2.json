@@ -1,0 +1,153 @@
+{
+  "province_name": "Sakon Nakhon",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131918,
+    "1.2": 88996,
+    "2.1": 131640,
+    "2.2": 88996,
+    "2.3": 42644,
+    "3.1": 84450,
+    "3.2": 6,
+    "3.3": 4540,
+    "3.4": 88996,
+    "4.1": 83880,
+    "4.2": 3317,
+    "4.3": 1799
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายชาตรี หล้าพรหม",
+      "party": "กล้าธรรม",
+      "votes": 25737
+    },
+    {
+      "number": 5,
+      "name": "นางสาวณภัชชา ศิลปะรายะ",
+      "party": "ภูมิใจไทย",
+      "votes": 20809
+    },
+    {
+      "number": 1,
+      "name": "นายอภิชาติ ตีรสวัสดิชัย",
+      "party": "เพื่อไทย",
+      "votes": 19074
+    },
+    {
+      "number": 2,
+      "name": "นายภาสพล อุฬารกุล",
+      "party": "ประชาชน",
+      "votes": 15466
+    },
+    {
+      "number": 6,
+      "name": "นายนิยม เวชกามา",
+      "party": "โอกาสใหม่",
+      "votes": 1298
+    },
+    {
+      "number": 8,
+      "name": "นายวิชิต ม่อมพะเนาว์",
+      "party": "เศรษฐกิจ",
+      "votes": 633
+    },
+    {
+      "number": 3,
+      "name": "นางสาวเพชรา อัคราชศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 584
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนัฐภรณ์ วงค์ขาชม",
+      "party": "ประชาธิปัตย์",
+      "votes": 279
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/57. สกลนคร เขต 2.json",
+  "_validation": {
+    "vote_sum": 83880,
+    "good_votes": 83880,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "47",
+  "province_name_normalized": "สกลนคร",
+  "summary": {
+    "eligible_voters": 131918,
+    "voters_came": 88996,
+    "ballots_received": 131640,
+    "ballots_used": 88996,
+    "good_votes": 83880,
+    "invalid_votes": 3317,
+    "no_votes": 1799
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายชาตรี หล้าพรหม",
+      "party": "กล้าธรรม",
+      "votes": 25737,
+      "candidate_uuid": "04f23086-25b2-4a19-bf95-1a93901268c4",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวณภัชชา ศิลปะรายะ",
+      "party": "ภูมิใจไทย",
+      "votes": 20809,
+      "candidate_uuid": "b3b62882-7052-4d28-bdf0-76dd8c77f946",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอภิชาติ ตีรสวัสดิชัย",
+      "party": "เพื่อไทย",
+      "votes": 19074,
+      "candidate_uuid": "67367be5-864c-4e48-9f9b-167b506d155a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายภาสพล อุฬารกุล",
+      "party": "ประชาชน",
+      "votes": 15466,
+      "candidate_uuid": "0ac31e3a-8feb-47c9-a8f3-b34fd9c7fdae",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายนิยม เวชกามา",
+      "party": "โอกาสใหม่",
+      "votes": 1298,
+      "candidate_uuid": "915b4c7c-cb79-4564-b03f-785e5ab1a895",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวิชิต ม่อมพะเนาว์",
+      "party": "เศรษฐกิจ",
+      "votes": 633,
+      "candidate_uuid": "f56cdabb-3b02-48f9-aa9d-04096c736134",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวเพชรา อัคราชศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 584,
+      "candidate_uuid": "8bec1770-db40-4a66-b989-ff213714aa2c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวนัฐภรณ์ วงค์ขาชม",
+      "party": "ประชาธิปัตย์",
+      "votes": 279,
+      "candidate_uuid": "5fa55641-bdbd-4832-95fe-3edaf64562cc",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "นครสวรรค์",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 146592,
+    "1.2": 100028,
+    "2.1": 146840,
+    "2.2": 100028,
+    "2.3": 46812,
+    "3.1": 94375,
+    "3.2": 0,
+    "3.3": 5653,
+    "3.4": 100028,
+    "4.1": 90997,
+    "4.2": 4841,
+    "4.3": 4190
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายสัญญา นิลสุพรรณ",
+      "party": "กล้าธรรม",
+      "votes": 53454
+    },
+    {
+      "number": 1,
+      "name": "นายยุทธการ พลแสน",
+      "party": "ประชาชน",
+      "votes": 21890
+    },
+    {
+      "number": 3,
+      "name": "นายสัญชัย วงษ์สุนทร",
+      "party": "เพื่อไทย",
+      "votes": 7059
+    },
+    {
+      "number": 4,
+      "name": "นายมารุต โมราสุข",
+      "party": "ประชาธิปัตย์",
+      "votes": 2981
+    },
+    {
+      "number": 7,
+      "name": "นายอภิวัฒน์ เขม้นเขตกิจ",
+      "party": "ภูมิใจไทย",
+      "votes": 2482
+    },
+    {
+      "number": 2,
+      "name": "นายนิรุด เรื่องงาม",
+      "party": "เศรษฐกิจ",
+      "votes": 2221
+    },
+    {
+      "number": 6,
+      "name": "นางสาวปุญญ์ชญาณ์ ท้วมโพธิ์แก้ว",
+      "party": "มิติใหม่",
+      "votes": 693
+    },
+    {
+      "number": 8,
+      "name": "นายธงชัย ชัยธสุวรรณ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 217
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/23. นครสวรรค์ เขต 3.json",
+  "_validation": {
+    "vote_sum": 90997,
+    "good_votes": 90997,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "60",
+  "province_name_normalized": "นครสวรรค์",
+  "summary": {
+    "eligible_voters": 146592,
+    "voters_came": 100028,
+    "ballots_received": 146840,
+    "ballots_used": 100028,
+    "good_votes": 90997,
+    "invalid_votes": 4841,
+    "no_votes": 4190
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายสัญญา นิลสุพรรณ",
+      "party": "กล้าธรรม",
+      "votes": 53454,
+      "candidate_uuid": "b7698aa8-21e7-4847-8340-1488e527d4c3",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายยุทธการ พลแสน",
+      "party": "ประชาชน",
+      "votes": 21890,
+      "candidate_uuid": "cb160714-e804-4a61-bc35-2433bfe77564",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสัญชัย วงษ์สุนทร",
+      "party": "เพื่อไทย",
+      "votes": 7059,
+      "candidate_uuid": "dc5663a5-0ac8-49cb-8d94-48a74594d109",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายมารุต โมราสุข",
+      "party": "ประชาธิปัตย์",
+      "votes": 2981,
+      "candidate_uuid": "f2b07948-0b33-491f-8a57-26dffd6fbbbd",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอภิวัฒน์ เขม้นเขตกิจ",
+      "party": "ภูมิใจไทย",
+      "votes": 2482,
+      "candidate_uuid": "7714b3c7-b327-4016-b746-5aa47a7e0e96",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนิรุด เรื่องงาม",
+      "party": "เศรษฐกิจ",
+      "votes": 2221,
+      "candidate_uuid": "3ea84b69-9d18-4733-80d3-e164ab5c6704",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวปุญญ์ชญาณ์ ท้วมโพธิ์แก้ว",
+      "party": "มิติใหม่",
+      "votes": 693,
+      "candidate_uuid": "d4077e71-901a-4e1b-b9d3-d944fc261ee5",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธงชัย ชัยธสุวรรณ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 217,
+      "candidate_uuid": "ef471ecb-5bf3-4b4b-a122-65fa2a584f5a",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,63 @@
+{
+  "province_name": "ราชบุรี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139159,
+    "1.2": 101443,
+    "2.1": 139540,
+    "2.2": 101443,
+    "2.3": 38097,
+    "3.1": 98375,
+    "3.2": 0,
+    "3.3": 3068,
+    "3.4": 101443,
+    "4.1": 89818,
+    "4.2": 5088,
+    "4.3": 6537
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นางบุญยิ่ง นิติกาญจนา",
+      "party": "กล้าธรรม",
+      "votes": 43510
+    },
+    {
+      "number": 1,
+      "name": "นางสาวสิรีธร ธนะชัยศรี",
+      "party": "ประชาชน",
+      "votes": 26956
+    },
+    {
+      "number": 3,
+      "name": "นางสาวรดาภัค แก้วพรายตา",
+      "party": "ภูมิใจไทย",
+      "votes": 6251
+    },
+    {
+      "number": 2,
+      "name": "นายไก่ ห้องริ้ว",
+      "party": "เพื่อไทย",
+      "votes": 5852
+    },
+    {
+      "number": 5,
+      "name": "นางสาวถปนัท ชาติไทย",
+      "party": "ประชาธิปัตย์",
+      "votes": 4524
+    },
+    {
+      "number": 6,
+      "name": "นายศุภชัย พงษ์ทวี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2725
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/51. ราชบุรี เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 89818,
+    "good_votes": 89818,
+    "sum_diff_pct": 0.0
+  }
+}

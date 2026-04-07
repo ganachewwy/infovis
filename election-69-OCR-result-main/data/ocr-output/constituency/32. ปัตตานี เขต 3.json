@@ -1,0 +1,63 @@
+{
+  "province_name": "ปัตตานี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 99188,
+    "1.2": 70192,
+    "2.1": 102060,
+    "2.2": 70192,
+    "2.3": 31868,
+    "3.1": 67850,
+    "3.2": 5,
+    "3.3": 2337,
+    "3.4": 70192,
+    "4.1": 65804,
+    "4.2": 2632,
+    "4.3": 1756
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายบูรฮันธ์ สาเม๊าะ",
+      "party": "ภูมิใจไทย",
+      "votes": 30337
+    },
+    {
+      "number": 6,
+      "name": "นายสมมุติ เบ็ญจลักษณ์",
+      "party": "ประชาชาติ",
+      "votes": 24253
+    },
+    {
+      "number": 3,
+      "name": "นายพิมาน แม้นมินทร์",
+      "party": "ประชาชน",
+      "votes": 6626
+    },
+    {
+      "number": 5,
+      "name": "นายมะรูดิง ยาโงะ",
+      "party": "กล้าธรรม",
+      "votes": 2601
+    },
+    {
+      "number": 2,
+      "name": "นายซาตา อาแวกือจิ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1341
+    },
+    {
+      "number": 1,
+      "name": "นายมูสำหมัดอามิน กอเดร์",
+      "party": "เพื่อไทย",
+      "votes": 646
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/32. ปัตตานี เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 65804,
+    "good_votes": 65804,
+    "sum_diff_pct": 0.0
+  }
+}

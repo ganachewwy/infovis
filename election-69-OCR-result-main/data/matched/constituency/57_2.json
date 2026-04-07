@@ -1,0 +1,139 @@
+{
+  "province_name": "เชียงราย",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132614,
+    "1.2": 100731,
+    "2.1": 134022,
+    "2.2": 100731,
+    "2.3": 33291,
+    "3.1": 94549,
+    "3.2": 8,
+    "3.3": 6174,
+    "3.4": 100731,
+    "4.1": 88811,
+    "4.2": 6400,
+    "4.3": 5520
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นางสาวปิยะรัฐชย์ ติยะไพรัช",
+      "party": "เพื่อไทย",
+      "votes": 34901
+    },
+    {
+      "number": 6,
+      "name": "นายอุทิศ มณีจันสุข",
+      "party": "ประชาชน",
+      "votes": 25076
+    },
+    {
+      "number": 4,
+      "name": "นายทรงพล ชีวินมหาชัย",
+      "party": "กล้าธรรม",
+      "votes": 23435
+    },
+    {
+      "number": 5,
+      "name": "นางสาวช่อพฤกษา อุดมทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 2277
+    },
+    {
+      "number": 7,
+      "name": "นายประเวช ราชชมภู",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1299
+    },
+    {
+      "number": 1,
+      "name": "นายพงษ์พณิช อันพาพรม",
+      "party": "ท้องที่ไทย",
+      "votes": 1061
+    },
+    {
+      "number": 3,
+      "name": "นายหาญ ดอนลาว",
+      "party": "ประชาธิปัตย์",
+      "votes": 762
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/13. เชียงราย เขต 2.json",
+  "_validation": {
+    "vote_sum": 88811,
+    "good_votes": 88811,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "57",
+  "province_name_normalized": "เชียงราย",
+  "summary": {
+    "eligible_voters": 132614,
+    "voters_came": 100731,
+    "ballots_received": 134022,
+    "ballots_used": 100731,
+    "good_votes": 88811,
+    "invalid_votes": 6400,
+    "no_votes": 5520
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นางสาวปิยะรัฐชย์ ติยะไพรัช",
+      "party": "เพื่อไทย",
+      "votes": 34901,
+      "candidate_uuid": "80e1538b-366a-43ed-8571-839916cc0011",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอุทิศ มณีจันสุข",
+      "party": "ประชาชน",
+      "votes": 25076,
+      "candidate_uuid": "c994729e-caab-4dad-b678-df25f2502495",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายทรงพล ชีวินมหาชัย",
+      "party": "กล้าธรรม",
+      "votes": 23435,
+      "candidate_uuid": "8242a31a-3f5b-44c1-a8e6-2ada2eaa66ee",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวช่อพฤกษา อุดมทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 2277,
+      "candidate_uuid": "29c8de76-023e-4058-9d0a-ae40af667824",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายประเวช ราชชมภู",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1299,
+      "candidate_uuid": "8a209eae-6cbc-45c5-80ac-3465ebafc8e0",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพงษ์พณิช อันพาพรม",
+      "party": "ท้องที่ไทย",
+      "votes": 1061,
+      "candidate_uuid": "dab116a4-d010-49b7-b445-1f7ca6601aa3",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายหาญ ดอนลาว",
+      "party": "ประชาธิปัตย์",
+      "votes": 762,
+      "candidate_uuid": "3a8df09c-847f-4b86-8c53-b2aaea190d4c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

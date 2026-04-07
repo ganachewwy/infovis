@@ -1,0 +1,167 @@
+{
+  "province_name": "กำแพงเพชร",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137857,
+    "1.2": 91355,
+    "2.1": 138308,
+    "2.2": 91355,
+    "2.3": 46953,
+    "3.1": 84867,
+    "3.2": 13,
+    "3.3": 6475,
+    "3.4": 91355,
+    "4.1": 83994,
+    "4.2": 4217,
+    "4.3": 3144
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายนพพล ผลอำนวย",
+      "party": "เพื่อไทย",
+      "votes": 33653
+    },
+    {
+      "number": 6,
+      "name": "นางสาวพิชญา อาภรณ์รัตน์",
+      "party": "กล้าธรรม",
+      "votes": 30151
+    },
+    {
+      "number": 1,
+      "name": "นายศักดา บุญสังวาลย์",
+      "party": "ประชาชน",
+      "votes": 13026
+    },
+    {
+      "number": 5,
+      "name": "นางชัญญาณ์ภัช เรืองระยับชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 1979
+    },
+    {
+      "number": 7,
+      "name": "นายนพพล ศรีแบ่งวงค์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1620
+    },
+    {
+      "number": 9,
+      "name": "นายจรัญ อิสระบัณฑิตสกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 1389
+    },
+    {
+      "number": 3,
+      "name": "นางสาวมาลิณี กลางชาติ",
+      "party": "เศรษฐกิจ",
+      "votes": 1157
+    },
+    {
+      "number": 8,
+      "name": "นายอรุโณทัย ชุมเสน",
+      "party": "โอกาสใหม่",
+      "votes": 550
+    },
+    {
+      "number": 2,
+      "name": "นายธวัชชัย อาบทอง",
+      "party": "ใหม่",
+      "votes": 469
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/5. กำแพงเพชร เขต 3.json",
+  "_validation": {
+    "vote_sum": 83994,
+    "good_votes": 83994,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "62",
+  "province_name_normalized": "กำแพงเพชร",
+  "summary": {
+    "eligible_voters": 137857,
+    "voters_came": 91355,
+    "ballots_received": 138308,
+    "ballots_used": 91355,
+    "good_votes": 83994,
+    "invalid_votes": 4217,
+    "no_votes": 3144
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายนพพล ผลอำนวย",
+      "party": "เพื่อไทย",
+      "votes": 33653,
+      "candidate_uuid": "228d767f-b1a6-468c-872f-ad00fe00a081",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวพิชญา อาภรณ์รัตน์",
+      "party": "กล้าธรรม",
+      "votes": 30151,
+      "candidate_uuid": "708b32d1-14f8-49b7-8cc5-b22736d52b50",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายศักดา บุญสังวาลย์",
+      "party": "ประชาชน",
+      "votes": 13026,
+      "candidate_uuid": "6b3551ce-f6ee-43f3-9c6f-1829e6b9cdaa",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางชัญญาณ์ภัช เรืองระยับชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 1979,
+      "candidate_uuid": "0c321b7e-c6b2-495e-8f0d-9d3f0ade0145",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายนพพล ศรีแบ่งวงค์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1620,
+      "candidate_uuid": "ee65ee6c-ad74-455a-a590-4ed5558be60e",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายจรัญ อิสระบัณฑิตสกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 1389,
+      "candidate_uuid": "b7b38307-74e4-4b27-88ba-525955397806",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวมาลิณี กลางชาติ",
+      "party": "เศรษฐกิจ",
+      "votes": 1157,
+      "candidate_uuid": "08b797d9-0ddd-488f-a27e-f5fd4fdc1567",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอรุโณทัย ชุมเสน",
+      "party": "โอกาสใหม่",
+      "votes": 550,
+      "candidate_uuid": "55f13256-4e1f-4104-9084-1872baf85c1a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธวัชชัย อาบทอง",
+      "party": "ใหม่",
+      "votes": 469,
+      "candidate_uuid": "6d05df7c-03c9-484c-b113-fcede3a2e0be",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

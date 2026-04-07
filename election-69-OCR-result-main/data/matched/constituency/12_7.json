@@ -1,0 +1,167 @@
+{
+  "province_name": "นนทบุรี",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 142327,
+    "1.2": 103313,
+    "2.1": 145606,
+    "2.2": 103313,
+    "2.3": 42293,
+    "3.1": 99647,
+    "3.2": 0,
+    "3.3": 3666,
+    "3.4": 103313,
+    "4.1": 93993,
+    "4.2": 2687,
+    "4.3": 6633
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายเกียรติคุณ ต้นยาง",
+      "party": "ประชาชน",
+      "votes": 41267
+    },
+    {
+      "number": 6,
+      "name": "นายวิเชียร เจริญนนทสิทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 18873
+    },
+    {
+      "number": 5,
+      "name": "นายซุ้น ณัฐเดช กังสุกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 13141
+    },
+    {
+      "number": 3,
+      "name": "นายภณณัฏฐ์ ศรีอินทร์สุทธิ์",
+      "party": "เพื่อไทย",
+      "votes": 9933
+    },
+    {
+      "number": 4,
+      "name": "นายพิศิษฐ์ ทิมดี",
+      "party": "ประชาธิปัตย์",
+      "votes": 4932
+    },
+    {
+      "number": 2,
+      "name": "นายปรีชา ฉอสุวรรณชาติ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2686
+    },
+    {
+      "number": 7,
+      "name": "นายมาณัษฐ์ จตุระบุล",
+      "party": "เศรษฐกิจ",
+      "votes": 1683
+    },
+    {
+      "number": 8,
+      "name": "สิบตำรวจโท สมชาย ศรีเย็น",
+      "party": "ทางเลือกใหม่",
+      "votes": 1006
+    },
+    {
+      "number": 9,
+      "name": "นายธนัท สุขเกษม",
+      "party": "พลวัต",
+      "votes": 472
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/24. นนทบุรี เขต 7.json",
+  "_validation": {
+    "vote_sum": 93993,
+    "good_votes": 93993,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "12",
+  "province_name_normalized": "นนทบุรี",
+  "summary": {
+    "eligible_voters": 142327,
+    "voters_came": 103313,
+    "ballots_received": 145606,
+    "ballots_used": 103313,
+    "good_votes": 93993,
+    "invalid_votes": 2687,
+    "no_votes": 6633
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายเกียรติคุณ ต้นยาง",
+      "party": "ประชาชน",
+      "votes": 41267,
+      "candidate_uuid": "48e71677-50c6-4c85-8427-1544532e4728",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายวิเชียร เจริญนนทสิทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 18873,
+      "candidate_uuid": "ae24ca5c-d439-4740-a697-019966bc638d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายซุ้น ณัฐเดช กังสุกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 13141,
+      "candidate_uuid": "311b56ea-369c-4cae-acaa-e36dd143be6a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายภณณัฏฐ์ ศรีอินทร์สุทธิ์",
+      "party": "เพื่อไทย",
+      "votes": 9933,
+      "candidate_uuid": "05122e22-09fa-46c5-b634-dfaa65b22ff2",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพิศิษฐ์ ทิมดี",
+      "party": "ประชาธิปัตย์",
+      "votes": 4932,
+      "candidate_uuid": "18677ea8-1ae2-4445-b173-32d4502f4934",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายปรีชา ฉอสุวรรณชาติ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2686,
+      "candidate_uuid": "0ec4288d-bea5-4593-8d8f-2c833bd4e745",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายมาณัษฐ์ จตุระบุล",
+      "party": "เศรษฐกิจ",
+      "votes": 1683,
+      "candidate_uuid": "f98a9f7e-4363-4599-911f-d8c49f0985f6",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "สิบตำรวจโท สมชาย ศรีเย็น",
+      "party": "ทางเลือกใหม่",
+      "votes": 1006,
+      "candidate_uuid": "401da8fc-4b80-4705-a388-0efdecd5c5fe",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธนัท สุขเกษม",
+      "party": "พลวัต",
+      "votes": 472,
+      "candidate_uuid": "0b6e6ce3-970b-460c-b288-717d8aa4e9fd",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

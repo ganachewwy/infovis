@@ -1,0 +1,139 @@
+{
+  "province_name": "ขอนแก่น",
+  "constituency_number": 11,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131498,
+    "1.2": 82562,
+    "2.1": 134180,
+    "2.2": 82562,
+    "2.3": 51618,
+    "3.1": 77323,
+    "3.2": 9,
+    "3.3": 5230,
+    "3.4": 82562,
+    "4.1": 76313,
+    "4.2": 4128,
+    "4.3": 2121
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายองอาจ ฉัตรชัยพลรัตน์",
+      "party": "ภูมิใจไทย",
+      "votes": 48810
+    },
+    {
+      "number": 2,
+      "name": "นายจิรายุ โชติศิลากุล",
+      "party": "เพื่อไทย",
+      "votes": 13775
+    },
+    {
+      "number": 3,
+      "name": "นางสาวณัฏฐณิชา สารบรรณ",
+      "party": "ประชาชน",
+      "votes": 11431
+    },
+    {
+      "number": 4,
+      "name": "นายพันศักดิ์ คงแสง",
+      "party": "ประชาธิปัตย์",
+      "votes": 836
+    },
+    {
+      "number": 5,
+      "name": "นางสาวสุวรรณนภา แสนสีหา",
+      "party": "ไทยภักดี",
+      "votes": 732
+    },
+    {
+      "number": 6,
+      "name": "นายพัฒนวิทย์ ใจตรง",
+      "party": "กล้าธรรม",
+      "votes": 403
+    },
+    {
+      "number": 7,
+      "name": "ร้อยตำรวจโทเสวียน สมตัว",
+      "party": "ไทยก้าวใหม่",
+      "votes": 326
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/6. ขอนแก่น เขต 11.json",
+  "_validation": {
+    "vote_sum": 76313,
+    "good_votes": 76313,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "40",
+  "province_name_normalized": "ขอนแก่น",
+  "summary": {
+    "eligible_voters": 131498,
+    "voters_came": 82562,
+    "ballots_received": 134180,
+    "ballots_used": 82562,
+    "good_votes": 76313,
+    "invalid_votes": 4128,
+    "no_votes": 2121
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายองอาจ ฉัตรชัยพลรัตน์",
+      "party": "ภูมิใจไทย",
+      "votes": 48810,
+      "candidate_uuid": "184bf6da-367b-4342-99ba-5cb1dc0c25e6",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายจิรายุ โชติศิลากุล",
+      "party": "เพื่อไทย",
+      "votes": 13775,
+      "candidate_uuid": "387f2c5e-0933-4548-a5fd-e0fb7b54eade",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวณัฏฐณิชา สารบรรณ",
+      "party": "ประชาชน",
+      "votes": 11431,
+      "candidate_uuid": "6b07bc79-34d7-41bc-8018-023151e52456",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพันศักดิ์ คงแสง",
+      "party": "ประชาธิปัตย์",
+      "votes": 836,
+      "candidate_uuid": "94ca6e3b-9e82-43e2-beca-60b39879c99c",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวสุวรรณนภา แสนสีหา",
+      "party": "ไทยภักดี",
+      "votes": 732,
+      "candidate_uuid": "a40167eb-83ac-499d-9976-2f65c0d11ade",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพัฒนวิทย์ ใจตรง",
+      "party": "กล้าธรรม",
+      "votes": 403,
+      "candidate_uuid": "1ec09157-d356-4b0c-b06e-a7b3f424f95c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "ร้อยตำรวจโทเสวียน สมตัว",
+      "party": "ไทยก้าวใหม่",
+      "votes": 326,
+      "candidate_uuid": "662bf4a0-3e92-4c14-97cf-8a6ffe3d935e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

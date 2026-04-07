@@ -1,0 +1,153 @@
+{
+  "province_name": "บึงกาฬ",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 104720,
+    "1.2": 74245,
+    "2.1": 105200,
+    "2.2": 74245,
+    "2.3": 30955,
+    "3.1": 70063,
+    "3.2": 28,
+    "3.3": 4154,
+    "3.4": 74245,
+    "4.1": 69624,
+    "4.2": 2929,
+    "4.3": 1692
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายสยาม เพ็งทอง",
+      "party": "ภูมิใจไทย",
+      "votes": 37182
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่ร้อยตรีภูมิพันธ์ บุญมาตุ่น",
+      "party": "เพื่อไทย",
+      "votes": 17532
+    },
+    {
+      "number": 1,
+      "name": "นายสมชาย โสดากุล",
+      "party": "ประชาชน",
+      "votes": 10986
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐพงศ์ เข็มศิริ",
+      "party": "กล้าธรรม",
+      "votes": 2765
+    },
+    {
+      "number": 3,
+      "name": "นายวิพนธ์ จิตรจักร",
+      "party": "ประชาธิปัตย์",
+      "votes": 619
+    },
+    {
+      "number": 8,
+      "name": "นายรชนิศ นามวงค์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 231
+    },
+    {
+      "number": 4,
+      "name": "ว่าที่ร้อยตรีสุเทพ บุพศิริ",
+      "party": "ปวงชนไทย",
+      "votes": 192
+    },
+    {
+      "number": 7,
+      "name": "นายบุญฮง ภูแซ่มโชติ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 117
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/27. บึงกาฬ เขต 1.json",
+  "_validation": {
+    "vote_sum": 69624,
+    "good_votes": 69624,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "38",
+  "province_name_normalized": "บึงกาฬ",
+  "summary": {
+    "eligible_voters": 104720,
+    "voters_came": 74245,
+    "ballots_received": 105200,
+    "ballots_used": 74245,
+    "good_votes": 69624,
+    "invalid_votes": 2929,
+    "no_votes": 1692
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายสยาม เพ็งทอง",
+      "party": "ภูมิใจไทย",
+      "votes": 37182,
+      "candidate_uuid": "a20a7865-2b80-43ee-8e01-665831c8d1e1",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่ร้อยตรีภูมิพันธ์ บุญมาตุ่น",
+      "party": "เพื่อไทย",
+      "votes": 17532,
+      "candidate_uuid": "ffa2cee8-3823-46a1-97d3-8e81cddf62c7",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสมชาย โสดากุล",
+      "party": "ประชาชน",
+      "votes": 10986,
+      "candidate_uuid": "3095a050-d541-4000-bb26-879f40490083",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐพงศ์ เข็มศิริ",
+      "party": "กล้าธรรม",
+      "votes": 2765,
+      "candidate_uuid": "2f9de2ee-f0d2-4e77-8503-4d1392fb8301",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวิพนธ์ จิตรจักร",
+      "party": "ประชาธิปัตย์",
+      "votes": 619,
+      "candidate_uuid": "b8cf6341-015f-4760-9015-38f1e3f949f4",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายรชนิศ นามวงค์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 231,
+      "candidate_uuid": "615a2c44-5ac9-4af5-9afd-0f47eca46614",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "ว่าที่ร้อยตรีสุเทพ บุพศิริ",
+      "party": "ปวงชนไทย",
+      "votes": 192,
+      "candidate_uuid": "65d1d23f-d452-4d8d-8574-cc022d035acd",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายบุญฮง ภูแซ่มโชติ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 117,
+      "candidate_uuid": "b85bfcbf-3fce-4f7d-b427-f8f27ab35fa6",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,312 @@
+{
+  "province_name": "มหาสารคาม",
+  "constituency_number": 2,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 128380,
+    "1.2": 82745,
+    "2.1": 127600,
+    "2.2": 82745,
+    "2.3": 44855,
+    "3.1": 76151,
+    "3.2": 6,
+    "3.3": 6588,
+    "3.4": 82745,
+    "4.1": 77478,
+    "4.2": 3814,
+    "4.3": 1453
+  },
+  "results": [
+    {
+      "number": 2,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 661
+    },
+    {
+      "number": 3,
+      "party": "เพื่อชาติไทย",
+      "votes": 1295
+    },
+    {
+      "number": 4,
+      "party": "ใหม่",
+      "votes": 321
+    },
+    {
+      "number": 5,
+      "party": "มิติใหม่",
+      "votes": 1304
+    },
+    {
+      "number": 6,
+      "party": "รวมใจไทย",
+      "votes": 3191
+    },
+    {
+      "number": 7,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 946
+    },
+    {
+      "number": 8,
+      "party": "พลวัต",
+      "votes": 110
+    },
+    {
+      "number": 9,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 747
+    },
+    {
+      "number": 10,
+      "party": "เพื่อไทย",
+      "votes": 23466
+    },
+    {
+      "number": 11,
+      "party": "ทางเลือกใหม่",
+      "votes": 308
+    },
+    {
+      "number": 12,
+      "party": "เศรษฐกิจ",
+      "votes": 2493
+    },
+    {
+      "number": 13,
+      "party": "เสรีรวมไทย",
+      "votes": 444
+    },
+    {
+      "number": 14,
+      "party": "รวมพลังประชาชน",
+      "votes": 562
+    },
+    {
+      "number": 15,
+      "party": "ท้องที่ไทย",
+      "votes": 76
+    },
+    {
+      "number": 16,
+      "party": "อนาคตไทย",
+      "votes": 64
+    },
+    {
+      "number": 17,
+      "party": "พลังเพื่อไทย",
+      "votes": 327
+    },
+    {
+      "number": 18,
+      "party": "ไทยชนะ",
+      "votes": 129
+    },
+    {
+      "number": 19,
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "number": 20,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 35
+    },
+    {
+      "number": 21,
+      "party": "ฟิวชัน",
+      "votes": 23
+    },
+    {
+      "number": 22,
+      "party": "ไทรวมพลัง",
+      "votes": 53
+    },
+    {
+      "number": 23,
+      "party": "ก้าวอิสระ",
+      "votes": 20
+    },
+    {
+      "number": 24,
+      "party": "ปวงชนไทย",
+      "votes": 36
+    },
+    {
+      "number": 25,
+      "party": "วิชชั่นใหม่",
+      "votes": 48
+    },
+    {
+      "number": 26,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 43
+    },
+    {
+      "number": 27,
+      "party": "คลองไทย",
+      "votes": 60
+    },
+    {
+      "number": 28,
+      "party": "ประชาธิปัตย์",
+      "votes": 1652
+    },
+    {
+      "number": 29,
+      "party": "ไทยก้าวหน้า",
+      "votes": 131
+    },
+    {
+      "number": 30,
+      "party": "ไทยภักดี",
+      "votes": 201
+    },
+    {
+      "number": 31,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 120
+    },
+    {
+      "number": 32,
+      "party": "ประชากรไทย",
+      "votes": 189
+    },
+    {
+      "number": 33,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 191
+    },
+    {
+      "number": 34,
+      "party": "ประชาชาติ",
+      "votes": 224
+    },
+    {
+      "number": 35,
+      "party": "สร้างอนาคตไทย",
+      "votes": 322
+    },
+    {
+      "number": 36,
+      "party": "รักชาติ",
+      "votes": 149
+    },
+    {
+      "number": 37,
+      "party": "ไทยพร้อม",
+      "votes": 155
+    },
+    {
+      "number": 38,
+      "party": "ภูมิใจไทย",
+      "votes": 14878
+    },
+    {
+      "number": 39,
+      "party": "พลังธรรมใหม่",
+      "votes": 428
+    },
+    {
+      "number": 40,
+      "party": "กรีน",
+      "votes": 30
+    },
+    {
+      "number": 41,
+      "party": "ไทยธรรม",
+      "votes": 79
+    },
+    {
+      "number": 42,
+      "party": "แผ่นดินธรรม",
+      "votes": 20
+    },
+    {
+      "number": 43,
+      "party": "กล้าธรรม",
+      "votes": 347
+    },
+    {
+      "number": 44,
+      "party": "พลังประชารัฐ",
+      "votes": 728
+    },
+    {
+      "number": 45,
+      "party": "โอกาสใหม่",
+      "votes": 37
+    },
+    {
+      "number": 46,
+      "party": "เป็นธรรม",
+      "votes": 78
+    },
+    {
+      "number": 47,
+      "party": "ประชาชน",
+      "votes": 19526
+    },
+    {
+      "number": 48,
+      "party": "ประชาไทย",
+      "votes": 123
+    },
+    {
+      "number": 49,
+      "party": "ไทยสร้างไทย",
+      "votes": 662
+    },
+    {
+      "number": 50,
+      "party": "ไทยก้าวใหม่",
+      "votes": 211
+    },
+    {
+      "number": 51,
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "number": 52,
+      "party": "พร้อม",
+      "votes": 39
+    },
+    {
+      "number": 53,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 13
+    },
+    {
+      "number": 54,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 4
+    },
+    {
+      "number": 55,
+      "party": "ความหวังใหม่",
+      "votes": 32
+    },
+    {
+      "number": 56,
+      "party": "ไทยรวมไทย",
+      "votes": 25
+    },
+    {
+      "number": 57,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 39
+    },
+    {
+      "number": 58,
+      "party": "พลังไทยรักชาติ",
+      "votes": 57
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/43. มหาสารคาม เขต 2 (บช).pdf",
+  "_validation": {
+    "vote_sum": 77478,
+    "good_votes": 77478,
+    "sum_diff_pct": 0.0
+  }
+}

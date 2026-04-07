@@ -1,0 +1,139 @@
+{
+  "province_name": "สุราษฎร์ธานี",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 123380,
+    "1.2": 98789,
+    "2.1": 123860,
+    "2.2": 98789,
+    "2.3": 25071,
+    "3.1": 95052,
+    "3.2": 5,
+    "3.3": 3732,
+    "3.4": 98789,
+    "4.1": 94443,
+    "4.2": 1886,
+    "4.3": 2460
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายสมชาติ ประดิษฐพร",
+      "party": "ประชาธิปัตย์",
+      "votes": 43384
+    },
+    {
+      "number": 4,
+      "name": "นายพันธ์ศักดิ์ บุญแทน",
+      "party": "ภูมิใจไทย",
+      "votes": 28117
+    },
+    {
+      "number": 2,
+      "name": "นายนพดล บัวนา",
+      "party": "ไทรวมพลัง",
+      "votes": 12672
+    },
+    {
+      "number": 6,
+      "name": "นายนามบัญญัติ ย่องบุตร มะโรตระกูล",
+      "party": "ประชาชน",
+      "votes": 8917
+    },
+    {
+      "number": 3,
+      "name": "นายสุพจน์ บานเย็น",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 608
+    },
+    {
+      "number": 1,
+      "name": "นายสมพล สิงหพล",
+      "party": "เพื่อไทย",
+      "votes": 537
+    },
+    {
+      "number": 7,
+      "name": "นายสุทัศน์ อินทชาติ",
+      "party": "พลังประชารัฐ",
+      "votes": 208
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/68. สุราษฎร์ธานี เขต 4.json",
+  "_validation": {
+    "vote_sum": 94443,
+    "good_votes": 94443,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "84",
+  "province_name_normalized": "สุราษฎร์ธานี",
+  "summary": {
+    "eligible_voters": 123380,
+    "voters_came": 98789,
+    "ballots_received": 123860,
+    "ballots_used": 98789,
+    "good_votes": 94443,
+    "invalid_votes": 1886,
+    "no_votes": 2460
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายสมชาติ ประดิษฐพร",
+      "party": "ประชาธิปัตย์",
+      "votes": 43384,
+      "candidate_uuid": "099c8a33-3f10-4a04-8abe-d839022e735d",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพันธ์ศักดิ์ บุญแทน",
+      "party": "ภูมิใจไทย",
+      "votes": 28117,
+      "candidate_uuid": "ceb6a009-d6a2-4893-a8bc-91d03743c35b",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนพดล บัวนา",
+      "party": "ไทรวมพลัง",
+      "votes": 12672,
+      "candidate_uuid": "c13283fe-a39a-4a6d-9a76-2ad08b6476b2",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายนามบัญญัติ ย่องบุตร มะโรตระกูล",
+      "party": "ประชาชน",
+      "votes": 8917,
+      "candidate_uuid": "0cc9a38f-afbc-43a6-beb4-57508548b9fc",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสุพจน์ บานเย็น",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 608,
+      "candidate_uuid": "897d3dfc-9e57-43af-b4d6-e7f1ca95f1a4",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสมพล สิงหพล",
+      "party": "เพื่อไทย",
+      "votes": 537,
+      "candidate_uuid": "e4fbb462-6dab-4e62-b3f6-0c341a9bff58",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุทัศน์ อินทชาติ",
+      "party": "พลังประชารัฐ",
+      "votes": 208,
+      "candidate_uuid": "f33c5c4a-c183-49b2-a8b4-46d5aea26a12",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

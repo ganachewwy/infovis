@@ -1,0 +1,167 @@
+{
+  "province_name": "นครราชสีมา",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133508,
+    "1.2": 95129,
+    "2.1": 135320,
+    "2.2": 95129,
+    "2.3": 40191,
+    "3.1": 90593,
+    "3.2": 0,
+    "3.3": 4536,
+    "3.4": 95129,
+    "4.1": 87644,
+    "4.2": 3871,
+    "4.3": 3614
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายสมเกียรติ ตันดิลกตระกูล",
+      "party": "เพื่อไทย",
+      "votes": 38845
+    },
+    {
+      "number": 7,
+      "name": "นายทวิรัฐ รัตนเศรษฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 30864
+    },
+    {
+      "number": 4,
+      "name": "นายกฤศวัฒน์ เลิศวิริยาภรณ์",
+      "party": "ประชาชน",
+      "votes": 13546
+    },
+    {
+      "number": 6,
+      "name": "ร้อยตำรวจเอก วีระพงษ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1490
+    },
+    {
+      "number": 8,
+      "name": "นางสาวพิมนกาลล์ ธีร์ก้านพลูกลาง",
+      "party": "พลังประชารัฐ",
+      "votes": 1171
+    },
+    {
+      "number": 2,
+      "name": "นายสุกิจ อ่อนขาว",
+      "party": "ประชาธิปัตย์",
+      "votes": 831
+    },
+    {
+      "number": 5,
+      "name": "นายธนวัฒน์ ผาสุขมูล",
+      "party": "กล้าธรรม",
+      "votes": 595
+    },
+    {
+      "number": 9,
+      "name": "นางสาวชวัลลักษณ์ ทองสันเทียะ",
+      "party": "ไทยภักดี",
+      "votes": 302
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตรี พงศภัค ภูริสิทธิพล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 0
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/21. นครราชสีมา เขต 5.json",
+  "_validation": {
+    "vote_sum": 87644,
+    "good_votes": 87644,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "30",
+  "province_name_normalized": "นครราชสีมา",
+  "summary": {
+    "eligible_voters": 133508,
+    "voters_came": 95129,
+    "ballots_received": 135320,
+    "ballots_used": 95129,
+    "good_votes": 87644,
+    "invalid_votes": 3871,
+    "no_votes": 3614
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายสมเกียรติ ตันดิลกตระกูล",
+      "party": "เพื่อไทย",
+      "votes": 38845,
+      "candidate_uuid": "fded567b-ed03-4506-b270-d259f59e84d0",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายทวิรัฐ รัตนเศรษฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 30864,
+      "candidate_uuid": "81ce6f29-4309-43c5-a996-49a9e19e061a",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกฤศวัฒน์ เลิศวิริยาภรณ์",
+      "party": "ประชาชน",
+      "votes": 13546,
+      "candidate_uuid": "c65b9b17-93f3-4e3c-8c54-59500c2e49a6",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "ร้อยตำรวจเอก วีระพงษ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1490,
+      "candidate_uuid": "c6ea6241-c8e1-4aa1-a0a2-2d10ef593aba",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวพิมนกาลล์ ธีร์ก้านพลูกลาง",
+      "party": "พลังประชารัฐ",
+      "votes": 1171,
+      "candidate_uuid": "864077b3-63a5-437b-8c43-68a9b686138e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสุกิจ อ่อนขาว",
+      "party": "ประชาธิปัตย์",
+      "votes": 831,
+      "candidate_uuid": "0fc9845c-f61a-4f43-b831-58b856bc1075",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายธนวัฒน์ ผาสุขมูล",
+      "party": "กล้าธรรม",
+      "votes": 595,
+      "candidate_uuid": "8705ba9b-d100-4c87-a0a1-763c769a763f",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวชวัลลักษณ์ ทองสันเทียะ",
+      "party": "ไทยภักดี",
+      "votes": 302,
+      "candidate_uuid": "99e210ec-0e4c-492e-b7f1-06ce725e950c",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตรี พงศภัค ภูริสิทธิพล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 0,
+      "candidate_uuid": "c3f2ff7b-8790-404f-a3b7-6396247c4f5c",
+      "is_active": false
+    }
+  ],
+  "unmatched_candidates": []
+}

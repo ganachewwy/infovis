@@ -1,0 +1,167 @@
+{
+  "province_name": "ชลบุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137328,
+    "1.2": 104346,
+    "2.1": 135527,
+    "2.2": 104346,
+    "2.3": 31181,
+    "3.1": 100479,
+    "3.2": 31,
+    "3.3": 3836,
+    "3.4": 104346,
+    "4.1": 97585,
+    "4.2": 2237,
+    "4.3": 4522
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายสุชาติ ชมกลิ่น",
+      "party": "ภูมิใจไทย",
+      "votes": 46253
+    },
+    {
+      "number": 7,
+      "name": "นายวรท ศิริรักษ์",
+      "party": "ประชาชน",
+      "votes": 42057
+    },
+    {
+      "number": 6,
+      "name": "นายสรัลชา ศรีชลวัฒนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 2935
+    },
+    {
+      "number": 4,
+      "name": "นายรัฐรุจน์ ปิยะพงศ์ภัทร์",
+      "party": "เพื่อไทย",
+      "votes": 2435
+    },
+    {
+      "number": 5,
+      "name": "นายอัศพงษ์ บูรณวงศ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1411
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่ร้อยตรีสมสรรค์ อธิเวสส์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1311
+    },
+    {
+      "number": 8,
+      "name": "นางรชาภา อัศวธาวาทิน",
+      "party": "ไทยสร้างไทย",
+      "votes": 673
+    },
+    {
+      "number": 3,
+      "name": "นายปภิณวิช ศิริณายกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 327
+    },
+    {
+      "number": 9,
+      "name": "นายสันติ ถนอมเนื้อ",
+      "party": "ปวงชนไทย",
+      "votes": 183
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/9. ชลบุรี เขต 1.json",
+  "_validation": {
+    "vote_sum": 97585,
+    "good_votes": 97585,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "20",
+  "province_name_normalized": "ชลบุรี",
+  "summary": {
+    "eligible_voters": 137328,
+    "voters_came": 104346,
+    "ballots_received": 135527,
+    "ballots_used": 104346,
+    "good_votes": 97585,
+    "invalid_votes": 2237,
+    "no_votes": 4522
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายสุชาติ ชมกลิ่น",
+      "party": "ภูมิใจไทย",
+      "votes": 46253,
+      "candidate_uuid": "ced04f7f-b60b-4f02-ab83-1d82fac3ffbc",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวรท ศิริรักษ์",
+      "party": "ประชาชน",
+      "votes": 42057,
+      "candidate_uuid": "61149762-95a2-4382-b297-3f891fff0b67",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสรัลชา ศรีชลวัฒนา",
+      "party": "ประชาธิปัตย์",
+      "votes": 2935,
+      "candidate_uuid": "b238c3ad-2c47-430a-b098-dd284f20956f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายรัฐรุจน์ ปิยะพงศ์ภัทร์",
+      "party": "เพื่อไทย",
+      "votes": 2435,
+      "candidate_uuid": "21f72f47-1b23-4aba-babb-14fa8346acc2",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอัศพงษ์ บูรณวงศ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1411,
+      "candidate_uuid": "9bbc370f-3c90-4310-ac73-47cb5a5027b0",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่ร้อยตรีสมสรรค์ อธิเวสส์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1311,
+      "candidate_uuid": "ae00743b-8424-4721-91e6-29b36b5ada7b",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางรชาภา อัศวธาวาทิน",
+      "party": "ไทยสร้างไทย",
+      "votes": 673,
+      "candidate_uuid": "0f4d7da7-ee1c-4461-87e5-6cd6a9b49046",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายปภิณวิช ศิริณายกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 327,
+      "candidate_uuid": "4153f5f4-32b4-40d1-aa80-469a21d74ad8",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสันติ ถนอมเนื้อ",
+      "party": "ปวงชนไทย",
+      "votes": 183,
+      "candidate_uuid": "077958a9-95b1-4f70-a21f-0dd71da097e4",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

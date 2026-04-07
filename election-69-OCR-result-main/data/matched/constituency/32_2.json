@@ -1,0 +1,181 @@
+{
+  "province_name": "สุรินทร์",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 140119,
+    "1.2": 95003,
+    "2.1": 136500,
+    "2.2": 95003,
+    "2.3": 41497,
+    "3.1": 87056,
+    "3.2": 8,
+    "3.3": 7939,
+    "3.4": 95003,
+    "4.1": 89433,
+    "4.2": 3061,
+    "4.3": 2509
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายณัฏฐพล จรัสรพีพงษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 53228
+    },
+    {
+      "number": 5,
+      "name": "นายชูชัย มุ่งเจริญพร",
+      "party": "เพื่อไทย",
+      "votes": 17069
+    },
+    {
+      "number": 3,
+      "name": "นายพงศธร ลักขษร",
+      "party": "ประชาชน",
+      "votes": 14307
+    },
+    {
+      "number": 2,
+      "name": "นายวิโรจน์ ดีใจ",
+      "party": "เศรษฐกิจ",
+      "votes": 1114
+    },
+    {
+      "number": 9,
+      "name": "นายพิเชษฐ์ ภูแก้ว",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1064
+    },
+    {
+      "number": 6,
+      "name": "นายมานพ แสงดำ",
+      "party": "ประชาธิปัตย์",
+      "votes": 970
+    },
+    {
+      "number": 1,
+      "name": "นายสุมากร แซ่โง้ว",
+      "party": "กล้าธรรม",
+      "votes": 613
+    },
+    {
+      "number": 8,
+      "name": "นายวิทยา แก้วเหลี่ยม",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 474
+    },
+    {
+      "number": 4,
+      "name": "นายณรงค์ มุตตะโสภา",
+      "party": "พลังประชารัฐ",
+      "votes": 463
+    },
+    {
+      "number": 10,
+      "name": "นายนาวา ชิดชอบ",
+      "party": "ปวงชนไทย",
+      "votes": 131
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/69. สุรินทร์ เขต 2.json",
+  "_validation": {
+    "vote_sum": 89433,
+    "good_votes": 89433,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "32",
+  "province_name_normalized": "สุรินทร์",
+  "summary": {
+    "eligible_voters": 140119,
+    "voters_came": 95003,
+    "ballots_received": 136500,
+    "ballots_used": 95003,
+    "good_votes": 89433,
+    "invalid_votes": 3061,
+    "no_votes": 2509
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นายณัฏฐพล จรัสรพีพงษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 53228,
+      "candidate_uuid": "2c018b27-30d3-41d4-b4db-46f004bf28da",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชูชัย มุ่งเจริญพร",
+      "party": "เพื่อไทย",
+      "votes": 17069,
+      "candidate_uuid": "f8b561ad-7015-48e7-942a-3cbbf65aff9e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพงศธร ลักขษร",
+      "party": "ประชาชน",
+      "votes": 14307,
+      "candidate_uuid": "2b08694c-3eb9-448f-9f9b-c147a89e8b8a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวิโรจน์ ดีใจ",
+      "party": "เศรษฐกิจ",
+      "votes": 1114,
+      "candidate_uuid": "316fc3ad-6dfb-4941-be12-e5060331592c",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายพิเชษฐ์ ภูแก้ว",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1064,
+      "candidate_uuid": "73ba058a-0ece-4d0d-b3b5-a8613ba11882",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายมานพ แสงดำ",
+      "party": "ประชาธิปัตย์",
+      "votes": 970,
+      "candidate_uuid": "3b983afa-1989-4a28-a4c2-c5c63e4915db",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุมากร แซ่โง้ว",
+      "party": "กล้าธรรม",
+      "votes": 613,
+      "candidate_uuid": "b5ae3883-00f4-4818-b398-a4620744b6bd",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวิทยา แก้วเหลี่ยม",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 474,
+      "candidate_uuid": "09c72a60-92fc-4a69-a166-1c70bff50c75",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายณรงค์ มุตตะโสภา",
+      "party": "พลังประชารัฐ",
+      "votes": 463,
+      "candidate_uuid": "e6e3df3b-d9a4-42cc-8fa5-0911c3e9c892",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายนาวา ชิดชอบ",
+      "party": "ปวงชนไทย",
+      "votes": 131,
+      "candidate_uuid": "537ed10e-5b45-4f7b-b2ee-c6f6d0b9907a",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

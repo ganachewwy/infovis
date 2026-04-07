@@ -1,0 +1,69 @@
+{
+  "province_name": "สตูล",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 116489,
+    "1.2": 88455,
+    "2.1": 119998,
+    "2.2": 88455,
+    "2.3": 31543,
+    "3.1": 83157,
+    "3.2": 33,
+    "3.3": 5265,
+    "3.4": 88455,
+    "4.1": 81311,
+    "4.2": 2515,
+    "4.3": 4629
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายพีรพัฒน์ รัชกิจประการ",
+      "party": "ภูมิใจไทย",
+      "votes": 38100
+    },
+    {
+      "number": 7,
+      "name": "นายสุลต่าน อิสมาแอลชาห์",
+      "party": "กล้าธรรม",
+      "votes": 17251
+    },
+    {
+      "number": 1,
+      "name": "นายบุคอรีย์ สนูวงศ์",
+      "party": "ประชาชน",
+      "votes": 17149
+    },
+    {
+      "number": 4,
+      "name": "นายวัชรพงศ์ เกษา",
+      "party": "ประชาธิปัตย์",
+      "votes": 6235
+    },
+    {
+      "number": 2,
+      "name": "นายณัฐพล สาดอาหลี",
+      "party": "เพื่อไทย",
+      "votes": 1582
+    },
+    {
+      "number": 5,
+      "name": "นายธนาคม พจนาพิทักษ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 535
+    },
+    {
+      "number": 6,
+      "name": "นายนาวี พรหมทรัพย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 459
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/59. สตูล เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 81311,
+    "good_votes": 81311,
+    "sum_diff_pct": 0.0
+  }
+}

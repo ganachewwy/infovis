@@ -1,0 +1,181 @@
+{
+  "province_name": "ชลบุรี",
+  "constituency_number": 10,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 134698,
+    "1.2": 89099,
+    "2.1": 135872,
+    "2.2": 89099,
+    "2.3": 46773,
+    "3.1": 83656,
+    "3.2": 267,
+    "3.3": 5176,
+    "3.4": 89099,
+    "4.1": 82457,
+    "4.2": 1990,
+    "4.3": 4652
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายธนาธาร ประมูลพงษ์",
+      "party": "ประชาชน",
+      "votes": 27129
+    },
+    {
+      "number": 2,
+      "name": "นายพนธกร ใคร่ครวญ",
+      "party": "ภูมิใจไทย",
+      "votes": 23571
+    },
+    {
+      "number": 7,
+      "name": "นายสะถิระ เผือกประพันธุ์",
+      "party": "กล้าธรรม",
+      "votes": 23062
+    },
+    {
+      "number": 3,
+      "name": "นายอัครเศรษฐ รักษ์สกุลสงสัย",
+      "party": "เพื่อไทย",
+      "votes": 3326
+    },
+    {
+      "number": 1,
+      "name": "พลเรือตรี นพดล บงกชกาญจน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1853
+    },
+    {
+      "number": 10,
+      "name": "นายภานุวัฒน์ ผาสุข",
+      "party": "เศรษฐกิจ",
+      "votes": 1324
+    },
+    {
+      "number": 6,
+      "name": "นายภาณุวิชญ์ อิสลาม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1108
+    },
+    {
+      "number": 8,
+      "name": "นางศศิมาภรณ์ ชมไพร",
+      "party": "ไทยสร้างไทย",
+      "votes": 420
+    },
+    {
+      "number": 9,
+      "name": "นายโอฬาร์ ปัญญปิติพัฒน",
+      "party": "พลังประชารัฐ",
+      "votes": 336
+    },
+    {
+      "number": 4,
+      "name": "นายธนะพัฒน์ มธุรส",
+      "party": "ปวงชนไทย",
+      "votes": 328
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/9. ชลบุรี เขต 10.json",
+  "_validation": {
+    "vote_sum": 82457,
+    "good_votes": 82457,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "20",
+  "province_name_normalized": "ชลบุรี",
+  "summary": {
+    "eligible_voters": 134698,
+    "voters_came": 89099,
+    "ballots_received": 135872,
+    "ballots_used": 89099,
+    "good_votes": 82457,
+    "invalid_votes": 1990,
+    "no_votes": 4652
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายธนาธาร ประมูลพงษ์",
+      "party": "ประชาชน",
+      "votes": 27129,
+      "candidate_uuid": "0720ad35-d717-4c9b-aea5-19d467106dac",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายพนธกร ใคร่ครวญ",
+      "party": "ภูมิใจไทย",
+      "votes": 23571,
+      "candidate_uuid": "29389bd1-3bc6-43b5-a296-b3ec3a6f7895",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสะถิระ เผือกประพันธุ์",
+      "party": "กล้าธรรม",
+      "votes": 23062,
+      "candidate_uuid": "855e1b6c-71ef-4f94-91d4-b6c6be4c6cf5",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอัครเศรษฐ รักษ์สกุลสงสัย",
+      "party": "เพื่อไทย",
+      "votes": 3326,
+      "candidate_uuid": "7d2d0081-e47a-4137-ae2b-42fb4b2558d7",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "พลเรือตรี นพดล บงกชกาญจน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1853,
+      "candidate_uuid": "b9f6ad26-af45-4f33-bf28-efc8e0ba4e26",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายภานุวัฒน์ ผาสุข",
+      "party": "เศรษฐกิจ",
+      "votes": 1324,
+      "candidate_uuid": "e549d830-e431-4b38-beb4-4030671dc21b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายภาณุวิชญ์ อิสลาม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1108,
+      "candidate_uuid": "2480fd5d-b61e-403c-b317-2ca1612670fc",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางศศิมาภรณ์ ชมไพร",
+      "party": "ไทยสร้างไทย",
+      "votes": 420,
+      "candidate_uuid": "401554f0-d8c6-45b0-b71c-782d5f32624f",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายโอฬาร์ ปัญญปิติพัฒน",
+      "party": "พลังประชารัฐ",
+      "votes": 336,
+      "candidate_uuid": "927cee5f-cad0-4701-bec1-8947f9e7c3d0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธนะพัฒน์ มธุรส",
+      "party": "ปวงชนไทย",
+      "votes": 328,
+      "candidate_uuid": "f24cd843-de6b-4bd4-ab12-54f9763437c8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,181 @@
+{
+  "province_name": "ลำพูน",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 170916,
+    "1.2": 140617,
+    "2.1": 172364,
+    "2.2": 140617,
+    "2.3": 31747,
+    "3.1": 133953,
+    "3.2": 18,
+    "3.3": 6646,
+    "3.4": 140617,
+    "4.1": 125326,
+    "4.2": 5765,
+    "4.3": 9526
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวิทวิสิทธิ์ ปันสวนปลูก",
+      "party": "ประชาชน",
+      "votes": 66093
+    },
+    {
+      "number": 8,
+      "name": "นายชัยณรงค์ ภู่พิสิฐ",
+      "party": "เพื่อไทย",
+      "votes": 29768
+    },
+    {
+      "number": 3,
+      "name": "นายยุทธพงศ์ ไชยศร",
+      "party": "ภูมิใจไทย",
+      "votes": 8919
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพัชราภรณ์ เอื้องฟ้า",
+      "party": "ประชาธิปัตย์",
+      "votes": 7369
+    },
+    {
+      "number": 6,
+      "name": "นายประกอบ ยอดยา",
+      "party": "กล้าธรรม",
+      "votes": 4395
+    },
+    {
+      "number": 9,
+      "name": "นายสุริยา บุญนาคค้า",
+      "party": "เสรีรวมไทย",
+      "votes": 3352
+    },
+    {
+      "number": 5,
+      "name": "นายสุวสันต์ จันทร์ตาธรรม",
+      "party": "เศรษฐกิจ",
+      "votes": 2666
+    },
+    {
+      "number": 7,
+      "name": "นายชวิน คำบุญเรือง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1566
+    },
+    {
+      "number": 2,
+      "name": "นายณัฏฐชัย วงค์ชัยรุ่งเรือง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 864
+    },
+    {
+      "number": 10,
+      "name": "นายสมบัติ ใจแจ่ม",
+      "party": "วิชชั่นใหม่",
+      "votes": 334
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/54. ลำพูน เขต 1.json",
+  "_validation": {
+    "vote_sum": 125326,
+    "good_votes": 125326,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "51",
+  "province_name_normalized": "ลำพูน",
+  "summary": {
+    "eligible_voters": 170916,
+    "voters_came": 140617,
+    "ballots_received": 172364,
+    "ballots_used": 140617,
+    "good_votes": 125326,
+    "invalid_votes": 5765,
+    "no_votes": 9526
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายวิทวิสิทธิ์ ปันสวนปลูก",
+      "party": "ประชาชน",
+      "votes": 66093,
+      "candidate_uuid": "191efd95-d3be-4d53-b41f-b8e931c5677e",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชัยณรงค์ ภู่พิสิฐ",
+      "party": "เพื่อไทย",
+      "votes": 29768,
+      "candidate_uuid": "32b33573-f862-468b-915e-85f8006ec4ec",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายยุทธพงศ์ ไชยศร",
+      "party": "ภูมิใจไทย",
+      "votes": 8919,
+      "candidate_uuid": "8e7203d3-3370-4649-b463-90b24bb6c249",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพัชราภรณ์ เอื้องฟ้า",
+      "party": "ประชาธิปัตย์",
+      "votes": 7369,
+      "candidate_uuid": "5b74931e-2d08-459c-8d79-81766f730ced",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายประกอบ ยอดยา",
+      "party": "กล้าธรรม",
+      "votes": 4395,
+      "candidate_uuid": "8f82bca4-359d-4964-9455-06c74beae241",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสุริยา บุญนาคค้า",
+      "party": "เสรีรวมไทย",
+      "votes": 3352,
+      "candidate_uuid": "1fd13f4d-66ad-447f-9cbe-45c76d1ebfdf",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสุวสันต์ จันทร์ตาธรรม",
+      "party": "เศรษฐกิจ",
+      "votes": 2666,
+      "candidate_uuid": "1a5cb837-9909-4fb9-b270-8799fada14c1",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายชวิน คำบุญเรือง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1566,
+      "candidate_uuid": "1d71c012-714a-42f8-b4a4-5b8a4c2bd62a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายณัฏฐชัย วงค์ชัยรุ่งเรือง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 864,
+      "candidate_uuid": "985b7b99-05a7-4788-8c07-2cabd5101181",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายสมบัติ ใจแจ่ม",
+      "party": "วิชชั่นใหม่",
+      "votes": 334,
+      "candidate_uuid": "55e871b3-4d6a-493c-ac1f-5bf12abff42c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

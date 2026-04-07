@@ -1,0 +1,209 @@
+{
+  "province_name": "เชียงใหม่",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133210,
+    "1.2": 102641,
+    "2.1": 139560,
+    "2.2": 102641,
+    "2.3": 36919,
+    "3.1": 97701,
+    "3.2": 271,
+    "3.3": 4869,
+    "3.4": 102641,
+    "4.1": 91933,
+    "4.2": 4379,
+    "4.3": 6329
+  },
+  "results": [
+    {
+      "number": 9,
+      "name": "นายสมชิด กันธะยา",
+      "party": "ประชาชน",
+      "votes": 39120
+    },
+    {
+      "number": 1,
+      "name": "นางสาวอัจฉรารัตน์ นันทะเสน",
+      "party": "เพื่อไทย",
+      "votes": 32589
+    },
+    {
+      "number": 6,
+      "name": "นางวาสนา ทองสุข",
+      "party": "ภูมิใจไทย",
+      "votes": 9978
+    },
+    {
+      "number": 7,
+      "name": "นายสุรเวศม์ รินแก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 2178
+    },
+    {
+      "number": 4,
+      "name": "นายกฤศอนันต์ วัฒนะ",
+      "party": "โอกาสใหม่",
+      "votes": 2013
+    },
+    {
+      "number": 5,
+      "name": "นายธนภูมิ วงศ์บุณยกรชัย",
+      "party": "กล้าธรรม",
+      "votes": 1714
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตำรวจเอก ปรีชาพล รัตนมณี",
+      "party": "เศรษฐกิจ",
+      "votes": 1311
+    },
+    {
+      "number": 8,
+      "name": "ร้อยตำรวจโท วิทยา สิงห์มณี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 908
+    },
+    {
+      "number": 2,
+      "name": "นางณัฐสุรางค์ กิตติภัทเมธา",
+      "party": "วิชชั่นใหม่",
+      "votes": 874
+    },
+    {
+      "number": 11,
+      "name": "นางฉัฐฐ์คณากร ภักดี",
+      "party": "ประชากรไทย",
+      "votes": 691
+    },
+    {
+      "number": 12,
+      "name": "นางสาวอรณิช ชัยขัน",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 308
+    },
+    {
+      "number": 10,
+      "name": "นางจินตนา ไชยชมภู",
+      "party": "ก้าวอิสระ",
+      "votes": 249
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/14. เชียงใหม่ เขต 5.json",
+  "_validation": {
+    "vote_sum": 91933,
+    "good_votes": 91933,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "50",
+  "province_name_normalized": "เชียงใหม่",
+  "summary": {
+    "eligible_voters": 133210,
+    "voters_came": 102641,
+    "ballots_received": 139560,
+    "ballots_used": 102641,
+    "good_votes": 91933,
+    "invalid_votes": 4379,
+    "no_votes": 6329
+  },
+  "matched_candidates": [
+    {
+      "number": 9,
+      "name": "นายสมชิด กันธะยา",
+      "party": "ประชาชน",
+      "votes": 39120,
+      "candidate_uuid": "7b7f5a8e-360b-4daf-853b-7ab223ca4fb8",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวอัจฉรารัตน์ นันทะเสน",
+      "party": "เพื่อไทย",
+      "votes": 32589,
+      "candidate_uuid": "375f2be7-26be-4489-852c-e2c11027c1a0",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางวาสนา ทองสุข",
+      "party": "ภูมิใจไทย",
+      "votes": 9978,
+      "candidate_uuid": "0e45aa80-40db-463a-ae09-e0641a8a4e91",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุรเวศม์ รินแก้ว",
+      "party": "ประชาธิปัตย์",
+      "votes": 2178,
+      "candidate_uuid": "0824e07a-15a8-463c-b41e-28a41c23d93b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกฤศอนันต์ วัฒนะ",
+      "party": "โอกาสใหม่",
+      "votes": 2013,
+      "candidate_uuid": "2f9a924b-2b56-4919-a768-c58115f2abbb",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายธนภูมิ วงศ์บุณยกรชัย",
+      "party": "กล้าธรรม",
+      "votes": 1714,
+      "candidate_uuid": "e4a28ada-b2b5-4fd4-b05f-d9de2fd01be2",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ร้อยตำรวจเอก ปรีชาพล รัตนมณี",
+      "party": "เศรษฐกิจ",
+      "votes": 1311,
+      "candidate_uuid": "ba8c98bd-1f1d-4232-a7df-3ec73bfe46e7",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ร้อยตำรวจโท วิทยา สิงห์มณี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 908,
+      "candidate_uuid": "93bfffa5-f23e-499c-8b9a-e51e5d828a7c",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางณัฐสุรางค์ กิตติภัทเมธา",
+      "party": "วิชชั่นใหม่",
+      "votes": 874,
+      "candidate_uuid": "8fcf7259-f03b-44f1-a2f8-9eb35e4f65cc",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางฉัฐฐ์คณากร ภักดี",
+      "party": "ประชากรไทย",
+      "votes": 691,
+      "candidate_uuid": "f92f31be-78a4-4882-97d8-45050e085d6a",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นางสาวอรณิช ชัยขัน",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 308,
+      "candidate_uuid": "48146917-b479-486a-8d75-37b60106fa80",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางจินตนา ไชยชมภู",
+      "party": "ก้าวอิสระ",
+      "votes": 249,
+      "candidate_uuid": "5c455f70-6cab-4ac5-a2bf-e921b9669d20",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

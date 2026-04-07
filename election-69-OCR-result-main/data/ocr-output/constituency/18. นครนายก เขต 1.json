@@ -1,0 +1,57 @@
+{
+  "province_name": "นครนายก",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 104054,
+    "1.2": 82830,
+    "2.1": 107421,
+    "2.2": 82830,
+    "2.3": 24591,
+    "3.1": 79696,
+    "3.2": 33,
+    "3.3": 3101,
+    "3.4": 82830,
+    "4.1": 76781,
+    "4.2": 2694,
+    "4.3": 3355
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายปิยวัฒน์ กิตติธเนศวร",
+      "party": "กล้าธรรม",
+      "votes": 33707
+    },
+    {
+      "number": 2,
+      "name": "พลตำรวจตรี สุรพล บุญมา",
+      "party": "ภูมิใจไทย",
+      "votes": 29822
+    },
+    {
+      "number": 3,
+      "name": "นายปริญ โอวาทกานนท์",
+      "party": "ประชาชน",
+      "votes": 11054
+    },
+    {
+      "number": 4,
+      "name": "พลโท วีรากร ประกอบ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1290
+    },
+    {
+      "number": 5,
+      "name": "นายสำเร็จ ศรีจันทร์",
+      "party": "ประชาธิปัตย์",
+      "votes": 908
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/18. นครนายก เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 76781,
+    "good_votes": 76781,
+    "sum_diff_pct": 0.0
+  }
+}

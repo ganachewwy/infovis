@@ -1,0 +1,57 @@
+{
+  "province_name": "ระนอง",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 143308,
+    "1.2": 96299,
+    "2.1": 144448,
+    "2.2": 96299,
+    "2.3": 48149,
+    "3.1": 90091,
+    "3.2": 40,
+    "3.3": 6168,
+    "3.4": 96299,
+    "4.1": 83719,
+    "4.2": 4782,
+    "4.3": 7798
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายคงกฤษ ฉัตรมาลีรัตน์",
+      "party": "ภูมิใจไทย",
+      "votes": 59363
+    },
+    {
+      "number": 1,
+      "name": "นายสมพงษ์ สีหามาตร",
+      "party": "ประชาชน",
+      "votes": 14434
+    },
+    {
+      "number": 2,
+      "name": "นายวิรัช ร่มเย็น",
+      "party": "ประชาธิปัตย์",
+      "votes": 7436
+    },
+    {
+      "number": 3,
+      "name": "นายพิทยา แท่นแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 1573
+    },
+    {
+      "number": 5,
+      "name": "นายวรวุฒิ ขนอม",
+      "party": "กล้าธรรม",
+      "votes": 913
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/49. ระนอง เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 83719,
+    "good_votes": 83719,
+    "sum_diff_pct": 0.0
+  }
+}

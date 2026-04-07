@@ -1,0 +1,237 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 25,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126830,
+    "1.2": 89687,
+    "2.1": 128983,
+    "2.2": 89687,
+    "2.3": 39296,
+    "3.1": 86272,
+    "3.2": 62,
+    "3.3": 3353,
+    "3.4": 89687,
+    "4.1": 84112,
+    "4.2": 1443,
+    "4.3": 4132
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวแอนศิริ วลัยกนก",
+      "party": "ประชาชน",
+      "votes": 37035
+    },
+    {
+      "number": 4,
+      "name": "นายกิตติพล รวยฟูพันธ์",
+      "party": "เพื่อไทย",
+      "votes": 21904
+    },
+    {
+      "number": 3,
+      "name": "นายเจริญศักดิ์ มณีรัตนสุบรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 10493
+    },
+    {
+      "number": 2,
+      "name": "นายชยิน พึ่งสาย",
+      "party": "ประชาธิปัตย์",
+      "votes": 7071
+    },
+    {
+      "number": 10,
+      "name": "นางสาวปราณี ธรรมนิยม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2493
+    },
+    {
+      "number": 9,
+      "name": "นางสาวทัสนันทน์ สิริเลิศเมฆาสกุล",
+      "party": "เศรษฐกิจ",
+      "votes": 1335
+    },
+    {
+      "number": 8,
+      "name": "นางสาวญาตาวี เซ็นเชาวนิช",
+      "party": "พลวัต",
+      "votes": 980
+    },
+    {
+      "number": 6,
+      "name": "นายธรรมนูญ เทียบขุนทด",
+      "party": "พลังประชารัฐ",
+      "votes": 688
+    },
+    {
+      "number": 5,
+      "name": "นายอมรศักดิ์ สินเหลือ",
+      "party": "ไทยสร้างไทย",
+      "votes": 581
+    },
+    {
+      "number": 11,
+      "name": "นายวิชิต วราศิริกุล",
+      "party": "อนาคตไทย",
+      "votes": 424
+    },
+    {
+      "number": 12,
+      "name": "นางสาวเนตรสกาว ชาหอม",
+      "party": "ไทยก้าวใหม่",
+      "votes": 407
+    },
+    {
+      "number": 13,
+      "name": "นายณัฐดนัย หลำแสงกุล",
+      "party": "กล้าธรรม",
+      "votes": 357
+    },
+    {
+      "number": 14,
+      "name": "นายบุญรุ่ง เต๋งจงดี",
+      "party": "โอกาสใหม่",
+      "votes": 179
+    },
+    {
+      "number": 15,
+      "name": "นายเดชพนต์ ชลธาร",
+      "party": "วิชชั่นใหม่",
+      "votes": 165
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 25.json",
+  "_validation": {
+    "vote_sum": 84112,
+    "good_votes": 84112,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 126830,
+    "voters_came": 89687,
+    "ballots_received": 128983,
+    "ballots_used": 89687,
+    "good_votes": 84112,
+    "invalid_votes": 1443,
+    "no_votes": 4132
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวแอนศิริ วลัยกนก",
+      "party": "ประชาชน",
+      "votes": 37035,
+      "candidate_uuid": "a71794ba-6fa1-4b6d-952e-450d8f091678",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกิตติพล รวยฟูพันธ์",
+      "party": "เพื่อไทย",
+      "votes": 21904,
+      "candidate_uuid": "4fc2e845-7765-4ddd-9223-6c5483432371",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเจริญศักดิ์ มณีรัตนสุบรรณ",
+      "party": "ภูมิใจไทย",
+      "votes": 10493,
+      "candidate_uuid": "bad4b9b5-3e5d-42cd-9c9a-5f7f7b25c5dd",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายชยิน พึ่งสาย",
+      "party": "ประชาธิปัตย์",
+      "votes": 7071,
+      "candidate_uuid": "606c0485-d752-4275-84cb-8bba1ffdcbb4",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวปราณี ธรรมนิยม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2493,
+      "candidate_uuid": "d811f9ed-9df0-4113-9b48-cab79ebfa7aa",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวทัสนันทน์ สิริเลิศเมฆาสกุล",
+      "party": "เศรษฐกิจ",
+      "votes": 1335,
+      "candidate_uuid": "d935ba45-ee82-44d7-b72a-238652d078ce",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวญาตาวี เซ็นเชาวนิช",
+      "party": "พลวัต",
+      "votes": 980,
+      "candidate_uuid": "d1684d3d-3572-4da5-b7ca-411039de9915",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธรรมนูญ เทียบขุนทด",
+      "party": "พลังประชารัฐ",
+      "votes": 688,
+      "candidate_uuid": "cf911011-5d67-4a93-9e23-6e6195762f43",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอมรศักดิ์ สินเหลือ",
+      "party": "ไทยสร้างไทย",
+      "votes": 581,
+      "candidate_uuid": "54fede17-2e94-4869-a611-288774080ea1",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายวิชิต วราศิริกุล",
+      "party": "อนาคตไทย",
+      "votes": 424,
+      "candidate_uuid": "23b50097-85fc-4dca-b9dd-9adba294789e",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นางสาวเนตรสกาว ชาหอม",
+      "party": "ไทยก้าวใหม่",
+      "votes": 407,
+      "candidate_uuid": "77079cee-63f9-49cd-9ec9-7faa8dcccd71",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายณัฐดนัย หลำแสงกุล",
+      "party": "กล้าธรรม",
+      "votes": 357,
+      "candidate_uuid": "1dbdad00-1d6f-472b-bb1e-b530de92ae47",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายบุญรุ่ง เต๋งจงดี",
+      "party": "โอกาสใหม่",
+      "votes": 179,
+      "candidate_uuid": "08b9ef98-1311-4477-9e32-71eab915c4dc",
+      "is_active": true
+    },
+    {
+      "number": 15,
+      "name": "นายเดชพนต์ ชลธาร",
+      "party": "วิชชั่นใหม่",
+      "votes": 165,
+      "candidate_uuid": "7db35cb1-f927-4440-a35f-ca3c81e6f0cd",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

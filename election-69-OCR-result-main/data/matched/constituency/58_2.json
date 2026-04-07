@@ -1,0 +1,139 @@
+{
+  "province_name": "แม่ฮ่องสอน",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 96023,
+    "1.2": 74409,
+    "2.1": 96720,
+    "2.2": 74409,
+    "2.3": 22311,
+    "3.1": 69314,
+    "3.2": 11,
+    "3.3": 5084,
+    "3.4": 74409,
+    "4.1": 67196,
+    "4.2": 5450,
+    "4.3": 1763
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายสมบัติ ยะสินธุ์",
+      "party": "ภูมิใจไทย",
+      "votes": 24897
+    },
+    {
+      "number": 2,
+      "name": "นายวิทยา หวานซึ้ง",
+      "party": "กล้าธรรม",
+      "votes": 24368
+    },
+    {
+      "number": 4,
+      "name": "นายพนธกร ใจสนอง",
+      "party": "ประชาชน",
+      "votes": 13208
+    },
+    {
+      "number": 1,
+      "name": "นายสมภพ คงความชื่อ",
+      "party": "เพื่อไทย",
+      "votes": 2197
+    },
+    {
+      "number": 3,
+      "name": "นายสติ ทรัพย์ทวีพันธ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 998
+    },
+    {
+      "number": 6,
+      "name": "นายภานุวัฒน์ คงมีความดี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1068
+    },
+    {
+      "number": 7,
+      "name": "นางสุภิญกัลย์ พิภพสิทธิโภคิณ",
+      "party": "พลังประชารัฐ",
+      "votes": 460
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/45. แม่ฮ่องสอน เขต 2.json",
+  "_validation": {
+    "vote_sum": 67196,
+    "good_votes": 67196,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "58",
+  "province_name_normalized": "แม่ฮ่องสอน",
+  "summary": {
+    "eligible_voters": 96023,
+    "voters_came": 74409,
+    "ballots_received": 96720,
+    "ballots_used": 74409,
+    "good_votes": 67196,
+    "invalid_votes": 5450,
+    "no_votes": 1763
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายสมบัติ ยะสินธุ์",
+      "party": "ภูมิใจไทย",
+      "votes": 24897,
+      "candidate_uuid": "d7d1c4c6-e68a-4222-98c8-7d3ba1f08e22",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวิทยา หวานซึ้ง",
+      "party": "กล้าธรรม",
+      "votes": 24368,
+      "candidate_uuid": "0721c94d-7b14-4059-9268-7ffa31269031",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพนธกร ใจสนอง",
+      "party": "ประชาชน",
+      "votes": 13208,
+      "candidate_uuid": "48f849d8-222a-47c4-8b49-0c413009305a",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสมภพ คงความชื่อ",
+      "party": "เพื่อไทย",
+      "votes": 2197,
+      "candidate_uuid": "cdc460ca-d8b6-4735-bd0b-f2860fe4e054",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสติ ทรัพย์ทวีพันธ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 998,
+      "candidate_uuid": "fb6bb88b-0c5a-49c2-965c-05acff688b4f",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายภานุวัฒน์ คงมีความดี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1068,
+      "candidate_uuid": "fde9de85-0c5b-4fc7-b6bd-4f70a3e0adeb",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสุภิญกัลย์ พิภพสิทธิโภคิณ",
+      "party": "พลังประชารัฐ",
+      "votes": 460,
+      "candidate_uuid": "19c3aae6-4375-4701-9db6-2442c6fce0a5",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

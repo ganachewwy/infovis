@@ -1,0 +1,153 @@
+{
+  "province_name": "เลย",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 125704,
+    "1.2": 93879,
+    "2.1": 124100,
+    "2.2": 93879,
+    "2.3": 30221,
+    "3.1": 88391,
+    "3.2": 165,
+    "3.3": 5323,
+    "3.4": 93879,
+    "4.1": 85064,
+    "4.2": 4573,
+    "4.3": 4242
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายเลิศศักดิ์ พัฒนชัยกุล",
+      "party": "เพื่อไทย",
+      "votes": 42730
+    },
+    {
+      "number": 6,
+      "name": "นายวิทยา บุญมีวิเศษ",
+      "party": "ประชาชน",
+      "votes": 18230
+    },
+    {
+      "number": 5,
+      "name": "นางสาวอาริยา ภูมิพัฒน์",
+      "party": "กล้าธรรม",
+      "votes": 14827
+    },
+    {
+      "number": 1,
+      "name": "นายฉัตรชัย ลีกระจ่าง",
+      "party": "ภูมิใจไทย",
+      "votes": 4886
+    },
+    {
+      "number": 9,
+      "name": "นายทศพล พรหมเกตุ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1763
+    },
+    {
+      "number": 8,
+      "name": "ดาบตำรวจ ไมตรี วาที",
+      "party": "เศรษฐกิจ",
+      "votes": 1201
+    },
+    {
+      "number": 4,
+      "name": "นายนิติกรณ์ เกี่ยวประเสริฐ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 882
+    },
+    {
+      "number": 2,
+      "name": "พันโท วีระ กองสิงห์",
+      "party": "พลังประชารัฐ",
+      "votes": 545
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/55. เลย เขต 1.json",
+  "_validation": {
+    "vote_sum": 85064,
+    "good_votes": 85064,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "42",
+  "province_name_normalized": "เลย",
+  "summary": {
+    "eligible_voters": 125704,
+    "voters_came": 93879,
+    "ballots_received": 124100,
+    "ballots_used": 93879,
+    "good_votes": 85064,
+    "invalid_votes": 4573,
+    "no_votes": 4242
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นายเลิศศักดิ์ พัฒนชัยกุล",
+      "party": "เพื่อไทย",
+      "votes": 42730,
+      "candidate_uuid": "5d641031-b08a-4d23-87d6-f85bb03df758",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายวิทยา บุญมีวิเศษ",
+      "party": "ประชาชน",
+      "votes": 18230,
+      "candidate_uuid": "92a95bb7-c38a-437b-84a9-122aa07bcdac",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวอาริยา ภูมิพัฒน์",
+      "party": "กล้าธรรม",
+      "votes": 14827,
+      "candidate_uuid": "220cd040-1da4-44de-a39a-4d7f23c6188f",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายฉัตรชัย ลีกระจ่าง",
+      "party": "ภูมิใจไทย",
+      "votes": 4886,
+      "candidate_uuid": "20a0aaf2-d375-433d-9ee6-08112b5ab52c",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายทศพล พรหมเกตุ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1763,
+      "candidate_uuid": "3f75b8be-4c86-4ed2-bba9-2706099d6e1a",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ดาบตำรวจ ไมตรี วาที",
+      "party": "เศรษฐกิจ",
+      "votes": 1201,
+      "candidate_uuid": "d93622b8-e081-45e0-964f-7b3219585d5c",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายนิติกรณ์ เกี่ยวประเสริฐ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 882,
+      "candidate_uuid": "dffab705-beff-4cc3-b35d-7677f61d0e1a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "พันโท วีระ กองสิงห์",
+      "party": "พลังประชารัฐ",
+      "votes": 545,
+      "candidate_uuid": "cd7b2e2d-0ca0-4492-9461-bf5e8192bbaf",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

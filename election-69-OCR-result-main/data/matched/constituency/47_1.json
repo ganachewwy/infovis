@@ -1,0 +1,181 @@
+{
+  "province_name": "สกลนคร",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133562,
+    "1.2": 96161,
+    "2.1": 135580,
+    "2.2": 96161,
+    "2.3": 39419,
+    "3.1": 90107,
+    "3.2": 41,
+    "3.3": 6013,
+    "3.4": 96161,
+    "4.1": 90090,
+    "4.2": 2335,
+    "4.3": 3736
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายสิรภพ สมผล",
+      "party": "กล้าธรรม",
+      "votes": 27337
+    },
+    {
+      "number": 1,
+      "name": "นายพินิตเมธ ทีฆธนานนท์",
+      "party": "ภูมิใจไทย",
+      "votes": 23434
+    },
+    {
+      "number": 4,
+      "name": "นายตวงสิทธิ์ พงษ์พิศ",
+      "party": "ประชาชน",
+      "votes": 18843
+    },
+    {
+      "number": 5,
+      "name": "นายตวงภัทร ตีรสวัสดิชัย",
+      "party": "เพื่อไทย",
+      "votes": 16905
+    },
+    {
+      "number": 7,
+      "name": "นายวิชิต แก้วกัญญา",
+      "party": "เศรษฐกิจ",
+      "votes": 1092
+    },
+    {
+      "number": 3,
+      "name": "นายเสน่ห์ เพ็ชร์รุ่ง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 766
+    },
+    {
+      "number": 2,
+      "name": "นางยุพาวรรณ จักรพิมพ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 763
+    },
+    {
+      "number": 9,
+      "name": "นายบุญญามี วงค์ศรีดา",
+      "party": "ทางเลือกใหม่",
+      "votes": 739
+    },
+    {
+      "number": 10,
+      "name": "นายไชยสนิท พานาดา",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 113
+    },
+    {
+      "number": 8,
+      "name": "นายอภิวัฒน์ มีชัย",
+      "party": "พลังประชารัฐ",
+      "votes": 98
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/57. สกลนคร เขต 1.json",
+  "_validation": {
+    "vote_sum": 90090,
+    "good_votes": 90090,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "47",
+  "province_name_normalized": "สกลนคร",
+  "summary": {
+    "eligible_voters": 133562,
+    "voters_came": 96161,
+    "ballots_received": 135580,
+    "ballots_used": 96161,
+    "good_votes": 90090,
+    "invalid_votes": 2335,
+    "no_votes": 3736
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายสิรภพ สมผล",
+      "party": "กล้าธรรม",
+      "votes": 27337,
+      "candidate_uuid": "e5615702-b4f2-4d12-962d-1c959def32e8",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพินิตเมธ ทีฆธนานนท์",
+      "party": "ภูมิใจไทย",
+      "votes": 23434,
+      "candidate_uuid": "492ea950-3685-404c-97ed-b9088076680b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายตวงสิทธิ์ พงษ์พิศ",
+      "party": "ประชาชน",
+      "votes": 18843,
+      "candidate_uuid": "18c93de4-9807-466a-99bb-fea97a839c8b",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายตวงภัทร ตีรสวัสดิชัย",
+      "party": "เพื่อไทย",
+      "votes": 16905,
+      "candidate_uuid": "ecd60cd3-6965-43d5-91ad-1466c2977b80",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวิชิต แก้วกัญญา",
+      "party": "เศรษฐกิจ",
+      "votes": 1092,
+      "candidate_uuid": "f654aacb-10b0-423e-be03-1435b4233ada",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเสน่ห์ เพ็ชร์รุ่ง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 766,
+      "candidate_uuid": "af76460e-9b6c-46c6-93e2-f8220090ae4d",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางยุพาวรรณ จักรพิมพ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 763,
+      "candidate_uuid": "44ca1fc4-efd9-48c4-ac23-0d761e6eeb49",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายบุญญามี วงค์ศรีดา",
+      "party": "ทางเลือกใหม่",
+      "votes": 739,
+      "candidate_uuid": "d52e0ec6-32a4-4163-b092-b71218106c04",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายไชยสนิท พานาดา",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 113,
+      "candidate_uuid": "74afe948-83b8-44ae-a91b-98c10d8de1df",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอภิวัฒน์ มีชัย",
+      "party": "พลังประชารัฐ",
+      "votes": 98,
+      "candidate_uuid": "0aff34fa-7dda-45c8-81fd-0d7c3e7b70e2",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

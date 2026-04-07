@@ -1,0 +1,265 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144013,
+    "1.2": 104633,
+    "2.1": 145330,
+    "2.2": 104633,
+    "2.3": 40697,
+    "3.1": 98283,
+    "3.2": 46,
+    "3.3": 6304,
+    "3.4": 104633,
+    "4.1": 96755,
+    "4.2": 1622,
+    "4.3": 6256
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายชยพล สท้อนดี",
+      "party": "ประชาชน",
+      "votes": 45092
+    },
+    {
+      "number": 5,
+      "name": "นายสุรชาติ เทียนทอง",
+      "party": "เพื่อไทย",
+      "votes": 15868
+    },
+    {
+      "number": 13,
+      "name": "นายฤกษ์อารี นานา",
+      "party": "ภูมิใจไทย",
+      "votes": 14632
+    },
+    {
+      "number": 14,
+      "name": "นายระพีพัฒน์ สุเมธโชติเมธา",
+      "party": "ประชาธิปัตย์",
+      "votes": 11399
+    },
+    {
+      "number": 15,
+      "name": "นางสาวอรัญญา มณีแจ่ม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2266
+    },
+    {
+      "number": 9,
+      "name": "นายจักร์กวินทร์ ภู่สวาสดิ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 1469
+    },
+    {
+      "number": 11,
+      "name": "นายวิษณุ วราโชติเศรษฐ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1352
+    },
+    {
+      "number": 8,
+      "name": "นายชญาพัฒน์ โปร่งปรีชา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 865
+    },
+    {
+      "number": 3,
+      "name": "นายพงศ์ฐิติ พงศ์ศิลามณี",
+      "party": "ไทยภักดี",
+      "votes": 864
+    },
+    {
+      "number": 6,
+      "name": "นายอนุชาญ กวางทอง",
+      "party": "พลังประชารัฐ",
+      "votes": 857
+    },
+    {
+      "number": 7,
+      "name": "นายอนันตชาติ บัวสุวรรณ์",
+      "party": "โอกาสใหม่",
+      "votes": 607
+    },
+    {
+      "number": 10,
+      "name": "นางสาวสุวีรา เติมรุ่งเรืองเลิศ",
+      "party": "รักชาติ",
+      "votes": 462
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพิมพ์ณดา ธีระประจักษ์ชาติ",
+      "party": "กล้าธรรม",
+      "votes": 385
+    },
+    {
+      "number": 2,
+      "name": "นางสาววีริสรา ช่วงยรรยง",
+      "party": "ปวงชนไทย",
+      "votes": 224
+    },
+    {
+      "number": 16,
+      "name": "นายวสันต์ ทองคำ",
+      "party": "วิชชั่นใหม่",
+      "votes": 210
+    },
+    {
+      "number": 12,
+      "name": "นายไชยยศ ศรีสกุล",
+      "party": "พลวัต",
+      "votes": 203
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 8.json",
+  "_validation": {
+    "vote_sum": 96755,
+    "good_votes": 96755,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 144013,
+    "voters_came": 104633,
+    "ballots_received": 145330,
+    "ballots_used": 104633,
+    "good_votes": 96755,
+    "invalid_votes": 1622,
+    "no_votes": 6256
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายชยพล สท้อนดี",
+      "party": "ประชาชน",
+      "votes": 45092,
+      "candidate_uuid": "3c9a835c-5c1c-4b9d-822f-2e65c63585ae",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสุรชาติ เทียนทอง",
+      "party": "เพื่อไทย",
+      "votes": 15868,
+      "candidate_uuid": "18f90387-c855-437e-a155-2d3bac640c90",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายฤกษ์อารี นานา",
+      "party": "ภูมิใจไทย",
+      "votes": 14632,
+      "candidate_uuid": "3be6892b-02f8-4945-83a2-5207c94f9223",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายระพีพัฒน์ สุเมธโชติเมธา",
+      "party": "ประชาธิปัตย์",
+      "votes": 11399,
+      "candidate_uuid": "f10675f3-974d-4b9c-8855-1ca23174a943",
+      "is_active": true
+    },
+    {
+      "number": 15,
+      "name": "นางสาวอรัญญา มณีแจ่ม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2266,
+      "candidate_uuid": "553508dd-98de-41e2-804a-17c07790fa49",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายจักร์กวินทร์ ภู่สวาสดิ์",
+      "party": "ไทยสร้างไทย",
+      "votes": 1469,
+      "candidate_uuid": "72aae18b-de48-449d-9f4f-5be9e3e33344",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายวิษณุ วราโชติเศรษฐ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1352,
+      "candidate_uuid": "5e5767f9-1f04-4709-988d-0515f9f2415c",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชญาพัฒน์ โปร่งปรีชา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 865,
+      "candidate_uuid": "4a92c102-8b70-4037-9731-d2ed2a7e1517",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพงศ์ฐิติ พงศ์ศิลามณี",
+      "party": "ไทยภักดี",
+      "votes": 864,
+      "candidate_uuid": "1492e774-7891-4252-810a-29812f0a18dc",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอนุชาญ กวางทอง",
+      "party": "พลังประชารัฐ",
+      "votes": 857,
+      "candidate_uuid": "8a9eb511-d7ea-4e97-93d2-166ea8196325",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอนันตชาติ บัวสุวรรณ์",
+      "party": "โอกาสใหม่",
+      "votes": 607,
+      "candidate_uuid": "0ec6c255-94c3-4a5a-a738-d2ef857e8a48",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวสุวีรา เติมรุ่งเรืองเลิศ",
+      "party": "รักชาติ",
+      "votes": 462,
+      "candidate_uuid": "fb0826d6-ed9b-4345-b464-e29d393a7aa5",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพิมพ์ณดา ธีระประจักษ์ชาติ",
+      "party": "กล้าธรรม",
+      "votes": 385,
+      "candidate_uuid": "9d8078f2-e476-4a9e-bdfb-bbcaf92daa97",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาววีริสรา ช่วงยรรยง",
+      "party": "ปวงชนไทย",
+      "votes": 224,
+      "candidate_uuid": "7a6ea9d5-c659-49cd-a99b-7f2a54503ea8",
+      "is_active": true
+    },
+    {
+      "number": 16,
+      "name": "นายวสันต์ ทองคำ",
+      "party": "วิชชั่นใหม่",
+      "votes": 210,
+      "candidate_uuid": "2da7e33d-02de-476d-92cf-b68311fc2c40",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายไชยยศ ศรีสกุล",
+      "party": "พลวัต",
+      "votes": 203,
+      "candidate_uuid": "98341ac6-21ca-4fa6-a955-008c1416ed91",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,167 @@
+{
+  "province_name": "นครศรีธรรมราช",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 134535,
+    "1.2": 105027,
+    "2.1": 138463,
+    "2.2": 105027,
+    "2.3": 33436,
+    "3.1": 100004,
+    "3.2": 20,
+    "3.3": 5003,
+    "3.4": 105027,
+    "4.1": 100028,
+    "4.2": 2007,
+    "4.3": 2992
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายจอมไกร สวัสดิวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 43293
+    },
+    {
+      "number": 5,
+      "name": "นายสมเกียรติ ทรงสวัสดิ์",
+      "party": "กล้าธรรม",
+      "votes": 22254
+    },
+    {
+      "number": 2,
+      "name": "นายษฐา ขาวขำ",
+      "party": "ภูมิใจไทย",
+      "votes": 21043
+    },
+    {
+      "number": 7,
+      "name": "นายพุฒิพงศ์ ลุ่ยจิ๋ว",
+      "party": "ประชาชน",
+      "votes": 10065
+    },
+    {
+      "number": 6,
+      "name": "นายเอกนิติ ภูมา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1037
+    },
+    {
+      "number": 1,
+      "name": "นายวราโชติ มณีอ่อน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 958
+    },
+    {
+      "number": 4,
+      "name": "นายปกป้อง ราชรักษ์",
+      "party": "เพื่อไทย",
+      "votes": 758
+    },
+    {
+      "number": 8,
+      "name": "ว่าที่ ร.ต.อ.วิรัตน์ บุญเชิด",
+      "party": "ไทยภักดี",
+      "votes": 520
+    },
+    {
+      "number": 9,
+      "name": "นางเกษศิรินทร์ ช่วยศรีทอง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 100
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/22. นครศรีธรรมราช เขต 6.json",
+  "_validation": {
+    "vote_sum": 100028,
+    "good_votes": 100028,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "80",
+  "province_name_normalized": "นครศรีธรรมราช",
+  "summary": {
+    "eligible_voters": 134535,
+    "voters_came": 105027,
+    "ballots_received": 138463,
+    "ballots_used": 105027,
+    "good_votes": 100028,
+    "invalid_votes": 2007,
+    "no_votes": 2992
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายจอมไกร สวัสดิวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 43293,
+      "candidate_uuid": "3d4ac063-f25f-4d6a-b53d-69572cc0cfa3",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสมเกียรติ ทรงสวัสดิ์",
+      "party": "กล้าธรรม",
+      "votes": 22254,
+      "candidate_uuid": "e01f5ab0-18e6-4550-9b82-af9f8da14e0e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายษฐา ขาวขำ",
+      "party": "ภูมิใจไทย",
+      "votes": 21043,
+      "candidate_uuid": "0a6eaad5-16c3-49f6-853c-bf625217af41",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพุฒิพงศ์ ลุ่ยจิ๋ว",
+      "party": "ประชาชน",
+      "votes": 10065,
+      "candidate_uuid": "8b803ab9-bd1a-4a11-b7a1-155ff51fe543",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเอกนิติ ภูมา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1037,
+      "candidate_uuid": "9c095429-2484-4c4a-a790-addcd9cbd339",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวราโชติ มณีอ่อน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 958,
+      "candidate_uuid": "dbe4319d-9fc6-4081-ab4f-0c7effd9c5f9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายปกป้อง ราชรักษ์",
+      "party": "เพื่อไทย",
+      "votes": 758,
+      "candidate_uuid": "e2b8284a-0489-4679-8c4a-589b0ad1751c",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ว่าที่ ร.ต.อ.วิรัตน์ บุญเชิด",
+      "party": "ไทยภักดี",
+      "votes": 520,
+      "candidate_uuid": "4cd8c82c-6734-492a-8c5a-8baa6a34675d",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางเกษศิรินทร์ ช่วยศรีทอง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 100,
+      "candidate_uuid": "163e8a78-743c-436c-9023-0be72ded03b6",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

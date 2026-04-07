@@ -1,0 +1,167 @@
+{
+  "province_name": "ยโสธร",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 141191,
+    "1.2": 94115,
+    "2.1": 139280,
+    "2.2": 94115,
+    "2.3": 45165,
+    "3.1": 85759,
+    "3.2": 0,
+    "3.3": 8356,
+    "3.4": 94115,
+    "4.1": 90902,
+    "4.2": 1961,
+    "4.3": 1252
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวรายุทธ จงอักษร",
+      "party": "ภูมิใจไทย",
+      "votes": 51233
+    },
+    {
+      "number": 3,
+      "name": "นายบุญแก้ว สมวงศ์",
+      "party": "เพื่อไทย",
+      "votes": 28880
+    },
+    {
+      "number": 5,
+      "name": "นายพงศธร สุภโกศล",
+      "party": "ประชาชน",
+      "votes": 8264
+    },
+    {
+      "number": 9,
+      "name": "นายสิงห์มนี กุบแก้ว",
+      "party": "เศรษฐกิจ",
+      "votes": 1031
+    },
+    {
+      "number": 2,
+      "name": "นายธนู ว่องไวตระกูล",
+      "party": "ท้องที่ไทย",
+      "votes": 735
+    },
+    {
+      "number": 6,
+      "name": "นายอนันต์ หลอดคำ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 232
+    },
+    {
+      "number": 4,
+      "name": "นางสาวชริสา แพงมี",
+      "party": "ไทยก้าวใหม่",
+      "votes": 212
+    },
+    {
+      "number": 8,
+      "name": "ดาบตำรวจสิทธิชัย ทองมูล",
+      "party": "พลังประชารัฐ",
+      "votes": 163
+    },
+    {
+      "number": 7,
+      "name": "นายกริชเพชร พลศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 152
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/46. ยโสธร เขต 2.json",
+  "_validation": {
+    "vote_sum": 90902,
+    "good_votes": 90902,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "35",
+  "province_name_normalized": "ยโสธร",
+  "summary": {
+    "eligible_voters": 141191,
+    "voters_came": 94115,
+    "ballots_received": 139280,
+    "ballots_used": 94115,
+    "good_votes": 90902,
+    "invalid_votes": 1961,
+    "no_votes": 1252
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายวรายุทธ จงอักษร",
+      "party": "ภูมิใจไทย",
+      "votes": 51233,
+      "candidate_uuid": "1267e090-9519-4b1f-b7a2-3fb966bd9ed5",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายบุญแก้ว สมวงศ์",
+      "party": "เพื่อไทย",
+      "votes": 28880,
+      "candidate_uuid": "2636b409-5243-4cf1-86fc-2a3f381c4bee",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายพงศธร สุภโกศล",
+      "party": "ประชาชน",
+      "votes": 8264,
+      "candidate_uuid": "3bbd7964-b839-486f-b11e-d9e2f59cbd6e",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสิงห์มนี กุบแก้ว",
+      "party": "เศรษฐกิจ",
+      "votes": 1031,
+      "candidate_uuid": "7de48903-fa04-4755-84b8-b6fe455ec59b",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธนู ว่องไวตระกูล",
+      "party": "ท้องที่ไทย",
+      "votes": 735,
+      "candidate_uuid": "9f5504dc-dc04-4939-b9ab-e195cc05ae23",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอนันต์ หลอดคำ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 232,
+      "candidate_uuid": "b1cd60d0-4817-452f-b279-c7377689c427",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวชริสา แพงมี",
+      "party": "ไทยก้าวใหม่",
+      "votes": 212,
+      "candidate_uuid": "b6dd6d7c-34fb-48a9-9c8a-adf0adb0ba34",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ดาบตำรวจสิทธิชัย ทองมูล",
+      "party": "พลังประชารัฐ",
+      "votes": 163,
+      "candidate_uuid": "e8a53891-5edd-4969-8f0a-c59ed4e43ac9",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายกริชเพชร พลศรี",
+      "party": "ประชาธิปัตย์",
+      "votes": 152,
+      "candidate_uuid": "d2d08bf1-26da-4d75-be28-7099529518ff",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

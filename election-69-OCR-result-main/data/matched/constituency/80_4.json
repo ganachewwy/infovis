@@ -1,0 +1,153 @@
+{
+  "province_name": "นครศรีธรรมราช",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 135858,
+    "1.2": 103162,
+    "2.1": 139599,
+    "2.2": 103162,
+    "2.3": 36437,
+    "3.1": 96963,
+    "3.2": 17,
+    "3.3": 6182,
+    "3.4": 103162,
+    "4.1": 97047,
+    "4.2": 2383,
+    "4.3": 3732
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นางกนกพร เดชเดโช",
+      "party": "ประชาธิปัตย์",
+      "votes": 44890
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่ ร.ท.ยุทธการ รัตนมาศ",
+      "party": "กล้าธรรม",
+      "votes": 36790
+    },
+    {
+      "number": 1,
+      "name": "นายวัชระ เกตุชู",
+      "party": "ประชาชน",
+      "votes": 7531
+    },
+    {
+      "number": 3,
+      "name": "ว่าที่ร้อยโท สนั่น พิบูลย์",
+      "party": "ภูมิใจไทย",
+      "votes": 3705
+    },
+    {
+      "number": 4,
+      "name": "นายสิทธิรัก ทิพย์อักษร",
+      "party": "โอกาสใหม่",
+      "votes": 2539
+    },
+    {
+      "number": 6,
+      "name": "นายกองตรี อาญาสิทธิ์ ศรีสุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 798
+    },
+    {
+      "number": 8,
+      "name": "นายโอฬาร วังบุญคง",
+      "party": "เศรษฐกิจ",
+      "votes": 505
+    },
+    {
+      "number": 7,
+      "name": "นายนิคม หนูแสง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 289
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/22. นครศรีธรรมราช เขต 4.json",
+  "_validation": {
+    "vote_sum": 97047,
+    "good_votes": 97047,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "80",
+  "province_name_normalized": "นครศรีธรรมราช",
+  "summary": {
+    "eligible_voters": 135858,
+    "voters_came": 103162,
+    "ballots_received": 139599,
+    "ballots_used": 103162,
+    "good_votes": 97047,
+    "invalid_votes": 2383,
+    "no_votes": 3732
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นางกนกพร เดชเดโช",
+      "party": "ประชาธิปัตย์",
+      "votes": 44890,
+      "candidate_uuid": "39ac02b2-f76d-4449-a472-8bd267222fe5",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่ ร.ท.ยุทธการ รัตนมาศ",
+      "party": "กล้าธรรม",
+      "votes": 36790,
+      "candidate_uuid": "9518efb5-0a2c-4b76-ba39-235a45dc3c69",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวัชระ เกตุชู",
+      "party": "ประชาชน",
+      "votes": 7531,
+      "candidate_uuid": "a1bfdb58-1853-4ab5-ae7d-70deec376c37",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ว่าที่ร้อยโท สนั่น พิบูลย์",
+      "party": "ภูมิใจไทย",
+      "votes": 3705,
+      "candidate_uuid": "bd9dcbf9-2d68-485b-9eb2-c277bd4ccd1f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสิทธิรัก ทิพย์อักษร",
+      "party": "โอกาสใหม่",
+      "votes": 2539,
+      "candidate_uuid": "fbddf5bc-d0b5-49aa-b1ad-17f8057bba40",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายกองตรี อาญาสิทธิ์ ศรีสุวรรณ",
+      "party": "เพื่อไทย",
+      "votes": 798,
+      "candidate_uuid": "9184fe51-4958-4878-ab99-02e863893a27",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายโอฬาร วังบุญคง",
+      "party": "เศรษฐกิจ",
+      "votes": 505,
+      "candidate_uuid": "a824d604-6a5c-43fb-9d48-5c45c2e5db16",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายนิคม หนูแสง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 289,
+      "candidate_uuid": "a0905431-c88e-42cd-9384-cae20a0df5ad",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

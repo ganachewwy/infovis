@@ -1,0 +1,139 @@
+{
+  "province_name": "ตาก",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136061,
+    "1.2": 89186,
+    "2.1": 132076,
+    "2.2": 89186,
+    "2.3": 42890,
+    "3.1": 82950,
+    "3.2": 27,
+    "3.3": 6209,
+    "3.4": 89186,
+    "4.1": 61640,
+    "4.2": 9782,
+    "4.3": 17764
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายชิงชัย ก่อประภากิจ",
+      "party": "กล้าธรรม",
+      "votes": 25259
+    },
+    {
+      "number": 3,
+      "name": "นายวราทิต ไชยนันทน์",
+      "party": "เพื่อไทย",
+      "votes": 19144
+    },
+    {
+      "number": 8,
+      "name": "นายสราวุธ หาญเมืองใจ",
+      "party": "ประชาธิปัตย์",
+      "votes": 11936
+    },
+    {
+      "number": 4,
+      "name": "นายพิสิษฐ ใชยลังกา",
+      "party": "ภูมิใจไทย",
+      "votes": 2278
+    },
+    {
+      "number": 7,
+      "name": "นายศิวกรณ์ ลำจวน",
+      "party": "เศรษฐกิจ",
+      "votes": 1522
+    },
+    {
+      "number": 9,
+      "name": "นายธีรยุทธ วงษ์แหวน",
+      "party": "รวมใจไทย",
+      "votes": 1501
+    },
+    {
+      "number": 6,
+      "name": "นายรัชต์พงศ์ สร้อยสุวรรณ",
+      "party": "ประชาชน",
+      "votes": 0
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/17. ตาก เขต 2.json",
+  "_validation": {
+    "vote_sum": 61640,
+    "good_votes": 61640,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "63",
+  "province_name_normalized": "ตาก",
+  "summary": {
+    "eligible_voters": 136061,
+    "voters_came": 89186,
+    "ballots_received": 132076,
+    "ballots_used": 89186,
+    "good_votes": 61640,
+    "invalid_votes": 9782,
+    "no_votes": 17764
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายชิงชัย ก่อประภากิจ",
+      "party": "กล้าธรรม",
+      "votes": 25259,
+      "candidate_uuid": "54ae228d-e5ed-455c-8752-b262bba2991a",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวราทิต ไชยนันทน์",
+      "party": "เพื่อไทย",
+      "votes": 19144,
+      "candidate_uuid": "0710e2e7-1a3d-4055-9334-c9fbc7eccd81",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสราวุธ หาญเมืองใจ",
+      "party": "ประชาธิปัตย์",
+      "votes": 11936,
+      "candidate_uuid": "b73f0c4a-3ef8-41b9-8f86-91c3178099f8",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพิสิษฐ ใชยลังกา",
+      "party": "ภูมิใจไทย",
+      "votes": 2278,
+      "candidate_uuid": "fe0b5929-9704-4076-b08f-de5c6279d85a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายศิวกรณ์ ลำจวน",
+      "party": "เศรษฐกิจ",
+      "votes": 1522,
+      "candidate_uuid": "9078e5c1-cb01-4ed7-bf19-cab1e5eee4ed",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธีรยุทธ วงษ์แหวน",
+      "party": "รวมใจไทย",
+      "votes": 1501,
+      "candidate_uuid": "e46dc7a8-050b-4b7e-b828-603f4df6ed33",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายรัชต์พงศ์ สร้อยสุวรรณ",
+      "party": "ประชาชน",
+      "votes": 0,
+      "candidate_uuid": "5f0c6173-435c-4d36-b066-fe9e0e042c1d",
+      "is_active": false
+    }
+  ],
+  "unmatched_candidates": []
+}

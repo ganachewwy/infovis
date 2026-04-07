@@ -1,0 +1,237 @@
+{
+  "province_name": "กรุงเทพมหานคร",
+  "constituency_number": 19,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 135568,
+    "1.2": 98920,
+    "2.1": 132217,
+    "2.2": 98920,
+    "2.3": 33297,
+    "3.1": 94127,
+    "3.2": 0,
+    "3.3": 4793,
+    "3.4": 98920,
+    "4.1": 92191,
+    "4.2": 1634,
+    "4.3": 5095
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายกันต์พงษ์ ประยูรศักดิ์",
+      "party": "ประชาชน",
+      "votes": 42820
+    },
+    {
+      "number": 7,
+      "name": "นางสาวกาญจนา ภวัครานนท์",
+      "party": "ภูมิใจไทย",
+      "votes": 17802
+    },
+    {
+      "number": 9,
+      "name": "นางสาวขวัญจิรา มีนชัยนันท์",
+      "party": "เพื่อไทย",
+      "votes": 13271
+    },
+    {
+      "number": 11,
+      "name": "นางสาวกานต์ วนาดรวรวิศาล",
+      "party": "ประชาธิปัตย์",
+      "votes": 10234
+    },
+    {
+      "number": 8,
+      "name": "นายภูเบศ โพธิ์โซะ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2415
+    },
+    {
+      "number": 10,
+      "name": "นายนิยม ทรัพย์สิรินาวิน",
+      "party": "เศรษฐกิจ",
+      "votes": 1607
+    },
+    {
+      "number": 2,
+      "name": "นายวรวิทย์ พงษ์ประเทศ",
+      "party": "ไทยสร้างไทย",
+      "votes": 924
+    },
+    {
+      "number": 4,
+      "name": "นายจิรัฏฐ์ เชาว์อริยรัฐ",
+      "party": "กล้าธรรม",
+      "votes": 772
+    },
+    {
+      "number": 3,
+      "name": "นายสมัย ภูมรินทร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 579
+    },
+    {
+      "number": 5,
+      "name": "นายศรศักดิ์ สวนแก้ว",
+      "party": "ปวงชนไทย",
+      "votes": 546
+    },
+    {
+      "number": 1,
+      "name": "นายปิยะชาติ อำนวยเวช",
+      "party": "โอกาสใหม่",
+      "votes": 377
+    },
+    {
+      "number": 13,
+      "name": "นายเอนก มนัสซง",
+      "party": "พลวัต",
+      "votes": 345
+    },
+    {
+      "number": 12,
+      "name": "นางสาวสุธิดารา สาสาย",
+      "party": "รักชาติ",
+      "votes": 269
+    },
+    {
+      "number": 14,
+      "name": "นายบวรวิช รักไทย",
+      "party": "ทางเลือกใหม่",
+      "votes": 230
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/1. กรุงเทพมหานคร เขต 19.json",
+  "_validation": {
+    "vote_sum": 92191,
+    "good_votes": 92191,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "10",
+  "province_name_normalized": "กรุงเทพมหานคร",
+  "summary": {
+    "eligible_voters": 135568,
+    "voters_came": 98920,
+    "ballots_received": 132217,
+    "ballots_used": 98920,
+    "good_votes": 92191,
+    "invalid_votes": 1634,
+    "no_votes": 5095
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายกันต์พงษ์ ประยูรศักดิ์",
+      "party": "ประชาชน",
+      "votes": 42820,
+      "candidate_uuid": "ee7850fa-7e68-4dae-b230-57d564c991ba",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวกาญจนา ภวัครานนท์",
+      "party": "ภูมิใจไทย",
+      "votes": 17802,
+      "candidate_uuid": "0b0f3e32-9d17-4d73-8aa6-9fc9e7637e61",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวขวัญจิรา มีนชัยนันท์",
+      "party": "เพื่อไทย",
+      "votes": 13271,
+      "candidate_uuid": "31d27c1d-6063-4294-b773-3dfac5df0c8f",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางสาวกานต์ วนาดรวรวิศาล",
+      "party": "ประชาธิปัตย์",
+      "votes": 10234,
+      "candidate_uuid": "c1081804-a790-4fde-ac0d-da2689e4751b",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายภูเบศ โพธิ์โซะ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2415,
+      "candidate_uuid": "01377780-0d04-405f-900a-08e22326fe42",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายนิยม ทรัพย์สิรินาวิน",
+      "party": "เศรษฐกิจ",
+      "votes": 1607,
+      "candidate_uuid": "e46f3de9-80e8-4a12-b5da-ae897e288ead",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวรวิทย์ พงษ์ประเทศ",
+      "party": "ไทยสร้างไทย",
+      "votes": 924,
+      "candidate_uuid": "cc268cff-9268-420f-b12e-dda66cb581b2",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายจิรัฏฐ์ เชาว์อริยรัฐ",
+      "party": "กล้าธรรม",
+      "votes": 772,
+      "candidate_uuid": "5381c0a4-b64a-4328-913a-f193cfecc0b2",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสมัย ภูมรินทร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 579,
+      "candidate_uuid": "f49eeb22-a8bd-4979-8b69-5a820049e213",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายศรศักดิ์ สวนแก้ว",
+      "party": "ปวงชนไทย",
+      "votes": 546,
+      "candidate_uuid": "90503ce8-93d8-4be6-926e-649c1a0a95cd",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายปิยะชาติ อำนวยเวช",
+      "party": "โอกาสใหม่",
+      "votes": 377,
+      "candidate_uuid": "7d46d641-3d55-4505-a69e-77ab85f9b365",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายเอนก มนัสซง",
+      "party": "พลวัต",
+      "votes": 345,
+      "candidate_uuid": "397ba230-f40e-489e-9ea8-937bc379f68f",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นางสาวสุธิดารา สาสาย",
+      "party": "รักชาติ",
+      "votes": 269,
+      "candidate_uuid": "3427f91e-fb87-4e24-b66e-6101a4e915d2",
+      "is_active": true
+    },
+    {
+      "number": 14,
+      "name": "นายบวรวิช รักไทย",
+      "party": "ทางเลือกใหม่",
+      "votes": 230,
+      "candidate_uuid": "b06b7aa4-31e8-4de4-b232-8a04120f2bcb",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

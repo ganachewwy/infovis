@@ -1,0 +1,139 @@
+{
+  "province_name": "ปัตตานี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 95574,
+    "1.2": 74215,
+    "2.1": 96366,
+    "2.2": 74215,
+    "2.3": 22551,
+    "3.1": 69572,
+    "3.2": 24,
+    "3.3": 4619,
+    "3.4": 74215,
+    "4.1": 69214,
+    "4.2": 2134,
+    "4.3": 2867
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายบาฮารุดดีน ยูโซะ",
+      "party": "ภูมิใจไทย",
+      "votes": 24377
+    },
+    {
+      "number": 3,
+      "name": "นางสาวเพชรดาว โต๊ะมีนา",
+      "party": "กล้าธรรม",
+      "votes": 16415
+    },
+    {
+      "number": 6,
+      "name": "ผศ.วรวิทย์ บารู",
+      "party": "ประชาชาติ",
+      "votes": 13994
+    },
+    {
+      "number": 1,
+      "name": "นายไวชิต อุดมวนิช",
+      "party": "ประชาชน",
+      "votes": 10859
+    },
+    {
+      "number": 2,
+      "name": "นายชารีฟุดดีน สารีมิง",
+      "party": "ประชาธิปัตย์",
+      "votes": 2718
+    },
+    {
+      "number": 4,
+      "name": "นายมานต์ เบ็ญนา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 471
+    },
+    {
+      "number": 7,
+      "name": "นายสมบูรณ์ สีแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 380
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/32. ปัตตานี เขต 1.json",
+  "_validation": {
+    "vote_sum": 69214,
+    "good_votes": 69214,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "94",
+  "province_name_normalized": "ปัตตานี",
+  "summary": {
+    "eligible_voters": 95574,
+    "voters_came": 74215,
+    "ballots_received": 96366,
+    "ballots_used": 74215,
+    "good_votes": 69214,
+    "invalid_votes": 2134,
+    "no_votes": 2867
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายบาฮารุดดีน ยูโซะ",
+      "party": "ภูมิใจไทย",
+      "votes": 24377,
+      "candidate_uuid": "916af6f2-2cff-439a-9cb1-d30b1ae12680",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวเพชรดาว โต๊ะมีนา",
+      "party": "กล้าธรรม",
+      "votes": 16415,
+      "candidate_uuid": "99b95645-cad7-4bd9-99c7-8dda735072b3",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "ผศ.วรวิทย์ บารู",
+      "party": "ประชาชาติ",
+      "votes": 13994,
+      "candidate_uuid": "920dad89-de9e-4c4a-a611-15fd64f12ca0",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายไวชิต อุดมวนิช",
+      "party": "ประชาชน",
+      "votes": 10859,
+      "candidate_uuid": "8fc4829e-66cc-4cdc-8bc6-6ccd73559554",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายชารีฟุดดีน สารีมิง",
+      "party": "ประชาธิปัตย์",
+      "votes": 2718,
+      "candidate_uuid": "3eefed37-00a5-4ce2-9c4a-830758725952",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายมานต์ เบ็ญนา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 471,
+      "candidate_uuid": "2f827e7a-fd9a-43cd-be10-02798c22417b",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสมบูรณ์ สีแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 380,
+      "candidate_uuid": "a8e49261-b536-4585-9394-46df13257202",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

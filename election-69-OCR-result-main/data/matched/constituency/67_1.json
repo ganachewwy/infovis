@@ -1,0 +1,139 @@
+{
+  "province_name": "เพชรบูรณ์",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131143,
+    "1.2": 88736,
+    "2.1": 132483,
+    "2.2": 88734,
+    "2.3": 43749,
+    "3.1": 81416,
+    "3.2": 55,
+    "3.3": 7263,
+    "3.4": 88734,
+    "4.1": 80633,
+    "4.2": 3607,
+    "4.3": 4494
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวพิมพ์พร พรพฤฒิพันธุ์",
+      "party": "ภูมิใจไทย",
+      "votes": 50631
+    },
+    {
+      "number": 2,
+      "name": "นายธนเดช หินวิเศษ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1714
+    },
+    {
+      "number": 3,
+      "name": "นายพรเทพ เพชรรุ่งทอง",
+      "party": "กล้าธรรม",
+      "votes": 358
+    },
+    {
+      "number": 4,
+      "name": "นายสิทธิชัย ต๊ะอาจ",
+      "party": "เพื่อไทย",
+      "votes": 3334
+    },
+    {
+      "number": 5,
+      "name": "นายรัฐภูมิ เลิศไพจิตร",
+      "party": "ประชาชน",
+      "votes": 22369
+    },
+    {
+      "number": 6,
+      "name": "นายณัฐพล ขวัญแจ่ม",
+      "party": "ปวงชนไทย",
+      "votes": 659
+    },
+    {
+      "number": 7,
+      "name": "นายกฤษณพงศ์ สอนน้อย",
+      "party": "เศรษฐกิจ",
+      "votes": 1568
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/40. เพชรบูรณ์ เขต 1.json",
+  "_validation": {
+    "vote_sum": 80633,
+    "good_votes": 80633,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "67",
+  "province_name_normalized": "เพชรบูรณ์",
+  "summary": {
+    "eligible_voters": 131143,
+    "voters_came": 88736,
+    "ballots_received": 132483,
+    "ballots_used": 88734,
+    "good_votes": 80633,
+    "invalid_votes": 3607,
+    "no_votes": 4494
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวพิมพ์พร พรพฤฒิพันธุ์",
+      "party": "ภูมิใจไทย",
+      "votes": 50631,
+      "candidate_uuid": "839b5d4f-fd1a-4e3f-a65f-9917a5ac7584",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธนเดช หินวิเศษ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1714,
+      "candidate_uuid": "cf7bd653-8a24-4769-9ae7-2faf389fc423",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพรเทพ เพชรรุ่งทอง",
+      "party": "กล้าธรรม",
+      "votes": 358,
+      "candidate_uuid": "6cdbc3e4-631f-436c-9d95-bf472fe3f7b0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสิทธิชัย ต๊ะอาจ",
+      "party": "เพื่อไทย",
+      "votes": 3334,
+      "candidate_uuid": "2e71a98a-6092-47ee-8c81-d93fa760e28e",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายรัฐภูมิ เลิศไพจิตร",
+      "party": "ประชาชน",
+      "votes": 22369,
+      "candidate_uuid": "b56adc23-2e6c-4678-a554-5ff8668b97e2",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายณัฐพล ขวัญแจ่ม",
+      "party": "ปวงชนไทย",
+      "votes": 659,
+      "candidate_uuid": "cddd5b0f-9e7f-4136-a184-a44e8fb2790b",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายกฤษณพงศ์ สอนน้อย",
+      "party": "เศรษฐกิจ",
+      "votes": 1568,
+      "candidate_uuid": "d90331d5-e95d-480c-92ab-58ec0ad926c8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,139 @@
+{
+  "province_name": "ปัตตานี",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 109944,
+    "1.2": 78514,
+    "2.1": 113947,
+    "2.2": 78514,
+    "2.3": 35433,
+    "3.1": 75860,
+    "3.2": 7,
+    "3.3": 2647,
+    "3.4": 78514,
+    "4.1": 73268,
+    "4.2": 3279,
+    "4.3": 1967
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายสาเหะมูหามัด อัลอิดรุส",
+      "party": "ภูมิใจไทย",
+      "votes": 34313
+    },
+    {
+      "number": 3,
+      "name": "นายบัณฑิต อับดุลบุตร",
+      "party": "ประชาชาติ",
+      "votes": 24059
+    },
+    {
+      "number": 5,
+      "name": "นายมูฮัมหมัดนาเซร์ สูหลง",
+      "party": "ประชาชน",
+      "votes": 9283
+    },
+    {
+      "number": 6,
+      "name": "นายสนิท นาแว",
+      "party": "กล้าธรรม",
+      "votes": 3250
+    },
+    {
+      "number": 1,
+      "name": "นายมุกตา สาและ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1495
+    },
+    {
+      "number": 2,
+      "name": "นายมะอำรัม อีดงอ",
+      "party": "เพื่อไทย",
+      "votes": 640
+    },
+    {
+      "number": 7,
+      "name": "นายอูกูอัลฮาดีด อาแด",
+      "party": "พลังประชารัฐ",
+      "votes": 228
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/32. ปัตตานี เขต 5.json",
+  "_validation": {
+    "vote_sum": 73268,
+    "good_votes": 73268,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "94",
+  "province_name_normalized": "ปัตตานี",
+  "summary": {
+    "eligible_voters": 109944,
+    "voters_came": 78514,
+    "ballots_received": 113947,
+    "ballots_used": 78514,
+    "good_votes": 73268,
+    "invalid_votes": 3279,
+    "no_votes": 1967
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายสาเหะมูหามัด อัลอิดรุส",
+      "party": "ภูมิใจไทย",
+      "votes": 34313,
+      "candidate_uuid": "50311d6c-55eb-49bc-a9d0-5858616820a9",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายบัณฑิต อับดุลบุตร",
+      "party": "ประชาชาติ",
+      "votes": 24059,
+      "candidate_uuid": "72bc3ee1-23c9-4944-b6c1-d35ed7bab063",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายมูฮัมหมัดนาเซร์ สูหลง",
+      "party": "ประชาชน",
+      "votes": 9283,
+      "candidate_uuid": "245d51d4-eaae-4082-ab9e-7b98275b2d6f",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสนิท นาแว",
+      "party": "กล้าธรรม",
+      "votes": 3250,
+      "candidate_uuid": "875cb7bc-2094-436b-a1ca-60f1112a3388",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายมุกตา สาและ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1495,
+      "candidate_uuid": "41ac6a17-f713-4e29-a756-3078fa2a719e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายมะอำรัม อีดงอ",
+      "party": "เพื่อไทย",
+      "votes": 640,
+      "candidate_uuid": "af70f0bb-eeb4-43c3-85d6-0205595eda95",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอูกูอัลฮาดีด อาแด",
+      "party": "พลังประชารัฐ",
+      "votes": 228,
+      "candidate_uuid": "1b022293-c8dd-4944-8b5a-7fc6c8bba561",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

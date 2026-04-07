@@ -1,0 +1,167 @@
+{
+  "province_name": "จันทบุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 148036,
+    "1.2": 110531,
+    "2.1": 152547,
+    "2.2": 110531,
+    "2.3": 42016,
+    "3.1": 105044,
+    "3.2": 17,
+    "3.3": 5470,
+    "3.4": 110531,
+    "4.1": 100866,
+    "4.2": 3234,
+    "4.3": 6431
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "พลตำรวจโท สุรพล วิรัตน์โยสินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 32984
+    },
+    {
+      "number": 4,
+      "name": "นายวรายุทธ ทองสุข",
+      "party": "ประชาชน",
+      "votes": 29390
+    },
+    {
+      "number": 3,
+      "name": "นายเฉลิมพล ศักดิ์คำ",
+      "party": "เพื่อไทย",
+      "votes": 23506
+    },
+    {
+      "number": 5,
+      "name": "นายอิทธิพล จังสิริมงคล",
+      "party": "ประชาธิปัตย์",
+      "votes": 6271
+    },
+    {
+      "number": 9,
+      "name": "นายอธิวัฒน์ อำนาจสกุลเกียรติ",
+      "party": "เศรษฐกิจ",
+      "votes": 3460
+    },
+    {
+      "number": 7,
+      "name": "พลเอก กังวาน สุจินต์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2115
+    },
+    {
+      "number": 2,
+      "name": "นายมานะ ชนะสิทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 1736
+    },
+    {
+      "number": 6,
+      "name": "นางสาวระพีพร ชำนาญเวช",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1133
+    },
+    {
+      "number": 8,
+      "name": "นายชวลิต สุขเกษม",
+      "party": "ปวงชนไทย",
+      "votes": 271
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/7. จันทบุรี เขต 1.json",
+  "_validation": {
+    "vote_sum": 100866,
+    "good_votes": 100866,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "22",
+  "province_name_normalized": "จันทบุรี",
+  "summary": {
+    "eligible_voters": 148036,
+    "voters_came": 110531,
+    "ballots_received": 152547,
+    "ballots_used": 110531,
+    "good_votes": 100866,
+    "invalid_votes": 3234,
+    "no_votes": 6431
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "พลตำรวจโท สุรพล วิรัตน์โยสินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 32984,
+      "candidate_uuid": "0e3ceb84-6198-461b-909d-df2815eda158",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวรายุทธ ทองสุข",
+      "party": "ประชาชน",
+      "votes": 29390,
+      "candidate_uuid": "f093a658-4c47-4d08-84a2-86a92fea49c1",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเฉลิมพล ศักดิ์คำ",
+      "party": "เพื่อไทย",
+      "votes": 23506,
+      "candidate_uuid": "c20797b2-0fc1-4c23-bc16-6f550922e29c",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอิทธิพล จังสิริมงคล",
+      "party": "ประชาธิปัตย์",
+      "votes": 6271,
+      "candidate_uuid": "d3468ccd-2d49-4d0f-89ba-1fcea69895ce",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายอธิวัฒน์ อำนาจสกุลเกียรติ",
+      "party": "เศรษฐกิจ",
+      "votes": 3460,
+      "candidate_uuid": "7f2be31f-c9fd-4bd7-93a9-cc37baa8a5b0",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "พลเอก กังวาน สุจินต์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2115,
+      "candidate_uuid": "cad6d6b6-9a80-443a-970d-453b2418eb5b",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายมานะ ชนะสิทธิ์",
+      "party": "กล้าธรรม",
+      "votes": 1736,
+      "candidate_uuid": "a7bd561d-7013-45b1-b623-e0793e81c3a1",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวระพีพร ชำนาญเวช",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1133,
+      "candidate_uuid": "84bf9802-909d-4792-8ccf-d2e1bf1880bd",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายชวลิต สุขเกษม",
+      "party": "ปวงชนไทย",
+      "votes": 271,
+      "candidate_uuid": "118ddab9-b019-451b-8bab-4d85f21fbd65",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

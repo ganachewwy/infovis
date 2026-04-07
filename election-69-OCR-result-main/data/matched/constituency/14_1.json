@@ -1,0 +1,153 @@
+{
+  "province_name": "พระนครศรีอยุธยา",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 140191,
+    "1.2": 106326,
+    "2.1": 156540,
+    "2.2": 106326,
+    "2.3": 50214,
+    "3.1": 103326,
+    "3.2": 26,
+    "3.3": 2974,
+    "3.4": 106326,
+    "4.1": 97550,
+    "4.2": 3580,
+    "4.3": 5196
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายทรงพล สุขสมบูรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 46696
+    },
+    {
+      "number": 7,
+      "name": "นายทวีวงศ์ โตทวิวงศ์",
+      "party": "ประชาชน",
+      "votes": 37335
+    },
+    {
+      "number": 1,
+      "name": "นายอัณณพ อารีย์วงศ์สกุล",
+      "party": "เพื่อไทย",
+      "votes": 5895
+    },
+    {
+      "number": 8,
+      "name": "นายวัชรพงศ์ ระดมสิทธิพัฒน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3557
+    },
+    {
+      "number": 5,
+      "name": "นายชยพัทธ์ รัตนกสิกร",
+      "party": "เศรษฐกิจ",
+      "votes": 1556
+    },
+    {
+      "number": 2,
+      "name": "พ.ต.ท.ชำนาญ โตวงษ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1512
+    },
+    {
+      "number": 4,
+      "name": "พ.ต.อ.พงศ์พล พงษ์พิลา",
+      "party": "เสรีรวมไทย",
+      "votes": 673
+    },
+    {
+      "number": 3,
+      "name": "นายปมุข ภาคย์สุภาพ",
+      "party": "ไทยสร้างชาติ",
+      "votes": 326
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/33. พระนครศรีอยุธยา เขต 1.json",
+  "_validation": {
+    "vote_sum": 97550,
+    "good_votes": 97550,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "14",
+  "province_name_normalized": "พระนครศรีอยุธยา",
+  "summary": {
+    "eligible_voters": 140191,
+    "voters_came": 106326,
+    "ballots_received": 156540,
+    "ballots_used": 106326,
+    "good_votes": 97550,
+    "invalid_votes": 3580,
+    "no_votes": 5196
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายทรงพล สุขสมบูรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 46696,
+      "candidate_uuid": "ae80bf7f-1fd9-443c-bd33-62c2f0ec6a21",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายทวีวงศ์ โตทวิวงศ์",
+      "party": "ประชาชน",
+      "votes": 37335,
+      "candidate_uuid": "3e0f0652-1053-4139-bd97-17f066eca713",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอัณณพ อารีย์วงศ์สกุล",
+      "party": "เพื่อไทย",
+      "votes": 5895,
+      "candidate_uuid": "e097d7f9-e72f-455d-af56-a63c65978baf",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวัชรพงศ์ ระดมสิทธิพัฒน์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3557,
+      "candidate_uuid": "4b979641-ebc8-4818-ab1c-c052f0ef75dc",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชยพัทธ์ รัตนกสิกร",
+      "party": "เศรษฐกิจ",
+      "votes": 1556,
+      "candidate_uuid": "6ba968fa-0f33-43a6-840e-9c636b9b71e1",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "พ.ต.ท.ชำนาญ โตวงษ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1512,
+      "candidate_uuid": "1740d9ed-b93b-434f-a6cb-56f7bf554d97",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "พ.ต.อ.พงศ์พล พงษ์พิลา",
+      "party": "เสรีรวมไทย",
+      "votes": 673,
+      "candidate_uuid": "f795f347-d8f0-444d-aca3-95b8882610e1",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายปมุข ภาคย์สุภาพ",
+      "party": "ไทยสร้างชาติ",
+      "votes": 326,
+      "candidate_uuid": "92e44fe2-9d0d-4e0d-9907-f85ff346f0a7",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,139 @@
+{
+  "province_name": "สตูล",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129527,
+    "1.2": 99320,
+    "2.1": 132818,
+    "2.2": 99320,
+    "2.3": 33498,
+    "3.1": 93635,
+    "3.2": 27,
+    "3.3": 5658,
+    "3.4": 99320,
+    "4.1": 90555,
+    "4.2": 3158,
+    "4.3": 5607
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายวรศิษฎ์ เลียงประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 56595
+    },
+    {
+      "number": 2,
+      "name": "จ่าเอกกฤษ ศรีสน",
+      "party": "ประชาชน",
+      "votes": 15947
+    },
+    {
+      "number": 3,
+      "name": "นายสัญญา จงจิตร",
+      "party": "ประชาธิปัตย์",
+      "votes": 11416
+    },
+    {
+      "number": 1,
+      "name": "นางสาวสายพิณ ณ พัทลุง",
+      "party": "เพื่อไทย",
+      "votes": 3272
+    },
+    {
+      "number": 5,
+      "name": "นายอนุสรณ์ ชายเหตุ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1388
+    },
+    {
+      "number": 6,
+      "name": "นายณรงค์ องสารา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1020
+    },
+    {
+      "number": 7,
+      "name": "นายสุชาติ ใบมะหาด",
+      "party": "กล้าธรรม",
+      "votes": 917
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/59. สตูล เขต 2.json",
+  "_validation": {
+    "vote_sum": 90555,
+    "good_votes": 90555,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "91",
+  "province_name_normalized": "สตูล",
+  "summary": {
+    "eligible_voters": 129527,
+    "voters_came": 99320,
+    "ballots_received": 132818,
+    "ballots_used": 99320,
+    "good_votes": 90555,
+    "invalid_votes": 3158,
+    "no_votes": 5607
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายวรศิษฎ์ เลียงประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 56595,
+      "candidate_uuid": "5dd79a7b-2877-4f78-8f9a-35c57ca368a1",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "จ่าเอกกฤษ ศรีสน",
+      "party": "ประชาชน",
+      "votes": 15947,
+      "candidate_uuid": "8c27cc9a-5236-4e67-b776-466f58c924ef",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสัญญา จงจิตร",
+      "party": "ประชาธิปัตย์",
+      "votes": 11416,
+      "candidate_uuid": "d78ec98c-e029-4e55-bc17-af74c42233ec",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวสายพิณ ณ พัทลุง",
+      "party": "เพื่อไทย",
+      "votes": 3272,
+      "candidate_uuid": "369dfc77-e80a-4e6b-808c-8bdef33604db",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอนุสรณ์ ชายเหตุ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1388,
+      "candidate_uuid": "4a7ff17e-4096-44c4-8e03-3085ce8cf366",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายณรงค์ องสารา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1020,
+      "candidate_uuid": "aa2994c8-16e6-449d-b26e-5a30f7357cab",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุชาติ ใบมะหาด",
+      "party": "กล้าธรรม",
+      "votes": 917,
+      "candidate_uuid": "93cfdff2-7661-44bb-b7a7-9a837d09e450",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

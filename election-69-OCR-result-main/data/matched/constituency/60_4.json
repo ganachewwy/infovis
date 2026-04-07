@@ -1,0 +1,139 @@
+{
+  "province_name": "นครสวรรค์",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139645,
+    "1.2": 92413,
+    "2.1": 135840,
+    "2.2": 92413,
+    "2.3": 43427,
+    "3.1": 86792,
+    "3.2": 0,
+    "3.3": 5621,
+    "3.4": 92413,
+    "4.1": 83748,
+    "4.2": 5325,
+    "4.3": 3340
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายมารุต ศรีผึ้ง",
+      "party": "ภูมิใจไทย",
+      "votes": 55825
+    },
+    {
+      "number": 5,
+      "name": "นางณัฏฐนันท์ ปอพาณิชกรณ์",
+      "party": "ประชาชน",
+      "votes": 14884
+    },
+    {
+      "number": 6,
+      "name": "นายรุ่งโรจน์ แสงศิริ",
+      "party": "เพื่อไทย",
+      "votes": 6538
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนริศร์ชา ชัยสุกัญญาสันต์",
+      "party": "เศรษฐกิจ",
+      "votes": 3203
+    },
+    {
+      "number": 4,
+      "name": "นายประเสริฐ จรูญจิตรวีร์",
+      "party": "กล้าทา",
+      "votes": 1582
+    },
+    {
+      "number": 3,
+      "name": "นายกฤต ชูชาติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1510
+    },
+    {
+      "number": 7,
+      "name": "ร.ต.อ.ธงชัย มหาโพธิ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 206
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/23. นครสวรรค์ เขต 4.json",
+  "_validation": {
+    "vote_sum": 83748,
+    "good_votes": 83748,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "60",
+  "province_name_normalized": "นครสวรรค์",
+  "summary": {
+    "eligible_voters": 139645,
+    "voters_came": 92413,
+    "ballots_received": 135840,
+    "ballots_used": 92413,
+    "good_votes": 83748,
+    "invalid_votes": 5325,
+    "no_votes": 3340
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายมารุต ศรีผึ้ง",
+      "party": "ภูมิใจไทย",
+      "votes": 55825,
+      "candidate_uuid": "d9dbe6b0-7aed-4554-86df-94d8543cf8e5",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางณัฏฐนันท์ ปอพาณิชกรณ์",
+      "party": "ประชาชน",
+      "votes": 14884,
+      "candidate_uuid": "3463c70c-41ea-40c6-981d-b7fc0dae79e0",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายรุ่งโรจน์ แสงศิริ",
+      "party": "เพื่อไทย",
+      "votes": 6538,
+      "candidate_uuid": "5727c507-6a66-44b2-a4c4-099915ab5342",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนริศร์ชา ชัยสุกัญญาสันต์",
+      "party": "เศรษฐกิจ",
+      "votes": 3203,
+      "candidate_uuid": "9d1d86bd-3279-4dd5-a58a-99d3d0eb93a6",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายประเสริฐ จรูญจิตรวีร์",
+      "party": "กล้าทา",
+      "votes": 1582,
+      "candidate_uuid": "453f674d-89ab-455d-a327-53a8748726e1",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกฤต ชูชาติ",
+      "party": "ประชาธิปัตย์",
+      "votes": 1510,
+      "candidate_uuid": "2c9a5f39-9579-4e71-9517-391caffd9bad",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "ร.ต.อ.ธงชัย มหาโพธิ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 206,
+      "candidate_uuid": "dc22863a-4c3c-4837-a657-734c369c6fa9",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,125 @@
+{
+  "province_name": "กาญจนบุรี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136011,
+    "1.2": 113958,
+    "2.1": 136919,
+    "2.2": 113958,
+    "2.3": 22961,
+    "3.1": 110722,
+    "3.2": 18,
+    "3.3": 3218,
+    "3.4": 113958,
+    "4.1": 107950,
+    "4.2": 3604,
+    "4.3": 2404
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายยศวัฒน์ มาไพศาลสิน",
+      "party": "ภูมิใจไทย",
+      "votes": 50759
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพลอย ธนิกุล",
+      "party": "เพื่อไทย",
+      "votes": 40278
+    },
+    {
+      "number": 2,
+      "name": "นายชุมพล แสงวรรณ",
+      "party": "ประชาชน",
+      "votes": 14303
+    },
+    {
+      "number": 6,
+      "name": "นางสาววราพร เตชาวัฒนวิศาล",
+      "party": "เศรษฐกิจ",
+      "votes": 1280
+    },
+    {
+      "number": 1,
+      "name": "นายชาติชาย บัวซ้อน",
+      "party": "ประชาธิปัตย์",
+      "votes": 821
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสุมณฑา แก่นอาสา",
+      "party": "พลวัต",
+      "votes": 509
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/3. กาญจนบุรี เขต 3 (1).json",
+  "_validation": {
+    "vote_sum": 97950,
+    "good_votes": 107950,
+    "sum_diff_pct": 9.26
+  },
+  "province_code": "71",
+  "province_name_normalized": "กาญจนบุรี",
+  "summary": {
+    "eligible_voters": 136011,
+    "voters_came": 113958,
+    "ballots_received": 136919,
+    "ballots_used": 113958,
+    "good_votes": 107950,
+    "invalid_votes": 3604,
+    "no_votes": 2404
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายยศวัฒน์ มาไพศาลสิน",
+      "party": "ภูมิใจไทย",
+      "votes": 50759,
+      "candidate_uuid": "32d7851e-acc7-48fe-b7b8-0e8e648fb490",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพลอย ธนิกุล",
+      "party": "เพื่อไทย",
+      "votes": 40278,
+      "candidate_uuid": "797e06d6-ab74-4490-915a-0f5e7d1bbc56",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายชุมพล แสงวรรณ",
+      "party": "ประชาชน",
+      "votes": 14303,
+      "candidate_uuid": "75f07bb1-798a-4228-9670-54f7ac29e418",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาววราพร เตชาวัฒนวิศาล",
+      "party": "เศรษฐกิจ",
+      "votes": 1280,
+      "candidate_uuid": "d3723b4d-ba90-4d2b-83bb-d21a418923d6",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายชาติชาย บัวซ้อน",
+      "party": "ประชาธิปัตย์",
+      "votes": 821,
+      "candidate_uuid": "406279bb-bfb8-487f-b405-79126079641c",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสุมณฑา แก่นอาสา",
+      "party": "พลวัต",
+      "votes": 509,
+      "candidate_uuid": "c3065e6b-7575-4335-939b-1eedf3470014",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

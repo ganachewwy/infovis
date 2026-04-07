@@ -1,0 +1,312 @@
+{
+  "province_name": "สุรินทร์",
+  "constituency_number": 7,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 136450,
+    "1.2": 91439,
+    "2.1": 139380,
+    "2.2": 91439,
+    "2.3": 47941,
+    "3.1": 84881,
+    "3.2": 9,
+    "3.3": 6549,
+    "3.4": 91439,
+    "4.1": 85211,
+    "4.2": 4423,
+    "4.3": 1805
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ใหม่",
+      "votes": 1857
+    },
+    {
+      "number": 2,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 446
+    },
+    {
+      "number": 3,
+      "party": "เพื่อชาติไทย",
+      "votes": 1225
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 2344
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 591
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1156
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 109
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 403
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 20389
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 336
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 5310
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 334
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 352
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 56
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 57
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 188
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 103
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 17
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 28
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 20
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 108
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 50
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 79
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 62
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 24
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 47
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 1496
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 76
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 279
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 121
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 169
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 214
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 270
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 189
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 119
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 153
+    },
+    {
+      "number": 38,
+      "party": "ภูมิใจไทย",
+      "votes": 27891
+    },
+    {
+      "number": 39,
+      "party": "พลังธรรมใหม่",
+      "votes": 436
+    },
+    {
+      "number": 40,
+      "party": "กรีน",
+      "votes": 56
+    },
+    {
+      "number": 41,
+      "party": "ไทยธรรม",
+      "votes": 88
+    },
+    {
+      "number": 42,
+      "party": "แผ่นดินธรรม",
+      "votes": 29
+    },
+    {
+      "number": 43,
+      "party": "กล้าธรรม",
+      "votes": 170
+    },
+    {
+      "number": 44,
+      "party": "พลังประชารัฐ",
+      "votes": 105
+    },
+    {
+      "number": 45,
+      "party": "โอกาสใหม่",
+      "votes": 22
+    },
+    {
+      "number": 46,
+      "party": "เป็นธรรม",
+      "votes": 45
+    },
+    {
+      "number": 47,
+      "party": "ประชาชน",
+      "votes": 16874
+    },
+    {
+      "number": 48,
+      "party": "ประชาไทย",
+      "votes": 136
+    },
+    {
+      "number": 49,
+      "party": "ไทยสร้างไทย",
+      "votes": 257
+    },
+    {
+      "number": 50,
+      "party": "ไทยก้าวใหม่",
+      "votes": 135
+    },
+    {
+      "number": 51,
+      "party": "ประชาอาสาชาติ",
+      "votes": 9
+    },
+    {
+      "number": 52,
+      "party": "พร้อม",
+      "votes": 39
+    },
+    {
+      "number": 53,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 20
+    },
+    {
+      "number": 54,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 8
+    },
+    {
+      "number": 55,
+      "party": "ความหวังใหม่",
+      "votes": 16
+    },
+    {
+      "number": 56,
+      "party": "ไทยรวมไทย",
+      "votes": 13
+    },
+    {
+      "number": 57,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 30
+    },
+    {
+      "number": 58,
+      "party": "พลังไทยรักชาติ",
+      "votes": 55
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/69. สุรินทร์ เขต 7 (บช).pdf",
+  "_validation": {
+    "vote_sum": 85211,
+    "good_votes": 85211,
+    "sum_diff_pct": 0.0
+  }
+}

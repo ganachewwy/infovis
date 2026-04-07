@@ -1,0 +1,167 @@
+{
+  "province_name": "สุราษฎร์ธานี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 118867,
+    "1.2": 86508,
+    "2.1": 121932,
+    "2.2": 86508,
+    "2.3": 35424,
+    "3.1": 82576,
+    "3.2": 50,
+    "3.3": 3882,
+    "3.4": 86508,
+    "4.1": 81419,
+    "4.2": 2109,
+    "4.3": 2980
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายพิพิธ รัตนรักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 27071
+    },
+    {
+      "number": 6,
+      "name": "นายศักดิ์วิชญ์ แก้วมีศรี",
+      "party": "ไทรวมพลัง",
+      "votes": 20059
+    },
+    {
+      "number": 1,
+      "name": "นายโรจน์พิศาล อินทรักษ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 15126
+    },
+    {
+      "number": 3,
+      "name": "นายวรินทร วิชัยดิษฐ",
+      "party": "ประชาชน",
+      "votes": 12739
+    },
+    {
+      "number": 4,
+      "name": "นายภูวิช เกลี้ยงมล",
+      "party": "กล้าธรรม",
+      "votes": 3138
+    },
+    {
+      "number": 7,
+      "name": "นายศาสตรา ชูศักดิ์",
+      "party": "โอกาสใหม่",
+      "votes": 1695
+    },
+    {
+      "number": 2,
+      "name": "นางสาวลีลาวัลย์ นุ้ยบุตร",
+      "party": "เพื่อไทย",
+      "votes": 1012
+    },
+    {
+      "number": 8,
+      "name": "นายภูรวิช บูลยะธนิน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 470
+    },
+    {
+      "number": 9,
+      "name": "นายพงษ์ศักดิ์ กุลเมือง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 109
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/68. สุราษฎร์ธานี เขต 2.json",
+  "_validation": {
+    "vote_sum": 81419,
+    "good_votes": 81419,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "84",
+  "province_name_normalized": "สุราษฎร์ธานี",
+  "summary": {
+    "eligible_voters": 118867,
+    "voters_came": 86508,
+    "ballots_received": 121932,
+    "ballots_used": 86508,
+    "good_votes": 81419,
+    "invalid_votes": 2109,
+    "no_votes": 2980
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายพิพิธ รัตนรักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 27071,
+      "candidate_uuid": "4e8a3723-bf34-42f8-b775-427b7d4ea847",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายศักดิ์วิชญ์ แก้วมีศรี",
+      "party": "ไทรวมพลัง",
+      "votes": 20059,
+      "candidate_uuid": "5cd4b5d9-ed5f-4091-9786-5946be4f6f65",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายโรจน์พิศาล อินทรักษ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 15126,
+      "candidate_uuid": "fc199a99-e2b9-4dfd-a63e-5d86fa8fa907",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวรินทร วิชัยดิษฐ",
+      "party": "ประชาชน",
+      "votes": 12739,
+      "candidate_uuid": "5a3ca239-66f0-4d80-a39d-260786499577",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายภูวิช เกลี้ยงมล",
+      "party": "กล้าธรรม",
+      "votes": 3138,
+      "candidate_uuid": "4fa67735-22eb-4118-8008-6af74ebabbaa",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายศาสตรา ชูศักดิ์",
+      "party": "โอกาสใหม่",
+      "votes": 1695,
+      "candidate_uuid": "b4a7d3a5-4da4-4fbb-bea2-765f62a49ea6",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวลีลาวัลย์ นุ้ยบุตร",
+      "party": "เพื่อไทย",
+      "votes": 1012,
+      "candidate_uuid": "cfb05387-cb50-4419-8838-a0ea94207463",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายภูรวิช บูลยะธนิน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 470,
+      "candidate_uuid": "297f28e6-bd42-4134-8ba4-8df5520d20c1",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายพงษ์ศักดิ์ กุลเมือง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 109,
+      "candidate_uuid": "21900c35-650e-40fb-9d27-0212dc6be511",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "สระบุรี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136691,
+    "1.2": 107815,
+    "2.1": 139898,
+    "2.2": 107815,
+    "2.3": 32083,
+    "3.1": 104128,
+    "3.2": 9,
+    "3.3": 3678,
+    "3.4": 107815,
+    "4.1": 99146,
+    "4.2": 4613,
+    "4.3": 4056
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายอรรถพล วงษ์ประยูร",
+      "party": "ภูมิใจไทย",
+      "votes": 37225
+    },
+    {
+      "number": 1,
+      "name": "นายสมบัติ อำนาคะ",
+      "party": "เพื่อไทย",
+      "votes": 27805
+    },
+    {
+      "number": 4,
+      "name": "นายจิโรจ เวชชลานนท์",
+      "party": "ประชาชน",
+      "votes": 25187
+    },
+    {
+      "number": 6,
+      "name": "พล.ต.ต.ศุภากรณ์ จันทาบุตร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 3291
+    },
+    {
+      "number": 2,
+      "name": "นายกฤษณุชัย บุญทรัพย์ทวีชัย",
+      "party": "เศรษฐกิจ",
+      "votes": 1836
+    },
+    {
+      "number": 8,
+      "name": "นายทรงวุฒิ สารจันทึก",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1782
+    },
+    {
+      "number": 3,
+      "name": "นายธงชัย กอบเกื้อชัยพงษ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1094
+    },
+    {
+      "number": 7,
+      "name": "นายสุเทพ สีมาลา",
+      "party": "ปวงชนไทย",
+      "votes": 926
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/64. สระบุรี เขต 2.json",
+  "_validation": {
+    "vote_sum": 99146,
+    "good_votes": 99146,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "19",
+  "province_name_normalized": "สระบุรี",
+  "summary": {
+    "eligible_voters": 136691,
+    "voters_came": 107815,
+    "ballots_received": 139898,
+    "ballots_used": 107815,
+    "good_votes": 99146,
+    "invalid_votes": 4613,
+    "no_votes": 4056
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายอรรถพล วงษ์ประยูร",
+      "party": "ภูมิใจไทย",
+      "votes": 37225,
+      "candidate_uuid": "8df9ce92-2c11-4d42-b65e-88db3fbb69b9",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสมบัติ อำนาคะ",
+      "party": "เพื่อไทย",
+      "votes": 27805,
+      "candidate_uuid": "96ab6382-c621-4e1e-a098-0504a7b7a42f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายจิโรจ เวชชลานนท์",
+      "party": "ประชาชน",
+      "votes": 25187,
+      "candidate_uuid": "eeae1ab1-cce7-4024-a142-946c410f83d6",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "พล.ต.ต.ศุภากรณ์ จันทาบุตร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 3291,
+      "candidate_uuid": "945acba7-be21-412f-95c8-4c3c18fb32e9",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายกฤษณุชัย บุญทรัพย์ทวีชัย",
+      "party": "เศรษฐกิจ",
+      "votes": 1836,
+      "candidate_uuid": "27840d0a-cd3e-4952-a906-34b2c78bbc1b",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายทรงวุฒิ สารจันทึก",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1782,
+      "candidate_uuid": "8d6da89d-02ed-43ab-83c4-09d3c4ba948f",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธงชัย กอบเกื้อชัยพงษ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1094,
+      "candidate_uuid": "29c0e9cb-784e-426f-bb37-9463b3f0983d",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุเทพ สีมาลา",
+      "party": "ปวงชนไทย",
+      "votes": 926,
+      "candidate_uuid": "8431f92b-9f8c-452b-8367-34b2e187a4f8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,139 @@
+{
+  "province_name": "พิจิตร",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 141664,
+    "1.2": 100598,
+    "2.1": 147825,
+    "2.2": 100598,
+    "2.3": 47227,
+    "3.1": 94399,
+    "3.2": 13,
+    "3.3": 6185,
+    "3.4": 100597,
+    "4.1": 94660,
+    "4.2": 3740,
+    "4.3": 2197
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายศิริวัฒน์ ขจรประศาสน์",
+      "party": "ภูมิใจไทย",
+      "votes": 39021
+    },
+    {
+      "number": 1,
+      "name": "นายสุรชาติ ศรีบุศกร",
+      "party": "กล้าธรรม",
+      "votes": 32805
+    },
+    {
+      "number": 7,
+      "name": "นายภัทรกัปป์ ด่านรุ่งโรจน์",
+      "party": "ประชาชน",
+      "votes": 15026
+    },
+    {
+      "number": 3,
+      "name": "นายวิทยา มาลา",
+      "party": "เพื่อไทย",
+      "votes": 5449
+    },
+    {
+      "number": 6,
+      "name": "นายลิขิต มุกดา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1048
+    },
+    {
+      "number": 5,
+      "name": "พันเอกมนู ชูจิตร",
+      "party": "เศรษฐกิจ",
+      "votes": 850
+    },
+    {
+      "number": 4,
+      "name": "นายศราวุธ ปลอดภัย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 461
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/37. พิจิตร เขต 3.json",
+  "_validation": {
+    "vote_sum": 94660,
+    "good_votes": 94660,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "66",
+  "province_name_normalized": "พิจิตร",
+  "summary": {
+    "eligible_voters": 141664,
+    "voters_came": 100598,
+    "ballots_received": 147825,
+    "ballots_used": 100598,
+    "good_votes": 94660,
+    "invalid_votes": 3740,
+    "no_votes": 2197
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายศิริวัฒน์ ขจรประศาสน์",
+      "party": "ภูมิใจไทย",
+      "votes": 39021,
+      "candidate_uuid": "e59c075b-8a9a-4db6-bcfc-da2fb1adf4a9",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุรชาติ ศรีบุศกร",
+      "party": "กล้าธรรม",
+      "votes": 32805,
+      "candidate_uuid": "4e7c54af-4a3a-4a20-9bff-fd1f1f168613",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายภัทรกัปป์ ด่านรุ่งโรจน์",
+      "party": "ประชาชน",
+      "votes": 15026,
+      "candidate_uuid": "f4e520aa-1592-4fc1-b64a-263ef801fed7",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวิทยา มาลา",
+      "party": "เพื่อไทย",
+      "votes": 5449,
+      "candidate_uuid": "52446e05-cd2d-41c8-850d-9a5014e538cf",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายลิขิต มุกดา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1048,
+      "candidate_uuid": "9cd2598d-e52e-4c02-93c0-3b261009707f",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "พันเอกมนู ชูจิตร",
+      "party": "เศรษฐกิจ",
+      "votes": 850,
+      "candidate_uuid": "24ddb249-d4d3-4b55-8a61-e3b08e34eef9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายศราวุธ ปลอดภัย",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 461,
+      "candidate_uuid": "4f99489d-5c0f-42b5-905f-0058f6689328",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

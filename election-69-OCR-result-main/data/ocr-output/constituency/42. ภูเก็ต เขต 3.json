@@ -1,0 +1,69 @@
+{
+  "province_name": "ภูเก็ต",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 117627,
+    "1.2": 82182,
+    "2.1": 117036,
+    "2.2": 82182,
+    "2.3": 34854,
+    "3.1": 77983,
+    "3.2": 0,
+    "3.3": 4199,
+    "3.4": 82182,
+    "4.1": 75128,
+    "4.2": 2121,
+    "4.3": 4933
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวอรทัย เกิดทรัพย์",
+      "party": "กล้าธรรม",
+      "votes": 30360
+    },
+    {
+      "number": 2,
+      "name": "นายฐิติกันต์ ฐิติพฤฒิกุล",
+      "party": "ประชาชน",
+      "votes": 20277
+    },
+    {
+      "number": 4,
+      "name": "นายวิวัฒน์ จินดาพล",
+      "party": "ภูมิใจไทย",
+      "votes": 12339
+    },
+    {
+      "number": 5,
+      "name": "นางสาวสิริเกศ ถั่วสกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 8344
+    },
+    {
+      "number": 6,
+      "name": "ด.ต.เดชาวัตร อุ่นสอน",
+      "party": "เศรษฐกิจ",
+      "votes": 1685
+    },
+    {
+      "number": 3,
+      "name": "นายศักดิ์ชาย เชาวน์ไวย",
+      "party": "เพื่อไทย",
+      "votes": 1192
+    },
+    {
+      "number": 7,
+      "name": "นายเกษม กาหรีมการ",
+      "party": "ไทยภักดี",
+      "votes": 931
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/42. ภูเก็ต เขต 3.pdf",
+  "_validation": {
+    "vote_sum": 75128,
+    "good_votes": 75128,
+    "sum_diff_pct": 0.0
+  }
+}

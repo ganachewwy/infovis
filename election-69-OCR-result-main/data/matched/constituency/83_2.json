@@ -1,0 +1,111 @@
+{
+  "province_name": "ภูเก็ต",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 107981,
+    "1.2": 71865,
+    "2.1": 110721,
+    "2.2": 71865,
+    "2.3": 38856,
+    "3.1": 67524,
+    "3.2": 0,
+    "3.3": 4441,
+    "3.4": 71865,
+    "4.1": 63459,
+    "4.2": 3012,
+    "4.3": 5394
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายเฉลิมพงศ์ แสงดี",
+      "party": "ประชาชน",
+      "votes": 24877
+    },
+    {
+      "number": 3,
+      "name": "นายษณกร กี่สิ้น",
+      "party": "ภูมิใจไทย",
+      "votes": 20405
+    },
+    {
+      "number": 5,
+      "name": "นายสมชาติ สมนาม",
+      "party": "ประชาธิปัตย์",
+      "votes": 13576
+    },
+    {
+      "number": 4,
+      "name": "นางณัฐพร ผาณิตพิเชฐวงศ์",
+      "party": "เพื่อไทย",
+      "votes": 2431
+    },
+    {
+      "number": 2,
+      "name": "นายอินทร์ เพชรหิน",
+      "party": "เศรษฐกิจ",
+      "votes": 2170
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/42. ภูเก็ต เขต 2.json",
+  "_validation": {
+    "vote_sum": 63459,
+    "good_votes": 63459,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "83",
+  "province_name_normalized": "ภูเก็ต",
+  "summary": {
+    "eligible_voters": 107981,
+    "voters_came": 71865,
+    "ballots_received": 110721,
+    "ballots_used": 71865,
+    "good_votes": 63459,
+    "invalid_votes": 3012,
+    "no_votes": 5394
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายเฉลิมพงศ์ แสงดี",
+      "party": "ประชาชน",
+      "votes": 24877,
+      "candidate_uuid": "dedcbaac-a849-4999-a2ab-fdd7db86ca03",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายษณกร กี่สิ้น",
+      "party": "ภูมิใจไทย",
+      "votes": 20405,
+      "candidate_uuid": "7b088919-63e3-48ba-a4c0-cbab2b8d5f40",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสมชาติ สมนาม",
+      "party": "ประชาธิปัตย์",
+      "votes": 13576,
+      "candidate_uuid": "b453537e-eadf-4102-9bdd-a0136105af0f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางณัฐพร ผาณิตพิเชฐวงศ์",
+      "party": "เพื่อไทย",
+      "votes": 2431,
+      "candidate_uuid": "cc0638d5-025e-4aae-bf0b-06f4fa0d3f62",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอินทร์ เพชรหิน",
+      "party": "เศรษฐกิจ",
+      "votes": 2170,
+      "candidate_uuid": "927b0d47-783e-4cf5-9259-57ab3574d3a2",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

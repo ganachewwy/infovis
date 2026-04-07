@@ -1,0 +1,312 @@
+{
+  "province_name": "ร้อยเอ็ด",
+  "constituency_number": 4,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 129528,
+    "1.2": 83975,
+    "2.1": 133029,
+    "2.2": 83975,
+    "2.3": 49054,
+    "3.1": 76502,
+    "3.2": 4,
+    "3.3": 7469,
+    "3.4": 83975,
+    "4.1": 79301,
+    "4.2": 3340,
+    "4.3": 1334
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 212
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 1398
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 448
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 914
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 1665
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 897
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 168
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1063
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 29021
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 345
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 2502
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 489
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 531
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 74
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 85
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 378
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 76
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 21
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 21
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 19
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 57
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 28
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 26
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 119
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 22
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 46
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 1258
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 149
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 199
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 100
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 145
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 91
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 145
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 162
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 86
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 99
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 9711
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 420
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 36
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 63
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 49
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 3265
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 431
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 882
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 92
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 19797
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 106
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 989
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 217
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 12
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 29
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 10
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 11
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 35
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 19
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 19
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 39
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/48. ร้อยเอ็ด เขต 4 (บช).pdf",
+  "_validation": {
+    "vote_sum": 79291,
+    "good_votes": 79301,
+    "sum_diff_pct": 0.01
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "province_name": "ตรัง",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128358,
+    "1.2": 99517,
+    "2.1": 126140,
+    "2.2": 99517,
+    "2.3": 26623,
+    "3.1": 93501,
+    "3.2": 0,
+    "3.3": 6016,
+    "3.4": 99517,
+    "4.1": 93671,
+    "4.2": 2120,
+    "4.3": 3726
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายกาญจน์ ตั้งปอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 50809
+    },
+    {
+      "number": 1,
+      "name": "นายพิชัย เจริญศิริสุนทร",
+      "party": "ภูมิใจไทย",
+      "votes": 29793
+    },
+    {
+      "number": 5,
+      "name": "นายปองคุณ อารยะทรงศักดิ์",
+      "party": "ประชาชน",
+      "votes": 10018
+    },
+    {
+      "number": 7,
+      "name": "นายเสถียร แก้วงาม",
+      "party": "กล้าธรรม",
+      "votes": 1236
+    },
+    {
+      "number": 8,
+      "name": "นายวิรัช วิชัยวงศ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 696
+    },
+    {
+      "number": 3,
+      "name": "นายสุมิตร สามห้วย",
+      "party": "ไทยก้าวใหม่",
+      "votes": 571
+    },
+    {
+      "number": 4,
+      "name": "นายอาณัฐชัย ภู่กลาง",
+      "party": "เพื่อไทย",
+      "votes": 548
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/15. ตรัง เขต 4.json",
+  "_validation": {
+    "vote_sum": 93671,
+    "good_votes": 93671,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "92",
+  "province_name_normalized": "ตรัง",
+  "summary": {
+    "eligible_voters": 128358,
+    "voters_came": 99517,
+    "ballots_received": 126140,
+    "ballots_used": 99517,
+    "good_votes": 93671,
+    "invalid_votes": 2120,
+    "no_votes": 3726
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายกาญจน์ ตั้งปอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 50809,
+      "candidate_uuid": "cda16605-cd96-42ed-947e-5c3ff084401c",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพิชัย เจริญศิริสุนทร",
+      "party": "ภูมิใจไทย",
+      "votes": 29793,
+      "candidate_uuid": "accd67e7-e89d-4edc-9180-f826e57c65af",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายปองคุณ อารยะทรงศักดิ์",
+      "party": "ประชาชน",
+      "votes": 10018,
+      "candidate_uuid": "3a0c1277-f713-49bc-b9e3-2503015c89b2",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายเสถียร แก้วงาม",
+      "party": "กล้าธรรม",
+      "votes": 1236,
+      "candidate_uuid": "f132a5d3-1136-4510-bd6d-9fbf0f45b827",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวิรัช วิชัยวงศ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 696,
+      "candidate_uuid": "114916cf-4361-4021-9abc-c42f4c52c677",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสุมิตร สามห้วย",
+      "party": "ไทยก้าวใหม่",
+      "votes": 571,
+      "candidate_uuid": "75297520-9397-4dda-af03-c824be8548fe",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอาณัฐชัย ภู่กลาง",
+      "party": "เพื่อไทย",
+      "votes": 548,
+      "candidate_uuid": "4f8241d3-01fa-4f05-bd58-dec08781f607",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

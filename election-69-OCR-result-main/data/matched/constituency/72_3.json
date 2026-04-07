@@ -1,0 +1,125 @@
+{
+  "province_name": "สุพรรณบุรี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130523,
+    "1.2": 106772,
+    "2.1": 134780,
+    "2.2": 103667,
+    "2.3": 31113,
+    "3.1": 103667,
+    "3.2": 0,
+    "3.3": 3105,
+    "3.4": 106772,
+    "4.1": 101452,
+    "4.2": 3416,
+    "4.3": 1904
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายณัฐชาติ วงศ์ประเสริฐ",
+      "party": "กล้าธรรม",
+      "votes": 47179
+    },
+    {
+      "number": 4,
+      "name": "นายนพดล มาตรศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 39798
+    },
+    {
+      "number": 5,
+      "name": "พันตำรวจเอก มงคล สุนทรวิภาต",
+      "party": "ประชาชน",
+      "votes": 11979
+    },
+    {
+      "number": 3,
+      "name": "นางสาวกุลธิดา เหมาเพชรอนันเมฆ",
+      "party": "เพื่อไทย",
+      "votes": 1474
+    },
+    {
+      "number": 1,
+      "name": "นางสาวชัญษร สังข์วรรณะ",
+      "party": "ประชาธิปัตย์",
+      "votes": 756
+    },
+    {
+      "number": 2,
+      "name": "นายจาภัส พรมมา",
+      "party": "พลวัต",
+      "votes": 266
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/67. สุพรรณบุรี เขต 3.json",
+  "_validation": {
+    "vote_sum": 101452,
+    "good_votes": 101452,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "72",
+  "province_name_normalized": "สุพรรณบุรี",
+  "summary": {
+    "eligible_voters": 130523,
+    "voters_came": 106772,
+    "ballots_received": 134780,
+    "ballots_used": 103667,
+    "good_votes": 101452,
+    "invalid_votes": 3416,
+    "no_votes": 1904
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายณัฐชาติ วงศ์ประเสริฐ",
+      "party": "กล้าธรรม",
+      "votes": 47179,
+      "candidate_uuid": "219058d6-dc1c-4929-9a3a-ad2e3bbec664",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายนพดล มาตรศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 39798,
+      "candidate_uuid": "c03fe8df-9de4-4cbf-8181-a30633909aa2",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "พันตำรวจเอก มงคล สุนทรวิภาต",
+      "party": "ประชาชน",
+      "votes": 11979,
+      "candidate_uuid": "cf72f317-0016-4f74-bdcc-9d98a3e4b19c",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวกุลธิดา เหมาเพชรอนันเมฆ",
+      "party": "เพื่อไทย",
+      "votes": 1474,
+      "candidate_uuid": "2956349f-f802-49a2-886b-8a4d99a30bf9",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวชัญษร สังข์วรรณะ",
+      "party": "ประชาธิปัตย์",
+      "votes": 756,
+      "candidate_uuid": "81688e2d-943f-403d-a1d6-063f56242332",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายจาภัส พรมมา",
+      "party": "พลวัต",
+      "votes": 266,
+      "candidate_uuid": "7cb70a66-f595-4a5f-85cd-7d843af7c0fa",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

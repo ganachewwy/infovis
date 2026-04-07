@@ -1,0 +1,209 @@
+{
+  "province_name": "กาฬสินธุ์",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136385,
+    "1.2": 90104,
+    "2.1": 134800,
+    "2.2": 90104,
+    "2.3": 44696,
+    "3.1": 84580,
+    "3.2": 6,
+    "3.3": 5518,
+    "3.4": 90104,
+    "4.1": 85649,
+    "4.2": 2514,
+    "4.3": 1941
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายณัฐวัชต์ พิมพะนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 35782
+    },
+    {
+      "number": 8,
+      "name": "นางสาวประภา เฮงไพบูลย์",
+      "party": "พลังประชารัฐ",
+      "votes": 25187
+    },
+    {
+      "number": 2,
+      "name": "นายอภิยุทธ ณ กาฬสินธุ์",
+      "party": "ประชาชน",
+      "votes": 13431
+    },
+    {
+      "number": 3,
+      "name": "นายวิรัตน์ ภูต้องใจ",
+      "party": "ภูมิใจไทย",
+      "votes": 3939
+    },
+    {
+      "number": 9,
+      "name": "นายชนินทร์ คะอังกุ",
+      "party": "กล้าธรรม",
+      "votes": 3930
+    },
+    {
+      "number": 7,
+      "name": "นายทองพูล พลพุทธา",
+      "party": "เศรษฐกิจ",
+      "votes": 846
+    },
+    {
+      "number": 1,
+      "name": "นายสุระชัย ไชยทองศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 768
+    },
+    {
+      "number": 6,
+      "name": "นายวิศรุต พัฒนชัย",
+      "party": "ทางเลือกใหม่",
+      "votes": 633
+    },
+    {
+      "number": 11,
+      "name": "นางสาวธีรัตม์ ด้วยโชติ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 460
+    },
+    {
+      "number": 5,
+      "name": "นายชอบเรียน วงศ์ศิริ",
+      "party": "ประชาธิปัตย์",
+      "votes": 390
+    },
+    {
+      "number": 10,
+      "name": "นายชูถิ่น จำเริญเจือ",
+      "party": "ประชากรไทย",
+      "votes": 181
+    },
+    {
+      "number": 12,
+      "name": "นางสาววาสนา แสนบุญศิริ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 102
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/4. กาฬสินธุ์ เขต 4.json",
+  "_validation": {
+    "vote_sum": 85649,
+    "good_votes": 85649,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "46",
+  "province_name_normalized": "กาฬสินธุ์",
+  "summary": {
+    "eligible_voters": 136385,
+    "voters_came": 90104,
+    "ballots_received": 134800,
+    "ballots_used": 90104,
+    "good_votes": 85649,
+    "invalid_votes": 2514,
+    "no_votes": 1941
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายณัฐวัชต์ พิมพะนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 35782,
+      "candidate_uuid": "f642323b-75bf-4c63-940b-f44c0f52908d",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวประภา เฮงไพบูลย์",
+      "party": "พลังประชารัฐ",
+      "votes": 25187,
+      "candidate_uuid": "1534fb51-34d8-496e-a4b3-bad1a9f07178",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอภิยุทธ ณ กาฬสินธุ์",
+      "party": "ประชาชน",
+      "votes": 13431,
+      "candidate_uuid": "2689f9a4-c187-49eb-8610-90b452af60ba",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวิรัตน์ ภูต้องใจ",
+      "party": "ภูมิใจไทย",
+      "votes": 3939,
+      "candidate_uuid": "cc7ebf5d-635c-49fd-abd6-c7c188bd90d8",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายชนินทร์ คะอังกุ",
+      "party": "กล้าธรรม",
+      "votes": 3930,
+      "candidate_uuid": "0e099981-219c-4a9b-a987-b28cff6dd31a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายทองพูล พลพุทธา",
+      "party": "เศรษฐกิจ",
+      "votes": 846,
+      "candidate_uuid": "cc9f0489-7cc4-4ec6-8743-66a5ce2c8e54",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุระชัย ไชยทองศรี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 768,
+      "candidate_uuid": "0e4c7611-a3b9-4a6b-af5d-513aef2a2f80",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายวิศรุต พัฒนชัย",
+      "party": "ทางเลือกใหม่",
+      "votes": 633,
+      "candidate_uuid": "fd7c24a4-f826-460d-83ef-f5d5648928ee",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางสาวธีรัตม์ ด้วยโชติ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 460,
+      "candidate_uuid": "1b3906c8-bff6-4b1c-b86f-64b8f1f28f1b",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชอบเรียน วงศ์ศิริ",
+      "party": "ประชาธิปัตย์",
+      "votes": 390,
+      "candidate_uuid": "11cf91fc-2a17-4320-a209-484a479532aa",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายชูถิ่น จำเริญเจือ",
+      "party": "ประชากรไทย",
+      "votes": 181,
+      "candidate_uuid": "785824b6-2046-4fc4-94bb-0a9f82a80383",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นางสาววาสนา แสนบุญศิริ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 102,
+      "candidate_uuid": "01428c55-9762-4207-8076-b78af9f1ce2d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

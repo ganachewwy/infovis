@@ -1,0 +1,223 @@
+{
+  "province_name": "เชียงใหม่",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144891,
+    "1.2": 115490,
+    "2.1": 141118,
+    "2.2": 115490,
+    "2.3": 30628,
+    "3.1": 107954,
+    "3.2": 39,
+    "3.3": 70497,
+    "3.4": 115490,
+    "4.1": 105843,
+    "4.2": 2757,
+    "4.3": 6890
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นางสาวพุธิตา ชัยอนันต์",
+      "party": "ประชาชน",
+      "votes": 49641
+    },
+    {
+      "number": 4,
+      "name": "นายภานุ เจริญสุข",
+      "party": "เพื่อไทย",
+      "votes": 22208
+    },
+    {
+      "number": 8,
+      "name": "นายโสภณ โกชุม",
+      "party": "กล้าธรรม",
+      "votes": 16970
+    },
+    {
+      "number": 1,
+      "name": "นายศรัณญ์ ใจคำ",
+      "party": "ภูมิใจไทย",
+      "votes": 6728
+    },
+    {
+      "number": 7,
+      "name": "นายจิรวัฒน์ อริยคงพันธุ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3025
+    },
+    {
+      "number": 9,
+      "name": "นายธนกฤต การบูรณ์",
+      "party": "วิชชั่นใหม่",
+      "votes": 1914
+    },
+    {
+      "number": 2,
+      "name": "นางกิ่งกาญจน์ ณ เชียงใหม่",
+      "party": "ก้าวอิสระ",
+      "votes": 1434
+    },
+    {
+      "number": 3,
+      "name": "นายสุนทร ชัยศรีอ้าย",
+      "party": "เศรษฐกิจ",
+      "votes": 1355
+    },
+    {
+      "number": 10,
+      "name": "พันเอกศรัณย์ แสนพรหม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1143
+    },
+    {
+      "number": 12,
+      "name": "นายชาญชัย ชัยมงคล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 494
+    },
+    {
+      "number": 11,
+      "name": "นายบุญฤทธิ์ มูลเฟย",
+      "party": "ประชากรไทย",
+      "votes": 386
+    },
+    {
+      "number": 5,
+      "name": "นายประเสริฐ ทรงคำ",
+      "party": "พลังประชารัฐ",
+      "votes": 367
+    },
+    {
+      "number": 13,
+      "name": "นางภัทรพรรณ เหล่าสถิรวงค์",
+      "party": "ปวงชนไทย",
+      "votes": 178
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/14. เชียงใหม่ เขต 4.json",
+  "_validation": {
+    "vote_sum": 105843,
+    "good_votes": 105843,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "50",
+  "province_name_normalized": "เชียงใหม่",
+  "summary": {
+    "eligible_voters": 144891,
+    "voters_came": 115490,
+    "ballots_received": 141118,
+    "ballots_used": 115490,
+    "good_votes": 105843,
+    "invalid_votes": 2757,
+    "no_votes": 6890
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นางสาวพุธิตา ชัยอนันต์",
+      "party": "ประชาชน",
+      "votes": 49641,
+      "candidate_uuid": "39a583a6-3209-4b95-89c9-e12d61348cad",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายภานุ เจริญสุข",
+      "party": "เพื่อไทย",
+      "votes": 22208,
+      "candidate_uuid": "b2d753e4-f28c-456c-9028-6c3259d6fed2",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายโสภณ โกชุม",
+      "party": "กล้าธรรม",
+      "votes": 16970,
+      "candidate_uuid": "d7762091-fe85-4765-8810-549e92c236dc",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายศรัณญ์ ใจคำ",
+      "party": "ภูมิใจไทย",
+      "votes": 6728,
+      "candidate_uuid": "20e849eb-30f4-40fd-ba78-0656dd5178c1",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายจิรวัฒน์ อริยคงพันธุ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3025,
+      "candidate_uuid": "ae55f8e3-33f9-417b-b31b-ea17fabac13e",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายธนกฤต การบูรณ์",
+      "party": "วิชชั่นใหม่",
+      "votes": 1914,
+      "candidate_uuid": "e34dd48d-5f31-48df-a4ec-c2b3cc050ce7",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางกิ่งกาญจน์ ณ เชียงใหม่",
+      "party": "ก้าวอิสระ",
+      "votes": 1434,
+      "candidate_uuid": "fbb8f2da-ce61-488a-bbbc-90f101c32553",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสุนทร ชัยศรีอ้าย",
+      "party": "เศรษฐกิจ",
+      "votes": 1355,
+      "candidate_uuid": "d838c5db-47ff-4cf7-a600-b201a27cf535",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "พันเอกศรัณย์ แสนพรหม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1143,
+      "candidate_uuid": "4d515949-092b-4bfd-bd64-43da6bbf1eba",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายชาญชัย ชัยมงคล",
+      "party": "ไทยก้าวใหม่",
+      "votes": 494,
+      "candidate_uuid": "cdb88cbf-008b-4f3d-83e3-6b63f96c4454",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายบุญฤทธิ์ มูลเฟย",
+      "party": "ประชากรไทย",
+      "votes": 386,
+      "candidate_uuid": "8099e26e-694c-4c00-b798-49c3aa8d9cc5",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายประเสริฐ ทรงคำ",
+      "party": "พลังประชารัฐ",
+      "votes": 367,
+      "candidate_uuid": "19dab685-076f-41d8-90fc-3dc97fb406de",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นางภัทรพรรณ เหล่าสถิรวงค์",
+      "party": "ปวงชนไทย",
+      "votes": 178,
+      "candidate_uuid": "f6a01228-dd9a-4530-a748-6f2489732a94",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

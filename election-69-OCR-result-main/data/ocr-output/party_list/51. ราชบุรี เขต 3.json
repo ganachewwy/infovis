@@ -1,0 +1,312 @@
+{
+  "province_name": "ราชบุรี",
+  "constituency_number": 3,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 143882,
+    "1.2": 110523,
+    "2.1": 144726,
+    "2.2": 110523,
+    "2.3": 34203,
+    "3.1": 107717,
+    "3.2": 10,
+    "3.3": 2796,
+    "3.4": 110523,
+    "4.1": 98080,
+    "4.2": 6503,
+    "4.3": 5940
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 551
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 6666
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 784
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 417
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 1217
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3704
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 476
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 947
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 8062
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 769
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 3950
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 656
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 908
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 173
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 123
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 205
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 165
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 54
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 79
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 42
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 70
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 75
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 55
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 180
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 49
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 122
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 11362
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 254
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 835
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 193
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 428
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 155
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 191
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 153
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 205
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 208
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 13782
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 157
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 71
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 127
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 57
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 4724
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 497
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 71
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 97
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 32402
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 349
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 409
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 400
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 20
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 104
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 27
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 23
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 42
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 21
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 76
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 136
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/51. ราชบุรี เขต 3 (บช).pdf",
+  "_validation": {
+    "vote_sum": 98075,
+    "good_votes": 98080,
+    "sum_diff_pct": 0.01
+  }
+}

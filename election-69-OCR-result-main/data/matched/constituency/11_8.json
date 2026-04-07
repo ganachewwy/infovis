@@ -1,0 +1,181 @@
+{
+  "province_name": "สมุทรปราการ",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 150398,
+    "1.2": 111859,
+    "2.1": 153600,
+    "2.2": 111859,
+    "2.3": 41741,
+    "3.1": 108905,
+    "3.2": 13,
+    "3.3": 2941,
+    "3.4": 111859,
+    "4.1": 103041,
+    "4.2": 3435,
+    "4.3": 5383
+  },
+  "results": [
+    {
+      "number": 9,
+      "name": "นายเทพฤทธิ์ ภาษี",
+      "party": "ประชาชน",
+      "votes": 40230
+    },
+    {
+      "number": 7,
+      "name": "นางสลิลทิพย์ สุขวัฒน์",
+      "party": "เพื่อไทย",
+      "votes": 27991
+    },
+    {
+      "number": 3,
+      "name": "นายกรุงศรีวิไล สุทินเผือก",
+      "party": "กล้าธรรม",
+      "votes": 16768
+    },
+    {
+      "number": 8,
+      "name": "นายวิบูลย์ชัย ขาวทองบริสุทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 7684
+    },
+    {
+      "number": 10,
+      "name": "นายทนงศักดิ์ ปิ่นถาวร",
+      "party": "ประชาธิปัตย์",
+      "votes": 3068
+    },
+    {
+      "number": 5,
+      "name": "ร้อยตำรวจเอกชวลิต ทองเพียร",
+      "party": "เศรษฐกิจ",
+      "votes": 2464
+    },
+    {
+      "number": 6,
+      "name": "นางประนอม แซ่ลี้",
+      "party": "พลังประชารัฐ",
+      "votes": 2271
+    },
+    {
+      "number": 4,
+      "name": "นายพีรวิชย์ วงศ์วิชญะ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1118
+    },
+    {
+      "number": 1,
+      "name": "นายอภิศักดิ์ แก้วหาญ",
+      "party": "แรงงานสร้างไทย",
+      "votes": 765
+    },
+    {
+      "number": 2,
+      "name": "นายหัสวรรษ เผือกบางนา",
+      "party": "ปวงชนไทย",
+      "votes": 682
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/60. สมุทรปราการ เขต 8.json",
+  "_validation": {
+    "vote_sum": 103041,
+    "good_votes": 103041,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "11",
+  "province_name_normalized": "สมุทรปราการ",
+  "summary": {
+    "eligible_voters": 150398,
+    "voters_came": 111859,
+    "ballots_received": 153600,
+    "ballots_used": 111859,
+    "good_votes": 103041,
+    "invalid_votes": 3435,
+    "no_votes": 5383
+  },
+  "matched_candidates": [
+    {
+      "number": 9,
+      "name": "นายเทพฤทธิ์ ภาษี",
+      "party": "ประชาชน",
+      "votes": 40230,
+      "candidate_uuid": "2f782a14-deef-412a-84dd-9a37382f4373",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสลิลทิพย์ สุขวัฒน์",
+      "party": "เพื่อไทย",
+      "votes": 27991,
+      "candidate_uuid": "d8f01c57-5160-4e3c-8355-577c8331146e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกรุงศรีวิไล สุทินเผือก",
+      "party": "กล้าธรรม",
+      "votes": 16768,
+      "candidate_uuid": "f7a21700-3e47-423d-9780-baf8ca8465b5",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายวิบูลย์ชัย ขาวทองบริสุทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 7684,
+      "candidate_uuid": "9c17f116-d3ea-460e-876c-b8d6e325973d",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายทนงศักดิ์ ปิ่นถาวร",
+      "party": "ประชาธิปัตย์",
+      "votes": 3068,
+      "candidate_uuid": "b3404cc8-db97-46ea-a33d-7e4e67b67d90",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "ร้อยตำรวจเอกชวลิต ทองเพียร",
+      "party": "เศรษฐกิจ",
+      "votes": 2464,
+      "candidate_uuid": "bcdaf4ce-a533-45cc-83c3-7cb0580bfdac",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางประนอม แซ่ลี้",
+      "party": "พลังประชารัฐ",
+      "votes": 2271,
+      "candidate_uuid": "efaeb71b-592a-44b0-a34d-b8df594b9a8b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายพีรวิชย์ วงศ์วิชญะ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1118,
+      "candidate_uuid": "85db3ba2-f6ca-4446-96c8-060ba54780a1",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอภิศักดิ์ แก้วหาญ",
+      "party": "แรงงานสร้างไทย",
+      "votes": 765,
+      "candidate_uuid": "135dda82-2840-48ce-b1e3-5631b46a58ac",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายหัสวรรษ เผือกบางนา",
+      "party": "ปวงชนไทย",
+      "votes": 682,
+      "candidate_uuid": "dbe2afa1-daf0-4ce1-8269-f09ccf5c8c35",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

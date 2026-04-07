@@ -1,0 +1,125 @@
+{
+  "province_name": "ชัยนาท",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130196,
+    "1.2": 95079,
+    "2.1": 128460,
+    "2.2": 95079,
+    "2.3": 33381,
+    "3.1": 90831,
+    "3.2": 0,
+    "3.3": 4248,
+    "3.4": 95079,
+    "4.1": 84484,
+    "4.2": 4951,
+    "4.3": 5644
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายมณเฑียร สงฆ์ประชา",
+      "party": "ภูมิใจไทย",
+      "votes": 54585
+    },
+    {
+      "number": 2,
+      "name": "นายสราวุธ งามสุขศรี",
+      "party": "ประชาชน",
+      "votes": 16933
+    },
+    {
+      "number": 4,
+      "name": "นายวิฑูร ลี้ธีระนานนท์",
+      "party": "เพื่อไทย",
+      "votes": 8937
+    },
+    {
+      "number": 3,
+      "name": "นายธงชัย จอยซู",
+      "party": "ประชาธิปัตย์",
+      "votes": 2819
+    },
+    {
+      "number": 6,
+      "name": "นายปัญญา ไทยรัตนกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 747
+    },
+    {
+      "number": 5,
+      "name": "นายสุทิน แจงสิน",
+      "party": "กลาธรรม",
+      "votes": 463
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/10. ชัยนาท เขต 2.json",
+  "_validation": {
+    "vote_sum": 84484,
+    "good_votes": 84484,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "18",
+  "province_name_normalized": "ชัยนาท",
+  "summary": {
+    "eligible_voters": 130196,
+    "voters_came": 95079,
+    "ballots_received": 128460,
+    "ballots_used": 95079,
+    "good_votes": 84484,
+    "invalid_votes": 4951,
+    "no_votes": 5644
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายมณเฑียร สงฆ์ประชา",
+      "party": "ภูมิใจไทย",
+      "votes": 54585,
+      "candidate_uuid": "95ea2fc9-ce2d-47fa-9430-7e78c607dc85",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสราวุธ งามสุขศรี",
+      "party": "ประชาชน",
+      "votes": 16933,
+      "candidate_uuid": "33372de7-36b1-4943-92f7-05beb5f32f0d",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิฑูร ลี้ธีระนานนท์",
+      "party": "เพื่อไทย",
+      "votes": 8937,
+      "candidate_uuid": "def278a2-75f4-46fd-9005-d0a6f1512f61",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธงชัย จอยซู",
+      "party": "ประชาธิปัตย์",
+      "votes": 2819,
+      "candidate_uuid": "a4b6870b-b755-4d66-8577-ec7ca0f95241",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปัญญา ไทยรัตนกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 747,
+      "candidate_uuid": "0c537d56-9046-49e9-aca4-dd4fa6e6bc1e",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสุทิน แจงสิน",
+      "party": "กลาธรรม",
+      "votes": 463,
+      "candidate_uuid": "0c68e328-1237-4a2b-8eec-785bdd3ac27c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

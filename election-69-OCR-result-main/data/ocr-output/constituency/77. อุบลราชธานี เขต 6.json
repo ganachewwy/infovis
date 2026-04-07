@@ -1,0 +1,63 @@
+{
+  "province_name": "อุบลราชธานี",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132010,
+    "1.2": 83930,
+    "2.1": 130700,
+    "2.2": 83930,
+    "2.3": 46770,
+    "3.1": 78309,
+    "3.2": 5,
+    "3.3": 5616,
+    "3.4": 83930,
+    "4.1": 78144,
+    "4.2": 4115,
+    "4.3": 1671
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวธัญธารีย์ สันตพันธุ์",
+      "party": "เพื่อไทย",
+      "votes": 33345
+    },
+    {
+      "number": 2,
+      "name": "นายกิตติกร เชิดชู",
+      "party": "ไทรวมพลัง",
+      "votes": 31887
+    },
+    {
+      "number": 5,
+      "name": "นายศิระ พันธ์ทอง",
+      "party": "ประชาชน",
+      "votes": 9341
+    },
+    {
+      "number": 3,
+      "name": "นางสาวอุบลกาญจน์ อมรสิน",
+      "party": "ภูมิใจไทย",
+      "votes": 2663
+    },
+    {
+      "number": 6,
+      "name": "นายฐาปนัฐ แสงสุกวาว",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 471
+    },
+    {
+      "number": 4,
+      "name": "นายชาญ การเพียร",
+      "party": "ประชาธิปัตย์",
+      "votes": 437
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/77. อุบลราชธานี เขต 6.pdf",
+  "_validation": {
+    "vote_sum": 78144,
+    "good_votes": 78144,
+    "sum_diff_pct": 0.0
+  }
+}

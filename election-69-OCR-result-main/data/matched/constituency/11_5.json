@@ -1,0 +1,195 @@
+{
+  "province_name": "สมุทรปราการ",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 158312,
+    "1.2": 111240,
+    "2.1": 156400,
+    "2.2": 111240,
+    "2.3": 45160,
+    "3.1": 107467,
+    "3.2": 0,
+    "3.3": 3773,
+    "3.4": 111240,
+    "4.1": 100245,
+    "4.2": 2869,
+    "4.3": 8126
+  },
+  "results": [
+    {
+      "number": 11,
+      "name": "นางสาวนิตยา มีศรี",
+      "party": "ประชาชน",
+      "votes": 57198
+    },
+    {
+      "number": 4,
+      "name": "นางยุคลฉัตร หลำวรรณะ",
+      "party": "ภูมิใจไทย",
+      "votes": 15146
+    },
+    {
+      "number": 9,
+      "name": "นายปิยะพงศ์ เหมะ",
+      "party": "เพื่อไทย",
+      "votes": 12323
+    },
+    {
+      "number": 10,
+      "name": "นายธวัชชัย ทรงพัฒนาศิลป์",
+      "party": "ประชาธิปัตย์",
+      "votes": 4717
+    },
+    {
+      "number": 3,
+      "name": "นางสาวธนภรณ์ บุญประเสริฐ",
+      "party": "พลังประชารัฐ",
+      "votes": 2410
+    },
+    {
+      "number": 1,
+      "name": "นายวาสนา แต้มพูดชา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2237
+    },
+    {
+      "number": 7,
+      "name": "นายชวกร อุบลรัตน์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1789
+    },
+    {
+      "number": 5,
+      "name": "นายมาโนช นุชนา",
+      "party": "เสรีรวมไทย",
+      "votes": 1342
+    },
+    {
+      "number": 8,
+      "name": "นางสาวรังรอง เข็มทอง",
+      "party": "โอกาสใหม่",
+      "votes": 1306
+    },
+    {
+      "number": 6,
+      "name": "นายสงกรานต์ แสงสุข",
+      "party": "ปวงชนไทย",
+      "votes": 981
+    },
+    {
+      "number": 2,
+      "name": "นายชัยณรงค์ ชยานุคุณลิขิต",
+      "party": "กล้าธรรม",
+      "votes": 796
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/60. สมุทรปราการ เขต 5.json",
+  "_validation": {
+    "vote_sum": 100245,
+    "good_votes": 100245,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "11",
+  "province_name_normalized": "สมุทรปราการ",
+  "summary": {
+    "eligible_voters": 158312,
+    "voters_came": 111240,
+    "ballots_received": 156400,
+    "ballots_used": 111240,
+    "good_votes": 100245,
+    "invalid_votes": 2869,
+    "no_votes": 8126
+  },
+  "matched_candidates": [
+    {
+      "number": 11,
+      "name": "นางสาวนิตยา มีศรี",
+      "party": "ประชาชน",
+      "votes": 57198,
+      "candidate_uuid": "ea908125-90dd-4d83-a14a-72ecb20afcc8",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางยุคลฉัตร หลำวรรณะ",
+      "party": "ภูมิใจไทย",
+      "votes": 15146,
+      "candidate_uuid": "aed29d34-5b3a-41de-ac2a-a66fe534540c",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายปิยะพงศ์ เหมะ",
+      "party": "เพื่อไทย",
+      "votes": 12323,
+      "candidate_uuid": "7afbbadb-0095-4c65-8fa2-29dc7547a047",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายธวัชชัย ทรงพัฒนาศิลป์",
+      "party": "ประชาธิปัตย์",
+      "votes": 4717,
+      "candidate_uuid": "95c7bd61-332d-4bfe-ac20-43cd64d22115",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวธนภรณ์ บุญประเสริฐ",
+      "party": "พลังประชารัฐ",
+      "votes": 2410,
+      "candidate_uuid": "120c7399-d46f-473c-afa8-c8ce3b864f70",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวาสนา แต้มพูดชา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2237,
+      "candidate_uuid": "0beb54d0-0124-43c1-aa3d-f1fa76e67cd3",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายชวกร อุบลรัตน์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1789,
+      "candidate_uuid": "31d6be9b-b684-41d7-9548-078c27dc6da1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายมาโนช นุชนา",
+      "party": "เสรีรวมไทย",
+      "votes": 1342,
+      "candidate_uuid": "522feddd-64f8-4c34-b4dd-ac03e2812262",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวรังรอง เข็มทอง",
+      "party": "โอกาสใหม่",
+      "votes": 1306,
+      "candidate_uuid": "de540f0b-b276-49a0-abb1-c2103af11ab3",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสงกรานต์ แสงสุข",
+      "party": "ปวงชนไทย",
+      "votes": 981,
+      "candidate_uuid": "ed030d53-89d4-4e85-9631-cf9076452104",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายชัยณรงค์ ชยานุคุณลิขิต",
+      "party": "กล้าธรรม",
+      "votes": 796,
+      "candidate_uuid": "03f73a29-b69c-41a5-9e85-fbcea05a866e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,69 @@
+{
+  "province_name": "หนองคาย",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136455,
+    "1.2": 85701,
+    "2.1": 133780,
+    "2.2": 85701,
+    "2.3": 48079,
+    "3.1": 79811,
+    "3.2": 3,
+    "3.3": 5887,
+    "3.4": 85701,
+    "4.1": 81218,
+    "4.2": 3298,
+    "4.3": 1185
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายยุทธนา ศรีตะบุตร",
+      "party": "พลังประชารัฐ",
+      "votes": 30322
+    },
+    {
+      "number": 2,
+      "name": "นางจิดาภา สุนทรธนากุล",
+      "party": "ภูมิใจไทย",
+      "votes": 26423
+    },
+    {
+      "number": 1,
+      "name": "นางสาวชนก จันทาทอง",
+      "party": "เพื่อไทย",
+      "votes": 13883
+    },
+    {
+      "number": 5,
+      "name": "นางสาวทศพร จันทร์ศรี",
+      "party": "ประชาชน",
+      "votes": 9782
+    },
+    {
+      "number": 4,
+      "name": "นายธงชัย กึ่งมาตย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 397
+    },
+    {
+      "number": 7,
+      "name": "นายจักรภัทร สายไธสง",
+      "party": "ประชากรไทย",
+      "votes": 217
+    },
+    {
+      "number": 6,
+      "name": "นางราตรี กาลจักร์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 194
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/70. หนองคาย เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 81218,
+    "good_votes": 81218,
+    "sum_diff_pct": 0.0
+  }
+}

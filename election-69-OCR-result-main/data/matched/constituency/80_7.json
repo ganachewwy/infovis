@@ -1,0 +1,139 @@
+{
+  "province_name": "นครศรีธรรมราช",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136273,
+    "1.2": 99078,
+    "2.1": 139835,
+    "2.2": 99078,
+    "2.3": 40757,
+    "3.1": 93303,
+    "3.2": 6,
+    "3.3": 5769,
+    "3.4": 99078,
+    "4.1": 82744,
+    "4.2": 5096,
+    "4.3": 11238
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายอภินันท์ สโมสร",
+      "party": "ภูมิใจไทย",
+      "votes": 38684
+    },
+    {
+      "number": 1,
+      "name": "นายนิติศักดิ์ มีขวด",
+      "party": "ประชาธิปัตย์",
+      "votes": 28913
+    },
+    {
+      "number": 5,
+      "name": "นางสาวฮาวา นุ้ยเจริญ",
+      "party": "ประชาชน",
+      "votes": 8965
+    },
+    {
+      "number": 4,
+      "name": "นายไสว เลื่องสีนิล",
+      "party": "โอกาสใหม่",
+      "votes": 3065
+    },
+    {
+      "number": 6,
+      "name": "นายปรีชานนท์ สรรพจิตต์",
+      "party": "เพื่อไทย",
+      "votes": 1508
+    },
+    {
+      "number": 2,
+      "name": "นายธีวฤทธิ์ ธนากรรฐ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1011
+    },
+    {
+      "number": 8,
+      "name": "นายพลวรรฒน์ ธรรมโสภณ",
+      "party": "เศรษฐกิจ",
+      "votes": 598
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/22. นครศรีธรรมราช เขต 7.json",
+  "_validation": {
+    "vote_sum": 82744,
+    "good_votes": 82744,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "80",
+  "province_name_normalized": "นครศรีธรรมราช",
+  "summary": {
+    "eligible_voters": 136273,
+    "voters_came": 99078,
+    "ballots_received": 139835,
+    "ballots_used": 99078,
+    "good_votes": 82744,
+    "invalid_votes": 5096,
+    "no_votes": 11238
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นายอภินันท์ สโมสร",
+      "party": "ภูมิใจไทย",
+      "votes": 38684,
+      "candidate_uuid": "a8807d0f-8b78-47b9-8eee-d6c1c865bfe9",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายนิติศักดิ์ มีขวด",
+      "party": "ประชาธิปัตย์",
+      "votes": 28913,
+      "candidate_uuid": "d16361dc-a6e2-4ab1-872c-040078f6db2b",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวฮาวา นุ้ยเจริญ",
+      "party": "ประชาชน",
+      "votes": 8965,
+      "candidate_uuid": "886f77cb-f8da-4e05-a469-4095fb009867",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายไสว เลื่องสีนิล",
+      "party": "โอกาสใหม่",
+      "votes": 3065,
+      "candidate_uuid": "51b8173c-6f3a-46ea-b52d-c29f157708c6",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปรีชานนท์ สรรพจิตต์",
+      "party": "เพื่อไทย",
+      "votes": 1508,
+      "candidate_uuid": "a521c0b8-bd38-4e46-a52c-3aa3abc8c009",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธีวฤทธิ์ ธนากรรฐ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1011,
+      "candidate_uuid": "c8c80587-1c03-429c-a584-2ba83dd75c88",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายพลวรรฒน์ ธรรมโสภณ",
+      "party": "เศรษฐกิจ",
+      "votes": 598,
+      "candidate_uuid": "9fefccab-feb1-4529-94b6-e621c8984cd5",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "เลย",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 123919,
+    "1.2": 85019,
+    "2.1": 129423,
+    "2.2": 85019,
+    "2.3": 44404,
+    "3.1": 80836,
+    "3.2": 0,
+    "3.3": 4183,
+    "3.4": 85019,
+    "4.1": 74118,
+    "4.2": 6443,
+    "4.3": 4458
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายสมเจตน์ แสงเจริญรัตน์",
+      "party": "เพื่อไทย",
+      "votes": 30145
+    },
+    {
+      "number": 1,
+      "name": "นางสาวศวิตา สำลีพันธุ์",
+      "party": "ประชาชน",
+      "votes": 20152
+    },
+    {
+      "number": 6,
+      "name": "นายบรรพต ยาฟอง",
+      "party": "พลังประชารัฐ",
+      "votes": 7328
+    },
+    {
+      "number": 3,
+      "name": "นางสาวณัฐวรีย์ ทรัพย์มณีโภคิน",
+      "party": "ประชาธิปัตย์",
+      "votes": 3953
+    },
+    {
+      "number": 2,
+      "name": "นายวันชัย บุษบา",
+      "party": "โอกาสใหม่",
+      "votes": 3624
+    },
+    {
+      "number": 7,
+      "name": "นางนิศากร ไชยคุณ",
+      "party": "ภูมิใจไทย",
+      "votes": 3437
+    },
+    {
+      "number": 5,
+      "name": "นายราเชนท์ กงสิมมา",
+      "party": "กล้าธรรม",
+      "votes": 3414
+    },
+    {
+      "number": 8,
+      "name": "นายแสงเดือน ศรีบุรินทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 2065
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/55. เลย เขต 4.json",
+  "_validation": {
+    "vote_sum": 74118,
+    "good_votes": 74118,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "42",
+  "province_name_normalized": "เลย",
+  "summary": {
+    "eligible_voters": 123919,
+    "voters_came": 85019,
+    "ballots_received": 129423,
+    "ballots_used": 85019,
+    "good_votes": 74118,
+    "invalid_votes": 6443,
+    "no_votes": 4458
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายสมเจตน์ แสงเจริญรัตน์",
+      "party": "เพื่อไทย",
+      "votes": 30145,
+      "candidate_uuid": "a69c2583-2d0d-4499-b5a8-0652c0768650",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวศวิตา สำลีพันธุ์",
+      "party": "ประชาชน",
+      "votes": 20152,
+      "candidate_uuid": "76e9d2b9-ff8b-4c41-a415-92e58306de76",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายบรรพต ยาฟอง",
+      "party": "พลังประชารัฐ",
+      "votes": 7328,
+      "candidate_uuid": "b82ec9ed-05e6-473e-96e3-227866f29db9",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวณัฐวรีย์ ทรัพย์มณีโภคิน",
+      "party": "ประชาธิปัตย์",
+      "votes": 3953,
+      "candidate_uuid": "b79f18d5-2285-4a6a-9c64-048403c78f3a",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวันชัย บุษบา",
+      "party": "โอกาสใหม่",
+      "votes": 3624,
+      "candidate_uuid": "8c73bdee-359d-4961-8f15-d5a927f6d800",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางนิศากร ไชยคุณ",
+      "party": "ภูมิใจไทย",
+      "votes": 3437,
+      "candidate_uuid": "6532a85d-18a7-4305-949e-2874e7b42ee2",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายราเชนท์ กงสิมมา",
+      "party": "กล้าธรรม",
+      "votes": 3414,
+      "candidate_uuid": "4ece2422-9e3a-4c43-a64a-0da27ae1cbcd",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายแสงเดือน ศรีบุรินทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 2065,
+      "candidate_uuid": "93c064fc-ae41-4f17-bda9-cf6a6868be27",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

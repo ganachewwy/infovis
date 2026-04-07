@@ -1,0 +1,181 @@
+{
+  "province_name": "ขอนแก่น",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128250,
+    "1.2": 91147,
+    "2.1": 123800,
+    "2.2": 91147,
+    "2.3": 32653,
+    "3.1": 84035,
+    "3.2": 23,
+    "3.3": 7089,
+    "3.4": 91147,
+    "4.1": 83007,
+    "4.2": 2621,
+    "4.3": 5519
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายวีรนันท์ ฮวดศรี",
+      "party": "ประชาชน",
+      "votes": 35303
+    },
+    {
+      "number": 4,
+      "name": "นายวิทิต ทองโสภิต",
+      "party": "ภูมิใจไทย",
+      "votes": 23307
+    },
+    {
+      "number": 7,
+      "name": "นายณณฑ์พัชธี กันตวธีระณัต",
+      "party": "เพื่อไทย",
+      "votes": 15596
+    },
+    {
+      "number": 8,
+      "name": "นายธรรมรัตน์ จันท่าจีน",
+      "party": "ประชาธิปัตย์",
+      "votes": 2719
+    },
+    {
+      "number": 6,
+      "name": "นางสาวศุภิกา ศุภรมย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1887
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่พันตรีสุดใจ จันทะบุรม",
+      "party": "เศรษฐกิจ",
+      "votes": 1534
+    },
+    {
+      "number": 9,
+      "name": "พันตำรวจเอกอิทธิกร อุ่นประกอ",
+      "party": "พลังประชารัฐ",
+      "votes": 1366
+    },
+    {
+      "number": 1,
+      "name": "นายเนติธร ช่วยหาร",
+      "party": "ไทยภักดี",
+      "votes": 557
+    },
+    {
+      "number": 5,
+      "name": "นางสาวโชติกา สอนโว",
+      "party": "ไทยก้าวใหม่",
+      "votes": 540
+    },
+    {
+      "number": 10,
+      "name": "นายนรเศรษฐ์ ศรีเงิน",
+      "party": "ประชากรไทย",
+      "votes": 198
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/6. ขอนแก่น เขต 1.json",
+  "_validation": {
+    "vote_sum": 83007,
+    "good_votes": 83007,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "40",
+  "province_name_normalized": "ขอนแก่น",
+  "summary": {
+    "eligible_voters": 128250,
+    "voters_came": 91147,
+    "ballots_received": 123800,
+    "ballots_used": 91147,
+    "good_votes": 83007,
+    "invalid_votes": 2621,
+    "no_votes": 5519
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายวีรนันท์ ฮวดศรี",
+      "party": "ประชาชน",
+      "votes": 35303,
+      "candidate_uuid": "690ca30f-4d38-4af1-b099-d910c612c8fe",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิทิต ทองโสภิต",
+      "party": "ภูมิใจไทย",
+      "votes": 23307,
+      "candidate_uuid": "03c40249-7c3a-4118-8e9b-151f35e4ac61",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายณณฑ์พัชธี กันตวธีระณัต",
+      "party": "เพื่อไทย",
+      "votes": 15596,
+      "candidate_uuid": "dd7d8302-d04a-4b49-8a07-cc0342abdfcb",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธรรมรัตน์ จันท่าจีน",
+      "party": "ประชาธิปัตย์",
+      "votes": 2719,
+      "candidate_uuid": "e4f09a05-70d6-4510-8bdb-2397c9e8f1b0",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวศุภิกา ศุภรมย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1887,
+      "candidate_uuid": "5d19186e-aba0-4691-9198-b3fb8839bd4e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "ว่าที่พันตรีสุดใจ จันทะบุรม",
+      "party": "เศรษฐกิจ",
+      "votes": 1534,
+      "candidate_uuid": "a867cf04-e7c4-46ea-a89f-54fa116b5a81",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "พันตำรวจเอกอิทธิกร อุ่นประกอ",
+      "party": "พลังประชารัฐ",
+      "votes": 1366,
+      "candidate_uuid": "8e9b1e69-e668-486b-bb33-6785f8c932b3",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเนติธร ช่วยหาร",
+      "party": "ไทยภักดี",
+      "votes": 557,
+      "candidate_uuid": "e7fdfa8c-bb6d-4095-ade2-f91147c9cb32",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวโชติกา สอนโว",
+      "party": "ไทยก้าวใหม่",
+      "votes": 540,
+      "candidate_uuid": "2f08c737-2066-426e-a68d-9404984e4ffa",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายนรเศรษฐ์ ศรีเงิน",
+      "party": "ประชากรไทย",
+      "votes": 198,
+      "candidate_uuid": "a52298f7-fce4-4bee-864d-b9a90a2dce6f",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,312 @@
+{
+  "province_name": "ขอนแก่น",
+  "constituency_number": 8,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 139634,
+    "1.2": 96586,
+    "2.1": 139120,
+    "2.2": 96586,
+    "2.3": 42534,
+    "3.1": 91479,
+    "3.2": 2,
+    "3.3": 5105,
+    "3.4": 96586,
+    "4.1": 89655,
+    "4.2": 4641,
+    "4.3": 2290
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 599
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 1478
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 3105
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 361
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 526
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3318
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 145
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 366
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 25603
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 366
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 3562
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 666
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 686
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 83
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 108
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 318
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 104
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 20
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตย",
+      "votes": 40
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 21
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 72
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 48
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 42
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 330
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 28
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 74
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 1996
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 198
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 420
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 146
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 130
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 252
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 135
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 129
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 197
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 119
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 7747
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 399
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 54
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 93
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 69
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 7671
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 358
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 99
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 98
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 25145
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 160
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 1407
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 296
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 6
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 68
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 25
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 29
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 18
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 45
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 60
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/6. ขอนแก่น เขต 8 (บช).pdf",
+  "_validation": {
+    "vote_sum": 89655,
+    "good_votes": 89655,
+    "sum_diff_pct": 0.0
+  }
+}

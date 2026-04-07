@@ -1,0 +1,181 @@
+{
+  "province_name": "นครพนม",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 143097,
+    "1.2": 94215,
+    "2.1": 143606,
+    "2.2": 94215,
+    "2.3": 49391,
+    "3.1": 87684,
+    "3.2": 65,
+    "3.3": 6466,
+    "3.4": 94215,
+    "4.1": 85967,
+    "4.2": 4001,
+    "4.3": 4247
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นางมนพร เจริญศรี",
+      "party": "เพื่อไทย",
+      "votes": 51176
+    },
+    {
+      "number": 1,
+      "name": "นายพิศาล บุพศิริ",
+      "party": "ประชาชน",
+      "votes": 16967
+    },
+    {
+      "number": 2,
+      "name": "นายณพจน์ศกร ทรัพยสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 10077
+    },
+    {
+      "number": 9,
+      "name": "นายสมพงษ์ มณีรัตน์",
+      "party": "ปวงชนไทย",
+      "votes": 3679
+    },
+    {
+      "number": 10,
+      "name": "นายกิติศักดิ์ จำปา",
+      "party": "ทางเลือกใหม่",
+      "votes": 949
+    },
+    {
+      "number": 5,
+      "name": "นายประยงค์ สดมั้ย",
+      "party": "เศรษฐกิจ",
+      "votes": 948
+    },
+    {
+      "number": 4,
+      "name": "นายธนชาต ธนโชติพิพิธ",
+      "party": "กล้าธรรม",
+      "votes": 780
+    },
+    {
+      "number": 6,
+      "name": "นางสาวจารุนันท์ วรรณวงค์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 708
+    },
+    {
+      "number": 7,
+      "name": "นายอินหวา ระมงคล",
+      "party": "ประชาธิปัตย์",
+      "votes": 514
+    },
+    {
+      "number": 8,
+      "name": "นายสุริน ไตริน",
+      "party": "ไทยพร้อม",
+      "votes": 169
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/20. นครพนม เขต 2.json",
+  "_validation": {
+    "vote_sum": 85967,
+    "good_votes": 85967,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "48",
+  "province_name_normalized": "นครพนม",
+  "summary": {
+    "eligible_voters": 143097,
+    "voters_came": 94215,
+    "ballots_received": 143606,
+    "ballots_used": 94215,
+    "good_votes": 85967,
+    "invalid_votes": 4001,
+    "no_votes": 4247
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นางมนพร เจริญศรี",
+      "party": "เพื่อไทย",
+      "votes": 51176,
+      "candidate_uuid": "60e7a9e0-3854-416e-81ff-a13defe77ab6",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพิศาล บุพศิริ",
+      "party": "ประชาชน",
+      "votes": 16967,
+      "candidate_uuid": "4a3f6acb-9223-4e71-8fc4-15faf6e69fb8",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายณพจน์ศกร ทรัพยสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 10077,
+      "candidate_uuid": "e85eedc7-145a-45f4-87df-6afa48f04d92",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสมพงษ์ มณีรัตน์",
+      "party": "ปวงชนไทย",
+      "votes": 3679,
+      "candidate_uuid": "03029970-4943-4e22-987a-011585f7130a",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายกิติศักดิ์ จำปา",
+      "party": "ทางเลือกใหม่",
+      "votes": 949,
+      "candidate_uuid": "6a09a076-13ef-438b-b7c8-4b025bc8817f",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายประยงค์ สดมั้ย",
+      "party": "เศรษฐกิจ",
+      "votes": 948,
+      "candidate_uuid": "c6c4f980-8026-479c-aabb-f9f6f47e23c7",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายธนชาต ธนโชติพิพิธ",
+      "party": "กล้าธรรม",
+      "votes": 780,
+      "candidate_uuid": "594b8b6c-2e4f-4bb9-b23f-e861ec805c07",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวจารุนันท์ วรรณวงค์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 708,
+      "candidate_uuid": "ef6148cf-56f6-4b9d-be3a-293bfae5355d",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอินหวา ระมงคล",
+      "party": "ประชาธิปัตย์",
+      "votes": 514,
+      "candidate_uuid": "c7d24206-188d-45ed-9514-86071b9b2077",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุริน ไตริน",
+      "party": "ไทยพร้อม",
+      "votes": 169,
+      "candidate_uuid": "42354324-796f-4b55-8045-9c7c039ac3f7",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

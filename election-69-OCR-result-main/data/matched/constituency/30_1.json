@@ -1,0 +1,223 @@
+{
+  "province_name": "นครราชสีมา",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128270,
+    "1.2": 90557,
+    "2.1": 131461,
+    "2.2": 90557,
+    "2.3": 40904,
+    "3.1": 82896,
+    "3.2": 0,
+    "3.3": 7661,
+    "3.4": 90557,
+    "4.1": 80985,
+    "4.2": 2325,
+    "4.3": 7247
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายสาคร ลักษณะสุข",
+      "party": "รวมใจไทย",
+      "votes": 358
+    },
+    {
+      "number": 2,
+      "name": "นายก้องเกียรติ วงศ์นิยม",
+      "party": "ภูมิใจไทย",
+      "votes": 14417
+    },
+    {
+      "number": 3,
+      "name": "นายธนทรัพย์ อำพันธ์ทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 3168
+    },
+    {
+      "number": 4,
+      "name": "นายวิวรรธน์ วงศ์สิทธิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1672
+    },
+    {
+      "number": 5,
+      "name": "นายสกุลชัย สุภิมารส",
+      "party": "กล้าธรรม",
+      "votes": 552
+    },
+    {
+      "number": 6,
+      "name": "นางสาววาสนา สระทองหลาง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1294
+    },
+    {
+      "number": 7,
+      "name": "นายฉัตร สุภัทรวณิชย์",
+      "party": "ประชาชน",
+      "votes": 32534
+    },
+    {
+      "number": 8,
+      "name": "นายพิชิต เคหะสุวรรณ์",
+      "party": "พลังประชารัฐ",
+      "votes": 757
+    },
+    {
+      "number": 9,
+      "name": "นายบัญญัติ ทุมมี",
+      "party": "โอกาสใหม่",
+      "votes": 517
+    },
+    {
+      "number": 10,
+      "name": "นายอนันท์ อาบสุวรรณ",
+      "party": "รวมไทยสร้างชา",
+      "votes": 1838
+    },
+    {
+      "number": 11,
+      "name": "นายประเสริฐ บุญชัยสุข",
+      "party": "เพื่อไทย",
+      "votes": 23435
+    },
+    {
+      "number": 12,
+      "name": "นายกรกฤชอรรถ ภูกิตติวรโชติ",
+      "party": "ปวงชนไทย",
+      "votes": 252
+    },
+    {
+      "number": 13,
+      "name": "นายเสรี ใจอุ่น",
+      "party": "รักษ์ธรรม",
+      "votes": 191
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/21. นครราชสีมา เขต 1.json",
+  "_validation": {
+    "vote_sum": 80985,
+    "good_votes": 80985,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "30",
+  "province_name_normalized": "นครราชสีมา",
+  "summary": {
+    "eligible_voters": 128270,
+    "voters_came": 90557,
+    "ballots_received": 131461,
+    "ballots_used": 90557,
+    "good_votes": 80985,
+    "invalid_votes": 2325,
+    "no_votes": 7247
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายสาคร ลักษณะสุข",
+      "party": "รวมใจไทย",
+      "votes": 358,
+      "candidate_uuid": "6e0f812c-48c8-4201-99fe-4e9497d5814e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายก้องเกียรติ วงศ์นิยม",
+      "party": "ภูมิใจไทย",
+      "votes": 14417,
+      "candidate_uuid": "3cd5eb81-111e-4a66-a27f-3b48a0795551",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธนทรัพย์ อำพันธ์ทอง",
+      "party": "เศรษฐกิจ",
+      "votes": 3168,
+      "candidate_uuid": "7369056d-a395-443a-82e5-bbc6d837e808",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิวรรธน์ วงศ์สิทธิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1672,
+      "candidate_uuid": "56ba16e5-6377-4e0a-b34a-48d1fd7101e6",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสกุลชัย สุภิมารส",
+      "party": "กล้าธรรม",
+      "votes": 552,
+      "candidate_uuid": "961ebdc7-e2c0-48b2-8acf-171f90070133",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาววาสนา สระทองหลาง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1294,
+      "candidate_uuid": "576947e6-bcd2-43a4-a545-9adba6d0711f",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายฉัตร สุภัทรวณิชย์",
+      "party": "ประชาชน",
+      "votes": 32534,
+      "candidate_uuid": "b0f13e2c-9054-45b8-8dd2-85b106a2e237",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายพิชิต เคหะสุวรรณ์",
+      "party": "พลังประชารัฐ",
+      "votes": 757,
+      "candidate_uuid": "c73658b1-013e-47f0-ad0f-95e69afb90c9",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายบัญญัติ ทุมมี",
+      "party": "โอกาสใหม่",
+      "votes": 517,
+      "candidate_uuid": "db5020a0-5869-4553-9c70-3237dbaeb185",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายอนันท์ อาบสุวรรณ",
+      "party": "รวมไทยสร้างชา",
+      "votes": 1838,
+      "candidate_uuid": "82ee3083-9083-40ce-96bd-d01e4384a573",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายประเสริฐ บุญชัยสุข",
+      "party": "เพื่อไทย",
+      "votes": 23435,
+      "candidate_uuid": "74fef3b4-01c0-4906-8113-9ffa29426d90",
+      "is_active": true
+    },
+    {
+      "number": 12,
+      "name": "นายกรกฤชอรรถ ภูกิตติวรโชติ",
+      "party": "ปวงชนไทย",
+      "votes": 252,
+      "candidate_uuid": "b1a6a033-20ae-4215-a918-986787adf819",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายเสรี ใจอุ่น",
+      "party": "รักษ์ธรรม",
+      "votes": 191,
+      "candidate_uuid": "d3b1925c-bcab-4968-b1d8-bea8b900ffaf",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

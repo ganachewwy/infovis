@@ -1,0 +1,167 @@
+{
+  "province_name": "ปทุมธานี",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132041,
+    "1.2": 98894,
+    "2.1": 166091,
+    "2.2": 98894,
+    "2.3": 67197,
+    "3.1": 95114,
+    "3.2": 11,
+    "3.3": 3769,
+    "3.4": 98894,
+    "4.1": 90836,
+    "4.2": 2539,
+    "4.3": 5519
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายสกล สุนทรวาณิชย์กิจ",
+      "party": "ประชาชน",
+      "votes": 41039
+    },
+    {
+      "number": 1,
+      "name": "นายสุทิน นพขำ",
+      "party": "เพื่อไทย",
+      "votes": 17512
+    },
+    {
+      "number": 7,
+      "name": "นายชยุต สินพูนภักดิ์",
+      "party": "กล้าธรรม",
+      "votes": 15222
+    },
+    {
+      "number": 6,
+      "name": "นายจำลอง เงินยวง",
+      "party": "ภูมิใจไทย",
+      "votes": 8216
+    },
+    {
+      "number": 2,
+      "name": "นางสาวหงสรัชต์ ภูริสิทธิสีห์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3900
+    },
+    {
+      "number": 3,
+      "name": "นายสดใส โรจนวิชัย",
+      "party": "เศรษฐกิจ",
+      "votes": 1903
+    },
+    {
+      "number": 8,
+      "name": "นายจำเริญ ปิ่นภู่",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1495
+    },
+    {
+      "number": 9,
+      "name": "นางประเสริฐศรี ฮ้อแสงชัย",
+      "party": "พลังประชารัฐ",
+      "votes": 1150
+    },
+    {
+      "number": 5,
+      "name": "นายสุกฤษฎ์ ดุลยกนิษฐ",
+      "party": "รักชาติ",
+      "votes": 399
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/29. ปทุมธานี เขต 4.json",
+  "_validation": {
+    "vote_sum": 90836,
+    "good_votes": 90836,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "13",
+  "province_name_normalized": "ปทุมธานี",
+  "summary": {
+    "eligible_voters": 132041,
+    "voters_came": 98894,
+    "ballots_received": 166091,
+    "ballots_used": 98894,
+    "good_votes": 90836,
+    "invalid_votes": 2539,
+    "no_votes": 5519
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายสกล สุนทรวาณิชย์กิจ",
+      "party": "ประชาชน",
+      "votes": 41039,
+      "candidate_uuid": "e2fffc87-33a8-4222-822a-fb9937e2a4b5",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุทิน นพขำ",
+      "party": "เพื่อไทย",
+      "votes": 17512,
+      "candidate_uuid": "2a4f05a0-c5f1-486c-822d-e671e575c4b6",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายชยุต สินพูนภักดิ์",
+      "party": "กล้าธรรม",
+      "votes": 15222,
+      "candidate_uuid": "7ab8d80a-e330-443a-8158-98010792c92b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายจำลอง เงินยวง",
+      "party": "ภูมิใจไทย",
+      "votes": 8216,
+      "candidate_uuid": "a118653a-5f02-49c6-a7bc-7fc61f1671bf",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวหงสรัชต์ ภูริสิทธิสีห์",
+      "party": "ประชาธิปัตย์",
+      "votes": 3900,
+      "candidate_uuid": "499797b6-f5d9-41bc-8409-7bec5b6639b6",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสดใส โรจนวิชัย",
+      "party": "เศรษฐกิจ",
+      "votes": 1903,
+      "candidate_uuid": "86c00a59-60ba-4764-b7dd-fa5ecdb0aa4e",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายจำเริญ ปิ่นภู่",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1495,
+      "candidate_uuid": "6955483d-ef03-4381-95bf-c04c8401fe37",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางประเสริฐศรี ฮ้อแสงชัย",
+      "party": "พลังประชารัฐ",
+      "votes": 1150,
+      "candidate_uuid": "d76177f8-5f4b-4d4d-bc3f-75757328fb08",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสุกฤษฎ์ ดุลยกนิษฐ",
+      "party": "รักชาติ",
+      "votes": 399,
+      "candidate_uuid": "3c37dc93-0d33-4139-88ea-afc638130ac8",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

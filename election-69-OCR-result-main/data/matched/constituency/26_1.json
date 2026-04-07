@@ -1,0 +1,111 @@
+{
+  "province_name": "นครนายก",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 104054,
+    "1.2": 82830,
+    "2.1": 107421,
+    "2.2": 82830,
+    "2.3": 24591,
+    "3.1": 79696,
+    "3.2": 33,
+    "3.3": 3101,
+    "3.4": 82830,
+    "4.1": 76781,
+    "4.2": 2694,
+    "4.3": 3355
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายปิยวัฒน์ กิตติธเนศวร",
+      "party": "กล้าธรรม",
+      "votes": 33707
+    },
+    {
+      "number": 2,
+      "name": "พลตำรวจตรี สุรพล บุญมา",
+      "party": "ภูมิใจไทย",
+      "votes": 29822
+    },
+    {
+      "number": 3,
+      "name": "นายปริญ โอวาทกานนท์",
+      "party": "ประชาชน",
+      "votes": 11054
+    },
+    {
+      "number": 4,
+      "name": "พลโท วีรากร ประกอบ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1290
+    },
+    {
+      "number": 5,
+      "name": "นายสำเร็จ ศรีจันทร์",
+      "party": "ประชาธิปัตย์",
+      "votes": 908
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/18. นครนายก เขต 1.json",
+  "_validation": {
+    "vote_sum": 76781,
+    "good_votes": 76781,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "26",
+  "province_name_normalized": "นครนายก",
+  "summary": {
+    "eligible_voters": 104054,
+    "voters_came": 82830,
+    "ballots_received": 107421,
+    "ballots_used": 82830,
+    "good_votes": 76781,
+    "invalid_votes": 2694,
+    "no_votes": 3355
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายปิยวัฒน์ กิตติธเนศวร",
+      "party": "กล้าธรรม",
+      "votes": 33707,
+      "candidate_uuid": "1357774a-6211-47c4-9bc9-4f544fc9feb8",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "พลตำรวจตรี สุรพล บุญมา",
+      "party": "ภูมิใจไทย",
+      "votes": 29822,
+      "candidate_uuid": "aaf561c0-5aef-4064-9a7b-049893a1b4fd",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายปริญ โอวาทกานนท์",
+      "party": "ประชาชน",
+      "votes": 11054,
+      "candidate_uuid": "39cc6d63-ac1f-4dd5-8571-9f0fa6ef270c",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "พลโท วีรากร ประกอบ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1290,
+      "candidate_uuid": "a42ff596-2cee-46f3-aab5-dc2065bc648b",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสำเร็จ ศรีจันทร์",
+      "party": "ประชาธิปัตย์",
+      "votes": 908,
+      "candidate_uuid": "37c16008-b0f8-45a0-a158-507bad2937c4",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

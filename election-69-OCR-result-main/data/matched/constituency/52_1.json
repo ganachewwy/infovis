@@ -1,0 +1,167 @@
+{
+  "province_name": "ลำปาง",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 146327,
+    "1.2": 112100,
+    "2.1": 148172,
+    "2.2": 112100,
+    "2.3": 36072,
+    "3.1": 101686,
+    "3.2": 88,
+    "3.3": 10326,
+    "3.4": 112100,
+    "4.1": 98457,
+    "4.2": 4665,
+    "4.3": 8978
+  },
+  "results": [
+    {
+      "number": 8,
+      "name": "นางทิพา ปวีณาเสถียร",
+      "party": "ประชาชน",
+      "votes": 47614
+    },
+    {
+      "number": 4,
+      "name": "นายกิตติกร โล่ห์สุนทร",
+      "party": "เพื่อไทย",
+      "votes": 23642
+    },
+    {
+      "number": 3,
+      "name": "นายชวนิต จันทรสุรินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 9189
+    },
+    {
+      "number": 7,
+      "name": "นางสาวอมลยา เจนตวนิชย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 4951
+    },
+    {
+      "number": 9,
+      "name": "นายก้องเกียรติ มาทา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3490
+    },
+    {
+      "number": 6,
+      "name": "ร้อยตำรวจเอกประสิทธิ์ ทิวงศ์ษา",
+      "party": "เศรษฐกิจ",
+      "votes": 2983
+    },
+    {
+      "number": 2,
+      "name": "นายบุญเชิด พรมศร",
+      "party": "โอกาสใหม่",
+      "votes": 2883
+    },
+    {
+      "number": 1,
+      "name": "นายอธิวัฒน์ ศรีไชยยานุพันธ์",
+      "party": "กล้าธรรม",
+      "votes": 2314
+    },
+    {
+      "number": 5,
+      "name": "นายนริศ แสงบุญเรือง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1391
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/53. ลำปาง เขต 1.json",
+  "_validation": {
+    "vote_sum": 98457,
+    "good_votes": 98457,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "52",
+  "province_name_normalized": "ลำปาง",
+  "summary": {
+    "eligible_voters": 146327,
+    "voters_came": 112100,
+    "ballots_received": 148172,
+    "ballots_used": 112100,
+    "good_votes": 98457,
+    "invalid_votes": 4665,
+    "no_votes": 8978
+  },
+  "matched_candidates": [
+    {
+      "number": 8,
+      "name": "นางทิพา ปวีณาเสถียร",
+      "party": "ประชาชน",
+      "votes": 47614,
+      "candidate_uuid": "d7fa7a8d-52c7-4449-9630-97f0fdfe813b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกิตติกร โล่ห์สุนทร",
+      "party": "เพื่อไทย",
+      "votes": 23642,
+      "candidate_uuid": "9dcf8b5e-1185-47e2-8df2-905c46b4cc31",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชวนิต จันทรสุรินทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 9189,
+      "candidate_uuid": "d414a778-4324-4ff8-89eb-9ac9121d5bb6",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวอมลยา เจนตวนิชย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 4951,
+      "candidate_uuid": "a36c9311-652a-47dc-9d67-1a7e1b0afe4f",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายก้องเกียรติ มาทา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3490,
+      "candidate_uuid": "0c75cb61-cf64-4e79-a305-374ba6b14dda",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "ร้อยตำรวจเอกประสิทธิ์ ทิวงศ์ษา",
+      "party": "เศรษฐกิจ",
+      "votes": 2983,
+      "candidate_uuid": "a2c5c26b-01f6-4c1a-bf6d-ed9b0035f4b1",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายบุญเชิด พรมศร",
+      "party": "โอกาสใหม่",
+      "votes": 2883,
+      "candidate_uuid": "4932eeea-5647-4c20-bfa1-7f002bb38644",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอธิวัฒน์ ศรีไชยยานุพันธ์",
+      "party": "กล้าธรรม",
+      "votes": 2314,
+      "candidate_uuid": "37406a9f-55d3-423c-bb16-578bdeda7b39",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนริศ แสงบุญเรือง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 1391,
+      "candidate_uuid": "5cdb0c9f-d077-49f6-b0a4-7be2808ab262",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

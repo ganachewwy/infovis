@@ -1,0 +1,139 @@
+{
+  "province_name": "ภูเก็ต",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 103958,
+    "1.2": 72889,
+    "2.1": 120740,
+    "2.2": 72889,
+    "2.3": 47851,
+    "3.1": 67298,
+    "3.2": 0,
+    "3.3": 5591,
+    "3.4": 72889,
+    "4.1": 66360,
+    "4.2": 1916,
+    "4.3": 4613
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "ว่าที่ร้อยตรีสมชาติ เตชถาวรเจริญ",
+      "party": "ประชาชน",
+      "votes": 19558
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพลอยทะเล ลักษมีแสงจันทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 16875
+    },
+    {
+      "number": 5,
+      "name": "นายทิวัตถ์ สีดอกบวบ",
+      "party": "กล้าธรรม",
+      "votes": 15528
+    },
+    {
+      "number": 6,
+      "name": "นายบุญศุภภะ ตัณฑัยย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 11001
+    },
+    {
+      "number": 2,
+      "name": "นายศุภชัย ศรีสวัสดิ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1259
+    },
+    {
+      "number": 1,
+      "name": "นายสรนันท์ เสน่ห์",
+      "party": "เพื่อไทย",
+      "votes": 1187
+    },
+    {
+      "number": 7,
+      "name": "นายวรพงศ์ ยูระหมาน",
+      "party": "พลังประชารัฐ",
+      "votes": 1052
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/42. ภูเก็ต เขต 1.json",
+  "_validation": {
+    "vote_sum": 66460,
+    "good_votes": 66360,
+    "sum_diff_pct": 0.15
+  },
+  "province_code": "83",
+  "province_name_normalized": "ภูเก็ต",
+  "summary": {
+    "eligible_voters": 103958,
+    "voters_came": 72889,
+    "ballots_received": 120740,
+    "ballots_used": 72889,
+    "good_votes": 66360,
+    "invalid_votes": 1916,
+    "no_votes": 4613
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "ว่าที่ร้อยตรีสมชาติ เตชถาวรเจริญ",
+      "party": "ประชาชน",
+      "votes": 19558,
+      "candidate_uuid": "318b752c-18e7-4099-af33-4b9e7cb124ea",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวพลอยทะเล ลักษมีแสงจันทร์",
+      "party": "ภูมิใจไทย",
+      "votes": 16875,
+      "candidate_uuid": "0ca47a01-fbf0-42d5-abc1-1ca4606402eb",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายทิวัตถ์ สีดอกบวบ",
+      "party": "กล้าธรรม",
+      "votes": 15528,
+      "candidate_uuid": "6fe1029a-8daf-4e80-83c8-aa07e80b2a26",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายบุญศุภภะ ตัณฑัยย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 11001,
+      "candidate_uuid": "be9830a0-7f68-44bd-b104-9073ddd7b519",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายศุภชัย ศรีสวัสดิ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1259,
+      "candidate_uuid": "fc40061a-3fac-4974-86fc-bfc4f677b6cb",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสรนันท์ เสน่ห์",
+      "party": "เพื่อไทย",
+      "votes": 1187,
+      "candidate_uuid": "b7a09bf5-e97f-4b48-8318-7325425d4f44",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวรพงศ์ ยูระหมาน",
+      "party": "พลังประชารัฐ",
+      "votes": 1052,
+      "candidate_uuid": "30968fd6-5b42-4472-a253-936d1665ecc2",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

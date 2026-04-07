@@ -1,0 +1,111 @@
+{
+  "province_name": "แม่ฮ่องสอน",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 95247,
+    "1.2": 68159,
+    "2.1": 92602,
+    "2.2": 68159,
+    "2.3": 24443,
+    "3.1": 62621,
+    "3.2": 16,
+    "3.3": 5522,
+    "3.4": 68159,
+    "4.1": 61134,
+    "4.2": 3932,
+    "4.3": 3093
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายปกรณ์ จีนาคำ",
+      "party": "กล้าธรรม",
+      "votes": 35870
+    },
+    {
+      "number": 5,
+      "name": "นายอนัส มณีพฤกษ์",
+      "party": "ประชาชน",
+      "votes": 18680
+    },
+    {
+      "number": 3,
+      "name": "นายวิชัย เจริญพระธรรมดี",
+      "party": "เพื่อไทย",
+      "votes": 3126
+    },
+    {
+      "number": 1,
+      "name": "ว่าที่ ร.ต.สุรพล ต๊ะวิชัย",
+      "party": "ประชาธิปัตย์",
+      "votes": 2148
+    },
+    {
+      "number": 4,
+      "name": "นายจำลอง รุ่งเรือง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1310
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/45. แม่ฮ่องสอน เขต 1.json",
+  "_validation": {
+    "vote_sum": 57134,
+    "good_votes": 61134,
+    "sum_diff_pct": 6.54
+  },
+  "province_code": "58",
+  "province_name_normalized": "แม่ฮ่องสอน",
+  "summary": {
+    "eligible_voters": 95247,
+    "voters_came": 68159,
+    "ballots_received": 92602,
+    "ballots_used": 68159,
+    "good_votes": 61134,
+    "invalid_votes": 3932,
+    "no_votes": 3093
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายปกรณ์ จีนาคำ",
+      "party": "กล้าธรรม",
+      "votes": 35870,
+      "candidate_uuid": "aa31e595-634a-47c2-bfd1-2e42d5e8338e",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอนัส มณีพฤกษ์",
+      "party": "ประชาชน",
+      "votes": 18680,
+      "candidate_uuid": "3934b216-5b86-4123-9084-2a3035a1a825",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายวิชัย เจริญพระธรรมดี",
+      "party": "เพื่อไทย",
+      "votes": 3126,
+      "candidate_uuid": "3ac88d9e-9e6c-4b32-9b04-debab070afda",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "ว่าที่ ร.ต.สุรพล ต๊ะวิชัย",
+      "party": "ประชาธิปัตย์",
+      "votes": 2148,
+      "candidate_uuid": "3ccb9046-ba8a-4266-871b-b40e4c83d94c",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายจำลอง รุ่งเรือง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1310,
+      "candidate_uuid": "7b274287-9d63-455e-af1e-152ef02ef995",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

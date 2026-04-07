@@ -1,0 +1,195 @@
+{
+  "province_name": "กาฬสินธุ์",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131445,
+    "1.2": 90137,
+    "2.1": 133395,
+    "2.2": 90137,
+    "2.3": 43258,
+    "3.1": 84492,
+    "3.2": 10,
+    "3.3": 5635,
+    "3.4": 90137,
+    "4.1": 83744,
+    "4.2": 2808,
+    "4.3": 3585
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายวิรัช พิมพะนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 35888
+    },
+    {
+      "number": 7,
+      "name": "นายพีระพันธุ์ ดวงประทุม",
+      "party": "ประชาชน",
+      "votes": 21477
+    },
+    {
+      "number": 1,
+      "name": "นายปภัทร เฮงไพบูลย์",
+      "party": "พลังประชารัฐ",
+      "votes": 16870
+    },
+    {
+      "number": 8,
+      "name": "นายเทิดแผ่นดินทอง ธารชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 3616
+    },
+    {
+      "number": 9,
+      "name": "นายชัย คูสกุลรัตน์",
+      "party": "เศรษฐกิจ",
+      "votes": 1513
+    },
+    {
+      "number": 5,
+      "name": "นายยาโกรคาน ปาทาน",
+      "party": "ทางเลือกใหม่",
+      "votes": 1438
+    },
+    {
+      "number": 2,
+      "name": "นางสาวปฐมาภรณ์ มงคลสินธุ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1045
+    },
+    {
+      "number": 3,
+      "name": "นายจักรินทร์ พิมรินทร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 700
+    },
+    {
+      "number": 4,
+      "name": "นายประดิษฐ์ ฉัตรจรัสกูล",
+      "party": "กล้าธรรม",
+      "votes": 554
+    },
+    {
+      "number": 11,
+      "name": "นางสาวสาวิตรี ไชยสัตย์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 462
+    },
+    {
+      "number": 10,
+      "name": "นายไสว เกื้ออนันต์",
+      "party": "ประชากรไทย",
+      "votes": 181
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/4. กาฬสินธุ์ เขต 1.json",
+  "_validation": {
+    "vote_sum": 83744,
+    "good_votes": 83744,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "46",
+  "province_name_normalized": "กาฬสินธุ์",
+  "summary": {
+    "eligible_voters": 131445,
+    "voters_came": 90137,
+    "ballots_received": 133395,
+    "ballots_used": 90137,
+    "good_votes": 83744,
+    "invalid_votes": 2808,
+    "no_votes": 3585
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายวิรัช พิมพะนิตย์",
+      "party": "เพื่อไทย",
+      "votes": 35888,
+      "candidate_uuid": "fb41e234-c654-48f3-99fc-465bc93c5f0c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพีระพันธุ์ ดวงประทุม",
+      "party": "ประชาชน",
+      "votes": 21477,
+      "candidate_uuid": "3bbb86aa-cfbf-40bc-925b-a4edc8103ecc",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายปภัทร เฮงไพบูลย์",
+      "party": "พลังประชารัฐ",
+      "votes": 16870,
+      "candidate_uuid": "680457a2-ef38-48c8-a3df-23ac2dfdd717",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายเทิดแผ่นดินทอง ธารชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 3616,
+      "candidate_uuid": "5cf0e717-511f-447a-836b-6918ad0294c6",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายชัย คูสกุลรัตน์",
+      "party": "เศรษฐกิจ",
+      "votes": 1513,
+      "candidate_uuid": "98f79280-68d0-4c16-b23d-c2f15fa3c920",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายยาโกรคาน ปาทาน",
+      "party": "ทางเลือกใหม่",
+      "votes": 1438,
+      "candidate_uuid": "91c33f08-06ab-4efb-b09b-faa6da5af7f4",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวปฐมาภรณ์ มงคลสินธุ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1045,
+      "candidate_uuid": "f74067ad-a64f-44a3-bf86-62a41f267777",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายจักรินทร์ พิมรินทร์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 700,
+      "candidate_uuid": "21f2a47c-eaef-412c-868f-71c37e2e3a09",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายประดิษฐ์ ฉัตรจรัสกูล",
+      "party": "กล้าธรรม",
+      "votes": 554,
+      "candidate_uuid": "10adf886-7cb4-4339-9ac5-dd66a7e17032",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นางสาวสาวิตรี ไชยสัตย์",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 462,
+      "candidate_uuid": "cbc5de9f-eb12-42ed-9cde-fd3587525926",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายไสว เกื้ออนันต์",
+      "party": "ประชากรไทย",
+      "votes": 181,
+      "candidate_uuid": "0a61079e-fba8-4627-918b-86a884a08a6e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

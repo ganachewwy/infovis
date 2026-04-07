@@ -1,0 +1,125 @@
+{
+  "province_name": "กระบี่",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 124286,
+    "1.2": 94677,
+    "2.1": 127060,
+    "2.2": 94677,
+    "2.3": 32383,
+    "3.1": 90297,
+    "3.2": 2,
+    "3.3": 4378,
+    "3.4": 94677,
+    "4.1": 87853,
+    "4.2": 2937,
+    "4.3": 3887
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายกิตติชัย เอ่งฉ้วน",
+      "party": "ภูมิใจไทย",
+      "votes": 47416
+    },
+    {
+      "number": 1,
+      "name": "นายสุกิติ พรหมทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 15794
+    },
+    {
+      "number": 4,
+      "name": "นายศรัญญู รักมิตร",
+      "party": "กล้าธรรม",
+      "votes": 12557
+    },
+    {
+      "number": 2,
+      "name": "นายประเสริฐพงษ์ ศรนุวัตร์",
+      "party": "ประชาชน",
+      "votes": 9623
+    },
+    {
+      "number": 3,
+      "name": "นายกุศล วะเจดีย์",
+      "party": "เพื่อไทย",
+      "votes": 1574
+    },
+    {
+      "number": 6,
+      "name": "นายสรร ชัยภัทรธัญกร",
+      "party": "เศรษฐกิจ",
+      "votes": 889
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/2. กระบี่ เขต 3.json",
+  "_validation": {
+    "vote_sum": 87853,
+    "good_votes": 87853,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "81",
+  "province_name_normalized": "กระบี่",
+  "summary": {
+    "eligible_voters": 124286,
+    "voters_came": 94677,
+    "ballots_received": 127060,
+    "ballots_used": 94677,
+    "good_votes": 87853,
+    "invalid_votes": 2937,
+    "no_votes": 3887
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายกิตติชัย เอ่งฉ้วน",
+      "party": "ภูมิใจไทย",
+      "votes": 47416,
+      "candidate_uuid": "ff1fe3cf-d385-4cb1-ae96-fc2b1e7a0ffa",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสุกิติ พรหมทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 15794,
+      "candidate_uuid": "1f81da20-969a-4388-a1f2-2abba0bcd999",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายศรัญญู รักมิตร",
+      "party": "กล้าธรรม",
+      "votes": 12557,
+      "candidate_uuid": "90ff5f6a-6745-483f-8fc5-307fba2eaf90",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายประเสริฐพงษ์ ศรนุวัตร์",
+      "party": "ประชาชน",
+      "votes": 9623,
+      "candidate_uuid": "de6edd3b-7680-47fb-b4cc-e1bdabe8655e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกุศล วะเจดีย์",
+      "party": "เพื่อไทย",
+      "votes": 1574,
+      "candidate_uuid": "b7b36c89-90a6-49e0-90f5-62b1cb8fa54f",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสรร ชัยภัทรธัญกร",
+      "party": "เศรษฐกิจ",
+      "votes": 889,
+      "candidate_uuid": "50362da3-2004-4f56-b644-571e3a93bd66",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

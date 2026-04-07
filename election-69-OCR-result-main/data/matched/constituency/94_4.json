@@ -1,0 +1,139 @@
+{
+  "province_name": "ปัตตานี",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 110256,
+    "1.2": 83822,
+    "2.1": 114082,
+    "2.2": 83822,
+    "2.3": 30260,
+    "3.1": 80322,
+    "3.2": 38,
+    "3.3": 3462,
+    "3.4": 83822,
+    "4.1": 80409,
+    "4.2": 2222,
+    "4.3": 1191
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายยูนัยดี วาบา",
+      "party": "กล้าธรรม",
+      "votes": 30170
+    },
+    {
+      "number": 7,
+      "name": "นายอริญชัย ซูสารอ",
+      "party": "ภูมิใจไทย",
+      "votes": 25931
+    },
+    {
+      "number": 2,
+      "name": "นายอับดุลกอฮาร์ อาแวปูเตะ",
+      "party": "ประชาชาติ",
+      "votes": 16390
+    },
+    {
+      "number": 8,
+      "name": "นายโมฮมัดรอฮมัด มามุ",
+      "party": "ประชาชน",
+      "votes": 5423
+    },
+    {
+      "number": 3,
+      "name": "ว่าที่ร้อยตรี โมฮามัดยาสรี ยูชง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1647
+    },
+    {
+      "number": 4,
+      "name": "นายไซน์ดิง ยูโซะ",
+      "party": "พลวัต",
+      "votes": 501
+    },
+    {
+      "number": 6,
+      "name": "นายอาหมัดบูรฮัน ติพอง",
+      "party": "เพื่อไทย",
+      "votes": 347
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/32. ปัตตานี เขต 4.json",
+  "_validation": {
+    "vote_sum": 80409,
+    "good_votes": 80409,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "94",
+  "province_name_normalized": "ปัตตานี",
+  "summary": {
+    "eligible_voters": 110256,
+    "voters_came": 83822,
+    "ballots_received": 114082,
+    "ballots_used": 83822,
+    "good_votes": 80409,
+    "invalid_votes": 2222,
+    "no_votes": 1191
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายยูนัยดี วาบา",
+      "party": "กล้าธรรม",
+      "votes": 30170,
+      "candidate_uuid": "fa586103-89b6-4974-8d32-0153588a4735",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายอริญชัย ซูสารอ",
+      "party": "ภูมิใจไทย",
+      "votes": 25931,
+      "candidate_uuid": "0c403e88-e06b-4fd8-b930-afc553ad505d",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายอับดุลกอฮาร์ อาแวปูเตะ",
+      "party": "ประชาชาติ",
+      "votes": 16390,
+      "candidate_uuid": "b7bcf39f-a119-47c2-a26f-6a79faec4622",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายโมฮมัดรอฮมัด มามุ",
+      "party": "ประชาชน",
+      "votes": 5423,
+      "candidate_uuid": "b2f415d4-241f-46ff-a331-de5c0f2aa5c9",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ว่าที่ร้อยตรี โมฮามัดยาสรี ยูชง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1647,
+      "candidate_uuid": "104389f2-cfa3-4c14-9e14-0d40afdf7795",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายไซน์ดิง ยูโซะ",
+      "party": "พลวัต",
+      "votes": 501,
+      "candidate_uuid": "e2c4c2ad-3db7-459a-8bac-89f725ea5b4a",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายอาหมัดบูรฮัน ติพอง",
+      "party": "เพื่อไทย",
+      "votes": 347,
+      "candidate_uuid": "acee57a6-6d0c-48dd-a4a9-1ee2a9353dbd",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

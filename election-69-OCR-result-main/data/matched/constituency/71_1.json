@@ -1,0 +1,181 @@
+{
+  "province_name": "กาญจนบุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133198,
+    "1.2": 96564,
+    "2.1": 133672,
+    "2.2": 96564,
+    "2.3": 37108,
+    "3.1": 89370,
+    "3.2": 35,
+    "3.3": 7159,
+    "3.4": 96564,
+    "4.1": 85850,
+    "4.2": 3815,
+    "4.3": 6899
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายอัครนันท์ กัณณ์กิตตินันท์",
+      "party": "เพื่อไทย",
+      "votes": 38572
+    },
+    {
+      "number": 6,
+      "name": "นายภูวนาท รัศมีฤกษ์เศรษฐ์",
+      "party": "ประชาชน",
+      "votes": 26849
+    },
+    {
+      "number": 1,
+      "name": "พ.ต.ท.กิตติพิชญ์ จันทร์สมบูรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 9864
+    },
+    {
+      "number": 8,
+      "name": "นายกำธร สร้อยพรรณา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3002
+    },
+    {
+      "number": 4,
+      "name": "นายอนุกูล แพรไพศาล",
+      "party": "ประชาธิปัตย์",
+      "votes": 2829
+    },
+    {
+      "number": 7,
+      "name": "นายแดนสรวง กลิ่นสุคนธ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1696
+    },
+    {
+      "number": 9,
+      "name": "ส.อ.ธวัช จูอินทร์",
+      "party": "ปวงชนไทย",
+      "votes": 1241
+    },
+    {
+      "number": 2,
+      "name": "นายบุญฤทธิ์ ธรรมศร",
+      "party": "กล้าธรรม",
+      "votes": 976
+    },
+    {
+      "number": 3,
+      "name": "นายธนกร ทองใบ",
+      "party": "เสรีรวมไทย",
+      "votes": 515
+    },
+    {
+      "number": 10,
+      "name": "นายธัชกฤช หอละเอียด",
+      "party": "พลังเพื่อไทย",
+      "votes": 306
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/3. กาญจนบุรี เขต 1 (1).json",
+  "_validation": {
+    "vote_sum": 85850,
+    "good_votes": 85850,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "71",
+  "province_name_normalized": "กาญจนบุรี",
+  "summary": {
+    "eligible_voters": 133198,
+    "voters_came": 96564,
+    "ballots_received": 133672,
+    "ballots_used": 96564,
+    "good_votes": 85850,
+    "invalid_votes": 3815,
+    "no_votes": 6899
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายอัครนันท์ กัณณ์กิตตินันท์",
+      "party": "เพื่อไทย",
+      "votes": 38572,
+      "candidate_uuid": "21a1f882-5a93-4126-8895-556fb37e4d46",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายภูวนาท รัศมีฤกษ์เศรษฐ์",
+      "party": "ประชาชน",
+      "votes": 26849,
+      "candidate_uuid": "6f2eefcf-ef71-4428-b1e1-75ef00405129",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "พ.ต.ท.กิตติพิชญ์ จันทร์สมบูรณ์",
+      "party": "ภูมิใจไทย",
+      "votes": 9864,
+      "candidate_uuid": "81b1bd08-9587-4d53-acce-b04200cc7d8b",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายกำธร สร้อยพรรณา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3002,
+      "candidate_uuid": "d9990f07-a787-4127-a2ff-2982afe9d68b",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอนุกูล แพรไพศาล",
+      "party": "ประชาธิปัตย์",
+      "votes": 2829,
+      "candidate_uuid": "e192cc53-97aa-4415-b919-07b0d19845d7",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายแดนสรวง กลิ่นสุคนธ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1696,
+      "candidate_uuid": "0e302b3c-37f5-41a6-9bab-3d3212b9f57b",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "ส.อ.ธวัช จูอินทร์",
+      "party": "ปวงชนไทย",
+      "votes": 1241,
+      "candidate_uuid": "dc06e81e-89d2-403a-a390-1ab3498bc417",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายบุญฤทธิ์ ธรรมศร",
+      "party": "กล้าธรรม",
+      "votes": 976,
+      "candidate_uuid": "011e9623-5f96-4a3d-a6dd-b2896984dc48",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายธนกร ทองใบ",
+      "party": "เสรีรวมไทย",
+      "votes": 515,
+      "candidate_uuid": "797c89d6-122f-4c7a-9534-4a10145d3c4e",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายธัชกฤช หอละเอียด",
+      "party": "พลังเพื่อไทย",
+      "votes": 306,
+      "candidate_uuid": "c597204b-1261-46de-8300-4fbe77e2e7ea",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

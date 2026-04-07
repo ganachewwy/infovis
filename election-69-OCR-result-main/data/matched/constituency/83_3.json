@@ -1,0 +1,139 @@
+{
+  "province_name": "ภูเก็ต",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 117627,
+    "1.2": 82182,
+    "2.1": 117036,
+    "2.2": 82182,
+    "2.3": 34854,
+    "3.1": 77983,
+    "3.2": 0,
+    "3.3": 4199,
+    "3.4": 82182,
+    "4.1": 75128,
+    "4.2": 2121,
+    "4.3": 4933
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวอรทัย เกิดทรัพย์",
+      "party": "กล้าธรรม",
+      "votes": 30360
+    },
+    {
+      "number": 2,
+      "name": "นายฐิติกันต์ ฐิติพฤฒิกุล",
+      "party": "ประชาชน",
+      "votes": 20277
+    },
+    {
+      "number": 4,
+      "name": "นายวิวัฒน์ จินดาพล",
+      "party": "ภูมิใจไทย",
+      "votes": 12339
+    },
+    {
+      "number": 5,
+      "name": "นางสาวสิริเกศ ถั่วสกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 8344
+    },
+    {
+      "number": 6,
+      "name": "ด.ต.เดชาวัตร อุ่นสอน",
+      "party": "เศรษฐกิจ",
+      "votes": 1685
+    },
+    {
+      "number": 3,
+      "name": "นายศักดิ์ชาย เชาวน์ไวย",
+      "party": "เพื่อไทย",
+      "votes": 1192
+    },
+    {
+      "number": 7,
+      "name": "นายเกษม กาหรีมการ",
+      "party": "ไทยภักดี",
+      "votes": 931
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/42. ภูเก็ต เขต 3.json",
+  "_validation": {
+    "vote_sum": 75128,
+    "good_votes": 75128,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "83",
+  "province_name_normalized": "ภูเก็ต",
+  "summary": {
+    "eligible_voters": 117627,
+    "voters_came": 82182,
+    "ballots_received": 117036,
+    "ballots_used": 82182,
+    "good_votes": 75128,
+    "invalid_votes": 2121,
+    "no_votes": 4933
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวอรทัย เกิดทรัพย์",
+      "party": "กล้าธรรม",
+      "votes": 30360,
+      "candidate_uuid": "af8bb89e-b247-4044-9c3c-3677607c5644",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายฐิติกันต์ ฐิติพฤฒิกุล",
+      "party": "ประชาชน",
+      "votes": 20277,
+      "candidate_uuid": "0bdde45c-305e-42f5-a13b-5338f3ca0b63",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวิวัฒน์ จินดาพล",
+      "party": "ภูมิใจไทย",
+      "votes": 12339,
+      "candidate_uuid": "7ecfd6db-4636-4dfd-be68-883c0944b2ff",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวสิริเกศ ถั่วสกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 8344,
+      "candidate_uuid": "146c7547-c735-4281-bb3f-502d574e3f13",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "ด.ต.เดชาวัตร อุ่นสอน",
+      "party": "เศรษฐกิจ",
+      "votes": 1685,
+      "candidate_uuid": "5176fc93-de49-434a-a384-0c4702956611",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายศักดิ์ชาย เชาวน์ไวย",
+      "party": "เพื่อไทย",
+      "votes": 1192,
+      "candidate_uuid": "0b35127c-182a-4819-a982-ce49eda59c26",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายเกษม กาหรีมการ",
+      "party": "ไทยภักดี",
+      "votes": 931,
+      "candidate_uuid": "75c76327-85fb-494b-b652-9b8780b8afa3",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

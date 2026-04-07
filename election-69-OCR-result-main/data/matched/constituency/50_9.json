@@ -1,0 +1,153 @@
+{
+  "province_name": "เชียงใหม่",
+  "constituency_number": 9,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126132,
+    "1.2": 105624,
+    "2.1": 132602,
+    "2.2": 105624,
+    "2.3": 26978,
+    "3.1": 101462,
+    "3.2": 0,
+    "3.3": 4162,
+    "3.4": 105624,
+    "4.1": 96198,
+    "4.2": 5953,
+    "4.3": 3473
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายนเรศ ธำรงค์ทิพยคุณ",
+      "party": "กล้าธรรม",
+      "votes": 43388
+    },
+    {
+      "number": 3,
+      "name": "นายฉัตรณพัฒน์ สมศักดิ์เกตุกร",
+      "party": "ประชาชน",
+      "votes": 23465
+    },
+    {
+      "number": 2,
+      "name": "นายยงยุทธ์ ยาวิชัย",
+      "party": "เพื่อไทย",
+      "votes": 15550
+    },
+    {
+      "number": 6,
+      "name": "นายณรงค์ ภูอิทธิวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 6308
+    },
+    {
+      "number": 1,
+      "name": "นางสาวศรีนวล บุญลือ",
+      "party": "ภูมิใจไทย",
+      "votes": 5387
+    },
+    {
+      "number": 4,
+      "name": "นายวารัชกรณ์ ชุณหบุญญทิพย์",
+      "party": "วิชชั่นใหม่",
+      "votes": 821
+    },
+    {
+      "number": 7,
+      "name": "นายถาวร เกียรติไชยากร",
+      "party": "พลังประชารัฐ",
+      "votes": 722
+    },
+    {
+      "number": 8,
+      "name": "นางสาวกาญจนา อาวรณ์",
+      "party": "เศรษฐกิจ",
+      "votes": 557
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/14. เชียงใหม่ เขต 9.json",
+  "_validation": {
+    "vote_sum": 96198,
+    "good_votes": 96198,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "50",
+  "province_name_normalized": "เชียงใหม่",
+  "summary": {
+    "eligible_voters": 126132,
+    "voters_came": 105624,
+    "ballots_received": 132602,
+    "ballots_used": 105624,
+    "good_votes": 96198,
+    "invalid_votes": 5953,
+    "no_votes": 3473
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายนเรศ ธำรงค์ทิพยคุณ",
+      "party": "กล้าธรรม",
+      "votes": 43388,
+      "candidate_uuid": "5c6fe580-1550-4209-be9c-7405cb853deb",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายฉัตรณพัฒน์ สมศักดิ์เกตุกร",
+      "party": "ประชาชน",
+      "votes": 23465,
+      "candidate_uuid": "2bea03ad-e003-4bbb-a46e-284982e80193",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายยงยุทธ์ ยาวิชัย",
+      "party": "เพื่อไทย",
+      "votes": 15550,
+      "candidate_uuid": "b65b35f0-eab9-4e02-83af-94759fa1acd7",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายณรงค์ ภูอิทธิวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 6308,
+      "candidate_uuid": "b6d8ec9d-b10b-4a84-a317-d4a7adec97c2",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวศรีนวล บุญลือ",
+      "party": "ภูมิใจไทย",
+      "votes": 5387,
+      "candidate_uuid": "4ca7df63-7315-452a-b547-2ef039b4c637",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวารัชกรณ์ ชุณหบุญญทิพย์",
+      "party": "วิชชั่นใหม่",
+      "votes": 821,
+      "candidate_uuid": "eb785f7e-3cc0-4a6c-b191-eaebf6c379da",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายถาวร เกียรติไชยากร",
+      "party": "พลังประชารัฐ",
+      "votes": 722,
+      "candidate_uuid": "60451852-9076-4906-9267-5c6fc411e9f2",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวกาญจนา อาวรณ์",
+      "party": "เศรษฐกิจ",
+      "votes": 557,
+      "candidate_uuid": "21533ebe-c24d-489b-8586-452e35dba52e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

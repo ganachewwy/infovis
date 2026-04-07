@@ -1,0 +1,63 @@
+{
+  "province_name": "สุพรรณบุรี",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144799,
+    "1.2": 108630,
+    "2.1": 143780,
+    "2.2": 104712,
+    "2.3": 39068,
+    "3.1": 104712,
+    "3.2": 3,
+    "3.3": 3915,
+    "3.4": 108630,
+    "4.1": 98539,
+    "4.2": 4594,
+    "4.3": 5497
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายประภัตร โพธสุธน",
+      "party": "ภูมิใจไทย",
+      "votes": 60036
+    },
+    {
+      "number": 4,
+      "name": "นายสมเกียรติ กู้เกียรติภูมิ",
+      "party": "ประชาชน",
+      "votes": 24816
+    },
+    {
+      "number": 3,
+      "name": "นายภานรินทร์ อินสกุล",
+      "party": "เพื่อไทย",
+      "votes": 10849
+    },
+    {
+      "number": 2,
+      "name": "นายสมศักดิ์ เฟื่องฟูลอย",
+      "party": "ประชาธิปัตย์",
+      "votes": 1103
+    },
+    {
+      "number": 6,
+      "name": "นางพัสพร แก้วเขียว",
+      "party": "ไทยสร้างไทย",
+      "votes": 976
+    },
+    {
+      "number": 1,
+      "name": "นางสาวนุชวรา ยังนึก",
+      "party": "พลวัต",
+      "votes": 759
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/67. สุพรรณบุรี เขต 5.pdf",
+  "_validation": {
+    "vote_sum": 98539,
+    "good_votes": 98539,
+    "sum_diff_pct": 0.0
+  }
+}

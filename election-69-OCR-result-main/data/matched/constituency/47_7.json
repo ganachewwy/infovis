@@ -1,0 +1,167 @@
+{
+  "province_name": "สกลนคร",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 131938,
+    "1.2": 76157,
+    "2.1": 131320,
+    "2.2": 76157,
+    "2.3": 55163,
+    "3.1": 71406,
+    "3.2": 2,
+    "3.3": 4749,
+    "3.4": 76157,
+    "4.1": 71830,
+    "4.2": 2799,
+    "4.3": 1528
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายอิสรพงษ์ อุประ",
+      "party": "เพื่อไทย",
+      "votes": 23571
+    },
+    {
+      "number": 4,
+      "name": "นายอภิชิต ถาบุตร",
+      "party": "ประชาชน",
+      "votes": 17145
+    },
+    {
+      "number": 5,
+      "name": "นางสาววนิดา พรหมชาติ",
+      "party": "กล้าธรรม",
+      "votes": 16794
+    },
+    {
+      "number": 1,
+      "name": "นายตี๋ธีระยุทธ รัศมี",
+      "party": "ภูมิใจไทย",
+      "votes": 9433
+    },
+    {
+      "number": 6,
+      "name": "นายจักรพงศ์ อินทลบ",
+      "party": "เศรษฐกิจ",
+      "votes": 2359
+    },
+    {
+      "number": 2,
+      "name": "นายสิงห์โต ฮกทวายทา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1058
+    },
+    {
+      "number": 7,
+      "name": "นายพจนาถ ธานะราช",
+      "party": "พลังประชารัฐ",
+      "votes": 711
+    },
+    {
+      "number": 8,
+      "name": "นางทัศนีย์ ศรีถาพร",
+      "party": "ปวงชนไทย",
+      "votes": 639
+    },
+    {
+      "number": 9,
+      "name": "นายเพิ่มศักดิ์ จันทร์แดง",
+      "party": "ไทยพร้อม",
+      "votes": 120
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/57. สกลนคร เขต 7.json",
+  "_validation": {
+    "vote_sum": 71830,
+    "good_votes": 71830,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "47",
+  "province_name_normalized": "สกลนคร",
+  "summary": {
+    "eligible_voters": 131938,
+    "voters_came": 76157,
+    "ballots_received": 131320,
+    "ballots_used": 76157,
+    "good_votes": 71830,
+    "invalid_votes": 2799,
+    "no_votes": 1528
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายอิสรพงษ์ อุประ",
+      "party": "เพื่อไทย",
+      "votes": 23571,
+      "candidate_uuid": "4727c30e-3dfd-4a9e-9ee4-fdc7f796df8c",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอภิชิต ถาบุตร",
+      "party": "ประชาชน",
+      "votes": 17145,
+      "candidate_uuid": "71169325-ec2e-4655-8843-c6d6a3e62322",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาววนิดา พรหมชาติ",
+      "party": "กล้าธรรม",
+      "votes": 16794,
+      "candidate_uuid": "b8b8d057-e468-4cba-9d78-0af6f944f24a",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายตี๋ธีระยุทธ รัศมี",
+      "party": "ภูมิใจไทย",
+      "votes": 9433,
+      "candidate_uuid": "22ee5c34-8388-44d2-a4f3-22593e78aeaf",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายจักรพงศ์ อินทลบ",
+      "party": "เศรษฐกิจ",
+      "votes": 2359,
+      "candidate_uuid": "2d9e2aec-9e89-4d71-bd14-03413a6f8875",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสิงห์โต ฮกทวายทา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1058,
+      "candidate_uuid": "01aa463f-b0ba-4863-b4fc-4d7ff1c10c76",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพจนาถ ธานะราช",
+      "party": "พลังประชารัฐ",
+      "votes": 711,
+      "candidate_uuid": "7b56a982-d3bf-478f-b2d6-e0461c5def30",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางทัศนีย์ ศรีถาพร",
+      "party": "ปวงชนไทย",
+      "votes": 639,
+      "candidate_uuid": "0ea82413-312e-4e4a-8bf9-274dd4314677",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายเพิ่มศักดิ์ จันทร์แดง",
+      "party": "ไทยพร้อม",
+      "votes": 120,
+      "candidate_uuid": "905703b1-7fd3-4882-8c59-57ef91ffe7f6",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

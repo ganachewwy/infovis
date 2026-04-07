@@ -1,0 +1,153 @@
+{
+  "province_name": "นครสวรรค์",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136823,
+    "1.2": 90286,
+    "2.1": 135640,
+    "2.2": 90286,
+    "2.3": 45354,
+    "3.1": 84969,
+    "3.2": 0,
+    "3.3": 5317,
+    "3.4": 90286,
+    "4.1": 85258,
+    "4.2": 3439,
+    "4.3": 1589
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายประสาท ตันประเสริฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 36543
+    },
+    {
+      "number": 5,
+      "name": "นายนิโรธ สุนทรเลขา",
+      "party": "กล้าธรรม",
+      "votes": 32307
+    },
+    {
+      "number": 1,
+      "name": "นายสพลเชษฐ์ ก้อนจันทร์เทศ",
+      "party": "ประชาชน",
+      "votes": 11628
+    },
+    {
+      "number": 3,
+      "name": "นางสาวชุติมา เสรีรัฐ",
+      "party": "เพื่อไทย",
+      "votes": 2985
+    },
+    {
+      "number": 4,
+      "name": "นางสาวสิริรักษ์ บัณฑิตศิละศักดิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 951
+    },
+    {
+      "number": 6,
+      "name": "นางเตือนใจ หงส์เวียงจันทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 643
+    },
+    {
+      "number": 7,
+      "name": "นางสุริวัสสา เพชรสวัสดิ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 123
+    },
+    {
+      "number": 8,
+      "name": "พันตำรวจเอกสนองเดช เดชวัชรนนท์",
+      "party": "พลังประชารัฐ",
+      "votes": 78
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/23. นครสวรรค์ เขต 6.json",
+  "_validation": {
+    "vote_sum": 85258,
+    "good_votes": 85258,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "60",
+  "province_name_normalized": "นครสวรรค์",
+  "summary": {
+    "eligible_voters": 136823,
+    "voters_came": 90286,
+    "ballots_received": 135640,
+    "ballots_used": 90286,
+    "good_votes": 85258,
+    "invalid_votes": 3439,
+    "no_votes": 1589
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายประสาท ตันประเสริฐ",
+      "party": "ภูมิใจไทย",
+      "votes": 36543,
+      "candidate_uuid": "9c6fe38c-9641-499f-b5a6-ee369db9f212",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนิโรธ สุนทรเลขา",
+      "party": "กล้าธรรม",
+      "votes": 32307,
+      "candidate_uuid": "4c91f6cc-1d4a-475b-a9d7-e243641bd5af",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายสพลเชษฐ์ ก้อนจันทร์เทศ",
+      "party": "ประชาชน",
+      "votes": 11628,
+      "candidate_uuid": "be5059ae-b027-4a48-b035-fbf668f44122",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวชุติมา เสรีรัฐ",
+      "party": "เพื่อไทย",
+      "votes": 2985,
+      "candidate_uuid": "15239d2b-663b-4468-ad6b-ef3bc6b7d820",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวสิริรักษ์ บัณฑิตศิละศักดิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 951,
+      "candidate_uuid": "f705e93b-d6eb-4840-9e0f-85935d8a46f6",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางเตือนใจ หงส์เวียงจันทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 643,
+      "candidate_uuid": "716f1127-46a3-4a3f-8d69-e8780e3a272b",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสุริวัสสา เพชรสวัสดิ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 123,
+      "candidate_uuid": "43dd4358-30fc-4699-a93b-109f94718417",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "พันตำรวจเอกสนองเดช เดชวัชรนนท์",
+      "party": "พลังประชารัฐ",
+      "votes": 78,
+      "candidate_uuid": "321d6ff7-bf4f-47a4-8369-b03530197b25",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

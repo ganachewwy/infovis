@@ -1,0 +1,125 @@
+{
+  "province_name": "อ่างทอง",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 111666,
+    "1.2": 85616,
+    "2.1": 114700,
+    "2.2": 85616,
+    "2.3": 29084,
+    "3.1": 82608,
+    "3.2": 44,
+    "3.3": 2964,
+    "3.4": 85616,
+    "4.1": 79775,
+    "4.2": 2733,
+    "4.3": 3108
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายภราดร ปริศนานันทกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 56130
+    },
+    {
+      "number": 2,
+      "name": "นายธโนดม โสขุมา",
+      "party": "ประชาชน",
+      "votes": 17910
+    },
+    {
+      "number": 1,
+      "name": "นายณษกร เครือศิริ",
+      "party": "เพื่อไทย",
+      "votes": 4270
+    },
+    {
+      "number": 5,
+      "name": "นางสาวภัทรสุดา บุษรานันท์",
+      "party": "ประชาธิปัตย์",
+      "votes": 795
+    },
+    {
+      "number": 3,
+      "name": "นายพณศธร อยู่ประเสริฐ",
+      "party": "กล้าธรรม",
+      "votes": 366
+    },
+    {
+      "number": 6,
+      "name": "พันเอก พิทักษ์ ทิพมาศ",
+      "party": "พลังประชารัฐ",
+      "votes": 304
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/72. อ่างทอง เขต 1.json",
+  "_validation": {
+    "vote_sum": 79775,
+    "good_votes": 79775,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "15",
+  "province_name_normalized": "อ่างทอง",
+  "summary": {
+    "eligible_voters": 111666,
+    "voters_came": 85616,
+    "ballots_received": 114700,
+    "ballots_used": 85616,
+    "good_votes": 79775,
+    "invalid_votes": 2733,
+    "no_votes": 3108
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายภราดร ปริศนานันทกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 56130,
+      "candidate_uuid": "e0aa40dd-730b-4453-9024-f58c42e47c0f",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายธโนดม โสขุมา",
+      "party": "ประชาชน",
+      "votes": 17910,
+      "candidate_uuid": "d06a643e-5325-44ea-835c-1a080e71fc07",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายณษกร เครือศิริ",
+      "party": "เพื่อไทย",
+      "votes": 4270,
+      "candidate_uuid": "cb094519-e93b-4f61-afce-56e85d594d5f",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวภัทรสุดา บุษรานันท์",
+      "party": "ประชาธิปัตย์",
+      "votes": 795,
+      "candidate_uuid": "9b37c230-ff4b-4303-833f-b9eac637b1ea",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพณศธร อยู่ประเสริฐ",
+      "party": "กล้าธรรม",
+      "votes": 366,
+      "candidate_uuid": "7fb97b46-d97c-4b9e-b29c-469a711f0fd9",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "พันเอก พิทักษ์ ทิพมาศ",
+      "party": "พลังประชารัฐ",
+      "votes": 304,
+      "candidate_uuid": "802157b6-1edb-4373-828f-17c08947fa72",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

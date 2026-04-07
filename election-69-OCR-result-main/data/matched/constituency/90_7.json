@@ -1,0 +1,153 @@
+{
+  "province_name": "สงขลา",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126580,
+    "1.2": 98801,
+    "2.1": 124820,
+    "2.2": 98801,
+    "2.3": 26019,
+    "3.1": 94901,
+    "3.2": 69,
+    "3.3": 3831,
+    "3.4": 98801,
+    "4.1": 93120,
+    "4.2": 2797,
+    "4.3": 2884
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายณัฏฐ์ชนน ศรีก่อเกื้อ",
+      "party": "ภูมิใจไทย",
+      "votes": 36128
+    },
+    {
+      "number": 3,
+      "name": "นายเพ็ชร อุ่นแดง",
+      "party": "กล้าธรรม",
+      "votes": 26269
+    },
+    {
+      "number": 4,
+      "name": "นายศิริโชค โสภา",
+      "party": "ประชาธิปัตย์",
+      "votes": 19025
+    },
+    {
+      "number": 6,
+      "name": "นายดัยลามี เบ็ญบาเห็ม",
+      "party": "ประชาชน",
+      "votes": 8005
+    },
+    {
+      "number": 1,
+      "name": "นายดุลยรัตน์ บูยูโต๊ะ",
+      "party": "ประชาชาติ",
+      "votes": 2694
+    },
+    {
+      "number": 7,
+      "name": "นายสนิท วัฒนสุข",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 414
+    },
+    {
+      "number": 5,
+      "name": "นายสมาท สะอาดวารี",
+      "party": "เพื่อไทย",
+      "votes": 350
+    },
+    {
+      "number": 8,
+      "name": "ร้อยตำรวจเอกสมพงค์ ทองบริบูรณ์",
+      "party": "เศรษฐกิจ",
+      "votes": 235
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/58. สงขลา เขต 7.json",
+  "_validation": {
+    "vote_sum": 93120,
+    "good_votes": 93120,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "90",
+  "province_name_normalized": "สงขลา",
+  "summary": {
+    "eligible_voters": 126580,
+    "voters_came": 98801,
+    "ballots_received": 124820,
+    "ballots_used": 98801,
+    "good_votes": 93120,
+    "invalid_votes": 2797,
+    "no_votes": 2884
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายณัฏฐ์ชนน ศรีก่อเกื้อ",
+      "party": "ภูมิใจไทย",
+      "votes": 36128,
+      "candidate_uuid": "1395fcee-0c54-40b1-8a9b-16ecb83207e2",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเพ็ชร อุ่นแดง",
+      "party": "กล้าธรรม",
+      "votes": 26269,
+      "candidate_uuid": "a88538b0-172d-4ec1-ad46-490e540396b6",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายศิริโชค โสภา",
+      "party": "ประชาธิปัตย์",
+      "votes": 19025,
+      "candidate_uuid": "0401d5ab-4dc7-4f93-ba9d-448e01247fe0",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายดัยลามี เบ็ญบาเห็ม",
+      "party": "ประชาชน",
+      "votes": 8005,
+      "candidate_uuid": "aa97b7de-9a33-468f-8daf-3c98c9ddb4ef",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายดุลยรัตน์ บูยูโต๊ะ",
+      "party": "ประชาชาติ",
+      "votes": 2694,
+      "candidate_uuid": "75ee6867-498b-4682-9979-9ecec841aa69",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสนิท วัฒนสุข",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 414,
+      "candidate_uuid": "390e66d6-08ce-462e-b30a-fd9e8430c92e",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสมาท สะอาดวารี",
+      "party": "เพื่อไทย",
+      "votes": 350,
+      "candidate_uuid": "3af01a57-9236-4d48-a45f-c7dcc62fb6f6",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "ร้อยตำรวจเอกสมพงค์ ทองบริบูรณ์",
+      "party": "เศรษฐกิจ",
+      "votes": 235,
+      "candidate_uuid": "e47966d3-0991-4678-90f4-1fb5fe18d3f3",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

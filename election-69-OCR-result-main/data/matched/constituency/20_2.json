@@ -1,0 +1,153 @@
+{
+  "province_name": "ชลบุรี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 113941,
+    "1.2": 84051,
+    "2.1": 116080,
+    "2.2": 84051,
+    "2.3": 32029,
+    "3.1": 80642,
+    "3.2": 9,
+    "3.3": 3400,
+    "3.4": 84051,
+    "4.1": 78825,
+    "4.2": 1889,
+    "4.3": 3337
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาววรรณิดา นพสิทธิ์",
+      "party": "ประชาชน",
+      "votes": 30061
+    },
+    {
+      "number": 3,
+      "name": "ร้อยเอกธนวัฒน์ ภาวสุทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 28820
+    },
+    {
+      "number": 5,
+      "name": "ร้อยเอกจองชัย วงศ์ทรายทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 14341
+    },
+    {
+      "number": 6,
+      "name": "นายคงพัชร ไขรัศมี",
+      "party": "เพื่อไทย",
+      "votes": 3085
+    },
+    {
+      "number": 7,
+      "name": "นายภักดี โพธิ์แก้ว",
+      "party": "เศรษฐกิจ",
+      "votes": 1131
+    },
+    {
+      "number": 2,
+      "name": "นายสวัสดิ์ชัย แจ่มจำรัส",
+      "party": "ไทยภักดี",
+      "votes": 827
+    },
+    {
+      "number": 8,
+      "name": "นายบรรณวัฒน์ บุพพัณหสมัย",
+      "party": "ปวงชนไทย",
+      "votes": 281
+    },
+    {
+      "number": 9,
+      "name": "นายชัยชนะ อาจวารินทร์",
+      "party": "พลังประชารัฐ",
+      "votes": 279
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/9. ชลบุรี เขต 2.json",
+  "_validation": {
+    "vote_sum": 78825,
+    "good_votes": 78825,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "20",
+  "province_name_normalized": "ชลบุรี",
+  "summary": {
+    "eligible_voters": 113941,
+    "voters_came": 84051,
+    "ballots_received": 116080,
+    "ballots_used": 84051,
+    "good_votes": 78825,
+    "invalid_votes": 1889,
+    "no_votes": 3337
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาววรรณิดา นพสิทธิ์",
+      "party": "ประชาชน",
+      "votes": 30061,
+      "candidate_uuid": "1253f55e-4f57-42df-a133-385ab0aa4549",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ร้อยเอกธนวัฒน์ ภาวสุทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 28820,
+      "candidate_uuid": "9bd7ffbd-dc35-4bd3-bf4d-2c7c602f91c5",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "ร้อยเอกจองชัย วงศ์ทรายทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 14341,
+      "candidate_uuid": "b97776af-777e-4bae-9e8d-4cc6bb59b2c6",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายคงพัชร ไขรัศมี",
+      "party": "เพื่อไทย",
+      "votes": 3085,
+      "candidate_uuid": "399376c4-ce66-4d4c-b875-5657c09880da",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายภักดี โพธิ์แก้ว",
+      "party": "เศรษฐกิจ",
+      "votes": 1131,
+      "candidate_uuid": "e2de183f-6648-4162-b57f-284a871ccb22",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสวัสดิ์ชัย แจ่มจำรัส",
+      "party": "ไทยภักดี",
+      "votes": 827,
+      "candidate_uuid": "9aa47876-8cb8-4b85-a200-f4510565ef9f",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายบรรณวัฒน์ บุพพัณหสมัย",
+      "party": "ปวงชนไทย",
+      "votes": 281,
+      "candidate_uuid": "b3659f70-6295-4990-85b4-45c0087762dd",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายชัยชนะ อาจวารินทร์",
+      "party": "พลังประชารัฐ",
+      "votes": 279,
+      "candidate_uuid": "d7338891-4e1c-4da7-91b3-573387dd5d9c",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

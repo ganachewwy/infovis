@@ -1,0 +1,181 @@
+{
+  "province_name": "อุดรธานี",
+  "constituency_number": 7,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 128249,
+    "1.2": 77512,
+    "2.1": 124620,
+    "2.2": 77512,
+    "2.3": 47108,
+    "3.1": 72592,
+    "3.2": 0,
+    "3.3": 4920,
+    "3.4": 77512,
+    "4.1": 71025,
+    "4.2": 3440,
+    "4.3": 3047
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นายสุริยา วงศ์อารีย์",
+      "party": "ประชาชน",
+      "votes": 28786
+    },
+    {
+      "number": 6,
+      "name": "นายธีระชัย แสนแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 27904
+    },
+    {
+      "number": 3,
+      "name": "นายจักรพรรดิ ไชยสาส์น",
+      "party": "ไทยสร้างไทย",
+      "votes": 3925
+    },
+    {
+      "number": 8,
+      "name": "นายคำมอน แสงดี",
+      "party": "ภูมิใจไทย",
+      "votes": 3180
+    },
+    {
+      "number": 9,
+      "name": "นางสาวอรัญญา ใจมั่น",
+      "party": "พลังประชารัฐ",
+      "votes": 2408
+    },
+    {
+      "number": 10,
+      "name": "นายกฤษฎา ศรีสุชาติ",
+      "party": "เศรษฐกิจ",
+      "votes": 1637
+    },
+    {
+      "number": 11,
+      "name": "นายชูศักดิ์ กุลธวัชวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1003
+    },
+    {
+      "number": 2,
+      "name": "นายนรเศรษฐ แก้วมาตร",
+      "party": "กล้าธรรม",
+      "votes": 843
+    },
+    {
+      "number": 4,
+      "name": "นายทรงกิตติ สุวรรณทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 750
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐภณ ทาปุ๋ย",
+      "party": "ไทยก้าวใหม่",
+      "votes": 589
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/74. อุดรธานี เขต 7.json",
+  "_validation": {
+    "vote_sum": 71025,
+    "good_votes": 71025,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "41",
+  "province_name_normalized": "อุดรธานี",
+  "summary": {
+    "eligible_voters": 128249,
+    "voters_came": 77512,
+    "ballots_received": 124620,
+    "ballots_used": 77512,
+    "good_votes": 71025,
+    "invalid_votes": 3440,
+    "no_votes": 3047
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นายสุริยา วงศ์อารีย์",
+      "party": "ประชาชน",
+      "votes": 28786,
+      "candidate_uuid": "e1a70e1d-1542-4415-9e98-073ef8abff68",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธีระชัย แสนแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 27904,
+      "candidate_uuid": "037343f9-6f19-47a3-bb3a-66b84260fe91",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายจักรพรรดิ ไชยสาส์น",
+      "party": "ไทยสร้างไทย",
+      "votes": 3925,
+      "candidate_uuid": "c63c2114-4061-4cf7-bad1-25e90953355c",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายคำมอน แสงดี",
+      "party": "ภูมิใจไทย",
+      "votes": 3180,
+      "candidate_uuid": "1a0d964d-60e5-42af-9980-91792a3a18fc",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวอรัญญา ใจมั่น",
+      "party": "พลังประชารัฐ",
+      "votes": 2408,
+      "candidate_uuid": "b8ad1361-adee-41b6-b9ad-c923a14f8105",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายกฤษฎา ศรีสุชาติ",
+      "party": "เศรษฐกิจ",
+      "votes": 1637,
+      "candidate_uuid": "4b039cc0-1219-44d0-a19e-9259128b9dee",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายชูศักดิ์ กุลธวัชวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 1003,
+      "candidate_uuid": "1f645f1a-ccca-4f6c-9c78-a3ac1545edf7",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนรเศรษฐ แก้วมาตร",
+      "party": "กล้าธรรม",
+      "votes": 843,
+      "candidate_uuid": "6cddd325-b353-4a59-9b81-240e3b583a5e",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายทรงกิตติ สุวรรณทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 750,
+      "candidate_uuid": "485f713b-0133-47f5-95db-54ffff790e61",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายณัฐภณ ทาปุ๋ย",
+      "party": "ไทยก้าวใหม่",
+      "votes": 589,
+      "candidate_uuid": "54112e01-e186-42e6-adc1-abe216a076a9",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

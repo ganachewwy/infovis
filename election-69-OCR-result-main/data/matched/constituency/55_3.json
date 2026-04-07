@@ -1,0 +1,181 @@
+{
+  "province_name": "น่าน",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 119751,
+    "1.2": 89542,
+    "2.1": 123591,
+    "2.2": 89542,
+    "2.3": 34049,
+    "3.1": 81168,
+    "3.2": 3,
+    "3.3": 8371,
+    "3.4": 89542,
+    "4.1": 79242,
+    "4.2": 5479,
+    "4.3": 4820
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายณัฐพงษ์ สุปริยศิลป์",
+      "party": "เพื่อไทย",
+      "votes": 16170
+    },
+    {
+      "number": 2,
+      "name": "นายเจริญ อภิภัทรโกศล",
+      "party": "ประชาชน",
+      "votes": 26189
+    },
+    {
+      "number": 3,
+      "name": "นางสาวปกินพิทย์ พงศ์ศิริเมธี",
+      "party": "ภูมิใจไทย",
+      "votes": 6935
+    },
+    {
+      "number": 4,
+      "name": "พันโทสุชิน ชยศักดิ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 5738
+    },
+    {
+      "number": 5,
+      "name": "นายเรืองเดช จอมเมือง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1560
+    },
+    {
+      "number": 6,
+      "name": "นายรัฐภูมิ ขันสลี",
+      "party": "กล้าธรรม",
+      "votes": 11813
+    },
+    {
+      "number": 7,
+      "name": "นายมงคล วงศ์วรัณ",
+      "party": "ไทยภักดี",
+      "votes": 2889
+    },
+    {
+      "number": 8,
+      "name": "นายฉัตรชัย จิตตรง",
+      "party": "พลังประชารัฐ",
+      "votes": 5331
+    },
+    {
+      "number": 9,
+      "name": "นายณัฐพงษ์ ไชยศิลป์",
+      "party": "โอกาสใหม่",
+      "votes": 1338
+    },
+    {
+      "number": 10,
+      "name": "นายสัมฤทธิ์ คำรังษี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1279
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/26. น่าน เขต 3.json",
+  "_validation": {
+    "vote_sum": 79242,
+    "good_votes": 79242,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "55",
+  "province_name_normalized": "น่าน",
+  "summary": {
+    "eligible_voters": 119751,
+    "voters_came": 89542,
+    "ballots_received": 123591,
+    "ballots_used": 89542,
+    "good_votes": 79242,
+    "invalid_votes": 5479,
+    "no_votes": 4820
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายณัฐพงษ์ สุปริยศิลป์",
+      "party": "เพื่อไทย",
+      "votes": 16170,
+      "candidate_uuid": "c6d6aee1-caab-4987-870c-4d746528b748",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายเจริญ อภิภัทรโกศล",
+      "party": "ประชาชน",
+      "votes": 26189,
+      "candidate_uuid": "043f4b33-0c83-4f66-9778-96099b783935",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวปกินพิทย์ พงศ์ศิริเมธี",
+      "party": "ภูมิใจไทย",
+      "votes": 6935,
+      "candidate_uuid": "4f605def-de4d-4740-a9c9-5d053aaa5725",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "พันโทสุชิน ชยศักดิ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 5738,
+      "candidate_uuid": "b1851e19-3cf9-40c1-b2ea-105557c2beef",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเรืองเดช จอมเมือง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1560,
+      "candidate_uuid": "224ffd79-a9f4-4832-b2af-dbb595a9cc06",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายรัฐภูมิ ขันสลี",
+      "party": "กล้าธรรม",
+      "votes": 11813,
+      "candidate_uuid": "ff8038be-be48-4706-99b7-635dccb1ceb9",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายมงคล วงศ์วรัณ",
+      "party": "ไทยภักดี",
+      "votes": 2889,
+      "candidate_uuid": "67c1b64b-73e5-4479-9df7-b022861b3518",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายฉัตรชัย จิตตรง",
+      "party": "พลังประชารัฐ",
+      "votes": 5331,
+      "candidate_uuid": "8f48f925-20c5-4ec0-9492-1efaa8695c3f",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายณัฐพงษ์ ไชยศิลป์",
+      "party": "โอกาสใหม่",
+      "votes": 1338,
+      "candidate_uuid": "5ceb4d79-a1b5-4e70-945b-ab2c509ff985",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายสัมฤทธิ์ คำรังษี",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1279,
+      "candidate_uuid": "6988c098-e27e-4b0e-b13b-ade1b5405a43",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

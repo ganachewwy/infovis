@@ -1,0 +1,139 @@
+{
+  "province_name": "สตูล",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 116489,
+    "1.2": 88455,
+    "2.1": 119998,
+    "2.2": 88455,
+    "2.3": 31543,
+    "3.1": 83157,
+    "3.2": 33,
+    "3.3": 5265,
+    "3.4": 88455,
+    "4.1": 81311,
+    "4.2": 2515,
+    "4.3": 4629
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายพีรพัฒน์ รัชกิจประการ",
+      "party": "ภูมิใจไทย",
+      "votes": 38100
+    },
+    {
+      "number": 7,
+      "name": "นายสุลต่าน อิสมาแอลชาห์",
+      "party": "กล้าธรรม",
+      "votes": 17251
+    },
+    {
+      "number": 1,
+      "name": "นายบุคอรีย์ สนูวงศ์",
+      "party": "ประชาชน",
+      "votes": 17149
+    },
+    {
+      "number": 4,
+      "name": "นายวัชรพงศ์ เกษา",
+      "party": "ประชาธิปัตย์",
+      "votes": 6235
+    },
+    {
+      "number": 2,
+      "name": "นายณัฐพล สาดอาหลี",
+      "party": "เพื่อไทย",
+      "votes": 1582
+    },
+    {
+      "number": 5,
+      "name": "นายธนาคม พจนาพิทักษ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 535
+    },
+    {
+      "number": 6,
+      "name": "นายนาวี พรหมทรัพย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 459
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/59. สตูล เขต 1.json",
+  "_validation": {
+    "vote_sum": 81311,
+    "good_votes": 81311,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "91",
+  "province_name_normalized": "สตูล",
+  "summary": {
+    "eligible_voters": 116489,
+    "voters_came": 88455,
+    "ballots_received": 119998,
+    "ballots_used": 88455,
+    "good_votes": 81311,
+    "invalid_votes": 2515,
+    "no_votes": 4629
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายพีรพัฒน์ รัชกิจประการ",
+      "party": "ภูมิใจไทย",
+      "votes": 38100,
+      "candidate_uuid": "c8190b75-0d22-4047-814c-cfe94562b05c",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสุลต่าน อิสมาแอลชาห์",
+      "party": "กล้าธรรม",
+      "votes": 17251,
+      "candidate_uuid": "5c59b128-70ff-4639-a79a-1ecfb5a1468f",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายบุคอรีย์ สนูวงศ์",
+      "party": "ประชาชน",
+      "votes": 17149,
+      "candidate_uuid": "be078c4c-d60d-4f1e-b25b-faa7f079dd94",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวัชรพงศ์ เกษา",
+      "party": "ประชาธิปัตย์",
+      "votes": 6235,
+      "candidate_uuid": "dc96c15d-baf1-4467-a75e-dfd8ba1fc16c",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายณัฐพล สาดอาหลี",
+      "party": "เพื่อไทย",
+      "votes": 1582,
+      "candidate_uuid": "c7c6f184-0243-4d72-91de-74cdb51612be",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายธนาคม พจนาพิทักษ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 535,
+      "candidate_uuid": "4f7efe44-81f2-498d-9143-db9b0175d71e",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายนาวี พรหมทรัพย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 459,
+      "candidate_uuid": "1853e305-2aea-4e91-b267-92c1da4785e2",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

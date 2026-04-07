@@ -1,0 +1,209 @@
+{
+  "province_name": "ชลบุรี",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 138584,
+    "1.2": 96545,
+    "2.1": 141533,
+    "2.2": 96545,
+    "2.3": 44988,
+    "3.1": 93044,
+    "3.2": 8,
+    "3.3": 3493,
+    "3.4": 96545,
+    "4.1": 89423,
+    "4.2": 2214,
+    "4.3": 4908
+  },
+  "results": [
+    {
+      "number": 7,
+      "name": "นางนฤมาศ เปี่ยมบัณฑิต",
+      "party": "ประชาชน",
+      "votes": 41248
+    },
+    {
+      "number": 8,
+      "name": "นายสุรสิทธิ์ นิธิวุฒิวรรักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34860
+    },
+    {
+      "number": 1,
+      "name": "นายษรกฤต ผลลูกอินทร์",
+      "party": "เพื่อไทย",
+      "votes": 3877
+    },
+    {
+      "number": 5,
+      "name": "นายธนกร รักวงศ์อาชีพ",
+      "party": "ประชาธิปัตย์",
+      "votes": 3241
+    },
+    {
+      "number": 6,
+      "name": "นายปรมินทร์ จารุทัศน์โรจน์",
+      "party": "ไทยภักดี",
+      "votes": 1647
+    },
+    {
+      "number": 13,
+      "name": "นายชยางกูร ธรรมภรณ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1530
+    },
+    {
+      "number": 4,
+      "name": "นางสาวกฤษฎ์ ชีวะธรรมานนท์",
+      "party": "กล้าธรรม",
+      "votes": 910
+    },
+    {
+      "number": 9,
+      "name": "นายนิติกร คงทอง",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 684
+    },
+    {
+      "number": 11,
+      "name": "นายวิรัช นิลวดี",
+      "party": "พลังประชารัฐ",
+      "votes": 674
+    },
+    {
+      "number": 2,
+      "name": "นายสุพจน์ ทัพมงคล",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 321
+    },
+    {
+      "number": 3,
+      "name": "นายนิธิพจน์ สามงามนุ",
+      "party": "ปวงชนไทย",
+      "votes": 268
+    },
+    {
+      "number": 10,
+      "name": "นายสมพร โชคชัยชาญวุฒิ",
+      "party": "คลองไทย",
+      "votes": 163
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/9. ชลบุรี เขต 6.json",
+  "_validation": {
+    "vote_sum": 89423,
+    "good_votes": 89423,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "20",
+  "province_name_normalized": "ชลบุรี",
+  "summary": {
+    "eligible_voters": 138584,
+    "voters_came": 96545,
+    "ballots_received": 141533,
+    "ballots_used": 96545,
+    "good_votes": 89423,
+    "invalid_votes": 2214,
+    "no_votes": 4908
+  },
+  "matched_candidates": [
+    {
+      "number": 7,
+      "name": "นางนฤมาศ เปี่ยมบัณฑิต",
+      "party": "ประชาชน",
+      "votes": 41248,
+      "candidate_uuid": "12850430-bcb3-4cda-8154-88703a35a3d6",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสุรสิทธิ์ นิธิวุฒิวรรักษ์",
+      "party": "ภูมิใจไทย",
+      "votes": 34860,
+      "candidate_uuid": "4b0063a9-6eb3-4166-8946-7bbb60efc71c",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายษรกฤต ผลลูกอินทร์",
+      "party": "เพื่อไทย",
+      "votes": 3877,
+      "candidate_uuid": "b9e83fc7-82e8-40c2-80a2-5df85e8a1c5d",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายธนกร รักวงศ์อาชีพ",
+      "party": "ประชาธิปัตย์",
+      "votes": 3241,
+      "candidate_uuid": "4cf13bfb-9a4e-49c3-ab55-25e95b44432e",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปรมินทร์ จารุทัศน์โรจน์",
+      "party": "ไทยภักดี",
+      "votes": 1647,
+      "candidate_uuid": "a86f49ba-7506-4d29-b6f1-341c671cbd67",
+      "is_active": true
+    },
+    {
+      "number": 13,
+      "name": "นายชยางกูร ธรรมภรณ์",
+      "party": "เศรษฐกิจ",
+      "votes": 1530,
+      "candidate_uuid": "1f29c9e9-ebbe-4fb3-8e7d-8ff4a7d26218",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวกฤษฎ์ ชีวะธรรมานนท์",
+      "party": "กล้าธรรม",
+      "votes": 910,
+      "candidate_uuid": "5bc99308-c18d-4026-a55e-f18b79c2406e",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายนิติกร คงทอง",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 684,
+      "candidate_uuid": "89c0070b-dd8b-454b-b9e1-750b4823a504",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายวิรัช นิลวดี",
+      "party": "พลังประชารัฐ",
+      "votes": 674,
+      "candidate_uuid": "8e787483-dad4-4276-b19f-b53b86457306",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสุพจน์ ทัพมงคล",
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 321,
+      "candidate_uuid": "245f527d-fc46-45b4-a8d5-eea33059342e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายนิธิพจน์ สามงามนุ",
+      "party": "ปวงชนไทย",
+      "votes": 268,
+      "candidate_uuid": "c37ea128-f209-4633-bc88-9eca753e230a",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นายสมพร โชคชัยชาญวุฒิ",
+      "party": "คลองไทย",
+      "votes": 163,
+      "candidate_uuid": "d136788a-a629-4324-8e99-113781fc1196",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

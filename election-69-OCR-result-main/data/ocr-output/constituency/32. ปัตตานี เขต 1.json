@@ -1,0 +1,69 @@
+{
+  "province_name": "ปัตตานี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 95574,
+    "1.2": 74215,
+    "2.1": 96366,
+    "2.2": 74215,
+    "2.3": 22551,
+    "3.1": 69572,
+    "3.2": 24,
+    "3.3": 4619,
+    "3.4": 74215,
+    "4.1": 69214,
+    "4.2": 2134,
+    "4.3": 2867
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายบาฮารุดดีน ยูโซะ",
+      "party": "ภูมิใจไทย",
+      "votes": 24377
+    },
+    {
+      "number": 3,
+      "name": "นางสาวเพชรดาว โต๊ะมีนา",
+      "party": "กล้าธรรม",
+      "votes": 16415
+    },
+    {
+      "number": 6,
+      "name": "ผศ.วรวิทย์ บารู",
+      "party": "ประชาชาติ",
+      "votes": 13994
+    },
+    {
+      "number": 1,
+      "name": "นายไวชิต อุดมวนิช",
+      "party": "ประชาชน",
+      "votes": 10859
+    },
+    {
+      "number": 2,
+      "name": "นายชารีฟุดดีน สารีมิง",
+      "party": "ประชาธิปัตย์",
+      "votes": 2718
+    },
+    {
+      "number": 4,
+      "name": "นายมานต์ เบ็ญนา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 471
+    },
+    {
+      "number": 7,
+      "name": "นายสมบูรณ์ สีแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 380
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/32. ปัตตานี เขต 1.pdf",
+  "_validation": {
+    "vote_sum": 69214,
+    "good_votes": 69214,
+    "sum_diff_pct": 0.0
+  }
+}

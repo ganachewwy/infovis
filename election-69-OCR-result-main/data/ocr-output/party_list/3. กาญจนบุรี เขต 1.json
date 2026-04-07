@@ -1,0 +1,312 @@
+{
+  "province_name": "กาญจนบุรี",
+  "constituency_number": 1,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 133198,
+    "1.2": 96563,
+    "2.1": 133671,
+    "2.2": 96563,
+    "2.3": 37108,
+    "3.1": 89370,
+    "3.2": 35,
+    "3.3": 7158,
+    "3.4": 96563,
+    "4.1": 86461,
+    "4.2": 4938,
+    "4.3": 5164
+  },
+  "results": [
+    {
+      "number": 2,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 568
+    },
+    {
+      "number": 3,
+      "party": "เพื่อชาติไทย",
+      "votes": 1459
+    },
+    {
+      "number": 4,
+      "party": "ใหม่",
+      "votes": 283
+    },
+    {
+      "number": 5,
+      "party": "มิติใหม่",
+      "votes": 267
+    },
+    {
+      "number": 6,
+      "party": "รวมใจไทย",
+      "votes": 3076
+    },
+    {
+      "number": 7,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 3710
+    },
+    {
+      "number": 8,
+      "party": "พลวัต",
+      "votes": 190
+    },
+    {
+      "number": 9,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 723
+    },
+    {
+      "number": 10,
+      "party": "เพื่อไทย",
+      "votes": 13217
+    },
+    {
+      "number": 11,
+      "party": "ทางเลือกใหม่",
+      "votes": 699
+    },
+    {
+      "number": 12,
+      "party": "เศรษฐกิจ",
+      "votes": 3961
+    },
+    {
+      "number": 13,
+      "party": "เสรีรวมไทย",
+      "votes": 667
+    },
+    {
+      "number": 14,
+      "party": "รวมพลังประชาชน",
+      "votes": 647
+    },
+    {
+      "number": 15,
+      "party": "ท้องที่ไทย",
+      "votes": 53
+    },
+    {
+      "number": 16,
+      "party": "อนาคตไทย",
+      "votes": 95
+    },
+    {
+      "number": 17,
+      "party": "พลังเพื่อไทย",
+      "votes": 275
+    },
+    {
+      "number": 18,
+      "party": "ไทยชนะ",
+      "votes": 108
+    },
+    {
+      "number": 19,
+      "party": "พลังสังคมใหม่",
+      "votes": 24
+    },
+    {
+      "number": 20,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 32
+    },
+    {
+      "number": 21,
+      "party": "ฟิวชัน",
+      "votes": 32
+    },
+    {
+      "number": 22,
+      "party": "ไทรวมพลัง",
+      "votes": 189
+    },
+    {
+      "number": 23,
+      "party": "ก้าวอิสระ",
+      "votes": 42
+    },
+    {
+      "number": 24,
+      "party": "ปวงชนไทย",
+      "votes": 389
+    },
+    {
+      "number": 25,
+      "party": "วิชชั่นใหม่",
+      "votes": 48
+    },
+    {
+      "number": 26,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 32
+    },
+    {
+      "number": 27,
+      "party": "คลองไทย",
+      "votes": 66
+    },
+    {
+      "number": 28,
+      "party": "ประชาธิปัตย์",
+      "votes": 6404
+    },
+    {
+      "number": 29,
+      "party": "ไทยก้าวหน้า",
+      "votes": 144
+    },
+    {
+      "number": 30,
+      "party": "ไทยภักดี",
+      "votes": 851
+    },
+    {
+      "number": 31,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 118
+    },
+    {
+      "number": 32,
+      "party": "ประชากรไทย",
+      "votes": 124
+    },
+    {
+      "number": 33,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 90
+    },
+    {
+      "number": 34,
+      "party": "ประชาชาติ",
+      "votes": 109
+    },
+    {
+      "number": 35,
+      "party": "สร้างอนาคตไทย",
+      "votes": 211
+    },
+    {
+      "number": 36,
+      "party": "รักชาติ",
+      "votes": 158
+    },
+    {
+      "number": 37,
+      "party": "ไทยพร้อม",
+      "votes": 111
+    },
+    {
+      "number": 38,
+      "party": "ภูมิใจไทย",
+      "votes": 14347
+    },
+    {
+      "number": 39,
+      "party": "พลังธรรมใหม่",
+      "votes": 119
+    },
+    {
+      "number": 40,
+      "party": "กรีน",
+      "votes": 66
+    },
+    {
+      "number": 41,
+      "party": "ไทยธรรม",
+      "votes": 44
+    },
+    {
+      "number": 42,
+      "party": "แผ่นดินธรรม",
+      "votes": 36
+    },
+    {
+      "number": 43,
+      "party": "กล้าธรรม",
+      "votes": 214
+    },
+    {
+      "number": 44,
+      "party": "พลังประชารัฐ",
+      "votes": 205
+    },
+    {
+      "number": 45,
+      "party": "โอกาสใหม่",
+      "votes": 58
+    },
+    {
+      "number": 46,
+      "party": "เป็นธรรม",
+      "votes": 74
+    },
+    {
+      "number": 47,
+      "party": "ประชาชน",
+      "votes": 31045
+    },
+    {
+      "number": 48,
+      "party": "ประชาไทย",
+      "votes": 104
+    },
+    {
+      "number": 49,
+      "party": "ไทยสร้างไทย",
+      "votes": 356
+    },
+    {
+      "number": 50,
+      "party": "ไทยก้าวใหม่",
+      "votes": 306
+    },
+    {
+      "number": 51,
+      "party": "ประชาอาสาชาติ",
+      "votes": 13
+    },
+    {
+      "number": 52,
+      "party": "พร้อม",
+      "votes": 79
+    },
+    {
+      "number": 53,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 18
+    },
+    {
+      "number": 54,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 17
+    },
+    {
+      "number": 55,
+      "party": "ความหวังใหม่",
+      "votes": 25
+    },
+    {
+      "number": 56,
+      "party": "ไทยรวมไทย",
+      "votes": 22
+    },
+    {
+      "number": 57,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 52
+    },
+    {
+      "number": 58,
+      "party": "พลังไทยรักชาติ",
+      "votes": 89
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/3. กาญจนบุรี เขต 1 (บช).pdf",
+  "_validation": {
+    "vote_sum": 86461,
+    "good_votes": 86461,
+    "sum_diff_pct": 0.0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "province_name": "อ่างทอง",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 112384,
+    "1.2": 86378,
+    "2.1": 112780,
+    "2.2": 86378,
+    "2.3": 26402,
+    "3.1": 83453,
+    "3.2": 10,
+    "3.3": 2915,
+    "3.4": 86378,
+    "4.1": 79838,
+    "4.2": 3301,
+    "4.3": 3239
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายกรวีร์ ปริศนานันทกุล",
+      "party": "ภูมิใจไทย",
+      "votes": 60611
+    },
+    {
+      "number": 1,
+      "name": "นายสาโรจน์ ฉ่ำจิตร",
+      "party": "ประชาชน",
+      "votes": 13876
+    },
+    {
+      "number": 3,
+      "name": "นายชวกร ศรีราชา",
+      "party": "เพื่อไทย",
+      "votes": 4149
+    },
+    {
+      "number": 4,
+      "name": "นายอนุรักษ์ อมรเมตตาจิต",
+      "party": "ประชาธิปัตย์",
+      "votes": 1202
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/72. อ่างทอง เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 79838,
+    "good_votes": 79838,
+    "sum_diff_pct": 0.0
+  }
+}

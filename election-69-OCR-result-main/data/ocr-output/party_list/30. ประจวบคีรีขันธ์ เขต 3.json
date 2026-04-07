@@ -1,0 +1,312 @@
+{
+  "province_name": "ประจวบคีรีขันธ์",
+  "constituency_number": 3,
+  "type": "party_list",
+  "summary_by_section": {
+    "1.1": 138338,
+    "1.2": 103420,
+    "2.1": 141516,
+    "2.2": 103420,
+    "2.3": 38096,
+    "3.1": 98144,
+    "3.2": 0,
+    "3.3": 5276,
+    "3.4": 103420,
+    "4.1": 96330,
+    "4.2": 4931,
+    "4.3": 2159
+  },
+  "results": [
+    {
+      "number": 1,
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 495
+    },
+    {
+      "number": 2,
+      "party": "เพื่อชาติไทย",
+      "votes": 2608
+    },
+    {
+      "number": 3,
+      "party": "ใหม่",
+      "votes": 311
+    },
+    {
+      "number": 4,
+      "party": "มิติใหม่",
+      "votes": 186
+    },
+    {
+      "number": 5,
+      "party": "รวมใจไทย",
+      "votes": 926
+    },
+    {
+      "number": 6,
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 2350
+    },
+    {
+      "number": 7,
+      "party": "พลวัต",
+      "votes": 1378
+    },
+    {
+      "number": 8,
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 1412
+    },
+    {
+      "number": 9,
+      "party": "เพื่อไทย",
+      "votes": 3402
+    },
+    {
+      "number": 10,
+      "party": "ทางเลือกใหม่",
+      "votes": 473
+    },
+    {
+      "number": 11,
+      "party": "เศรษฐกิจ",
+      "votes": 2545
+    },
+    {
+      "number": 12,
+      "party": "เสรีรวมไทย",
+      "votes": 272
+    },
+    {
+      "number": 13,
+      "party": "รวมพลังประชาชน",
+      "votes": 342
+    },
+    {
+      "number": 14,
+      "party": "ท้องที่ไทย",
+      "votes": 223
+    },
+    {
+      "number": 15,
+      "party": "อนาคตไทย",
+      "votes": 57
+    },
+    {
+      "number": 16,
+      "party": "พลังเพื่อไทย",
+      "votes": 115
+    },
+    {
+      "number": 17,
+      "party": "ไทยชนะ",
+      "votes": 132
+    },
+    {
+      "number": 18,
+      "party": "พลังสังคมใหม่",
+      "votes": 29
+    },
+    {
+      "number": 19,
+      "party": "สังคมประชาธิปไตยไทย",
+      "votes": 100
+    },
+    {
+      "number": 20,
+      "party": "ฟิวชัน",
+      "votes": 28
+    },
+    {
+      "number": 21,
+      "party": "ไทรวมพลัง",
+      "votes": 44
+    },
+    {
+      "number": 22,
+      "party": "ก้าวอิสระ",
+      "votes": 55
+    },
+    {
+      "number": 23,
+      "party": "ปวงชนไทย",
+      "votes": 64
+    },
+    {
+      "number": 24,
+      "party": "วิชชั่นใหม่",
+      "votes": 70
+    },
+    {
+      "number": 25,
+      "party": "เพื่อชีวิตใหม่",
+      "votes": 64
+    },
+    {
+      "number": 26,
+      "party": "คลองไทย",
+      "votes": 138
+    },
+    {
+      "number": 27,
+      "party": "ประชาธิปัตย์",
+      "votes": 30621
+    },
+    {
+      "number": 28,
+      "party": "ไทยก้าวหน้า",
+      "votes": 177
+    },
+    {
+      "number": 29,
+      "party": "ไทยภักดี",
+      "votes": 604
+    },
+    {
+      "number": 30,
+      "party": "แรงงานสร้างชาติ",
+      "votes": 89
+    },
+    {
+      "number": 31,
+      "party": "ประชากรไทย",
+      "votes": 155
+    },
+    {
+      "number": 32,
+      "party": "ครูไทยเพื่อประชาชน",
+      "votes": 106
+    },
+    {
+      "number": 33,
+      "party": "ประชาชาติ",
+      "votes": 147
+    },
+    {
+      "number": 34,
+      "party": "สร้างอนาคตไทย",
+      "votes": 136
+    },
+    {
+      "number": 35,
+      "party": "รักชาติ",
+      "votes": 128
+    },
+    {
+      "number": 36,
+      "party": "ไทยพร้อม",
+      "votes": 186
+    },
+    {
+      "number": 37,
+      "party": "ภูมิใจไทย",
+      "votes": 19733
+    },
+    {
+      "number": 38,
+      "party": "พลังธรรมใหม่",
+      "votes": 107
+    },
+    {
+      "number": 39,
+      "party": "กรีน",
+      "votes": 36
+    },
+    {
+      "number": 40,
+      "party": "ไทยธรรม",
+      "votes": 41
+    },
+    {
+      "number": 41,
+      "party": "แผ่นดินธรรม",
+      "votes": 29
+    },
+    {
+      "number": 42,
+      "party": "กล้าธรรม",
+      "votes": 1057
+    },
+    {
+      "number": 43,
+      "party": "พลังประชารัฐ",
+      "votes": 189
+    },
+    {
+      "number": 44,
+      "party": "โอกาสใหม่",
+      "votes": 34
+    },
+    {
+      "number": 45,
+      "party": "เป็นธรรม",
+      "votes": 50
+    },
+    {
+      "number": 46,
+      "party": "ประชาชน",
+      "votes": 21015
+    },
+    {
+      "number": 47,
+      "party": "ประชาไทย",
+      "votes": 222
+    },
+    {
+      "number": 48,
+      "party": "ไทยสร้างไทย",
+      "votes": 2992
+    },
+    {
+      "number": 49,
+      "party": "ไทยก้าวใหม่",
+      "votes": 314
+    },
+    {
+      "number": 50,
+      "party": "ประชาอาสาชาติ",
+      "votes": 4
+    },
+    {
+      "number": 51,
+      "party": "พร้อม",
+      "votes": 34
+    },
+    {
+      "number": 52,
+      "party": "เครือข่ายชาวนาแห่งประเทศไทย",
+      "votes": 47
+    },
+    {
+      "number": 53,
+      "party": "ไทยพิทักษ์ธรรม",
+      "votes": 6
+    },
+    {
+      "number": 54,
+      "party": "ความหวังใหม่",
+      "votes": 18
+    },
+    {
+      "number": 55,
+      "party": "ไทยรวมไทย",
+      "votes": 26
+    },
+    {
+      "number": 56,
+      "party": "เพื่อบ้านเมือง",
+      "votes": 148
+    },
+    {
+      "number": 57,
+      "party": "พลังไทยรักชาติ",
+      "votes": 60
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/party_list/30. ประจวบคีรีขันธ์ เขต 3 (บช).pdf",
+  "_validation": {
+    "vote_sum": 101930,
+    "good_votes": 96330,
+    "sum_diff_pct": 5.81
+  }
+}

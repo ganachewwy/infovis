@@ -1,0 +1,57 @@
+{
+  "province_name": "อุทัยธานี",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 134528,
+    "1.2": 83898,
+    "2.1": 134619,
+    "2.2": 83898,
+    "2.3": 50721,
+    "3.1": 78734,
+    "3.2": 7,
+    "3.3": 5157,
+    "3.4": 83898,
+    "4.1": 77470,
+    "4.2": 3461,
+    "4.3": 2967
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายชาดา ไทยเศรษฐ์",
+      "party": "ภูมิใจไทย",
+      "votes": 54284
+    },
+    {
+      "number": 3,
+      "name": "นางสาวสุชาดา บัวพันธ์",
+      "party": "ประชาชน",
+      "votes": 9062
+    },
+    {
+      "number": null,
+      "name": "นายอรรถพล โต๋วสัจจา",
+      "party": "เพื่อไทย",
+      "votes": 8033
+    },
+    {
+      "number": 4,
+      "name": "ร.ต.ศึกษา ฟุ้งเฟื่อง ร.น.",
+      "party": "ประชาธิปัตย์",
+      "votes": 5878
+    },
+    {
+      "number": 5,
+      "name": "นางสุพรรณษา นันทา",
+      "party": "กล้าธรรม",
+      "votes": 213
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/76. อุทัยธานี เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 77470,
+    "good_votes": 77470,
+    "sum_diff_pct": 0.0
+  }
+}

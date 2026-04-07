@@ -1,0 +1,167 @@
+{
+  "province_name": "น่าน",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 129540,
+    "1.2": 98561,
+    "2.1": 133247,
+    "2.2": 98561,
+    "2.3": 34686,
+    "3.1": 89496,
+    "3.2": 18,
+    "3.3": 9047,
+    "3.4": 98561,
+    "4.1": 90486,
+    "4.2": 3523,
+    "4.3": 4552
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายประสิทธิ์ โนทะ",
+      "party": "กล้าธรรม",
+      "votes": 38228
+    },
+    {
+      "number": 2,
+      "name": "นางสาวปาริชาติ ยาน้อย",
+      "party": "ประชาชน",
+      "votes": 28888
+    },
+    {
+      "number": 3,
+      "name": "นายชลน่าน ศรีแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 14002
+    },
+    {
+      "number": 4,
+      "name": "นายชัยวุฒิ คูอาริยะกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 2332
+    },
+    {
+      "number": 5,
+      "name": "นายนฤบดินทร์ เทพสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 1982
+    },
+    {
+      "number": 6,
+      "name": "นางจรวยพร อินสาค",
+      "party": "ประชาธิปัตย์",
+      "votes": 1784
+    },
+    {
+      "number": 7,
+      "name": "พันโทธีร์วัฒน์ เตชะบุญ",
+      "party": "เศรษฐกิจ",
+      "votes": 1650
+    },
+    {
+      "number": 8,
+      "name": "นายสิริไพศาล แสงประจักษ์",
+      "party": "ปวงชนไทย",
+      "votes": 953
+    },
+    {
+      "number": 9,
+      "name": "นายอดิเรก กองแก้ว",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 667
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/26. น่าน เขต 2.json",
+  "_validation": {
+    "vote_sum": 90486,
+    "good_votes": 90486,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "55",
+  "province_name_normalized": "น่าน",
+  "summary": {
+    "eligible_voters": 129540,
+    "voters_came": 98561,
+    "ballots_received": 133247,
+    "ballots_used": 98561,
+    "good_votes": 90486,
+    "invalid_votes": 3523,
+    "no_votes": 4552
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายประสิทธิ์ โนทะ",
+      "party": "กล้าธรรม",
+      "votes": 38228,
+      "candidate_uuid": "63b1bcd0-a46d-437f-910a-d2a98bf3f85f",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวปาริชาติ ยาน้อย",
+      "party": "ประชาชน",
+      "votes": 28888,
+      "candidate_uuid": "c1249b40-8c4b-44eb-8120-a327ef7328b4",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายชลน่าน ศรีแก้ว",
+      "party": "เพื่อไทย",
+      "votes": 14002,
+      "candidate_uuid": "2ce655a6-e1d0-4a69-90e1-408d9cde39ff",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายชัยวุฒิ คูอาริยะกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 2332,
+      "candidate_uuid": "184be803-95c0-461c-bda8-a59e85e677f8",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายนฤบดินทร์ เทพสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 1982,
+      "candidate_uuid": "26353ef7-76f5-496a-b433-c4137b3df8e8",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางจรวยพร อินสาค",
+      "party": "ประชาธิปัตย์",
+      "votes": 1784,
+      "candidate_uuid": "bab7587b-60d7-42e9-ab2a-ec4118132be5",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "พันโทธีร์วัฒน์ เตชะบุญ",
+      "party": "เศรษฐกิจ",
+      "votes": 1650,
+      "candidate_uuid": "dda857ad-3f21-4882-bf1f-bb6beb386ad9",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสิริไพศาล แสงประจักษ์",
+      "party": "ปวงชนไทย",
+      "votes": 953,
+      "candidate_uuid": "691aa6d9-0b72-4c12-83b3-d60bf399b793",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายอดิเรก กองแก้ว",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 667,
+      "candidate_uuid": "958a5a31-8aeb-4c85-aab6-5f64450a6984",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

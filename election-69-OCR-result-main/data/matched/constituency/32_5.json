@@ -1,0 +1,195 @@
+{
+  "province_name": "สุรินทร์",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 135454,
+    "1.2": 82574,
+    "2.1": 141196,
+    "2.2": 82574,
+    "2.3": 58622,
+    "3.1": 73618,
+    "3.2": 0,
+    "3.3": 8956,
+    "3.4": 82574,
+    "4.1": 79444,
+    "4.2": 2057,
+    "4.3": 1073
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายภุชงค์ สุภัควรางกูร",
+      "party": "ภูมิใจไทย",
+      "votes": 41671
+    },
+    {
+      "number": 1,
+      "name": "นางฟาริดา สุไลมาน",
+      "party": "กล้าธรรม",
+      "votes": 17798
+    },
+    {
+      "number": 2,
+      "name": "นางสาวทัตพิชา เข็มแก้ว",
+      "party": "ประชาชน",
+      "votes": 11277
+    },
+    {
+      "number": 5,
+      "name": "นายครูมานิตย์ สังข์พุ่ม",
+      "party": "เพื่อไทย",
+      "votes": 6095
+    },
+    {
+      "number": 9,
+      "name": "นายกิติพงษ์ สิทธินาม",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 828
+    },
+    {
+      "number": 7,
+      "name": "นายวัน หยิบล้ำ",
+      "party": "เศรษฐกิจ",
+      "votes": 476
+    },
+    {
+      "number": 6,
+      "name": "นายภูมิสิน การะเวก",
+      "party": "ประชาธิปัตย์",
+      "votes": 302
+    },
+    {
+      "number": 3,
+      "name": "นายสมานมิตร จิตหนักแน่น",
+      "party": "พลังสังคมใหม่",
+      "votes": 290
+    },
+    {
+      "number": 11,
+      "name": "นายสนิธ สังขะพงษ์",
+      "party": "ปวงชนไทย",
+      "votes": 288
+    },
+    {
+      "number": 10,
+      "name": "นางสาวจินตนา กลั่นแก้ว",
+      "party": "สร้างอนาคตไทย",
+      "votes": 246
+    },
+    {
+      "number": 8,
+      "name": "นายรังสิทธิ์ วุฒิสุทธิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 173
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/69. สุรินทร์ เขต 5.json",
+  "_validation": {
+    "vote_sum": 79444,
+    "good_votes": 79444,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "32",
+  "province_name_normalized": "สุรินทร์",
+  "summary": {
+    "eligible_voters": 135454,
+    "voters_came": 82574,
+    "ballots_received": 141196,
+    "ballots_used": 82574,
+    "good_votes": 79444,
+    "invalid_votes": 2057,
+    "no_votes": 1073
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายภุชงค์ สุภัควรางกูร",
+      "party": "ภูมิใจไทย",
+      "votes": 41671,
+      "candidate_uuid": "52a27851-e871-4162-b129-d5690502dd9e",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางฟาริดา สุไลมาน",
+      "party": "กล้าธรรม",
+      "votes": 17798,
+      "candidate_uuid": "d93ec901-80b2-4aa6-824e-66b96a7f40f8",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวทัตพิชา เข็มแก้ว",
+      "party": "ประชาชน",
+      "votes": 11277,
+      "candidate_uuid": "48df93fb-517c-464d-9972-a6a94a5174b1",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายครูมานิตย์ สังข์พุ่ม",
+      "party": "เพื่อไทย",
+      "votes": 6095,
+      "candidate_uuid": "422715cf-1cef-47aa-9588-8149a990847e",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายกิติพงษ์ สิทธินาม",
+      "party": "แรงงานสร้างชาติ",
+      "votes": 828,
+      "candidate_uuid": "a17a6123-08a5-4927-a6cd-8f0668c666e4",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวัน หยิบล้ำ",
+      "party": "เศรษฐกิจ",
+      "votes": 476,
+      "candidate_uuid": "8da7b721-7ddb-4711-a16d-7ddf13026b0b",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายภูมิสิน การะเวก",
+      "party": "ประชาธิปัตย์",
+      "votes": 302,
+      "candidate_uuid": "ec105889-f17e-4079-b21c-47f1e5aec1d2",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสมานมิตร จิตหนักแน่น",
+      "party": "พลังสังคมใหม่",
+      "votes": 290,
+      "candidate_uuid": "9f7b6f84-ffc9-4b63-837c-ce6ebd958a44",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายสนิธ สังขะพงษ์",
+      "party": "ปวงชนไทย",
+      "votes": 288,
+      "candidate_uuid": "f6fd8d16-18fd-4e25-88d0-22eb68de9c21",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสาวจินตนา กลั่นแก้ว",
+      "party": "สร้างอนาคตไทย",
+      "votes": 246,
+      "candidate_uuid": "e21a8329-0740-4602-9c57-52c7f719f4b7",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายรังสิทธิ์ วุฒิสุทธิ์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 173,
+      "candidate_uuid": "62669ffd-6b7d-4e42-a92b-def769175755",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

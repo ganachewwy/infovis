@@ -1,0 +1,139 @@
+{
+  "province_name": "ยโสธร",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144704,
+    "1.2": 105736,
+    "2.1": 147054,
+    "2.2": 105736,
+    "2.3": 41318,
+    "3.1": 97183,
+    "3.2": 32,
+    "3.3": 8521,
+    "3.4": 105736,
+    "4.1": 100743,
+    "4.2": 2894,
+    "4.3": 2099
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นางสุภาพร สลับศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 49334
+    },
+    {
+      "number": 4,
+      "name": "นายวีระศักดิ์ โคตรสมบัติ",
+      "party": "เพื่อไทย",
+      "votes": 36586
+    },
+    {
+      "number": 3,
+      "name": "นางสาววชิราภรณ์ ชายทวีป",
+      "party": "ประชาชน",
+      "votes": 12755
+    },
+    {
+      "number": 1,
+      "name": "นายเนรมิต จันทร์ทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1258
+    },
+    {
+      "number": 7,
+      "name": "นายหวาง วงษ์ศรีแก้ว",
+      "party": "เศรษฐกิจ",
+      "votes": 417
+    },
+    {
+      "number": 5,
+      "name": "นายสราวุธ จะกะนอง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 207
+    },
+    {
+      "number": 6,
+      "name": "นายนิติธร จันทรบุตร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 186
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/46. ยโสธร เขต 1.json",
+  "_validation": {
+    "vote_sum": 100743,
+    "good_votes": 100743,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "35",
+  "province_name_normalized": "ยโสธร",
+  "summary": {
+    "eligible_voters": 144704,
+    "voters_came": 105736,
+    "ballots_received": 147054,
+    "ballots_used": 105736,
+    "good_votes": 100743,
+    "invalid_votes": 2894,
+    "no_votes": 2099
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นางสุภาพร สลับศรี",
+      "party": "ภูมิใจไทย",
+      "votes": 49334,
+      "candidate_uuid": "1c64fed5-7cd6-4f66-9e18-2e9a393e782a",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวีระศักดิ์ โคตรสมบัติ",
+      "party": "เพื่อไทย",
+      "votes": 36586,
+      "candidate_uuid": "86af9b77-d459-48b7-b96a-34cfe5b7364e",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาววชิราภรณ์ ชายทวีป",
+      "party": "ประชาชน",
+      "votes": 12755,
+      "candidate_uuid": "c2c5573d-dedf-4523-a5c0-6be6d669d942",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายเนรมิต จันทร์ทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1258,
+      "candidate_uuid": "0cb4568a-aa9e-4d57-9bfb-0fe6fefddf8a",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายหวาง วงษ์ศรีแก้ว",
+      "party": "เศรษฐกิจ",
+      "votes": 417,
+      "candidate_uuid": "8e36f860-7def-48ed-9e4b-eece8eac57f4",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายสราวุธ จะกะนอง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 207,
+      "candidate_uuid": "4e4c6b20-e823-4f48-873c-b5e18dbc95c0",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายนิติธร จันทรบุตร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 186,
+      "candidate_uuid": "53e75529-7ed0-48ed-801f-34a677c320b1",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,139 @@
+{
+  "province_name": "กระบี่",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 117641,
+    "1.2": 86116,
+    "2.1": 118407,
+    "2.2": 86116,
+    "2.3": 32291,
+    "3.1": 82144,
+    "3.2": 15,
+    "3.3": 3957,
+    "3.4": 86116,
+    "4.1": 78999,
+    "4.2": 2599,
+    "4.3": 4518
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายถิรเดช ตั้งมั่นก่อกิจ",
+      "party": "ภูมิใจไทย",
+      "votes": 42714
+    },
+    {
+      "number": 4,
+      "name": "นายกฤตพร บุษย์เพชร",
+      "party": "ประชาธิปัตย์",
+      "votes": 21242
+    },
+    {
+      "number": 5,
+      "name": "นางสาวรัตนภรณ์ ณ นคร",
+      "party": "ประชาชน",
+      "votes": 9433
+    },
+    {
+      "number": 6,
+      "name": "นายยุทธนา อ่าวลึกน้อย",
+      "party": "เพื่อไทย",
+      "votes": 2694
+    },
+    {
+      "number": 7,
+      "name": "นายวิชากร บุญฤทธิ์",
+      "party": "พลังประชารัฐ",
+      "votes": 1275
+    },
+    {
+      "number": 3,
+      "name": "นายสีหเดช แสงจันทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 828
+    },
+    {
+      "number": 9,
+      "name": "นายสมใจ นวลนุ่น",
+      "party": "ไทยก้าวใหม่",
+      "votes": 813
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/2. กระบี่ เขต 2.json",
+  "_validation": {
+    "vote_sum": 78999,
+    "good_votes": 78999,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "81",
+  "province_name_normalized": "กระบี่",
+  "summary": {
+    "eligible_voters": 117641,
+    "voters_came": 86116,
+    "ballots_received": 118407,
+    "ballots_used": 86116,
+    "good_votes": 78999,
+    "invalid_votes": 2599,
+    "no_votes": 4518
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายถิรเดช ตั้งมั่นก่อกิจ",
+      "party": "ภูมิใจไทย",
+      "votes": 42714,
+      "candidate_uuid": "6ebc6e51-62b9-4013-83ec-3c312f795b48",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายกฤตพร บุษย์เพชร",
+      "party": "ประชาธิปัตย์",
+      "votes": 21242,
+      "candidate_uuid": "2e7a0118-a6bc-48c9-8007-912253d05efe",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวรัตนภรณ์ ณ นคร",
+      "party": "ประชาชน",
+      "votes": 9433,
+      "candidate_uuid": "923f582e-088d-4fe2-9ebf-290d3dd48085",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายยุทธนา อ่าวลึกน้อย",
+      "party": "เพื่อไทย",
+      "votes": 2694,
+      "candidate_uuid": "97c893bb-c920-449e-92d5-3866dead3567",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายวิชากร บุญฤทธิ์",
+      "party": "พลังประชารัฐ",
+      "votes": 1275,
+      "candidate_uuid": "9e0d8835-afc8-490c-a7b5-115136bf54d9",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสีหเดช แสงจันทร์",
+      "party": "เศรษฐกิจ",
+      "votes": 828,
+      "candidate_uuid": "ec37d839-86f5-43bf-9a46-b7f5d6f170eb",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสมใจ นวลนุ่น",
+      "party": "ไทยก้าวใหม่",
+      "votes": 813,
+      "candidate_uuid": "c001f55e-d4e6-4f80-8e99-275d765f1535",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

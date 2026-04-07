@@ -1,0 +1,153 @@
+{
+  "province_name": "ยโสธร",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 146753,
+    "1.2": 99570,
+    "2.1": 146120,
+    "2.2": 99570,
+    "2.3": 46550,
+    "3.1": 92097,
+    "3.2": 6,
+    "3.3": 7467,
+    "3.4": 99570,
+    "4.1": 93914,
+    "4.2": 3651,
+    "4.3": 2005
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายธนพัฒน์ ศรีชนะ",
+      "party": "ภูมิใจไทย",
+      "votes": 44970
+    },
+    {
+      "number": 1,
+      "name": "นายพิเชษฐ์ กุมารสิทธิ์",
+      "party": "เพื่อไทย",
+      "votes": 30173
+    },
+    {
+      "number": 3,
+      "name": "นายสรวิศ เดชเสน",
+      "party": "ประชาชน",
+      "votes": 14424
+    },
+    {
+      "number": 4,
+      "name": "นายมงคล ชื่นตา",
+      "party": "กล้าธรรม",
+      "votes": 2399
+    },
+    {
+      "number": 7,
+      "name": "นางสาวเสาวภาคย์ อินทนนท์",
+      "party": "เศรษฐกิจ",
+      "votes": 661
+    },
+    {
+      "number": 5,
+      "name": "นายธนกร ไชยกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 615
+    },
+    {
+      "number": 8,
+      "name": "นางกฤตลดาณัช เศิกศิริ",
+      "party": "ประชาธิปัตย์",
+      "votes": 415
+    },
+    {
+      "number": 6,
+      "name": "นางวิภารัตย์ บุญกอง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 257
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/46. ยโสธร เขต 3.json",
+  "_validation": {
+    "vote_sum": 93914,
+    "good_votes": 93914,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "35",
+  "province_name_normalized": "ยโสธร",
+  "summary": {
+    "eligible_voters": 146753,
+    "voters_came": 99570,
+    "ballots_received": 146120,
+    "ballots_used": 99570,
+    "good_votes": 93914,
+    "invalid_votes": 3651,
+    "no_votes": 2005
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายธนพัฒน์ ศรีชนะ",
+      "party": "ภูมิใจไทย",
+      "votes": 44970,
+      "candidate_uuid": "57741366-36df-4300-81d3-83dab4a5f29e",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพิเชษฐ์ กุมารสิทธิ์",
+      "party": "เพื่อไทย",
+      "votes": 30173,
+      "candidate_uuid": "e3599238-e8cc-4b1e-baa0-9500088544df",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสรวิศ เดชเสน",
+      "party": "ประชาชน",
+      "votes": 14424,
+      "candidate_uuid": "2abd72e6-477d-451c-a3d3-158672d9a355",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายมงคล ชื่นตา",
+      "party": "กล้าธรรม",
+      "votes": 2399,
+      "candidate_uuid": "73b24128-7a1e-4ada-9bcd-4742bdae6ca5",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวเสาวภาคย์ อินทนนท์",
+      "party": "เศรษฐกิจ",
+      "votes": 661,
+      "candidate_uuid": "6a321263-161d-4bae-b727-a9e8725c1d57",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายธนกร ไชยกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 615,
+      "candidate_uuid": "c46ff261-42d6-4fe2-beb1-576f35064405",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางกฤตลดาณัช เศิกศิริ",
+      "party": "ประชาธิปัตย์",
+      "votes": 415,
+      "candidate_uuid": "de36170d-a2ab-49eb-b374-35def8071ad1",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางวิภารัตย์ บุญกอง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 257,
+      "candidate_uuid": "9aa51c77-2e10-4e06-b347-ec5c0a7c132a",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

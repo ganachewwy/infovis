@@ -1,0 +1,153 @@
+{
+  "province_name": "ร้อยเอ็ด",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 130130,
+    "1.2": 81281,
+    "2.1": 134577,
+    "2.2": 81281,
+    "2.3": 53296,
+    "3.1": 73264,
+    "3.2": 0,
+    "3.3": 8017,
+    "3.4": 81281,
+    "4.1": 76554,
+    "4.2": 3087,
+    "4.3": 1640
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายทองลี มีหินกอง",
+      "party": "เพื่อไทย",
+      "votes": 33696
+    },
+    {
+      "number": 2,
+      "name": "นายกิตติ สมทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 20825
+    },
+    {
+      "number": 1,
+      "name": "นางสาววรานันท์ พิมพ์ดี",
+      "party": "ประชาชน",
+      "votes": 11282
+    },
+    {
+      "number": 6,
+      "name": "นายคารม พลพรกลาง",
+      "party": "พลังประชารัฐ",
+      "votes": 5862
+    },
+    {
+      "number": 5,
+      "name": "นายประทีป โสดา",
+      "party": "ไทยสร้างไทย",
+      "votes": 3129
+    },
+    {
+      "number": 7,
+      "name": "นายกันตภณ โชคกลางเดือน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 752
+    },
+    {
+      "number": 8,
+      "name": "นายพิชัย น้ำกระจาย",
+      "party": "กล้าธรรม",
+      "votes": 620
+    },
+    {
+      "number": 3,
+      "name": "นายสมบัติ ขันโมลี",
+      "party": "ประชาธิปัตย์",
+      "votes": 388
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/48. ร้อยเอ็ด เขต 6.json",
+  "_validation": {
+    "vote_sum": 76554,
+    "good_votes": 76554,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "45",
+  "province_name_normalized": "ร้อยเอ็ด",
+  "summary": {
+    "eligible_voters": 130130,
+    "voters_came": 81281,
+    "ballots_received": 134577,
+    "ballots_used": 81281,
+    "good_votes": 76554,
+    "invalid_votes": 3087,
+    "no_votes": 1640
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายทองลี มีหินกอง",
+      "party": "เพื่อไทย",
+      "votes": 33696,
+      "candidate_uuid": "44d20046-2b6a-4d75-af3c-9250c4fe384d",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายกิตติ สมทรัพย์",
+      "party": "ภูมิใจไทย",
+      "votes": 20825,
+      "candidate_uuid": "cace25fc-116b-4210-be3a-723373bcaaa0",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาววรานันท์ พิมพ์ดี",
+      "party": "ประชาชน",
+      "votes": 11282,
+      "candidate_uuid": "061887c3-cb7a-4f00-b345-7ea907a0b589",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายคารม พลพรกลาง",
+      "party": "พลังประชารัฐ",
+      "votes": 5862,
+      "candidate_uuid": "39e75c59-3983-447e-86ce-52bf38ff64ea",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายประทีป โสดา",
+      "party": "ไทยสร้างไทย",
+      "votes": 3129,
+      "candidate_uuid": "469bad08-5acd-48e7-a04f-ac1b48761e97",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายกันตภณ โชคกลางเดือน",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 752,
+      "candidate_uuid": "3c8e2c53-1a24-4b4b-9d4f-83a7059ba2de",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายพิชัย น้ำกระจาย",
+      "party": "กล้าธรรม",
+      "votes": 620,
+      "candidate_uuid": "d9a41f75-3309-4a6b-9528-0a80f220b351",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายสมบัติ ขันโมลี",
+      "party": "ประชาธิปัตย์",
+      "votes": 388,
+      "candidate_uuid": "27878eb2-6e9a-410c-886e-921b8bec4f3b",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

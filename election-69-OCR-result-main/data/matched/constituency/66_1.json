@@ -1,0 +1,153 @@
+{
+  "province_name": "พิจิตร",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 145512,
+    "1.2": 100830,
+    "2.1": 147999,
+    "2.2": 100830,
+    "2.3": 47169,
+    "3.1": 94651,
+    "3.2": 40,
+    "3.3": 6139,
+    "3.4": 100830,
+    "4.1": 91069,
+    "4.2": 5082,
+    "4.3": 4679
+  },
+  "results": [
+    {
+      "number": 6,
+      "name": "นายภัทรพงศ์ ภัทรประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 53293
+    },
+    {
+      "number": 2,
+      "name": "นายไกรรินทร์ ทั่งทอง",
+      "party": "ประชาชน",
+      "votes": 23172
+    },
+    {
+      "number": 7,
+      "name": "นายพงษ์ศักดิ์ เหลืองวิจิตร",
+      "party": "เพื่อไทย",
+      "votes": 6318
+    },
+    {
+      "number": 1,
+      "name": "นายพรชัย อินทร์สุข",
+      "party": "กล้าธรรม",
+      "votes": 3446
+    },
+    {
+      "number": 3,
+      "name": "นายเกรียงไกร เดชอุปการ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1590
+    },
+    {
+      "number": 4,
+      "name": "นางกมลพิชญ์ เหลียวสุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 1560
+    },
+    {
+      "number": 5,
+      "name": "นายชนกฤติ โหมอ่อน",
+      "party": "ประชาธิปัตย์",
+      "votes": 1395
+    },
+    {
+      "number": 8,
+      "name": "นายอาดิษฐ์ กัลยาณมิตร",
+      "party": "พลังประชารัฐ",
+      "votes": 295
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/37. พิจิตร เขต 1.json",
+  "_validation": {
+    "vote_sum": 91069,
+    "good_votes": 91069,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "66",
+  "province_name_normalized": "พิจิตร",
+  "summary": {
+    "eligible_voters": 145512,
+    "voters_came": 100830,
+    "ballots_received": 147999,
+    "ballots_used": 100830,
+    "good_votes": 91069,
+    "invalid_votes": 5082,
+    "no_votes": 4679
+  },
+  "matched_candidates": [
+    {
+      "number": 6,
+      "name": "นายภัทรพงศ์ ภัทรประสิทธิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 53293,
+      "candidate_uuid": "69273dba-5921-417c-927e-938e6e27edcb",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายไกรรินทร์ ทั่งทอง",
+      "party": "ประชาชน",
+      "votes": 23172,
+      "candidate_uuid": "c0fdd459-3395-4d1e-ad5a-6dfc68e5721f",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพงษ์ศักดิ์ เหลืองวิจิตร",
+      "party": "เพื่อไทย",
+      "votes": 6318,
+      "candidate_uuid": "6b9d4e34-3d64-43bb-ab0c-dc0313857355",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายพรชัย อินทร์สุข",
+      "party": "กล้าธรรม",
+      "votes": 3446,
+      "candidate_uuid": "0676b2e0-a60c-415e-8b16-4588b574d36c",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเกรียงไกร เดชอุปการ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1590,
+      "candidate_uuid": "5e9067c1-b0cd-474f-9fe5-9738dcc58355",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางกมลพิชญ์ เหลียวสุวรรณ",
+      "party": "เศรษฐกิจ",
+      "votes": 1560,
+      "candidate_uuid": "5fd7f7fb-3f6f-4a81-bcf1-46d29136c4ad",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชนกฤติ โหมอ่อน",
+      "party": "ประชาธิปัตย์",
+      "votes": 1395,
+      "candidate_uuid": "4dc41ecc-f9bd-46f2-bcac-371f6f8eb587",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอาดิษฐ์ กัลยาณมิตร",
+      "party": "พลังประชารัฐ",
+      "votes": 295,
+      "candidate_uuid": "0c4aa4ff-a95b-4b14-81db-8a3d3505ee82",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

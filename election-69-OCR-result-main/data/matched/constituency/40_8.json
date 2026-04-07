@@ -1,0 +1,167 @@
+{
+  "province_name": "ขอนแก่น",
+  "constituency_number": 8,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139634,
+    "1.2": 96586,
+    "2.1": 139120,
+    "2.2": 96586,
+    "2.3": 42534,
+    "3.1": 91479,
+    "3.2": 2,
+    "3.3": 5105,
+    "3.4": 96586,
+    "4.1": 89683,
+    "4.2": 3629,
+    "4.3": 3274
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นายธนิก มาสีพิทักษ์",
+      "party": "กล้าธรรม",
+      "votes": 33926
+    },
+    {
+      "number": 6,
+      "name": "นางสาววิภาณี ภูคำวงศ์",
+      "party": "เพื่อไทย",
+      "votes": 27594
+    },
+    {
+      "number": 1,
+      "name": "ว่าที่ร้อยตรี ยอดเพชร อุดเมืองเพีย",
+      "party": "ประชาชน",
+      "votes": 18648
+    },
+    {
+      "number": 8,
+      "name": "นายศิริพงษ์ อรุณเดชาชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 3842
+    },
+    {
+      "number": 4,
+      "name": "นางสาวณิชวดี เลิศมหาลาภ",
+      "party": "ไทยสร้างไทย",
+      "votes": 2186
+    },
+    {
+      "number": 7,
+      "name": "นายสมบุญ ยะมุลณี",
+      "party": "เศรษฐกิจ",
+      "votes": 1136
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสมใจ ทองบาง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1126
+    },
+    {
+      "number": 5,
+      "name": "นายอุทัย หานนท์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 772
+    },
+    {
+      "number": 9,
+      "name": "นายเดชาวัต ศรีพุดฑา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 453
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/6. ขอนแก่น เขต 8.json",
+  "_validation": {
+    "vote_sum": 89683,
+    "good_votes": 89683,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "40",
+  "province_name_normalized": "ขอนแก่น",
+  "summary": {
+    "eligible_voters": 139634,
+    "voters_came": 96586,
+    "ballots_received": 139120,
+    "ballots_used": 96586,
+    "good_votes": 89683,
+    "invalid_votes": 3629,
+    "no_votes": 3274
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นายธนิก มาสีพิทักษ์",
+      "party": "กล้าธรรม",
+      "votes": 33926,
+      "candidate_uuid": "f663d9eb-03b4-4bab-ab58-098286e46b92",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาววิภาณี ภูคำวงศ์",
+      "party": "เพื่อไทย",
+      "votes": 27594,
+      "candidate_uuid": "5178cfb6-9aa5-4a8a-9f7c-dc519f6215f7",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "ว่าที่ร้อยตรี ยอดเพชร อุดเมืองเพีย",
+      "party": "ประชาชน",
+      "votes": 18648,
+      "candidate_uuid": "7b926fed-18ac-4e4c-a5e9-927d4252a968",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายศิริพงษ์ อรุณเดชาชัย",
+      "party": "ภูมิใจไทย",
+      "votes": 3842,
+      "candidate_uuid": "02a7e989-d3ba-485b-b7ea-e5f15336d0e3",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางสาวณิชวดี เลิศมหาลาภ",
+      "party": "ไทยสร้างไทย",
+      "votes": 2186,
+      "candidate_uuid": "d54ab12b-57e1-4930-aeca-af0a9cb0dad4",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสมบุญ ยะมุลณี",
+      "party": "เศรษฐกิจ",
+      "votes": 1136,
+      "candidate_uuid": "88729860-237b-48ea-b0ad-469181cf26d1",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสมใจ ทองบาง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1126,
+      "candidate_uuid": "1cdb204f-cd56-4cea-9486-28f93cd4fe31",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายอุทัย หานนท์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 772,
+      "candidate_uuid": "f71e9ad8-1b70-4dc0-ad27-a7470627ff11",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายเดชาวัต ศรีพุดฑา",
+      "party": "ไทยก้าวใหม่",
+      "votes": 453,
+      "candidate_uuid": "8b5cebea-c670-4c2d-90e0-02d8f9156205",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

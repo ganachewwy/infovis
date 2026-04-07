@@ -1,0 +1,167 @@
+{
+  "province_name": "สุรินทร์",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133978,
+    "1.2": 81526,
+    "2.1": 139214,
+    "2.2": 81526,
+    "2.3": 57688,
+    "3.1": 74558,
+    "3.2": 0,
+    "3.3": 6968,
+    "3.4": 81526,
+    "4.1": 76550,
+    "4.2": 3169,
+    "4.3": 1807
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายล้ำเลิศ พัวพัฒนโชติ",
+      "party": "ภูมิใจไทย",
+      "votes": 52005
+    },
+    {
+      "number": 5,
+      "name": "นายธนกร นานวน",
+      "party": "ประชาชน",
+      "votes": 10955
+    },
+    {
+      "number": 2,
+      "name": "นายสมบัติ ศรีสุรินทร์",
+      "party": "เพื่อไทย",
+      "votes": 9122
+    },
+    {
+      "number": 3,
+      "name": "นายจันทร์ สมัญญา",
+      "party": "เศรษฐกิจ",
+      "votes": 1211
+    },
+    {
+      "number": 1,
+      "name": "นางสาวทักษิณา ทับครบุรี",
+      "party": "กล้าธรรม",
+      "votes": 1024
+    },
+    {
+      "number": 6,
+      "name": "นายพัฑฒิณัฐ สุตวณิชย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 791
+    },
+    {
+      "number": 8,
+      "name": "นายธนกร ศรีโกตะเพ็ชร",
+      "party": "ปวงชนไทย",
+      "votes": 739
+    },
+    {
+      "number": 7,
+      "name": "นายพัสกร สิงห์ทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 479
+    },
+    {
+      "number": 9,
+      "name": "นายมานพ พุ่มทอง",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 224
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/69. สุรินทร์ เขต 6.json",
+  "_validation": {
+    "vote_sum": 76550,
+    "good_votes": 76550,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "32",
+  "province_name_normalized": "สุรินทร์",
+  "summary": {
+    "eligible_voters": 133978,
+    "voters_came": 81526,
+    "ballots_received": 139214,
+    "ballots_used": 81526,
+    "good_votes": 76550,
+    "invalid_votes": 3169,
+    "no_votes": 1807
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายล้ำเลิศ พัวพัฒนโชติ",
+      "party": "ภูมิใจไทย",
+      "votes": 52005,
+      "candidate_uuid": "93ad57ce-54c4-42f5-8b2c-3477a9f3c8b2",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายธนกร นานวน",
+      "party": "ประชาชน",
+      "votes": 10955,
+      "candidate_uuid": "b1adab25-a64a-451c-8f3a-b7bb06aa22fa",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสมบัติ ศรีสุรินทร์",
+      "party": "เพื่อไทย",
+      "votes": 9122,
+      "candidate_uuid": "c5a7573b-4c95-4f21-8198-49f03fb6ec1d",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายจันทร์ สมัญญา",
+      "party": "เศรษฐกิจ",
+      "votes": 1211,
+      "candidate_uuid": "706d8148-0a2b-46f1-93e6-b98cdfc2f7b3",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวทักษิณา ทับครบุรี",
+      "party": "กล้าธรรม",
+      "votes": 1024,
+      "candidate_uuid": "6d543ad9-7951-461d-9169-54bbff8525a8",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายพัฑฒิณัฐ สุตวณิชย์",
+      "party": "ประชาธิปัตย์",
+      "votes": 791,
+      "candidate_uuid": "d532f1fb-c17e-411d-89ca-3fa616adcda4",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธนกร ศรีโกตะเพ็ชร",
+      "party": "ปวงชนไทย",
+      "votes": 739,
+      "candidate_uuid": "cd7c85b5-486a-47d7-bd82-d438e0c387c1",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายพัสกร สิงห์ทอง",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 479,
+      "candidate_uuid": "fa06ccf8-7a91-4ca4-85d9-9dfdefb55262",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายมานพ พุ่มทอง",
+      "party": "ไทยทรัพย์ทวี",
+      "votes": 224,
+      "candidate_uuid": "79dd9687-6d2a-4811-92e3-8be6fd36be96",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

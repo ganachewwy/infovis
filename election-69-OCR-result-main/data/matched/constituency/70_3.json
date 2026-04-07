@@ -1,0 +1,139 @@
+{
+  "province_name": "ราชบุรี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 143882,
+    "1.2": 115223,
+    "2.1": 144726,
+    "2.2": 115223,
+    "2.3": 34203,
+    "3.1": 107717,
+    "3.2": 10,
+    "3.3": 2796,
+    "3.4": 110523,
+    "4.1": 96267,
+    "4.2": 5970,
+    "4.3": 8286
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายอภิรักษ์ชัยชนะ ปันยารชุน",
+      "party": "ไทยก้าวใหม่",
+      "votes": 2365
+    },
+    {
+      "number": 2,
+      "name": "นายจตุพร กมลพันธ์ทิพย์",
+      "party": "กล้าธรรม",
+      "votes": 51702
+    },
+    {
+      "number": 3,
+      "name": "นายภิญโญศิลป์ สังวาลวงศ์",
+      "party": "ไทยสร้างชาติ",
+      "votes": 3017
+    },
+    {
+      "number": 4,
+      "name": "นายอนุคม ศักดิ์อิสระพงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 4192
+    },
+    {
+      "number": 5,
+      "name": "นายกล้าหาญ เจริญธรรม",
+      "party": "ภูมิใจไทย",
+      "votes": 5369
+    },
+    {
+      "number": 6,
+      "name": "นางสาวศิริลักษณ์ ตันงามตรง",
+      "party": "พลังประชารัฐ",
+      "votes": 3365
+    },
+    {
+      "number": 7,
+      "name": "นางสาวปัญชญาภรณ์ ศักดิ์ปฐมพานิชย์",
+      "party": "ประชาชน",
+      "votes": 26257
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/51. ราชบุรี เขต 3.json",
+  "_validation": {
+    "vote_sum": 96267,
+    "good_votes": 96267,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "70",
+  "province_name_normalized": "ราชบุรี",
+  "summary": {
+    "eligible_voters": 143882,
+    "voters_came": 115223,
+    "ballots_received": 144726,
+    "ballots_used": 115223,
+    "good_votes": 96267,
+    "invalid_votes": 5970,
+    "no_votes": 8286
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายอภิรักษ์ชัยชนะ ปันยารชุน",
+      "party": "ไทยก้าวใหม่",
+      "votes": 2365,
+      "candidate_uuid": "e5135dc4-cebf-4b08-868c-20e561572842",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายจตุพร กมลพันธ์ทิพย์",
+      "party": "กล้าธรรม",
+      "votes": 51702,
+      "candidate_uuid": "0f1cac6d-7de5-4727-b93d-761e4585bd18",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายภิญโญศิลป์ สังวาลวงศ์",
+      "party": "ไทยสร้างชาติ",
+      "votes": 3017,
+      "candidate_uuid": "b845585f-22d1-4bec-8ca6-7e37e46cc3b9",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอนุคม ศักดิ์อิสระพงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 4192,
+      "candidate_uuid": "90c1de77-1ff5-4b31-98e7-aab10a46cce7",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายกล้าหาญ เจริญธรรม",
+      "party": "ภูมิใจไทย",
+      "votes": 5369,
+      "candidate_uuid": "47c53191-0aaa-4029-b73b-abe02209a3b3",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวศิริลักษณ์ ตันงามตรง",
+      "party": "พลังประชารัฐ",
+      "votes": 3365,
+      "candidate_uuid": "e24ff2be-9c9e-4a6b-9fff-eed2d08beb28",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวปัญชญาภรณ์ ศักดิ์ปฐมพานิชย์",
+      "party": "ประชาชน",
+      "votes": 26257,
+      "candidate_uuid": "07a5911e-ce33-4024-9d27-7cc84989e24e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

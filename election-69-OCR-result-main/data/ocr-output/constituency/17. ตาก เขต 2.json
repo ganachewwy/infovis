@@ -1,0 +1,69 @@
+{
+  "province_name": "ตาก",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 136061,
+    "1.2": 89186,
+    "2.1": 132076,
+    "2.2": 89186,
+    "2.3": 42890,
+    "3.1": 82950,
+    "3.2": 27,
+    "3.3": 6209,
+    "3.4": 89186,
+    "4.1": 61640,
+    "4.2": 9782,
+    "4.3": 17764
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายชิงชัย ก่อประภากิจ",
+      "party": "กล้าธรรม",
+      "votes": 25259
+    },
+    {
+      "number": 3,
+      "name": "นายวราทิต ไชยนันทน์",
+      "party": "เพื่อไทย",
+      "votes": 19144
+    },
+    {
+      "number": 8,
+      "name": "นายสราวุธ หาญเมืองใจ",
+      "party": "ประชาธิปัตย์",
+      "votes": 11936
+    },
+    {
+      "number": 4,
+      "name": "นายพิสิษฐ ใชยลังกา",
+      "party": "ภูมิใจไทย",
+      "votes": 2278
+    },
+    {
+      "number": 7,
+      "name": "นายศิวกรณ์ ลำจวน",
+      "party": "เศรษฐกิจ",
+      "votes": 1522
+    },
+    {
+      "number": 9,
+      "name": "นายธีรยุทธ วงษ์แหวน",
+      "party": "รวมใจไทย",
+      "votes": 1501
+    },
+    {
+      "number": 6,
+      "name": "นายรัชต์พงศ์ สร้อยสุวรรณ",
+      "party": "ประชาชน",
+      "votes": 0
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ect-pdf-clean/constituency/17. ตาก เขต 2.pdf",
+  "_validation": {
+    "vote_sum": 61640,
+    "good_votes": 61640,
+    "sum_diff_pct": 0.0
+  }
+}

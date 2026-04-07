@@ -1,0 +1,153 @@
+{
+  "province_name": "สุราษฎร์ธานี",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 121937,
+    "1.2": 93476,
+    "2.1": 121760,
+    "2.2": 93876,
+    "2.3": 27884,
+    "3.1": 90445,
+    "3.2": 2,
+    "3.3": 3429,
+    "3.4": 93876,
+    "4.1": 88782,
+    "4.2": 2140,
+    "4.3": 2954
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายปรเมษฐ์ จินา",
+      "party": "กล้าธรรม",
+      "votes": 30967
+    },
+    {
+      "number": 2,
+      "name": "นางสาวฌาณิกา เมืองนอน",
+      "party": "ไทรวมพลัง",
+      "votes": 27863
+    },
+    {
+      "number": 4,
+      "name": "นายสุเมตตา ชัยสิทธิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 18244
+    },
+    {
+      "number": 6,
+      "name": "นายศิภาพัชร์ เทวางกูร",
+      "party": "ประชาชน",
+      "votes": 8754
+    },
+    {
+      "number": 7,
+      "name": "นายบรรจง จันทร์ช่วง",
+      "party": "ภูมิใจไทย",
+      "votes": 1692
+    },
+    {
+      "number": 1,
+      "name": "นายวิเชียร จันทร์บัว",
+      "party": "เพื่อไทย",
+      "votes": 676
+    },
+    {
+      "number": 3,
+      "name": "นายเรืองเดช เติมทอง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 475
+    },
+    {
+      "number": 8,
+      "name": "นายธนโชติ ติณพันธุ์",
+      "party": "พลังประชารัฐ",
+      "votes": 111
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/68. สุราษฎร์ธานี เขต 5.json",
+  "_validation": {
+    "vote_sum": 88782,
+    "good_votes": 88782,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "84",
+  "province_name_normalized": "สุราษฎร์ธานี",
+  "summary": {
+    "eligible_voters": 121937,
+    "voters_came": 93476,
+    "ballots_received": 121760,
+    "ballots_used": 93876,
+    "good_votes": 88782,
+    "invalid_votes": 2140,
+    "no_votes": 2954
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายปรเมษฐ์ จินา",
+      "party": "กล้าธรรม",
+      "votes": 30967,
+      "candidate_uuid": "401ef4a2-ae84-4a4b-990f-d64cf88d976e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวฌาณิกา เมืองนอน",
+      "party": "ไทรวมพลัง",
+      "votes": 27863,
+      "candidate_uuid": "7a8d1726-14fa-4c80-96c5-b974b3a93b17",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสุเมตตา ชัยสิทธิ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 18244,
+      "candidate_uuid": "b7f4bcfe-70e8-4cd9-b228-dedc9eb0f5c5",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายศิภาพัชร์ เทวางกูร",
+      "party": "ประชาชน",
+      "votes": 8754,
+      "candidate_uuid": "085e2c6e-235d-45f3-8b51-208aa2320342",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายบรรจง จันทร์ช่วง",
+      "party": "ภูมิใจไทย",
+      "votes": 1692,
+      "candidate_uuid": "7ff9c1e7-a9aa-4a43-be5c-9afb26e66932",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวิเชียร จันทร์บัว",
+      "party": "เพื่อไทย",
+      "votes": 676,
+      "candidate_uuid": "bae24ecc-93d0-4b3f-82d0-f8c1dc12647b",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายเรืองเดช เติมทอง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 475,
+      "candidate_uuid": "35ddb4cd-5301-413b-87c6-539864051166",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายธนโชติ ติณพันธุ์",
+      "party": "พลังประชารัฐ",
+      "votes": 111,
+      "candidate_uuid": "a1242df1-f5d0-47ed-a3f0-818c232fbca4",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

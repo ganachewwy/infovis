@@ -1,0 +1,111 @@
+{
+  "province_name": "ร้อยเอ็ด",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 126135,
+    "1.2": 94576,
+    "2.1": 126200,
+    "2.2": 94576,
+    "2.3": 31624,
+    "3.1": 87583,
+    "3.2": 11,
+    "3.3": 6982,
+    "3.4": 94576,
+    "4.1": 89385,
+    "4.2": 2687,
+    "4.3": 2504
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายอนุรักษ์ จุรีมาศ",
+      "party": "ภูมิใจไทย",
+      "votes": 50238
+    },
+    {
+      "number": 4,
+      "name": "นายสถาพร ว่องสัธนพงษ์",
+      "party": "เพื่อไทย",
+      "votes": 20122
+    },
+    {
+      "number": 1,
+      "name": "นายวีระธาร มาศเกษม",
+      "party": "ประชาชน",
+      "votes": 17557
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุดารัตน์ วรรณพัฒน์",
+      "party": "ประชาธิปปัตย์",
+      "votes": 827
+    },
+    {
+      "number": 3,
+      "name": "นางสาวเกตุวรินทร์ ไฮเนกเคอ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 641
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/48. ร้อยเอ็ด เขต 1.json",
+  "_validation": {
+    "vote_sum": 89385,
+    "good_votes": 89385,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "45",
+  "province_name_normalized": "ร้อยเอ็ด",
+  "summary": {
+    "eligible_voters": 126135,
+    "voters_came": 94576,
+    "ballots_received": 126200,
+    "ballots_used": 94576,
+    "good_votes": 89385,
+    "invalid_votes": 2687,
+    "no_votes": 2504
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายอนุรักษ์ จุรีมาศ",
+      "party": "ภูมิใจไทย",
+      "votes": 50238,
+      "candidate_uuid": "51b8a5c2-0493-49ed-9ca1-a306b4e9c0e0",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายสถาพร ว่องสัธนพงษ์",
+      "party": "เพื่อไทย",
+      "votes": 20122,
+      "candidate_uuid": "4ce761b6-a69c-4e9c-99a7-99be2411567a",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวีระธาร มาศเกษม",
+      "party": "ประชาชน",
+      "votes": 17557,
+      "candidate_uuid": "5dca0d0f-6daf-4416-8dd7-658a14de07b6",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวสุดารัตน์ วรรณพัฒน์",
+      "party": "ประชาธิปปัตย์",
+      "votes": 827,
+      "candidate_uuid": "a290e079-347d-4856-8658-9d655c1c56a5",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวเกตุวรินทร์ ไฮเนกเคอ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 641,
+      "candidate_uuid": "d416c44a-1aed-4c6a-8bad-ff83e7fda4fa",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

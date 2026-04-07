@@ -1,0 +1,125 @@
+{
+  "province_name": "ราชบุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 140141,
+    "1.2": 106701,
+    "2.1": 147660,
+    "2.2": 106701,
+    "2.3": 40959,
+    "3.1": 102141,
+    "3.2": 22,
+    "3.3": 4538,
+    "3.4": 106701,
+    "4.1": 97874,
+    "4.2": 3438,
+    "4.3": 5389
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นางสาวกุลวลี นพอมรบดี",
+      "party": "ภูมิใจไทย",
+      "votes": 56407
+    },
+    {
+      "number": 2,
+      "name": "นายนรพนธ์ พลายสีนิล",
+      "party": "ประชาชน",
+      "votes": 28931
+    },
+    {
+      "number": 3,
+      "name": "นายนพพล ภู่แย้ม",
+      "party": "เพื่อไทย",
+      "votes": 7671
+    },
+    {
+      "number": 4,
+      "name": "นายทนงค์ศักดิ์ ศิรรัตน์ประภา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1886
+    },
+    {
+      "number": 6,
+      "name": "พ.ต.อ.สารสิทธิ์ นวมมณีรัตน์",
+      "party": "เศรษฐกิจ",
+      "votes": 1611
+    },
+    {
+      "number": 5,
+      "name": "นางสาวยุวดี นิติธารากุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1368
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/51. ราชบุรี เขต 1.json",
+  "_validation": {
+    "vote_sum": 97874,
+    "good_votes": 97874,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "70",
+  "province_name_normalized": "ราชบุรี",
+  "summary": {
+    "eligible_voters": 140141,
+    "voters_came": 106701,
+    "ballots_received": 147660,
+    "ballots_used": 106701,
+    "good_votes": 97874,
+    "invalid_votes": 3438,
+    "no_votes": 5389
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นางสาวกุลวลี นพอมรบดี",
+      "party": "ภูมิใจไทย",
+      "votes": 56407,
+      "candidate_uuid": "b6aec784-79bc-41f2-a3cb-cd2a55a81ca6",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายนรพนธ์ พลายสีนิล",
+      "party": "ประชาชน",
+      "votes": 28931,
+      "candidate_uuid": "580bd7c5-3042-4dd5-98d9-300b34c42dc0",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายนพพล ภู่แย้ม",
+      "party": "เพื่อไทย",
+      "votes": 7671,
+      "candidate_uuid": "a75444db-cdce-4d2a-89a1-0a364e6c978c",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายทนงค์ศักดิ์ ศิรรัตน์ประภา",
+      "party": "ประชาธิปัตย์",
+      "votes": 1886,
+      "candidate_uuid": "e84966fa-56c9-4f75-becc-04c302a3b468",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "พ.ต.อ.สารสิทธิ์ นวมมณีรัตน์",
+      "party": "เศรษฐกิจ",
+      "votes": 1611,
+      "candidate_uuid": "42d3ebec-7832-46a8-9eb0-b3edca340a34",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวยุวดี นิติธารากุล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1368,
+      "candidate_uuid": "7573f5fc-fc30-4172-b380-4e315adc3c6e",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

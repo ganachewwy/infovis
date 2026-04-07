@@ -1,0 +1,139 @@
+{
+  "province_name": "พัทลุง",
+  "constituency_number": 2,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 144343,
+    "1.2": 122372,
+    "2.1": 146284,
+    "2.2": 122372,
+    "2.3": 23912,
+    "3.1": 114959,
+    "3.2": 9,
+    "3.3": 7404,
+    "3.4": 122372,
+    "4.1": 117079,
+    "4.2": 2430,
+    "4.3": 2863
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายวรท เทอดวีระพงศ์",
+      "party": "ภูมิใจไทย",
+      "votes": 58926
+    },
+    {
+      "number": 7,
+      "name": "นายนิติศักดิ์ ธรรมเพชร",
+      "party": "เพื่อไทย",
+      "votes": 35813
+    },
+    {
+      "number": 5,
+      "name": "นายภพเอกอัคร อินทรโม",
+      "party": "ประชาธิปัตย์",
+      "votes": 11831
+    },
+    {
+      "number": 2,
+      "name": "นายศุภกร ขุนชิต",
+      "party": "ประชาชน",
+      "votes": 8752
+    },
+    {
+      "number": 3,
+      "name": "พ.ต.อ.พงศ์พสิษฐ์ ทองด้วง",
+      "party": "กล้าธรรม",
+      "votes": 995
+    },
+    {
+      "number": 4,
+      "name": "นายอธิคม ขุนแก้ว",
+      "party": "ไทยก้าวใหม่",
+      "votes": 465
+    },
+    {
+      "number": 6,
+      "name": "นายสมเสริม ชูรักษ์",
+      "party": "พลวัต",
+      "votes": 297
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/36. พัทลุง เขต 2.json",
+  "_validation": {
+    "vote_sum": 117079,
+    "good_votes": 117079,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "93",
+  "province_name_normalized": "พัทลุง",
+  "summary": {
+    "eligible_voters": 144343,
+    "voters_came": 122372,
+    "ballots_received": 146284,
+    "ballots_used": 122372,
+    "good_votes": 117079,
+    "invalid_votes": 2430,
+    "no_votes": 2863
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายวรท เทอดวีระพงศ์",
+      "party": "ภูมิใจไทย",
+      "votes": 58926,
+      "candidate_uuid": "23790bdf-f326-4984-adca-c33d65a0b670",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายนิติศักดิ์ ธรรมเพชร",
+      "party": "เพื่อไทย",
+      "votes": 35813,
+      "candidate_uuid": "c97f7459-0605-4943-9958-5e23ab1b8922",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายภพเอกอัคร อินทรโม",
+      "party": "ประชาธิปัตย์",
+      "votes": 11831,
+      "candidate_uuid": "09227a0e-c340-4519-aa56-7d8aa22b0c19",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายศุภกร ขุนชิต",
+      "party": "ประชาชน",
+      "votes": 8752,
+      "candidate_uuid": "2a26859d-4a23-45ea-86e3-7cb0ea95b0a9",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "พ.ต.อ.พงศ์พสิษฐ์ ทองด้วง",
+      "party": "กล้าธรรม",
+      "votes": 995,
+      "candidate_uuid": "0666141c-c5d9-44a9-9a4d-1d4b3677c001",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอธิคม ขุนแก้ว",
+      "party": "ไทยก้าวใหม่",
+      "votes": 465,
+      "candidate_uuid": "830bce22-fbfe-4848-825f-9dd89425bc00",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสมเสริม ชูรักษ์",
+      "party": "พลวัต",
+      "votes": 297,
+      "candidate_uuid": "607cfc8b-2b5d-4db5-9655-0e8ec7817578",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

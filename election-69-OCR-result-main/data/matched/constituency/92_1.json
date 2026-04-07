@@ -1,0 +1,139 @@
+{
+  "province_name": "ตรัง",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 124216,
+    "1.2": 99277,
+    "2.1": 124300,
+    "2.2": 99277,
+    "2.3": 25023,
+    "3.1": 91472,
+    "3.2": 8,
+    "3.3": 7797,
+    "3.4": 99277,
+    "4.1": 90521,
+    "4.2": 2166,
+    "4.3": 6590
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายเอกพล ณ พัทลุง",
+      "party": "ภูมิใจไทย",
+      "votes": 35584
+    },
+    {
+      "number": 2,
+      "name": "เรือเอกพัฒน์พงษ์ คงผลาญ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1540
+    },
+    {
+      "number": 3,
+      "name": "นายรัตน์ ภู่กลาง",
+      "party": "เพื่อไทย",
+      "votes": 1105
+    },
+    {
+      "number": 4,
+      "name": "นายศุภกร สุวรรณหมัด",
+      "party": "ประชาชน",
+      "votes": 16554
+    },
+    {
+      "number": 5,
+      "name": "นางสาวอัจฉรา วงศ์สุทธิวัตร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 834
+    },
+    {
+      "number": 6,
+      "name": "นายธโนภาส สินไชย",
+      "party": "ประชาธิปัตย์",
+      "votes": 34372
+    },
+    {
+      "number": 7,
+      "name": "นายยงยุทธ กูลเมือง",
+      "party": "กรีน",
+      "votes": 532
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/15. ตรัง เขต 1.json",
+  "_validation": {
+    "vote_sum": 90521,
+    "good_votes": 90521,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "92",
+  "province_name_normalized": "ตรัง",
+  "summary": {
+    "eligible_voters": 124216,
+    "voters_came": 99277,
+    "ballots_received": 124300,
+    "ballots_used": 99277,
+    "good_votes": 90521,
+    "invalid_votes": 2166,
+    "no_votes": 6590
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายเอกพล ณ พัทลุง",
+      "party": "ภูมิใจไทย",
+      "votes": 35584,
+      "candidate_uuid": "3f910241-c57c-481f-861e-b528bbf981c8",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "เรือเอกพัฒน์พงษ์ คงผลาญ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1540,
+      "candidate_uuid": "7e3aec14-a144-44e7-8b4b-acefbccb159b",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายรัตน์ ภู่กลาง",
+      "party": "เพื่อไทย",
+      "votes": 1105,
+      "candidate_uuid": "2bdd512d-4b8c-4aa0-a7d5-d9b7bbe85582",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายศุภกร สุวรรณหมัด",
+      "party": "ประชาชน",
+      "votes": 16554,
+      "candidate_uuid": "665c3c80-1455-4e24-afc9-eaf8a246d190",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวอัจฉรา วงศ์สุทธิวัตร",
+      "party": "ไทยก้าวใหม่",
+      "votes": 834,
+      "candidate_uuid": "e5fd4575-37f8-4323-9387-97ae3775deba",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายธโนภาส สินไชย",
+      "party": "ประชาธิปัตย์",
+      "votes": 34372,
+      "candidate_uuid": "b4d44834-8a2f-45e6-bf20-92c8a1e1fad9",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายยงยุทธ กูลเมือง",
+      "party": "กรีน",
+      "votes": 532,
+      "candidate_uuid": "ee689f3f-0c4e-4878-bf29-80cef4f04c02",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

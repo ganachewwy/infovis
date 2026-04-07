@@ -1,0 +1,153 @@
+{
+  "province_name": "พระนครศรีอยุธยา",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 139523,
+    "1.2": 114346,
+    "2.1": 140280,
+    "2.2": 114346,
+    "2.3": 25934,
+    "3.1": 111598,
+    "3.2": 3,
+    "3.3": 2745,
+    "3.4": 114346,
+    "4.1": 106913,
+    "4.2": 3109,
+    "4.3": 4324
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นายคงกฤช รามศักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 51469
+    },
+    {
+      "number": 2,
+      "name": "นางสาวเพ็ญศิริรักษ์ ปลื้มสุข",
+      "party": "ประชาชน",
+      "votes": 31956
+    },
+    {
+      "number": 1,
+      "name": "นายวีระชัย นาคมาศ",
+      "party": "โอกาสใหม่",
+      "votes": 13512
+    },
+    {
+      "number": 9,
+      "name": "นางสาวณัฐณิชา บุรณศิริ",
+      "party": "เพื่อไทย",
+      "votes": 5682
+    },
+    {
+      "number": 7,
+      "name": "นายสฤษดิ์ เอี่ยมศิริ",
+      "party": "เศรษฐกิจ",
+      "votes": 1547
+    },
+    {
+      "number": 8,
+      "name": "นายปวริศฐ์ ปิยศรีขจรศิริ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1104
+    },
+    {
+      "number": 5,
+      "name": "นายเกรียงไกร จี้ที่น",
+      "party": "ประชาธิปัตย์",
+      "votes": 1034
+    },
+    {
+      "number": 6,
+      "name": "นายนพดล อมรเวช",
+      "party": "พลังประชารัฐ",
+      "votes": 609
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/33. พระนครศรีอยุธยา เขต 4.json",
+  "_validation": {
+    "vote_sum": 106913,
+    "good_votes": 106913,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "14",
+  "province_name_normalized": "พระนครศรีอยุธยา",
+  "summary": {
+    "eligible_voters": 139523,
+    "voters_came": 114346,
+    "ballots_received": 140280,
+    "ballots_used": 114346,
+    "good_votes": 106913,
+    "invalid_votes": 3109,
+    "no_votes": 4324
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นายคงกฤช รามศักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 51469,
+      "candidate_uuid": "1dce0a12-914b-4f5d-8462-cea103e07675",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวเพ็ญศิริรักษ์ ปลื้มสุข",
+      "party": "ประชาชน",
+      "votes": 31956,
+      "candidate_uuid": "d4dfb5cd-9918-4941-989b-b8e2151c5f7e",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายวีระชัย นาคมาศ",
+      "party": "โอกาสใหม่",
+      "votes": 13512,
+      "candidate_uuid": "24324d7f-02e0-4b6a-841f-583ce67a898d",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวณัฐณิชา บุรณศิริ",
+      "party": "เพื่อไทย",
+      "votes": 5682,
+      "candidate_uuid": "09ff8414-0150-4b41-8bfc-f5c776ac5fe4",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสฤษดิ์ เอี่ยมศิริ",
+      "party": "เศรษฐกิจ",
+      "votes": 1547,
+      "candidate_uuid": "398cada7-e9eb-4963-8892-ea786166e9ad",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายปวริศฐ์ ปิยศรีขจรศิริ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1104,
+      "candidate_uuid": "ac106e66-4dbe-4942-946e-2fb584377883",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายเกรียงไกร จี้ที่น",
+      "party": "ประชาธิปัตย์",
+      "votes": 1034,
+      "candidate_uuid": "152bce46-2444-4f46-9138-c05a856513e9",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายนพดล อมรเวช",
+      "party": "พลังประชารัฐ",
+      "votes": 609,
+      "candidate_uuid": "0c359365-1663-458d-950e-8528487925de",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

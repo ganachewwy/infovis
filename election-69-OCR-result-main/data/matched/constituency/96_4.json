@@ -1,0 +1,153 @@
+{
+  "province_name": "นราธิวาส",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 116934,
+    "1.2": 86855,
+    "2.1": 119261,
+    "2.2": 86855,
+    "2.3": 32406,
+    "3.1": 81680,
+    "3.2": 358,
+    "3.3": 4817,
+    "3.4": 86855,
+    "4.1": 83440,
+    "4.2": 2350,
+    "4.3": 1065
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายซาการียา สะอิ",
+      "party": "ภูมิใจไทย",
+      "votes": 42262
+    },
+    {
+      "number": 1,
+      "name": "นายกูเฮง ยาวอหะซัน",
+      "party": "ประชาชาติ",
+      "votes": 35031
+    },
+    {
+      "number": 4,
+      "name": "นายอักบัร เชราลี",
+      "party": "ประชาชน",
+      "votes": 3772
+    },
+    {
+      "number": 3,
+      "name": "นายอดิศร อาแวเต๊ะ",
+      "party": "กล้าธรรม",
+      "votes": 1279
+    },
+    {
+      "number": 2,
+      "name": "นายกอเซ็ง มะเซ็ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 717
+    },
+    {
+      "number": 6,
+      "name": "นายมาร์วาน บินบีดี",
+      "party": "เพื่อไทย",
+      "votes": 274
+    },
+    {
+      "number": 7,
+      "name": "นายใซดี เจ๊ะหามะ",
+      "party": "พลังประชารัฐ",
+      "votes": 60
+    },
+    {
+      "number": 8,
+      "name": "นางสาวชาลีฮะห์ เจ๊ะหามะ",
+      "party": "ประชากรไทย",
+      "votes": 45
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/25. นราธิวาส เขต 4.json",
+  "_validation": {
+    "vote_sum": 83440,
+    "good_votes": 83440,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "96",
+  "province_name_normalized": "นราธิวาส",
+  "summary": {
+    "eligible_voters": 116934,
+    "voters_came": 86855,
+    "ballots_received": 119261,
+    "ballots_used": 86855,
+    "good_votes": 83440,
+    "invalid_votes": 2350,
+    "no_votes": 1065
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายซาการียา สะอิ",
+      "party": "ภูมิใจไทย",
+      "votes": 42262,
+      "candidate_uuid": "b02f20a6-48c8-40d5-9cfc-cf29c8187c1b",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายกูเฮง ยาวอหะซัน",
+      "party": "ประชาชาติ",
+      "votes": 35031,
+      "candidate_uuid": "930a1cd2-95ad-4061-bf70-2231e027eb92",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายอักบัร เชราลี",
+      "party": "ประชาชน",
+      "votes": 3772,
+      "candidate_uuid": "c72fd7d2-eb1d-4886-8508-236457509ab5",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอดิศร อาแวเต๊ะ",
+      "party": "กล้าธรรม",
+      "votes": 1279,
+      "candidate_uuid": "c07f3134-4867-4433-a818-91e5351c8780",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายกอเซ็ง มะเซ็ง",
+      "party": "ประชาธิปัตย์",
+      "votes": 717,
+      "candidate_uuid": "6ddb6461-184a-4b33-8a62-5b4f6ab579f1",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายมาร์วาน บินบีดี",
+      "party": "เพื่อไทย",
+      "votes": 274,
+      "candidate_uuid": "351b5de9-65c8-44a4-a1c6-68119ccdaf21",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายใซดี เจ๊ะหามะ",
+      "party": "พลังประชารัฐ",
+      "votes": 60,
+      "candidate_uuid": "8af00ae1-a1b3-4004-b266-7ef2a17cd201",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาวชาลีฮะห์ เจ๊ะหามะ",
+      "party": "ประชากรไทย",
+      "votes": 45,
+      "candidate_uuid": "431ea425-b70e-46bc-ac9a-5613658afa8d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

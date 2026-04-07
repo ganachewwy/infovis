@@ -1,0 +1,139 @@
+{
+  "province_name": "สงขลา",
+  "constituency_number": 6,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 115747,
+    "1.2": 93834,
+    "2.1": 112350,
+    "2.2": 93834,
+    "2.3": 22889,
+    "3.1": 89561,
+    "3.2": 29,
+    "3.3": 4344,
+    "3.4": 93834,
+    "4.1": 88960,
+    "4.2": 2352,
+    "4.3": 2522
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายอนุกูล พฤกษานุศักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 48391
+    },
+    {
+      "number": 2,
+      "name": "นายบารมี ขาวทอง",
+      "party": "กล้าธรรม",
+      "votes": 25751
+    },
+    {
+      "number": 3,
+      "name": "ว่าที่ ร.ต.สมพร แซ่ลิ่ม",
+      "party": "ประชาชน",
+      "votes": 9865
+    },
+    {
+      "number": 5,
+      "name": "นายพิพัณย์ เจือละออง",
+      "party": "ประชาธิปัตย์",
+      "votes": 3568
+    },
+    {
+      "number": 6,
+      "name": "นางสาวจิรนาถ เหลาะเหม",
+      "party": "เพื่อไทย",
+      "votes": 705
+    },
+    {
+      "number": 4,
+      "name": "นางภัทรวดี ศรีศักดา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 394
+    },
+    {
+      "number": 7,
+      "name": "นายสายัญ สวมทอง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 286
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/58. สงขลา เขต 6.json",
+  "_validation": {
+    "vote_sum": 88960,
+    "good_votes": 88960,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "90",
+  "province_name_normalized": "สงขลา",
+  "summary": {
+    "eligible_voters": 115747,
+    "voters_came": 93834,
+    "ballots_received": 112350,
+    "ballots_used": 93834,
+    "good_votes": 88960,
+    "invalid_votes": 2352,
+    "no_votes": 2522
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายอนุกูล พฤกษานุศักดิ์",
+      "party": "ภูมิใจไทย",
+      "votes": 48391,
+      "candidate_uuid": "0ce7948b-8893-42ec-bab9-5636fe786ca5",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายบารมี ขาวทอง",
+      "party": "กล้าธรรม",
+      "votes": 25751,
+      "candidate_uuid": "7478cfa1-b64a-4d98-9a1d-90fb1dba1077",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "ว่าที่ ร.ต.สมพร แซ่ลิ่ม",
+      "party": "ประชาชน",
+      "votes": 9865,
+      "candidate_uuid": "72b85a02-66c2-4f8a-9353-ef5422428db0",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายพิพัณย์ เจือละออง",
+      "party": "ประชาธิปัตย์",
+      "votes": 3568,
+      "candidate_uuid": "097287b1-56df-42cb-9869-29bc779c6d74",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวจิรนาถ เหลาะเหม",
+      "party": "เพื่อไทย",
+      "votes": 705,
+      "candidate_uuid": "a957d1c4-8896-4c9c-b3a9-12dfb1010115",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นางภัทรวดี ศรีศักดา",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 394,
+      "candidate_uuid": "3a8b06b8-6716-4496-9e84-330093a93d0b",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายสายัญ สวมทอง",
+      "party": "ไทยก้าวใหม่",
+      "votes": 286,
+      "candidate_uuid": "d84e17f3-29e9-47e6-bb6a-eee135c7376d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

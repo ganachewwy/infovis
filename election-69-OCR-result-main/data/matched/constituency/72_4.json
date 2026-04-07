@@ -1,0 +1,153 @@
+{
+  "province_name": "สุพรรณบุรี",
+  "constituency_number": 4,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 137556,
+    "1.2": 99626,
+    "2.1": 141338,
+    "2.2": 95428,
+    "2.3": 45910,
+    "3.1": 95428,
+    "3.2": 2,
+    "3.3": 4196,
+    "3.4": 99626,
+    "4.1": 90996,
+    "4.2": 4733,
+    "4.3": 3897
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายเสมอกัน เที่ยงธรรม",
+      "party": "ภูมิใจไทย",
+      "votes": 58049
+    },
+    {
+      "number": 2,
+      "name": "นายภิญโญ สุนทรวิภาต",
+      "party": "ประชาชน",
+      "votes": 18972
+    },
+    {
+      "number": 3,
+      "name": "นางสาววิรธิดา โกยชัย",
+      "party": "เพื่อไทย",
+      "votes": 5311
+    },
+    {
+      "number": 4,
+      "name": "นายยุทธนา โพธสุธน",
+      "party": "กล้าธรรม",
+      "votes": 2547
+    },
+    {
+      "number": 5,
+      "name": "นายวัฒนา ยั่งยืน",
+      "party": "โอกาสใหม่",
+      "votes": 1659
+    },
+    {
+      "number": 6,
+      "name": "นายสหรัฐ กุลศรี",
+      "party": "พลังประชารัฐ",
+      "votes": 1648
+    },
+    {
+      "number": 7,
+      "name": "ว่าที่ร้อยตำรวจโท ชินทัต อุบลแย้ม",
+      "party": "ประชาธิปัตย์",
+      "votes": 1556
+    },
+    {
+      "number": 8,
+      "name": "นายศรัณย์กร โชติวิชญทรรศน์",
+      "party": "เศรษฐกิจ",
+      "votes": 1254
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/67. สุพรรณบุรี เขต 4.json",
+  "_validation": {
+    "vote_sum": 90996,
+    "good_votes": 90996,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "72",
+  "province_name_normalized": "สุพรรณบุรี",
+  "summary": {
+    "eligible_voters": 137556,
+    "voters_came": 99626,
+    "ballots_received": 141338,
+    "ballots_used": 95428,
+    "good_votes": 90996,
+    "invalid_votes": 4733,
+    "no_votes": 3897
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายเสมอกัน เที่ยงธรรม",
+      "party": "ภูมิใจไทย",
+      "votes": 58049,
+      "candidate_uuid": "00fef0e0-0f17-4e1d-a525-49786b9519f8",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายภิญโญ สุนทรวิภาต",
+      "party": "ประชาชน",
+      "votes": 18972,
+      "candidate_uuid": "c43e5443-1b74-488f-b525-2f688e39dd68",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาววิรธิดา โกยชัย",
+      "party": "เพื่อไทย",
+      "votes": 5311,
+      "candidate_uuid": "f5ca8b4d-ddb6-4602-ba68-d3f662782c55",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายยุทธนา โพธสุธน",
+      "party": "กล้าธรรม",
+      "votes": 2547,
+      "candidate_uuid": "f737d675-8b9c-4eae-9eb6-a64f88e5af85",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายวัฒนา ยั่งยืน",
+      "party": "โอกาสใหม่",
+      "votes": 1659,
+      "candidate_uuid": "505d2968-4140-4653-909d-54c67752ad47",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายสหรัฐ กุลศรี",
+      "party": "พลังประชารัฐ",
+      "votes": 1648,
+      "candidate_uuid": "818058c6-6b64-4a22-a13f-904eed04d7c1",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "ว่าที่ร้อยตำรวจโท ชินทัต อุบลแย้ม",
+      "party": "ประชาธิปัตย์",
+      "votes": 1556,
+      "candidate_uuid": "c306c29f-d8ac-4c67-8060-c36decb2ade8",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายศรัณย์กร โชติวิชญทรรศน์",
+      "party": "เศรษฐกิจ",
+      "votes": 1254,
+      "candidate_uuid": "9febb070-6a0b-4405-9ddf-57f0bb5091a7",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,195 @@
+{
+  "province_name": "ลพบุรี",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 151712,
+    "1.2": 110263,
+    "2.1": 155926,
+    "2.2": 110263,
+    "2.3": 45663,
+    "3.1": 103458,
+    "3.2": 19,
+    "3.3": 6786,
+    "3.4": 110263,
+    "4.1": 100109,
+    "4.2": 3831,
+    "4.3": 6323
+  },
+  "results": [
+    {
+      "number": 8,
+      "name": "นายนรินทร์ คลังผา",
+      "party": "ภูมิใจไทย",
+      "votes": 38126
+    },
+    {
+      "number": 11,
+      "name": "นายสาธิต ทวีผล",
+      "party": "ประชาชน",
+      "votes": 25593
+    },
+    {
+      "number": 10,
+      "name": "พลโท สิทธิชัย คัตตะพันธ์",
+      "party": "โอกาสใหม่",
+      "votes": 15617
+    },
+    {
+      "number": 9,
+      "name": "นายอุบลศักดิ์ บัวหลวงงาม",
+      "party": "เพื่อไทย",
+      "votes": 9992
+    },
+    {
+      "number": 7,
+      "name": "นายประทวน สุทธิอำนวยเดช",
+      "party": "เศรษฐกิจ",
+      "votes": 2172
+    },
+    {
+      "number": 6,
+      "name": "นางปวีณา วัชราวรกุล",
+      "party": "กล้าธรรม",
+      "votes": 1842
+    },
+    {
+      "number": 3,
+      "name": "นายพิชัย เกียรติวินัยสกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 1666
+    },
+    {
+      "number": 2,
+      "name": "นายยุวภพ กระเป๋าทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1571
+    },
+    {
+      "number": 4,
+      "name": "นายเจตน์สฤษฎ์ ปัญญาอัศวนิรัญ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1498
+    },
+    {
+      "number": 1,
+      "name": "นางสาวศิริรัตน์ ฤกษ์พิชัย",
+      "party": "ไทยสร้างไทย",
+      "votes": 1379
+    },
+    {
+      "number": 5,
+      "name": "นางสาวภัทรฤทัย วรปัญญา",
+      "party": "ปวงชนไทย",
+      "votes": 653
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/52. ลพบุรี เขต 1.json",
+  "_validation": {
+    "vote_sum": 100109,
+    "good_votes": 100109,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "16",
+  "province_name_normalized": "ลพบุรี",
+  "summary": {
+    "eligible_voters": 151712,
+    "voters_came": 110263,
+    "ballots_received": 155926,
+    "ballots_used": 110263,
+    "good_votes": 100109,
+    "invalid_votes": 3831,
+    "no_votes": 6323
+  },
+  "matched_candidates": [
+    {
+      "number": 8,
+      "name": "นายนรินทร์ คลังผา",
+      "party": "ภูมิใจไทย",
+      "votes": 38126,
+      "candidate_uuid": "530e4d16-d062-42ec-99be-f31958cbc1bd",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายสาธิต ทวีผล",
+      "party": "ประชาชน",
+      "votes": 25593,
+      "candidate_uuid": "cda727c4-c00d-4967-8fc9-0e7a1aba11b7",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "พลโท สิทธิชัย คัตตะพันธ์",
+      "party": "โอกาสใหม่",
+      "votes": 15617,
+      "candidate_uuid": "10f54e69-ddf1-4805-9c5a-e2d627330338",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายอุบลศักดิ์ บัวหลวงงาม",
+      "party": "เพื่อไทย",
+      "votes": 9992,
+      "candidate_uuid": "7ce10359-61cf-43f6-91a8-688014fb430f",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายประทวน สุทธิอำนวยเดช",
+      "party": "เศรษฐกิจ",
+      "votes": 2172,
+      "candidate_uuid": "05bca47c-eed9-4844-b18a-39bebcf0d4b4",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางปวีณา วัชราวรกุล",
+      "party": "กล้าธรรม",
+      "votes": 1842,
+      "candidate_uuid": "b942a8d6-3066-467d-9b3f-268ec1b901be",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายพิชัย เกียรติวินัยสกุล",
+      "party": "พลังประชารัฐ",
+      "votes": 1666,
+      "candidate_uuid": "694638d6-feef-46c1-a6a4-9487509dd1c9",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายยุวภพ กระเป๋าทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 1571,
+      "candidate_uuid": "3b37e540-4b3a-4c2f-89e4-a1e0161737bb",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายเจตน์สฤษฎ์ ปัญญาอัศวนิรัญ",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 1498,
+      "candidate_uuid": "58dafeeb-20be-4c76-a997-9fbdbbde4dab",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวศิริรัตน์ ฤกษ์พิชัย",
+      "party": "ไทยสร้างไทย",
+      "votes": 1379,
+      "candidate_uuid": "2b8c8307-88a4-4c52-9498-0ff1b205f5ad",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวภัทรฤทัย วรปัญญา",
+      "party": "ปวงชนไทย",
+      "votes": 653,
+      "candidate_uuid": "b49af795-5e81-479d-ae77-d4e4d9ed4aef",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

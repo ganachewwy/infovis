@@ -1,0 +1,195 @@
+{
+  "province_name": "มหาสารคาม",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 132454,
+    "1.2": 84701,
+    "2.1": 130380,
+    "2.2": 84701,
+    "2.3": 45679,
+    "3.1": 79588,
+    "3.2": 9,
+    "3.3": 5104,
+    "3.4": 84701,
+    "4.1": 77618,
+    "4.2": 3056,
+    "4.3": 4027
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายจิรวัฒน์ ศิริพานิชย์",
+      "party": "เพื่อไทย",
+      "votes": 36149
+    },
+    {
+      "number": 6,
+      "name": "นายปรัตธนกรณ์ โยธาราช",
+      "party": "ประชาชน",
+      "votes": 19302
+    },
+    {
+      "number": 2,
+      "name": "นางสาวพัชราศิณี ศิริโกมุท",
+      "party": "เศรษฐกิจ",
+      "votes": 6125
+    },
+    {
+      "number": 3,
+      "name": "นายโกศล คาดพันโน",
+      "party": "พลังประชารัฐ",
+      "votes": 4627
+    },
+    {
+      "number": 4,
+      "name": "ผู้ช่วยศาสตราจารย์ อวยชัย วะทา",
+      "party": "ภูมิใจไทย",
+      "votes": 3545
+    },
+    {
+      "number": 9,
+      "name": "นายเศรษฐวัฒน์ ศิริโกมุท",
+      "party": "ไทยพร้อม",
+      "votes": 2565
+    },
+    {
+      "number": 7,
+      "name": "นายคำดี แสงไพร",
+      "party": "กล้าธรรม",
+      "votes": 2185
+    },
+    {
+      "number": 8,
+      "name": "นางสาววิภาวี ลืออุติกุลวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 930
+    },
+    {
+      "number": 11,
+      "name": "นายกิตติ รัตนแสง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 864
+    },
+    {
+      "number": 5,
+      "name": "นายประภาส เนื่องแก้ว",
+      "party": "ไทยก้าวใหม่",
+      "votes": 739
+    },
+    {
+      "number": 10,
+      "name": "นางสุภาพร ทองเจริญ",
+      "party": "ทางเลือกใหม่",
+      "votes": 587
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/43. มหาสารคาม เขต 5.json",
+  "_validation": {
+    "vote_sum": 77618,
+    "good_votes": 77618,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "44",
+  "province_name_normalized": "มหาสารคาม",
+  "summary": {
+    "eligible_voters": 132454,
+    "voters_came": 84701,
+    "ballots_received": 130380,
+    "ballots_used": 84701,
+    "good_votes": 77618,
+    "invalid_votes": 3056,
+    "no_votes": 4027
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายจิรวัฒน์ ศิริพานิชย์",
+      "party": "เพื่อไทย",
+      "votes": 36149,
+      "candidate_uuid": "8901bccb-f065-437b-9696-aa2347a883d1",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายปรัตธนกรณ์ โยธาราช",
+      "party": "ประชาชน",
+      "votes": 19302,
+      "candidate_uuid": "ed0fd744-7dbb-4b26-987e-283f77b3c1ad",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวพัชราศิณี ศิริโกมุท",
+      "party": "เศรษฐกิจ",
+      "votes": 6125,
+      "candidate_uuid": "0b1f7a1c-3434-4177-aac9-5409cd7711db",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายโกศล คาดพันโน",
+      "party": "พลังประชารัฐ",
+      "votes": 4627,
+      "candidate_uuid": "cc794020-2c6f-47fc-95ba-d6ca3e77bb4f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "ผู้ช่วยศาสตราจารย์ อวยชัย วะทา",
+      "party": "ภูมิใจไทย",
+      "votes": 3545,
+      "candidate_uuid": "466ca717-b478-4c6f-928a-141f5a00ef37",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายเศรษฐวัฒน์ ศิริโกมุท",
+      "party": "ไทยพร้อม",
+      "votes": 2565,
+      "candidate_uuid": "82ebbd8c-3733-4d9e-a0ae-808bab379f24",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายคำดี แสงไพร",
+      "party": "กล้าธรรม",
+      "votes": 2185,
+      "candidate_uuid": "b89f3b06-ff53-4000-b975-dfd64b697111",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นางสาววิภาวี ลืออุติกุลวงศ์",
+      "party": "ประชาธิปัตย์",
+      "votes": 930,
+      "candidate_uuid": "138ca5ee-aa10-4d31-a3f9-05ad11a82407",
+      "is_active": true
+    },
+    {
+      "number": 11,
+      "name": "นายกิตติ รัตนแสง",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 864,
+      "candidate_uuid": "64131825-6a78-4601-92b1-3c61f5bfd51f",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายประภาส เนื่องแก้ว",
+      "party": "ไทยก้าวใหม่",
+      "votes": 739,
+      "candidate_uuid": "ce94513f-1b6d-47b0-b73b-3de15492e693",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางสุภาพร ทองเจริญ",
+      "party": "ทางเลือกใหม่",
+      "votes": 587,
+      "candidate_uuid": "0c04ce37-6d70-4626-816a-8c9b6ae4174d",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

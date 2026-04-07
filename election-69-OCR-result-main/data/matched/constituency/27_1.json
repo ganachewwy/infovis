@@ -1,0 +1,167 @@
+{
+  "province_name": "สระแก้ว",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 147502,
+    "1.2": 97584,
+    "2.1": 149485,
+    "2.2": 97584,
+    "2.3": 51901,
+    "3.1": 92859,
+    "3.2": 2,
+    "3.3": 4723,
+    "3.4": 97584,
+    "4.1": 89613,
+    "4.2": 3764,
+    "4.3": 4207
+  },
+  "results": [
+    {
+      "number": 5,
+      "name": "นายบดี เทียนทอง",
+      "party": "พลังประชารัฐ",
+      "votes": 56083
+    },
+    {
+      "number": 6,
+      "name": "พันตำรวจเอก เอกอนันต์ หูแก้ว",
+      "party": "ประชาชน",
+      "votes": 19172
+    },
+    {
+      "number": 7,
+      "name": "นายชาญ สุคนธ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 2999
+    },
+    {
+      "number": 4,
+      "name": "นายจำเนียร ผดุงฉัตร",
+      "party": "ภูมิใจไทย",
+      "votes": 2751
+    },
+    {
+      "number": 8,
+      "name": "นายอภิวัฒน์ จันแปรน",
+      "party": "ประชาธิปัตย์",
+      "votes": 2661
+    },
+    {
+      "number": 3,
+      "name": "นางขวัญแก้ว เอี่ยมศิลป์",
+      "party": "เพื่อไทย",
+      "votes": 2510
+    },
+    {
+      "number": 9,
+      "name": "นายพิชิตชัย พาชาติ",
+      "party": "เศรษฐกิจ",
+      "votes": 2489
+    },
+    {
+      "number": 2,
+      "name": "นายวานิช ลูกเงาะ",
+      "party": "กล้าธรรม",
+      "votes": 731
+    },
+    {
+      "number": 1,
+      "name": "นางสาวบุญญภา ผูกธรรม",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 217
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/63. สระแก้ว เขต 1.json",
+  "_validation": {
+    "vote_sum": 89613,
+    "good_votes": 89613,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "27",
+  "province_name_normalized": "สระแก้ว",
+  "summary": {
+    "eligible_voters": 147502,
+    "voters_came": 97584,
+    "ballots_received": 149485,
+    "ballots_used": 97584,
+    "good_votes": 89613,
+    "invalid_votes": 3764,
+    "no_votes": 4207
+  },
+  "matched_candidates": [
+    {
+      "number": 5,
+      "name": "นายบดี เทียนทอง",
+      "party": "พลังประชารัฐ",
+      "votes": 56083,
+      "candidate_uuid": "8471b027-fefd-471c-9790-345f312ba060",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "พันตำรวจเอก เอกอนันต์ หูแก้ว",
+      "party": "ประชาชน",
+      "votes": 19172,
+      "candidate_uuid": "d1110ade-4320-442b-83e0-89e36535143e",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายชาญ สุคนธ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 2999,
+      "candidate_uuid": "647041ce-7794-48d0-ae03-f0b9c2b7028f",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายจำเนียร ผดุงฉัตร",
+      "party": "ภูมิใจไทย",
+      "votes": 2751,
+      "candidate_uuid": "0bfb5807-dd22-4469-8bba-6abe6ee1585f",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอภิวัฒน์ จันแปรน",
+      "party": "ประชาธิปัตย์",
+      "votes": 2661,
+      "candidate_uuid": "92ac2d51-9f63-4932-a7ce-0d0fc1d9a1af",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางขวัญแก้ว เอี่ยมศิลป์",
+      "party": "เพื่อไทย",
+      "votes": 2510,
+      "candidate_uuid": "600292d9-694a-477f-b512-0588578f4f7a",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายพิชิตชัย พาชาติ",
+      "party": "เศรษฐกิจ",
+      "votes": 2489,
+      "candidate_uuid": "86c7f8f0-ca9b-48ef-aec3-e8687b26c9c3",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายวานิช ลูกเงาะ",
+      "party": "กล้าธรรม",
+      "votes": 731,
+      "candidate_uuid": "7d988890-8947-415e-a536-d6ae967020e5",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสาวบุญญภา ผูกธรรม",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 217,
+      "candidate_uuid": "7b76a590-98ef-4218-a85e-f2a39d5f7da1",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

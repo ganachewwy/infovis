@@ -1,0 +1,167 @@
+{
+  "province_name": "หนองบัวลำภู",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 133308,
+    "1.2": 82630,
+    "2.1": 132840,
+    "2.2": 82630,
+    "2.3": 50210,
+    "3.1": 77930,
+    "3.2": 0,
+    "3.3": 4700,
+    "3.4": 82630,
+    "4.1": 77865,
+    "4.2": 2915,
+    "4.3": 1850
+  },
+  "results": [
+    {
+      "number": 2,
+      "name": "นายพรณรงค์ นิลนะมะ",
+      "party": "กล้าธรรม",
+      "votes": 26322
+    },
+    {
+      "number": 1,
+      "name": "นายอาณัติ ชินทะวัน",
+      "party": "ภูมิใจไทย",
+      "votes": 23670
+    },
+    {
+      "number": 3,
+      "name": "นางสาวธนกนกอร แสนคำ",
+      "party": "ประชาชน",
+      "votes": 12279
+    },
+    {
+      "number": 4,
+      "name": "นายณพล เชยคำแหง",
+      "party": "เพื่อไทย",
+      "votes": 11265
+    },
+    {
+      "number": 5,
+      "name": "นางสาวประภาลักษณ์ สิทธิ",
+      "party": "ไทยสร้างไทย",
+      "votes": 2078
+    },
+    {
+      "number": 6,
+      "name": "นางสาวขวัญหทัย ชุมแวงวาปี",
+      "party": "เศรษฐกิจ",
+      "votes": 1383
+    },
+    {
+      "number": 7,
+      "name": "นางสาวณภัทธิรา โชติโอฬารกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 486
+    },
+    {
+      "number": 8,
+      "name": "นายอานนท์ ทองนาม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 224
+    },
+    {
+      "number": 9,
+      "name": "นายชาคริต กุลวงศ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 158
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/71. หนองบัวลำภู เขต 3.json",
+  "_validation": {
+    "vote_sum": 77865,
+    "good_votes": 77865,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "39",
+  "province_name_normalized": "หนองบัวลำภู",
+  "summary": {
+    "eligible_voters": 133308,
+    "voters_came": 82630,
+    "ballots_received": 132840,
+    "ballots_used": 82630,
+    "good_votes": 77865,
+    "invalid_votes": 2915,
+    "no_votes": 1850
+  },
+  "matched_candidates": [
+    {
+      "number": 2,
+      "name": "นายพรณรงค์ นิลนะมะ",
+      "party": "กล้าธรรม",
+      "votes": 26322,
+      "candidate_uuid": "e5c5ded5-18ac-4cab-9956-1921f6b460f3",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นายอาณัติ ชินทะวัน",
+      "party": "ภูมิใจไทย",
+      "votes": 23670,
+      "candidate_uuid": "00afbad0-1f9e-4c8e-b9f8-49e5ddbfdeaa",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นางสาวธนกนกอร แสนคำ",
+      "party": "ประชาชน",
+      "votes": 12279,
+      "candidate_uuid": "d7a60985-dede-49bf-8822-9aaac3fc931c",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายณพล เชยคำแหง",
+      "party": "เพื่อไทย",
+      "votes": 11265,
+      "candidate_uuid": "c7821f35-be88-4178-bef6-4617a610d6bd",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นางสาวประภาลักษณ์ สิทธิ",
+      "party": "ไทยสร้างไทย",
+      "votes": 2078,
+      "candidate_uuid": "797e27da-b9bd-45af-8344-7692c93a7796",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวขวัญหทัย ชุมแวงวาปี",
+      "party": "เศรษฐกิจ",
+      "votes": 1383,
+      "candidate_uuid": "899b89fc-0b7c-413b-bed9-d7e9ba86ceac",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นางสาวณภัทธิรา โชติโอฬารกุล",
+      "party": "ประชาธิปัตย์",
+      "votes": 486,
+      "candidate_uuid": "aff113e0-fda1-4520-b09a-7381b9f2127c",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายอานนท์ ทองนาม",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 224,
+      "candidate_uuid": "b7036245-6593-42e5-8ebf-814f87fe78ad",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายชาคริต กุลวงศ์",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 158,
+      "candidate_uuid": "c53194ee-d4a5-4443-bd21-24b3fb07bf46",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

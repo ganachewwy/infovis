@@ -1,0 +1,181 @@
+{
+  "province_name": "อุดรธานี",
+  "constituency_number": 5,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 123472,
+    "1.2": 73659,
+    "2.1": 125445,
+    "2.2": 73659,
+    "2.3": 51786,
+    "3.1": 69552,
+    "3.2": 2,
+    "3.3": 4105,
+    "3.4": 73659,
+    "4.1": 69548,
+    "4.2": 2386,
+    "4.3": 1725
+  },
+  "results": [
+    {
+      "number": 3,
+      "name": "นางบัวเงิน รอดขันเมือง",
+      "party": "ภูมิใจไทย",
+      "votes": 28475
+    },
+    {
+      "number": 2,
+      "name": "นายกรวีร์ สาราคำ",
+      "party": "เพื่อไทย",
+      "votes": 20246
+    },
+    {
+      "number": 4,
+      "name": "นายชัยฤทธิ์ เขาวงศ์ทอง",
+      "party": "ประชาชน",
+      "votes": 15354
+    },
+    {
+      "number": 9,
+      "name": "นางสาวนำโชค งามสง่า",
+      "party": "เศรษฐกิจ",
+      "votes": 2225
+    },
+    {
+      "number": 1,
+      "name": "พันโทศรีสวัสดิ์ ดวงพรม",
+      "party": "กล้าธรรรม",
+      "votes": 1598
+    },
+    {
+      "number": 6,
+      "name": "นางราณี นิวงศ์ษา",
+      "party": "ประชาธิปัตย์",
+      "votes": 562
+    },
+    {
+      "number": 5,
+      "name": "นายองอาจ วิเศษ",
+      "party": "พลังประชารัฐ",
+      "votes": 436
+    },
+    {
+      "number": 8,
+      "name": "นายหนูพิศ สีดามาตย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 296
+    },
+    {
+      "number": 7,
+      "name": "นายชนะพล อำนาจเจริญ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 195
+    },
+    {
+      "number": 10,
+      "name": "นางดารุณี วงศ์คำพระ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 161
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/74. อุดรธานี เขต 5.json",
+  "_validation": {
+    "vote_sum": 69548,
+    "good_votes": 69548,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "41",
+  "province_name_normalized": "อุดรธานี",
+  "summary": {
+    "eligible_voters": 123472,
+    "voters_came": 73659,
+    "ballots_received": 125445,
+    "ballots_used": 73659,
+    "good_votes": 69548,
+    "invalid_votes": 2386,
+    "no_votes": 1725
+  },
+  "matched_candidates": [
+    {
+      "number": 3,
+      "name": "นางบัวเงิน รอดขันเมือง",
+      "party": "ภูมิใจไทย",
+      "votes": 28475,
+      "candidate_uuid": "5681c814-5a3f-4e0f-91d0-fbb2e1fe7091",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายกรวีร์ สาราคำ",
+      "party": "เพื่อไทย",
+      "votes": 20246,
+      "candidate_uuid": "d78a7e5d-a8a5-43e1-b2fd-a625c3d97bcf",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายชัยฤทธิ์ เขาวงศ์ทอง",
+      "party": "ประชาชน",
+      "votes": 15354,
+      "candidate_uuid": "0747a77f-10f0-49a9-bfe1-25ff46b5d810",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นางสาวนำโชค งามสง่า",
+      "party": "เศรษฐกิจ",
+      "votes": 2225,
+      "candidate_uuid": "d48c0052-9f73-4f83-9857-00d6b1b4ec65",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "พันโทศรีสวัสดิ์ ดวงพรม",
+      "party": "กล้าธรรรม",
+      "votes": 1598,
+      "candidate_uuid": "a820cfeb-5da4-4e32-91c6-cd6958887b74",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางราณี นิวงศ์ษา",
+      "party": "ประชาธิปัตย์",
+      "votes": 562,
+      "candidate_uuid": "1e842fdb-c348-4f68-a6f3-43ab85d9f930",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายองอาจ วิเศษ",
+      "party": "พลังประชารัฐ",
+      "votes": 436,
+      "candidate_uuid": "068eded6-8e7e-4fcf-8bdf-4bf01f1c6ce1",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายหนูพิศ สีดามาตย์",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 296,
+      "candidate_uuid": "49ddde4f-dada-41c9-9466-e88bd36672c9",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายชนะพล อำนาจเจริญ",
+      "party": "ไทยก้าวใหม่",
+      "votes": 195,
+      "candidate_uuid": "569db07f-96fb-4191-a58e-9ab1ed54d339",
+      "is_active": true
+    },
+    {
+      "number": 10,
+      "name": "นางดารุณี วงศ์คำพระ",
+      "party": "เพื่อบ้านเมือง",
+      "votes": 161,
+      "candidate_uuid": "55ecabb4-cb64-4dfd-94a9-fede2ff3c517",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

@@ -1,0 +1,153 @@
+{
+  "province_name": "พัทลุง",
+  "constituency_number": 1,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 134471,
+    "1.2": 113867,
+    "2.1": 136155,
+    "2.2": 113867,
+    "2.3": 22288,
+    "3.1": 105144,
+    "3.2": 48,
+    "3.3": 8675,
+    "3.4": 113867,
+    "4.1": 108788,
+    "4.2": 2001,
+    "4.3": 3078
+  },
+  "results": [
+    {
+      "number": 4,
+      "name": "นาวาอากาศเอกอธิคุณ คงมี",
+      "party": "ภูมิใจไทย",
+      "votes": 42209
+    },
+    {
+      "number": 1,
+      "name": "นางสุพัชรี ธรรมเพชร",
+      "party": "กล้าธรรม",
+      "votes": 39873
+    },
+    {
+      "number": 2,
+      "name": "นางสาวฉัตรธิษณ์ชา เหตุทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 15029
+    },
+    {
+      "number": 5,
+      "name": "นายกิตติวุฒิ สัมพันธ์สกุล",
+      "party": "ประชาชน",
+      "votes": 10141
+    },
+    {
+      "number": 6,
+      "name": "นางสาวนรากาญจน์ บุญนวล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 589
+    },
+    {
+      "number": 3,
+      "name": "นายกู้ชาติ ชายเกตุ",
+      "party": "เพื่อไทย",
+      "votes": 536
+    },
+    {
+      "number": 7,
+      "name": "นายศุภนัฐ สำอางค์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 217
+    },
+    {
+      "number": 8,
+      "name": "นายภรท ชุมช่วย",
+      "party": "เศรษฐกิจ",
+      "votes": 194
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/36. พัทลุง เขต 1.json",
+  "_validation": {
+    "vote_sum": 108788,
+    "good_votes": 108788,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "93",
+  "province_name_normalized": "พัทลุง",
+  "summary": {
+    "eligible_voters": 134471,
+    "voters_came": 113867,
+    "ballots_received": 136155,
+    "ballots_used": 113867,
+    "good_votes": 108788,
+    "invalid_votes": 2001,
+    "no_votes": 3078
+  },
+  "matched_candidates": [
+    {
+      "number": 4,
+      "name": "นาวาอากาศเอกอธิคุณ คงมี",
+      "party": "ภูมิใจไทย",
+      "votes": 42209,
+      "candidate_uuid": "7e1d0ac9-7f85-44a2-adb9-4a245ec89413",
+      "is_active": true
+    },
+    {
+      "number": 1,
+      "name": "นางสุพัชรี ธรรมเพชร",
+      "party": "กล้าธรรม",
+      "votes": 39873,
+      "candidate_uuid": "f4592112-a057-4053-9dfb-bd97db510ffb",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นางสาวฉัตรธิษณ์ชา เหตุทอง",
+      "party": "ประชาธิปัตย์",
+      "votes": 15029,
+      "candidate_uuid": "1ed0b157-17be-4268-9c4a-ec2c4eb86b30",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายกิตติวุฒิ สัมพันธ์สกุล",
+      "party": "ประชาชน",
+      "votes": 10141,
+      "candidate_uuid": "ca3309e7-eac8-40de-8672-43603b6516a0",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นางสาวนรากาญจน์ บุญนวล",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 589,
+      "candidate_uuid": "621759cb-2ec1-4a7c-9279-05e499bfe378",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายกู้ชาติ ชายเกตุ",
+      "party": "เพื่อไทย",
+      "votes": 536,
+      "candidate_uuid": "9fc715a4-4c93-4270-a262-117e3fd60e1e",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายศุภนัฐ สำอางค์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 217,
+      "candidate_uuid": "5ce54acf-aba3-452a-aea9-0aa40310fdd7",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายภรท ชุมช่วย",
+      "party": "เศรษฐกิจ",
+      "votes": 194,
+      "candidate_uuid": "5d866298-59b5-4edf-9d76-5f96a938f849",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}

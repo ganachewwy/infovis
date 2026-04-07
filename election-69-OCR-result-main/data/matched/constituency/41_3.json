@@ -1,0 +1,167 @@
+{
+  "province_name": "อุดรธานี",
+  "constituency_number": 3,
+  "type": "constituency",
+  "summary_by_section": {
+    "1.1": 125833,
+    "1.2": 79803,
+    "2.1": 127200,
+    "2.2": 79803,
+    "2.3": 47397,
+    "3.1": 75606,
+    "3.2": 0,
+    "3.3": 4196,
+    "3.4": 79802,
+    "4.1": 75808,
+    "4.2": 2548,
+    "4.3": 1446
+  },
+  "results": [
+    {
+      "number": 1,
+      "name": "นายหรั่ง ธุระพล",
+      "party": "ภูมิใจไทย",
+      "votes": 33013
+    },
+    {
+      "number": 2,
+      "name": "นายสมัคร บุญปก",
+      "party": "เพื่อไทย",
+      "votes": 27342
+    },
+    {
+      "number": 3,
+      "name": "นายอริยะฤทธิ์ สุสุวรรณสิริ",
+      "party": "ประชาชน",
+      "votes": 12181
+    },
+    {
+      "number": 9,
+      "name": "นายสาคร ปราบพาล",
+      "party": "พลังประชารัฐ",
+      "votes": 1594
+    },
+    {
+      "number": 8,
+      "name": "นายสตราลิน จอมประมาณ",
+      "party": "เศรษฐกิจ",
+      "votes": 627
+    },
+    {
+      "number": 4,
+      "name": "นายวรวุฒิ วรสาร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 369
+    },
+    {
+      "number": 6,
+      "name": "นายเกียรติศักดิ์ บัวเกตุ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 245
+    },
+    {
+      "number": 5,
+      "name": "นายชานนท์ นาคประวิต",
+      "party": "ประชาธิปัตย์",
+      "votes": 219
+    },
+    {
+      "number": 7,
+      "name": "นายจารุวัธน์ เพ็ญสวัสดิ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 218
+    }
+  ],
+  "_source_file": "/Users/killernay/Desktop/ERS2026/data/ocr-output-gemini/constituency/74. อุดรธานี เขต 3.json",
+  "_validation": {
+    "vote_sum": 75808,
+    "good_votes": 75808,
+    "sum_diff_pct": 0.0
+  },
+  "province_code": "41",
+  "province_name_normalized": "อุดรธานี",
+  "summary": {
+    "eligible_voters": 125833,
+    "voters_came": 79803,
+    "ballots_received": 127200,
+    "ballots_used": 79803,
+    "good_votes": 75808,
+    "invalid_votes": 2548,
+    "no_votes": 1446
+  },
+  "matched_candidates": [
+    {
+      "number": 1,
+      "name": "นายหรั่ง ธุระพล",
+      "party": "ภูมิใจไทย",
+      "votes": 33013,
+      "candidate_uuid": "c2435d3b-7245-4c52-b9c2-fb5f5ee1732e",
+      "is_active": true
+    },
+    {
+      "number": 2,
+      "name": "นายสมัคร บุญปก",
+      "party": "เพื่อไทย",
+      "votes": 27342,
+      "candidate_uuid": "45978512-42ab-4193-b25e-ae2abefd7486",
+      "is_active": true
+    },
+    {
+      "number": 3,
+      "name": "นายอริยะฤทธิ์ สุสุวรรณสิริ",
+      "party": "ประชาชน",
+      "votes": 12181,
+      "candidate_uuid": "4b33e16b-c916-4ce3-811c-eaad354fb398",
+      "is_active": true
+    },
+    {
+      "number": 9,
+      "name": "นายสาคร ปราบพาล",
+      "party": "พลังประชารัฐ",
+      "votes": 1594,
+      "candidate_uuid": "fcf94f56-bf36-4b22-b164-be5d261d1fe4",
+      "is_active": true
+    },
+    {
+      "number": 8,
+      "name": "นายสตราลิน จอมประมาณ",
+      "party": "เศรษฐกิจ",
+      "votes": 627,
+      "candidate_uuid": "d2255d6b-59ea-48f4-b22e-d831e72d53cc",
+      "is_active": true
+    },
+    {
+      "number": 4,
+      "name": "นายวรวุฒิ วรสาร",
+      "party": "รวมไทยสร้างชาติ",
+      "votes": 369,
+      "candidate_uuid": "426e8c40-858b-4381-bcc5-c9246bf32556",
+      "is_active": true
+    },
+    {
+      "number": 6,
+      "name": "นายเกียรติศักดิ์ บัวเกตุ",
+      "party": "ประชาธิปไตยใหม่",
+      "votes": 245,
+      "candidate_uuid": "c7813cc1-9bc3-4111-8237-34efc28f95c5",
+      "is_active": true
+    },
+    {
+      "number": 5,
+      "name": "นายชานนท์ นาคประวิต",
+      "party": "ประชาธิปัตย์",
+      "votes": 219,
+      "candidate_uuid": "760bc9b2-6f75-4b26-8408-82c6cceaacc9",
+      "is_active": true
+    },
+    {
+      "number": 7,
+      "name": "นายจารุวัธน์ เพ็ญสวัสดิ์",
+      "party": "ไทยก้าวใหม่",
+      "votes": 218,
+      "candidate_uuid": "947a1c81-4b39-459c-9576-80958ef7ccbf",
+      "is_active": true
+    }
+  ],
+  "unmatched_candidates": []
+}
