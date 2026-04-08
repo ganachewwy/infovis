@@ -284,6 +284,21 @@ function App() {
     setRightPanelView('overview');
   };
 
+  const handleTabChange = (tab) => {
+    setActiveTab(tab);
+    if (tab === 'analysis') {
+      setRightPanelView('analysis');
+    } else {
+      if (selectedDistrict) {
+        setRightPanelView('district');
+      } else if (selectedProvince) {
+        setRightPanelView('province');
+      } else {
+        setRightPanelView('overview');
+      }
+    }
+  };
+
   const fmt = (n) => parseInt(n || 0).toLocaleString();
 
   // Compute sheet translateY for inline style (live drag feel)
@@ -370,15 +385,15 @@ function App() {
           <div className="flex items-center min-w-max px-2 md:px-0 md:justify-center md:w-full space-x-1 md:space-x-8">
             <button
               className={`font-semibold py-3 md:py-4 px-3 md:px-2 whitespace-nowrap transition-colors text-sm md:text-base touch-manipulation ${activeTab === 'constituency' ? 'text-white border-b-2 border-orange-500' : 'text-gray-500 hover:text-gray-300'}`}
-              onClick={() => { setActiveTab('constituency'); setRightPanelView('overview'); }}
+              onClick={() => handleTabChange('constituency')}
             >Constituency MP</button>
             <button
               className={`font-semibold py-3 md:py-4 px-3 md:px-2 whitespace-nowrap transition-colors text-sm md:text-base touch-manipulation ${activeTab === 'partylist' ? 'text-white border-b-2 border-orange-500' : 'text-gray-500 hover:text-gray-300'}`}
-              onClick={() => { setActiveTab('partylist'); setRightPanelView('overview'); }}
+              onClick={() => handleTabChange('partylist')}
             >Party-List</button>
             <button
               className={`font-semibold py-3 md:py-4 px-3 md:px-2 whitespace-nowrap transition-colors text-sm md:text-base touch-manipulation ${activeTab === 'analysis' ? 'text-white border-b-2 border-orange-500' : 'text-gray-500 hover:text-gray-300'}`}
-              onClick={() => { setActiveTab('analysis'); setRightPanelView('analysis'); }}
+              onClick={() => handleTabChange('analysis')}
             >Party Analysis</button>
           </div>
         </div>
