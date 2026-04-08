@@ -1,8 +1,9 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useRef, useCallback } from 'react';
 import Papa from 'papaparse';
 import { Search, Map, ChevronRight, ChevronLeft, Menu, Share2, PlayCircle, Globe, Hexagon, Users, TrendingUp, BarChart3, Trophy, ChevronDown, ChevronUp, X, AlertCircle } from 'lucide-react';
 import HexMap from './HexMap';
 import { usePartyAnalysis, PartySelector, PerformanceDashboard } from './PartyAnalysisView';
+import VoteShareDonut from './VoteShareDonut';
 
 export const REGION_MAP = {
   'กรุงเทพมหานคร': 'กรุงเทพฯ',
@@ -29,6 +30,11 @@ function App() {
   const [selectedAnalysisParty, setSelectedAnalysisParty] = useState(null);
   const [rightPanelView, setRightPanelView] = useState('overview'); 
   const [isPartySidebarOpen, setIsPartySidebarOpen] = useState(false);
+  // Mobile bottom sheet: 'minimized' | 'peek' | 'full'
+  const [sheetState, setSheetState] = useState('minimized');
+  const sheetDragRef = useRef({ startY: 0, startState: 'minimized', dragging: false });
+  const sheetRef = useRef(null);
+  const [sheetDragOffset, setSheetDragOffset] = useState(0);
 
   useEffect(() => {
     Promise.all([
@@ -208,16 +214,58 @@ function App() {
     }
   }, [partyListAggregated, selectedAnalysisParty]);
 
+  // ── Mobile Bottom Sheet touch handlers ─────────────────────────────────
+  const SNAP = { minimized: 0, peek: 1, full: 2 };
+  const SNAP_HEIGHTS = { minimized: 80, peek: 0.42, full: 0.9 }; // px or fraction of vh
+
+  const getSheetTranslate = useCallback((state, offset = 0) => {
+    const vh = window.innerHeight;
+    const heights = { minimized: 80, peek: vh * 0.42, full: vh * 0.9 };
+    const h = heights[state] || 80;
+    const base = vh - h;
+    return Math.max(0, base - offset);
+  }, []);
+
+  const onSheetTouchStart = useCallback((e) => {
+    sheetDragRef.current = { startY: e.touches[0].clientY, startState: sheetState, dragging: true };
+    setSheetDragOffset(0);
+  }, [sheetState]);
+
+  const onSheetTouchMove = useCallback((e) => {
+    if (!sheetDragRef.current.dragging) return;
+    const dy = sheetDragRef.current.startY - e.touches[0].clientY; // positive = dragging up
+    setSheetDragOffset(dy);
+  }, []);
+
+  const onSheetTouchEnd = useCallback(() => {
+    if (!sheetDragRef.current.dragging) return;
+    sheetDragRef.current.dragging = false;
+    const dy = sheetDragOffset;
+    const cur = sheetDragRef.current.startState;
+    // Threshold: 60px drag to change state
+    if (dy > 60) {
+      // swipe up → expand
+      setSheetState(cur === 'minimized' ? 'peek' : 'full');
+    } else if (dy < -60) {
+      // swipe down → collapse
+      setSheetState(cur === 'full' ? 'peek' : 'minimized');
+    }
+    setSheetDragOffset(0);
+  }, [sheetDragOffset]);
+  // ─────────────────────────────────────────────────────────────────────────
+
   const handleTileClick = (province, district) => {
     if (district) {
       setSelectedDistrict({ province, district: String(district) });
       setSelectedProvince(province);
       setRightPanelView('district');
+      setSheetState('full'); // auto-expand on mobile when district is tapped
     } else {
       setSelectedProvince(province);
       setSelectedDistrict(null);
       setRightPanelView('province');
       if (REGION_MAP[province] && selectedRegion !== 'ทั่วประเทศ') { setSelectedRegion(REGION_MAP[province]); }
+      setSheetState('peek');
     }
     setSearchQuery('');
     setSelectedKeyArea(null);
@@ -238,10 +286,20 @@ function App() {
 
   const fmt = (n) => parseInt(n || 0).toLocaleString();
 
+  // Compute sheet translateY for inline style (live drag feel)
+  const sheetTranslateY = (() => {
+    const vh = typeof window !== 'undefined' ? window.innerHeight : 800;
+    const heights = { minimized: 80, peek: vh * 0.42, full: vh * 0.9 };
+    const h = heights[sheetState] || 80;
+    const base = vh - h;
+    const raw = base - sheetDragOffset;
+    return Math.max(0, Math.min(vh - 80, raw));
+  })();
+
   return (
     <div className="flex h-screen bg-[#1c1c1e] text-white font-sans overflow-hidden">
-      {/* ===== LEFT SIDEBAR ===== */}
-      <div className="w-80 border-r border-[#333] bg-[#222225] flex flex-col p-6 shadow-2xl z-10 relative">
+      {/* ===== LEFT SIDEBAR – desktop only ===== */}
+      <div className="hidden md:flex w-80 border-r border-[#333] bg-[#222225] flex-col p-6 shadow-2xl z-10 relative">
         <div className="mb-5">
           <p className="text-gray-400 text-xs tracking-wider uppercase mb-1">#Deciding Thailand's Future</p>
           <h1 className="text-4xl font-black text-orange-500 mb-2 tracking-tighter">THAI ELECTION 2026</h1>
@@ -308,19 +366,21 @@ function App() {
 
       {/* ===== CENTER MAP ===== */}
       <div className="flex-1 flex flex-col bg-[#1a1a1c] relative overflow-hidden">
-        <div className="h-14 flex items-center justify-center space-x-8 border-b border-[#333] bg-[#1a1a1c]/80 backdrop-blur-md relative z-10">
-          <button
-            className={`font-semibold py-4 px-2 whitespace-nowrap transition-colors ${activeTab === 'constituency' ? 'text-white border-b-2 border-orange-500' : 'text-gray-500 hover:text-gray-300'}`}
-            onClick={() => { setActiveTab('constituency'); setRightPanelView('overview'); }}
-          >Constituency MP</button>
-          <button
-            className={`font-semibold py-4 px-2 whitespace-nowrap transition-colors ${activeTab === 'partylist' ? 'text-white border-b-2 border-orange-500' : 'text-gray-500 hover:text-gray-300'}`}
-            onClick={() => { setActiveTab('partylist'); setRightPanelView('overview'); }}
-          >Party-List Votes</button>
-          <button
-            className={`font-semibold py-4 px-2 whitespace-nowrap transition-colors ${activeTab === 'analysis' ? 'text-white border-b-2 border-orange-500' : 'text-gray-500 hover:text-gray-300'}`}
-            onClick={() => { setActiveTab('analysis'); setRightPanelView('analysis'); }}
-          >Party Analysis</button>
+        <div className="h-12 md:h-14 flex items-center border-b border-[#333] bg-[#1a1a1c]/80 backdrop-blur-md relative z-10 overflow-x-auto no-scrollbar">
+          <div className="flex items-center min-w-max px-2 md:px-0 md:justify-center md:w-full space-x-1 md:space-x-8">
+            <button
+              className={`font-semibold py-3 md:py-4 px-3 md:px-2 whitespace-nowrap transition-colors text-sm md:text-base touch-manipulation ${activeTab === 'constituency' ? 'text-white border-b-2 border-orange-500' : 'text-gray-500 hover:text-gray-300'}`}
+              onClick={() => { setActiveTab('constituency'); setRightPanelView('overview'); }}
+            >Constituency MP</button>
+            <button
+              className={`font-semibold py-3 md:py-4 px-3 md:px-2 whitespace-nowrap transition-colors text-sm md:text-base touch-manipulation ${activeTab === 'partylist' ? 'text-white border-b-2 border-orange-500' : 'text-gray-500 hover:text-gray-300'}`}
+              onClick={() => { setActiveTab('partylist'); setRightPanelView('overview'); }}
+            >Party-List</button>
+            <button
+              className={`font-semibold py-3 md:py-4 px-3 md:px-2 whitespace-nowrap transition-colors text-sm md:text-base touch-manipulation ${activeTab === 'analysis' ? 'text-white border-b-2 border-orange-500' : 'text-gray-500 hover:text-gray-300'}`}
+              onClick={() => { setActiveTab('analysis'); setRightPanelView('analysis'); }}
+            >Party Analysis</button>
+          </div>
         </div>
 
         <div className="flex-1 relative z-10">
@@ -394,8 +454,8 @@ function App() {
         </div>
       </div>
 
-      {/* ===== RIGHT PANEL ===== */}
-      <div className="w-[420px] bg-[#222225] border-l border-[#333] flex flex-col shadow-[-10px_0_20px_rgba(0,0,0,0.2)] z-10">
+      {/* ===== RIGHT PANEL – desktop only ===== */}
+      <div className="hidden md:flex w-[420px] bg-[#222225] border-l border-[#333] flex-col shadow-[-10px_0_20px_rgba(0,0,0,0.2)] z-10">
         <div className="p-5 border-b border-[#333]">
           <h2 className="text-lg font-bold text-yellow-500 mb-3 tracking-wide">Returns by districts</h2>
           <div className="relative">
@@ -493,6 +553,17 @@ function App() {
                           <p className="text-[9px] text-gray-500 uppercase font-black mb-1">Valid Votes</p>
                           <p className="text-base font-black text-white">{fmt(totalValid)}</p>
                         </div>
+                      </div>
+                    </div>
+
+                    <div className="px-5 py-6 bg-[#1a1a1c]/50">
+                      <h4 className="text-[10px] text-gray-500 uppercase tracking-widest font-black mb-4">Vote Share Breakdown</h4>
+                      <div className="bg-[#2a2a2d] rounded-2xl border border-[#333] shadow-inner flex justify-center items-center p-4">
+                        <VoteShareDonut 
+                          candidates={selectedCandidates} 
+                          totalValid={totalValid} 
+                          getPartyColor={getPartyColor} 
+                        />
                       </div>
                     </div>
 
@@ -707,6 +778,238 @@ function App() {
               <p className="text-sm font-medium">Select a province on the map<br />to see details</p>
             </div>
           )}
+        </div>
+      </div>
+
+      {/* ===== MOBILE BOTTOM SHEET ===== */}
+      <div
+        ref={sheetRef}
+        className="md:hidden fixed inset-x-0 bottom-0 z-50 flex flex-col"
+        style={{
+          height: '100dvh',
+          transform: `translateY(${sheetTranslateY}px)`,
+          transition: sheetDragRef.current?.dragging ? 'none' : 'transform 0.3s cubic-bezier(0.32,0.72,0,1)',
+          willChange: 'transform',
+        }}
+      >
+        {/* Drag handle + summary bar */}
+        <div
+          className="flex-shrink-0 bg-[#222225] border-t border-[#333] rounded-t-2xl shadow-2xl"
+          onTouchStart={onSheetTouchStart}
+          onTouchMove={onSheetTouchMove}
+          onTouchEnd={onSheetTouchEnd}
+          style={{ touchAction: 'none' }}
+        >
+          {/* Handle pill */}
+          <div className="flex justify-center pt-3 pb-1">
+            <div className="w-10 h-1 bg-[#555] rounded-full" />
+          </div>
+          {/* Mini Summary Bar */}
+          <div className="flex items-center justify-between px-4 pb-3">
+            <div className="flex items-center space-x-3">
+              <span className="text-orange-500 font-black text-sm">THAI ELECTION 2026</span>
+              {summaryData.length > 0 && (
+                <span className="text-xs text-gray-400">{turnoutStats.total}% Turnout</span>
+              )}
+            </div>
+            <div className="flex items-center space-x-2">
+              {sheetState !== 'minimized' && (
+                <button
+                  onClick={() => setSheetState('minimized')}
+                  className="p-2 rounded-full bg-white/5 touch-manipulation"
+                ><X size={14} /></button>
+              )}
+              <button
+                onClick={() => setSheetState(sheetState === 'minimized' ? 'peek' : sheetState === 'peek' ? 'full' : 'minimized')}
+                className="p-2 rounded-full bg-white/5 touch-manipulation"
+              >{sheetState === 'full' ? <ChevronDown size={16} /> : <ChevronUp size={16} />}</button>
+            </div>
+          </div>
+        </div>
+
+        {/* Sheet scrollable content */}
+        <div className="flex-1 bg-[#222225] overflow-y-auto">
+          {/* Left sidebar content: region selector + stats */}
+          <div className="px-4 pt-4 pb-2 border-b border-[#333]">
+            <div className="grid grid-cols-3 gap-2 mb-3">
+              <div className="col-span-3 bg-[#2a2a2d] rounded-lg p-3 border border-[#333] flex items-center justify-between">
+                <p className="text-[10px] text-gray-400 uppercase tracking-widest">Valid Votes</p>
+                <p className="text-lg font-black text-white">{totalVotesCount.toLocaleString()}</p>
+              </div>
+              <div className="bg-[#2a2a2d] rounded-lg p-2.5 border border-[#333]">
+                <p className="text-[9px] text-gray-400 uppercase mb-0.5">Turnout</p>
+                <p className="text-sm font-bold text-white">{turnoutStats.total}%</p>
+              </div>
+              <div className="col-span-2 bg-[#2a2a2d] rounded-lg p-2.5 border border-[#333]">
+                <p className="text-[9px] text-gray-400 uppercase mb-0.5">Invalid</p>
+                <p className="text-sm font-bold text-white">{turnoutStats.totalInvalidVotes.toLocaleString()}</p>
+              </div>
+            </div>
+            {/* Region chips – scrollable row */}
+            <div className="flex gap-1.5 overflow-x-auto no-scrollbar pb-1">
+              {[{ name: 'ทั่วประเทศ', count: 400 }, { name: 'กรุงเทพฯ', count: 33 }, { name: 'กลาง', count: 76 }, { name: 'ตะวันออก', count: 29 }, { name: 'เหนือ', count: 70 }, { name: 'อีสาน', count: 133 }, { name: 'ใต้', count: 59 }].map(r => (
+                <button
+                  key={r.name}
+                  onClick={() => { setSelectedRegion(r.name); setSelectedProvince(null); setSelectedDistrict(null); setRightPanelView('overview'); setSheetState('minimized'); }}
+                  className={`flex-shrink-0 flex flex-col items-center px-3 py-1.5 rounded-lg border text-xs font-bold touch-manipulation whitespace-nowrap ${selectedRegion === r.name ? 'bg-orange-500/20 text-orange-400 border-orange-500/30' : 'text-gray-400 border-[#333] bg-[#2a2a2d]'}`}
+                >{r.name}</button>
+              ))}
+            </div>
+          </div>
+
+          {/* Key Areas */}
+          <div className="px-4 py-3 border-b border-[#333] flex gap-2">
+            <button
+              className={`flex-1 border px-2 py-2 rounded-lg text-xs font-bold touch-manipulation ${selectedKeyArea === 'landslide' ? 'bg-blue-500/30 text-blue-400 border-blue-400' : 'bg-blue-500/10 text-blue-500 border-blue-500/20'}`}
+              onClick={() => { setActiveTab('constituency'); setSelectedKeyArea(selectedKeyArea === 'landslide' ? null : 'landslide'); }}
+            >💪 Landslide ({powerHouses.length})</button>
+            <button
+              className={`flex-1 border px-2 py-2 rounded-lg text-xs font-bold touch-manipulation ${selectedKeyArea === 'hot' ? 'bg-red-500/30 text-red-400 border-red-400' : 'bg-red-500/10 text-red-500 border-red-500/20'}`}
+              onClick={() => { setActiveTab('constituency'); setSelectedKeyArea(selectedKeyArea === 'hot' ? null : 'hot'); }}
+            >🔥 Hot Area ({hotAreas.length})</button>
+          </div>
+
+          {/* Right panel content: party seats */}
+          {!selectedDistrict && (
+            <div className="px-4 py-3 border-b border-[#333]">
+              <h3 className="text-gray-400 text-[10px] uppercase tracking-widest font-bold mb-2">
+                {activeTab === 'constituency' ? 'Constituency MP Seats' : 'Party-List Seats'}
+              </h3>
+              <div className="space-y-1.5">
+                {activeTab === 'constituency'
+                  ? sortedParties.slice(0, 8).map(([party, seats]) => (
+                    <div key={party} className={`flex justify-between items-center p-2 rounded-lg cursor-pointer touch-manipulation ${selectedParty === party ? 'bg-white/10' : 'hover:bg-white/5'}`} onClick={() => setSelectedParty(selectedParty === party ? null : party)}>
+                      <div className="flex items-center space-x-2">
+                        <div className="w-2.5 h-2.5 rounded-sm" style={{ backgroundColor: getPartyColor(party) }} />
+                        <span className="text-xs font-medium text-gray-200">{party}</span>
+                      </div>
+                      <span className="text-xs font-bold">{seats} <span className="text-gray-500">seats</span></span>
+                    </div>
+                  ))
+                  : partyListSeats.slice(0, 8).map((r) => (
+                    <div key={r.party} className={`flex justify-between items-center p-2 rounded-lg cursor-pointer touch-manipulation ${selectedParty === r.party ? 'bg-white/10' : 'hover:bg-white/5'}`} onClick={() => setSelectedParty(selectedParty === r.party ? null : r.party)}>
+                      <div className="flex items-center space-x-2">
+                        <div className="w-2.5 h-2.5 rounded-sm" style={{ backgroundColor: getPartyColor(r.party) }} />
+                        <span className="text-xs font-medium text-gray-200 truncate max-w-[140px]">{r.party}</span>
+                      </div>
+                      <span className="text-xs font-bold">{r.seats} <span className="text-gray-500">seats</span></span>
+                    </div>
+                  ))
+                }
+              </div>
+            </div>
+          )}
+
+          {/* Province list / District detail */}
+          {rightPanelView === 'province' && selectedProvince && !selectedDistrict && (
+            <div>
+              <div className="px-4 py-3 bg-blue-500/10 border-b border-blue-500/20 flex items-center justify-between">
+                <div>
+                  <button onClick={() => { clearSelection(); setSheetState('peek'); }} className="text-xs text-gray-400 flex items-center space-x-1 mb-1"><ChevronLeft size={12} /><span>กลับ</span></button>
+                  <h3 className="font-bold text-base text-blue-400">{selectedProvince}</h3>
+                </div>
+                <span className="text-xs text-gray-400">{selectedProvinceDistricts.length} เขต</span>
+              </div>
+              {selectedProvinceDistricts.map((d, i) => {
+                const distNum = d['เขต']?.toString().match(/\d+/)?.[0] || (i + 1);
+                const winnerVotes = parseInt(d['คะแนน']) || 0;
+                const totalValid = parseInt(d['คะแนนดี']) || 0;
+                const margin = totalValid > 0 ? ((winnerVotes / totalValid) * 100).toFixed(1) : '0';
+                return (
+                  <div key={i} className="p-4 border-b border-[#333] hover:bg-[#2a2a2d] cursor-pointer touch-manipulation" onClick={() => { handleTileClick(selectedProvince, distNum); }}>
+                    <div className="flex justify-between items-center mb-1">
+                      <h4 className="font-bold text-white text-sm">เขต {distNum}</h4>
+                      <span className={`text-xs font-semibold px-1.5 py-0.5 rounded ${parseFloat(margin) < 40 ? 'bg-red-500/20 text-red-400' : parseFloat(margin) > 55 ? 'bg-blue-500/20 text-blue-400' : 'bg-yellow-500/20 text-yellow-400'}`}>{margin}%</span>
+                    </div>
+                    <div className="flex items-center space-x-2">
+                      <div className="w-2 h-2 rounded-full" style={{ backgroundColor: getPartyColor(d['พรรค']) }} />
+                      <span className="text-xs text-gray-300 truncate">{d['ผู้ชนะ']}</span>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          )}
+
+          {/* District detail on mobile */}
+          {rightPanelView === 'district' && selectedDistrict && activeTab === 'constituency' && (() => {
+            const distData = summaryData.find(d => d['จังหวัด'] === selectedDistrict.province && String(d['เขต']) === selectedDistrict.district);
+            if (!distData) return null;
+            const eligible = parseInt(distData['ผู้มีสิทธิ']) || 0;
+            const voted = parseInt(distData['มาใช้สิทธิ']) || 0;
+            const turnout = eligible > 0 ? ((voted / eligible) * 100).toFixed(1) : '0';
+            const totalValid = parseInt(distData['คะแนนดี']) || 0;
+            const winnerVotes = parseInt(distData['คะแนน']) || 0;
+            const margin = totalValid > 0 ? ((winnerVotes / totalValid) * 100).toFixed(1) : '0';
+            return (
+              <div>
+                <div className="px-4 py-4 bg-gradient-to-b from-orange-500/20 to-transparent border-b border-orange-500/10">
+                  <div className="flex items-center justify-between mb-3">
+                    <button onClick={() => { setSelectedDistrict(null); setRightPanelView('province'); setSheetState('peek'); }} className="text-xs text-gray-400 flex items-center space-x-1 touch-manipulation"><ChevronLeft size={12} /><span>กลับ</span></button>
+                    <button onClick={() => { clearSelection(); setSheetState('minimized'); }} className="p-1 touch-manipulation"><X size={16} /></button>
+                  </div>
+                  <p className="text-[10px] text-orange-500 font-black uppercase tracking-widest">{selectedDistrict.province}</p>
+                  <h3 className="font-black text-2xl text-white">เขตเลือกตั้งที่ {selectedDistrict.district}</h3>
+                  <div className="grid grid-cols-3 gap-2 mt-4">
+                    <div className="bg-white/5 rounded-xl p-2 text-center">
+                      <p className="text-[9px] text-gray-500 uppercase font-black mb-1">Turnout</p>
+                      <p className="text-sm font-black text-green-400">{turnout}%</p>
+                    </div>
+                    <div className="bg-white/5 rounded-xl p-2 text-center">
+                      <p className="text-[9px] text-gray-500 uppercase font-black mb-1">Winner %</p>
+                      <p className={`text-sm font-black ${parseFloat(margin) < 40 ? 'text-red-400' : parseFloat(margin) > 55 ? 'text-blue-400' : 'text-yellow-400'}`}>{margin}%</p>
+                    </div>
+                    <div className="bg-white/5 rounded-xl p-2 text-center">
+                      <p className="text-[9px] text-gray-500 uppercase font-black mb-1">Valid</p>
+                      <p className="text-sm font-black text-white">{fmt(totalValid)}</p>
+                    </div>
+                  </div>
+                </div>
+                <div className="px-4 py-4">
+                  <h4 className="text-[10px] text-gray-500 uppercase tracking-widest font-black mb-3">All Candidates</h4>
+                  <div className="space-y-2">
+                    {selectedCandidates.map((c, i) => {
+                      const votes = parseInt(c['คะแนน']) || 0;
+                      const pct = totalValid > 0 ? ((votes / totalValid) * 100).toFixed(1) : '0';
+                      const isWinner = i === 0;
+                      return (
+                        <div key={i} className={`p-3 rounded-xl border ${isWinner ? 'bg-orange-500/10 border-orange-500/30' : 'bg-[#1e1e20] border-[#333]'}`}>
+                          <div className="flex items-center justify-between">
+                            <div className="flex-1 min-w-0">
+                              <p className="text-xs font-black truncate text-white">{c['ชื่อผู้สมัคร']}</p>
+                              <p className="text-[10px] font-bold mt-0.5" style={{ color: getPartyColor(c['พรรค']) }}>{c['พรรค']}</p>
+                            </div>
+                            <div className="text-right ml-3">
+                              <p className={`text-sm font-black ${isWinner ? 'text-orange-400' : 'text-blue-400'}`}>{pct}%</p>
+                              <p className="text-[10px] text-gray-500">{fmt(votes)}</p>
+                            </div>
+                          </div>
+                          <div className="h-1 bg-black/20 rounded-full overflow-hidden mt-2">
+                            <div className="h-full rounded-full" style={{ width: `${pct}%`, backgroundColor: getPartyColor(c['พรรค']) }} />
+                          </div>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </div>
+              </div>
+            );
+          })()}
+
+          {/* Search on mobile */}
+          <div className="px-4 py-3">
+            <div className="relative">
+              <input type="text" placeholder="ค้นหาจังหวัด..." value={searchQuery} onChange={e => setSearchQuery(e.target.value)} className="w-full bg-[#1a1a1c] border border-[#444] text-white rounded-lg pl-9 pr-4 py-2.5 focus:outline-none focus:border-orange-500 transition-colors placeholder-gray-600 text-sm" />
+              <Search className="absolute left-3 top-3 text-gray-500" size={14} />
+              {filteredProvinces.length > 0 && searchQuery.trim() && (
+                <div className="absolute top-full left-0 right-0 mt-1 bg-[#2a2a2d] border border-[#444] rounded-lg shadow-2xl z-50 max-h-48 overflow-y-auto">
+                  {filteredProvinces.map(prov => (
+                    <button key={prov} onClick={() => { handleSearchSelect(prov); setSheetState('peek'); }} className="w-full text-left px-4 py-2.5 text-sm hover:bg-orange-500/20 hover:text-orange-400 transition-colors border-b border-[#333] last:border-b-0 touch-manipulation">{prov}</button>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
         </div>
       </div>
     </div>

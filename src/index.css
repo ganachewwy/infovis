@@ -10,3 +10,23 @@ body {
   background-color: #1a1a1a;
   color: white;
 }
+
+/* Hide scrollbars (for horizontally scrollable tabs / region chips) */
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Prevent callout / text selection on interactive elements on mobile */
+button, [role="button"] {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+/* Bottom sheet safe-area padding for devices with home indicators */
+.sheet-safe {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}

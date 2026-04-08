@@ -433,24 +433,26 @@ const HexMap = ({ data, colors, searchQuery, selectedProvince, selectedParty, ho
 
    return (
       <div ref={containerRef} className="w-full h-full relative" style={{ backgroundImage: 'linear-gradient(#ffffff0a 1px, transparent 1px), linear-gradient(90deg, #ffffff0a 1px, transparent 1px)', backgroundSize: '40px 40px' }}>
-         <svg ref={svgRef} className="w-full h-full"></svg>
+         {/* touch-none prevents native scroll so D3 pinch-to-zoom / pan works */}
+         <svg ref={svgRef} className="w-full h-full" style={{ touchAction: 'none' }}></svg>
 
-         <div className="absolute top-6 left-6 flex flex-col bg-[#222225]/90 backdrop-blur-md rounded-xl border border-[#333] shadow-2xl z-40 overflow-hidden select-none">
+         {/* Controls: top-left on desktop, bottom-right on mobile (above bottom sheet) */}
+         <div className="absolute top-6 left-6 md:top-6 md:left-6 max-md:top-auto max-md:bottom-24 max-md:left-auto max-md:right-4 flex flex-col bg-[#222225]/90 backdrop-blur-md rounded-xl border border-[#333] shadow-2xl z-40 overflow-hidden select-none">
             <button
                onClick={() => zoomRef.current && d3.select(svgRef.current).transition().duration(400).call(zoomRef.current.scaleBy, 1.4)}
-               className="w-10 h-10 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 transition-all rounded-t-xl" title="Zoom In">
+               className="w-11 h-11 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 transition-all rounded-t-xl touch-manipulation" title="Zoom In">
                <Plus size={18} />
             </button>
             <div className="h-px bg-[#333] mx-2"></div>
             <button
                onClick={() => zoomRef.current && initialTransformRef.current && d3.select(svgRef.current).transition().duration(800).ease(d3.easeCubicInOut).call(zoomRef.current.transform, initialTransformRef.current)}
-               className="w-10 h-10 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 transition-all" title="Reset Map">
+               className="w-11 h-11 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 transition-all touch-manipulation" title="Reset Map">
                <RotateCcw size={16} />
             </button>
             <div className="h-px bg-[#333] mx-2"></div>
             <button
                onClick={() => zoomRef.current && d3.select(svgRef.current).transition().duration(400).call(zoomRef.current.scaleBy, 0.7)}
-               className="w-10 h-10 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 transition-all rounded-b-xl" title="Zoom Out">
+               className="w-11 h-11 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 transition-all rounded-b-xl touch-manipulation" title="Zoom Out">
                <Minus size={18} />
             </button>
          </div>
